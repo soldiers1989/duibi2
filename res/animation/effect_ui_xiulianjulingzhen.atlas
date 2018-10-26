@@ -1,0 +1,104 @@
+
+effect_ui_xiulianjulingzhen.png
+size: 347,447
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai
+  rotate: true
+  xy: 2, 253
+  size: 192, 341
+  orig: 192, 341
+  offset: 0, 0
+  index: -1
+baibai
+  rotate: true
+  xy: 2, 2
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+guangzhu
+  rotate: true
+  xy: 156, 4
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+hei
+  rotate: true
+  xy: 2, 59
+  size: 192, 341
+  orig: 192, 341
+  offset: 0, 0
+  index: -1
+qian
+  rotate: true
+  xy: 2, 26
+  size: 31, 209
+  orig: 31, 209
+  offset: 0, 0
+  index: -1
+shan_01
+  rotate: false
+  xy: 324, 18
+  size: 21, 39
+  orig: 31, 56
+  offset: 5, 4
+  index: -1
+shan_02
+  rotate: true
+  xy: 282, 9
+  size: 21, 39
+  orig: 31, 56
+  offset: 5, 4
+  index: -1
+xishou_01
+  rotate: false
+  xy: 282, 32
+  size: 40, 25
+  orig: 55, 45
+  offset: 8, 9
+  index: -1
+xishou_02
+  rotate: false
+  xy: 42, 2
+  size: 37, 22
+  orig: 55, 45
+  offset: 9, 11
+  index: -1
+xishou_03
+  rotate: false
+  xy: 81, 2
+  size: 37, 22
+  orig: 55, 45
+  offset: 9, 12
+  index: -1
+xishou_04
+  rotate: false
+  xy: 120, 6
+  size: 34, 18
+  orig: 55, 45
+  offset: 10, 13
+  index: -1
+xishou_05
+  rotate: false
+  xy: 191, 12
+  size: 23, 12
+  orig: 55, 45
+  offset: 15, 16
+  index: -1
+xishou_06
+  rotate: false
+  xy: 216, 14
+  size: 17, 10
+  orig: 55, 45
+  offset: 19, 17
+  index: -1
+zi
+  rotate: true
+  xy: 213, 26
+  size: 31, 67
+  orig: 31, 67
+  offset: 0, 0
+  index: -1

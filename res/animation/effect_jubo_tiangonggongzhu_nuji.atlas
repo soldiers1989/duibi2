@@ -1,0 +1,167 @@
+
+effect_jubo_tiangonggongzhu_nuji.png
+size: 1984,307
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: false
+  xy: 1888, 73
+  size: 82, 82
+  orig: 118, 186
+  offset: 18, 2
+  index: -1
+bao_02
+  rotate: true
+  xy: 1614, 13
+  size: 118, 167
+  orig: 118, 186
+  offset: 0, 0
+  index: -1
+bao_03
+  rotate: false
+  xy: 1368, 124
+  size: 118, 181
+  orig: 118, 186
+  offset: 0, 1
+  index: -1
+bao_04
+  rotate: false
+  xy: 1251, 121
+  size: 115, 184
+  orig: 118, 186
+  offset: 1, 2
+  index: -1
+bao_05
+  rotate: true
+  xy: 1251, 6
+  size: 113, 182
+  orig: 118, 186
+  offset: 2, 4
+  index: -1
+bao_06
+  rotate: true
+  xy: 1435, 15
+  size: 107, 177
+  orig: 118, 186
+  offset: 5, 9
+  index: -1
+bao_07
+  rotate: false
+  xy: 1609, 133
+  size: 107, 172
+  orig: 118, 186
+  offset: 5, 11
+  index: -1
+bao_08
+  rotate: false
+  xy: 1718, 144
+  size: 105, 161
+  orig: 118, 186
+  offset: 6, 15
+  index: -1
+bao_09
+  rotate: true
+  xy: 1083, 7
+  size: 104, 162
+  orig: 118, 186
+  offset: 6, 8
+  index: -1
+bao_10
+  rotate: true
+  xy: 1825, 202
+  size: 103, 157
+  orig: 118, 186
+  offset: 7, 2
+  index: -1
+baoqi
+  rotate: false
+  xy: 1083, 113
+  size: 166, 192
+  orig: 166, 192
+  offset: 0, 0
+  index: -1
+chuxian_01
+  rotate: false
+  xy: 1825, 157
+  size: 130, 43
+  orig: 280, 205
+  offset: 73, 116
+  index: -1
+chuxian_02
+  rotate: false
+  xy: 875, 2
+  size: 173, 59
+  orig: 280, 205
+  offset: 51, 101
+  index: -1
+chuxian_03
+  rotate: true
+  xy: 875, 63
+  size: 242, 99
+  orig: 280, 205
+  offset: 18, 102
+  index: -1
+chuxian_04
+  rotate: true
+  xy: 303, 30
+  size: 275, 121
+  orig: 280, 205
+  offset: 1, 84
+  index: -1
+chuxian_05
+  rotate: true
+  xy: 542, 38
+  size: 267, 126
+  orig: 280, 205
+  offset: 6, 79
+  index: -1
+chuxian_06
+  rotate: true
+  xy: 670, 40
+  size: 265, 203
+  orig: 280, 205
+  offset: 5, 0
+  index: -1
+chuxian_07
+  rotate: true
+  xy: 147, 29
+  size: 276, 154
+  orig: 280, 205
+  offset: 0, 50
+  index: -1
+chuxian_08
+  rotate: true
+  xy: 2, 26
+  size: 279, 143
+  orig: 280, 205
+  offset: 0, 62
+  index: -1
+chuxian_09
+  rotate: true
+  xy: 426, 30
+  size: 275, 114
+  orig: 280, 205
+  offset: 5, 89
+  index: -1
+neiquan
+  rotate: true
+  xy: 1783, 9
+  size: 133, 103
+  orig: 134, 104
+  offset: 1, 0
+  index: -1
+shitou
+  rotate: false
+  xy: 976, 99
+  size: 105, 206
+  orig: 105, 208
+  offset: 0, 0
+  index: -1
+waiquan
+  rotate: true
+  xy: 1488, 130
+  size: 175, 119
+  orig: 175, 119
+  offset: 0, 0
+  index: -1

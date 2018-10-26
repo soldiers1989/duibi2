@@ -1,0 +1,258 @@
+
+hero_kuileishouwei.png
+size: 1078,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest_01
+  rotate: false
+  xy: 2, 76
+  size: 139, 197
+  orig: 142, 207
+  offset: 3, 10
+  index: -1
+chest_02
+  rotate: false
+  xy: 594, 108
+  size: 152, 165
+  orig: 152, 165
+  offset: 0, 0
+  index: -1
+chest_03
+  rotate: false
+  xy: 244, 6
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 846, 180
+  size: 93, 76
+  orig: 93, 76
+  offset: 0, 0
+  index: -1
+head_01
+  rotate: false
+  xy: 99, 12
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+head_02
+  rotate: true
+  xy: 905, 4
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 357, 27
+  size: 122, 64
+  orig: 122, 64
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: false
+  xy: 244, 46
+  size: 95, 39
+  orig: 96, 39
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: false
+  xy: 997, 25
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: true
+  xy: 988, 195
+  size: 78, 83
+  orig: 78, 83
+  offset: 0, 0
+  index: -1
+l_elbow01
+  rotate: true
+  xy: 988, 139
+  size: 54, 83
+  orig: 54, 83
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: true
+  xy: 847, 59
+  size: 66, 80
+  orig: 66, 80
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: false
+  xy: 748, 110
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+l_shoulder_01
+  rotate: true
+  xy: 846, 127
+  size: 51, 86
+  orig: 51, 86
+  offset: 0, 0
+  index: -1
+l_shoulder_02
+  rotate: true
+  xy: 934, 55
+  size: 82, 61
+  orig: 82, 61
+  offset: 0, 0
+  index: -1
+l_shoulder_03
+  rotate: true
+  xy: 279, 6
+  size: 38, 35
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+l_shoulder_04
+  rotate: false
+  xy: 847, 3
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+r_elbow
+  rotate: true
+  xy: 594, 5
+  size: 101, 132
+  orig: 101, 132
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 748, 160
+  size: 96, 113
+  orig: 96, 113
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: false
+  xy: 951, 6
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+r_shoulder_01
+  rotate: false
+  xy: 728, 9
+  size: 117, 97
+  orig: 117, 97
+  offset: 0, 0
+  index: -1
+r_shoulder_02
+  rotate: true
+  xy: 2, 13
+  size: 61, 95
+  orig: 61, 95
+  offset: 0, 0
+  index: -1
+r_shoulder_03
+  rotate: true
+  xy: 997, 62
+  size: 75, 79
+  orig: 75, 79
+  offset: 0, 0
+  index: -1
+ribbno_01
+  rotate: false
+  xy: 934, 145
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+ribbno_02
+  rotate: false
+  xy: 316, 11
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+ribbno_03
+  rotate: true
+  xy: 798, 127
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+ribbno_04
+  rotate: false
+  xy: 1029, 2
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+ribbno_05
+  rotate: false
+  xy: 341, 65
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+ribbno_06
+  rotate: true
+  xy: 997, 5
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+tx2
+  rotate: false
+  xy: 143, 6
+  size: 99, 79
+  orig: 99, 79
+  offset: 0, 0
+  index: -1
+tx3_1
+  rotate: true
+  xy: 924, 187
+  size: 86, 62
+  orig: 86, 62
+  offset: 0, 0
+  index: -1
+tx3_2
+  rotate: false
+  xy: 481, 9
+  size: 105, 92
+  orig: 105, 92
+  offset: 0, 0
+  index: -1
+tx3_3
+  rotate: false
+  xy: 478, 103
+  size: 114, 170
+  orig: 114, 170
+  offset: 0, 0
+  index: -1
+tx3_4
+  rotate: false
+  xy: 357, 93
+  size: 119, 180
+  orig: 119, 180
+  offset: 0, 0
+  index: -1
+tx3_5
+  rotate: false
+  xy: 143, 87
+  size: 118, 186
+  orig: 118, 186
+  offset: 0, 0
+  index: -1
+tx3_6
+  rotate: false
+  xy: 263, 92
+  size: 92, 181
+  orig: 92, 181
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+effect_ui_zadan.png
+size: 1094,167
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai
+  rotate: false
+  xy: 1011, 8
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+bao_01
+  rotate: false
+  xy: 2, 2
+  size: 180, 163
+  orig: 180, 163
+  offset: 0, 0
+  index: -1
+bao_02
+  rotate: false
+  xy: 184, 2
+  size: 180, 163
+  orig: 180, 163
+  offset: 0, 0
+  index: -1
+bao_03
+  rotate: false
+  xy: 730, 13
+  size: 173, 152
+  orig: 180, 163
+  offset: 7, 0
+  index: -1
+bao_04
+  rotate: false
+  xy: 366, 12
+  size: 180, 153
+  orig: 180, 163
+  offset: 0, 0
+  index: -1
+bao_05
+  rotate: false
+  xy: 548, 10
+  size: 180, 155
+  orig: 180, 163
+  offset: 0, 0
+  index: -1
+chuizi
+  rotate: false
+  xy: 905, 13
+  size: 60, 46
+  orig: 60, 46
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 905, 61
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+quanquan
+  rotate: false
+  xy: 1011, 84
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1

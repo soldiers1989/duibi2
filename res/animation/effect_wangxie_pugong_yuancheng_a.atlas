@@ -1,0 +1,90 @@
+
+effect_wangxie_pugong_yuancheng_a.png
+size: 742,290
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_wangxie_pugong_yuancheng_a_01
+  rotate: false
+  xy: 338, 24
+  size: 122, 110
+  orig: 132, 120
+  offset: 6, 2
+  index: -1
+effect_wangxie_pugong_yuancheng_a_02
+  rotate: true
+  xy: 629, 162
+  size: 126, 111
+  orig: 132, 120
+  offset: 3, 7
+  index: -1
+effect_wangxie_pugong_yuancheng_a_03
+  rotate: false
+  xy: 490, 44
+  size: 123, 111
+  orig: 132, 120
+  offset: 4, 5
+  index: -1
+effect_wangxie_pugong_yuancheng_a_04
+  rotate: false
+  xy: 2, 4
+  size: 112, 106
+  orig: 132, 120
+  offset: 6, 7
+  index: -1
+effect_wangxie_pugong_yuancheng_a_05
+  rotate: false
+  xy: 615, 43
+  size: 112, 112
+  orig: 132, 120
+  offset: 7, 0
+  index: -1
+effect_wangxie_pugong_yuancheng_a_06
+  rotate: false
+  xy: 116, 28
+  size: 82, 82
+  orig: 132, 120
+  offset: 28, 11
+  index: -1
+effect_wangxie_pugong_yuancheng_a_qiu
+  rotate: false
+  xy: 200, 2
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+xishou_01
+  rotate: false
+  xy: 2, 112
+  size: 170, 176
+  orig: 170, 176
+  offset: 0, 0
+  index: -1
+xishou_02
+  rotate: false
+  xy: 174, 122
+  size: 162, 166
+  orig: 170, 176
+  offset: 4, 4
+  index: -1
+xishou_03
+  rotate: false
+  xy: 338, 136
+  size: 150, 152
+  orig: 170, 176
+  offset: 10, 9
+  index: -1
+xishou_04
+  rotate: false
+  xy: 490, 157
+  size: 137, 131
+  orig: 170, 176
+  offset: 13, 11
+  index: -1
+xishou_05
+  rotate: false
+  xy: 200, 42
+  size: 71, 78
+  orig: 170, 176
+  offset: 48, 40
+  index: -1

@@ -1,0 +1,300 @@
+
+hero_wangxie_yaodi.png
+size: 1365,223
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 1069, 132
+  size: 79, 89
+  orig: 79, 90
+  offset: 0, 1
+  index: -1
+chest
+  rotate: false
+  xy: 861, 2
+  size: 67, 108
+  orig: 67, 108
+  offset: 0, 0
+  index: -1
+chest_01
+  rotate: false
+  xy: 2, 11
+  size: 298, 210
+  orig: 298, 210
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 556, 5
+  size: 216, 247
+  orig: 216, 247
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: true
+  xy: 302, 59
+  size: 33, 243
+  orig: 33, 244
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: false
+  xy: 1300, 135
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: false
+  xy: 805, 24
+  size: 54, 197
+  orig: 54, 199
+  offset: 0, 2
+  index: -1
+head
+  rotate: false
+  xy: 1150, 132
+  size: 79, 89
+  orig: 79, 90
+  offset: 0, 1
+  index: -1
+head_01
+  rotate: true
+  xy: 302, 22
+  size: 35, 96
+  orig: 35, 96
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: false
+  xy: 1159, 76
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: false
+  xy: 861, 112
+  size: 114, 109
+  orig: 116, 109
+  offset: 0, 0
+  index: -1
+l_calf
+  rotate: false
+  xy: 1231, 133
+  size: 67, 88
+  orig: 67, 88
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: true
+  xy: 1147, 2
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+l_foot
+  rotate: false
+  xy: 1324, 34
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 1287, 31
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: false
+  xy: 1047, 41
+  size: 53, 71
+  orig: 53, 71
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: true
+  xy: 1102, 16
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+l_shoulder_01
+  rotate: false
+  xy: 1300, 67
+  size: 63, 66
+  orig: 63, 66
+  offset: 0, 0
+  index: -1
+l_souzi_01
+  rotate: true
+  xy: 365, 2
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+l_souzi_02
+  rotate: true
+  xy: 1229, 65
+  size: 15, 56
+  orig: 15, 56
+  offset: 0, 0
+  index: -1
+l_souzi_03
+  rotate: true
+  xy: 1224, 82
+  size: 29, 58
+  orig: 29, 58
+  offset: 0, 0
+  index: -1
+l_souzi_04
+  rotate: true
+  xy: 930, 13
+  size: 16, 59
+  orig: 16, 59
+  offset: 0, 0
+  index: -1
+l_souzi_05
+  rotate: true
+  xy: 991, 2
+  size: 10, 35
+  orig: 10, 35
+  offset: 0, 0
+  index: -1
+pugong
+  rotate: false
+  xy: 302, 94
+  size: 252, 127
+  orig: 252, 127
+  offset: 0, 0
+  index: -1
+r_calf
+  rotate: false
+  xy: 977, 114
+  size: 90, 107
+  orig: 90, 107
+  offset: 0, 0
+  index: -1
+r_elbow
+  rotate: true
+  xy: 1287, 2
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: false
+  xy: 1321, 2
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 1197, 6
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+r_hand_01
+  rotate: true
+  xy: 1102, 40
+  size: 21, 63
+  orig: 21, 63
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: false
+  xy: 977, 35
+  size: 68, 77
+  orig: 68, 77
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: true
+  xy: 1052, 11
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+r_shoulder_01
+  rotate: true
+  xy: 400, 3
+  size: 54, 76
+  orig: 54, 77
+  offset: 0, 0
+  index: -1
+r_souzi_01
+  rotate: false
+  xy: 1166, 6
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+r_souzi_02
+  rotate: true
+  xy: 991, 14
+  size: 19, 59
+  orig: 19, 59
+  offset: 0, 0
+  index: -1
+r_souzi_022
+  rotate: false
+  xy: 930, 31
+  size: 45, 79
+  orig: 45, 79
+  offset: 0, 0
+  index: -1
+r_souzi_03
+  rotate: true
+  xy: 302, 8
+  size: 12, 61
+  orig: 12, 61
+  offset: 0, 0
+  index: -1
+r_souzi_04
+  rotate: true
+  xy: 1231, 113
+  size: 18, 59
+  orig: 18, 59
+  offset: 0, 0
+  index: -1
+r_souzi_05
+  rotate: true
+  xy: 1102, 2
+  size: 12, 36
+  orig: 12, 36
+  offset: 0, 0
+  index: -1
+weapon_01
+  rotate: false
+  xy: 1102, 63
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+weapon_01_1
+  rotate: true
+  xy: 1229, 21
+  size: 42, 56
+  orig: 55, 67
+  offset: 6, 6
+  index: -1
+weapon_02
+  rotate: true
+  xy: 478, 3
+  size: 54, 75
+  orig: 54, 75
+  offset: 0, 0
+  index: -1
+weapon_02_01
+  rotate: true
+  xy: 1167, 34
+  size: 40, 60
+  orig: 54, 75
+  offset: 7, 9
+  index: -1

@@ -1,0 +1,174 @@
+
+hero_jiuyouniao_boss.png
+size: 1571,427
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi
+  rotate: true
+  xy: 1160, 2
+  size: 59, 63
+  orig: 59, 85
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 731, 5
+  size: 77, 55
+  orig: 77, 55
+  offset: 0, 0
+  index: -1
+chest_01
+  rotate: false
+  xy: 648, 6
+  size: 81, 54
+  orig: 81, 54
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1392, 149
+  size: 81, 125
+  orig: 81, 125
+  offset: 0, 0
+  index: -1
+head(2)
+  rotate: false
+  xy: 1475, 149
+  size: 81, 125
+  orig: 81, 125
+  offset: 0, 0
+  index: -1
+hero_jiuyouniao
+  rotate: true
+  xy: 2, 7
+  size: 418, 644
+  orig: 466, 721
+  offset: 36, 65
+  index: -1
+hip
+  rotate: false
+  xy: 810, 26
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: true
+  xy: 1315, 98
+  size: 139, 75
+  orig: 139, 75
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: true
+  xy: 1392, 36
+  size: 111, 122
+  orig: 111, 122
+  offset: 0, 0
+  index: -1
+l_calf
+  rotate: true
+  xy: 810, 2
+  size: 22, 13
+  orig: 23, 14
+  offset: 1, 0
+  index: -1
+l_foot
+  rotate: false
+  xy: 1225, 2
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: false
+  xy: 1516, 74
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+l_wing
+  rotate: true
+  xy: 998, 36
+  size: 139, 160
+  orig: 144, 160
+  offset: 5, 0
+  index: -1
+r_calf
+  rotate: true
+  xy: 1284, 227
+  size: 10, 18
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: false
+  xy: 1225, 25
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: true
+  xy: 1516, 106
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+r_wing
+  rotate: false
+  xy: 998, 177
+  size: 157, 248
+  orig: 157, 248
+  offset: 0, 0
+  index: -1
+texiao
+  rotate: false
+  xy: 1315, 35
+  size: 61, 61
+  orig: 73, 61
+  offset: 4, 0
+  index: -1
+texiao_01
+  rotate: false
+  xy: 1157, 225
+  size: 125, 200
+  orig: 136, 212
+  offset: 5, 12
+  index: -1
+texiao_02
+  rotate: false
+  xy: 1284, 239
+  size: 98, 186
+  orig: 110, 197
+  offset: 3, 11
+  index: -1
+texiao_03
+  rotate: false
+  xy: 1558, 244
+  size: 11, 30
+  orig: 12, 30
+  offset: 1, 0
+  index: -1
+texiao_05
+  rotate: false
+  xy: 648, 62
+  size: 348, 363
+  orig: 348, 363
+  offset: 0, 0
+  index: -1
+texiao_06
+  rotate: false
+  xy: 1384, 276
+  size: 180, 149
+  orig: 189, 149
+  offset: 9, 0
+  index: -1
+texiao_07
+  rotate: false
+  xy: 1160, 63
+  size: 153, 160
+  orig: 154, 161
+  offset: 1, 0
+  index: -1

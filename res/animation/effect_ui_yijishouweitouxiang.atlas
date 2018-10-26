@@ -1,0 +1,97 @@
+
+effect_ui_yijishouweitouxiang.png
+size: 710,1075
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_huxu
+  rotate: false
+  xy: 430, 105
+  size: 138, 157
+  orig: 138, 157
+  offset: 0, 0
+  index: -1
+L_longxu
+  rotate: false
+  xy: 577, 560
+  size: 107, 513
+  orig: 107, 513
+  offset: 0, 0
+  index: -1
+L_meimao
+  rotate: true
+  xy: 336, 424
+  size: 108, 158
+  orig: 108, 158
+  offset: 0, 0
+  index: -1
+R_huxu
+  rotate: false
+  xy: 570, 132
+  size: 138, 157
+  orig: 138, 157
+  offset: 0, 0
+  index: -1
+R_longxu
+  rotate: false
+  xy: 2, 45
+  size: 108, 513
+  orig: 108, 513
+  offset: 0, 0
+  index: -1
+R_meimao
+  rotate: false
+  xy: 336, 264
+  size: 108, 158
+  orig: 108, 158
+  offset: 0, 0
+  index: -1
+longtou
+  rotate: true
+  xy: 2, 646
+  size: 427, 573
+  orig: 427, 573
+  offset: 0, 0
+  index: -1
+longtou_02
+  rotate: false
+  xy: 510, 291
+  size: 179, 267
+  orig: 179, 267
+  offset: 0, 0
+  index: -1
+texiao
+  rotate: true
+  xy: 112, 260
+  size: 272, 222
+  orig: 281, 242
+  offset: 9, 20
+  index: -1
+texiao_01
+  rotate: false
+  xy: 570, 9
+  size: 116, 121
+  orig: 116, 121
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: false
+  xy: 245, 22
+  size: 183, 236
+  orig: 183, 236
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 112, 2
+  size: 256, 131
+  orig: 280, 150
+  offset: 17, 8
+  index: -1
+yanjing_02
+  rotate: false
+  xy: 112, 534
+  size: 396, 110
+  orig: 494, 360
+  offset: 52, 126
+  index: -1

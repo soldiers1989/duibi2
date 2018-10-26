@@ -1,0 +1,174 @@
+
+effect_wangxie_linming.png
+size: 1935,589
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chufashan
+  rotate: true
+  xy: 1703, 245
+  size: 143, 186
+  orig: 143, 186
+  offset: 0, 0
+  index: -1
+fashe_01
+  rotate: false
+  xy: 1749, 44
+  size: 98, 101
+  orig: 220, 293
+  offset: 55, 191
+  index: -1
+fashe_02
+  rotate: true
+  xy: 1559, 5
+  size: 100, 188
+  orig: 220, 293
+  offset: 56, 103
+  index: -1
+fashe_03
+  rotate: false
+  xy: 1465, 76
+  size: 92, 242
+  orig: 220, 293
+  offset: 62, 50
+  index: -1
+fashe_04
+  rotate: false
+  xy: 1254, 306
+  size: 193, 281
+  orig: 220, 293
+  offset: 17, 11
+  index: -1
+fashe_05
+  rotate: false
+  xy: 2, 2
+  size: 208, 291
+  orig: 220, 293
+  offset: 9, 1
+  index: -1
+fashe_06
+  rotate: false
+  xy: 845, 6
+  size: 209, 289
+  orig: 220, 293
+  offset: 7, 2
+  index: -1
+fashe_07
+  rotate: false
+  xy: 635, 4
+  size: 208, 290
+  orig: 220, 293
+  offset: 11, 2
+  index: -1
+fashe_08
+  rotate: false
+  xy: 1056, 18
+  size: 209, 283
+  orig: 220, 293
+  offset: 11, 9
+  index: -1
+fashe_09
+  rotate: false
+  xy: 212, 296
+  size: 213, 291
+  orig: 220, 293
+  offset: 4, 0
+  index: -1
+fashe_10
+  rotate: false
+  xy: 2, 295
+  size: 208, 292
+  orig: 220, 293
+  offset: 5, 1
+  index: -1
+fashe_11
+  rotate: false
+  xy: 212, 3
+  size: 208, 291
+  orig: 220, 293
+  offset: 11, 1
+  index: -1
+fashe_12
+  rotate: false
+  xy: 1050, 303
+  size: 202, 284
+  orig: 220, 293
+  offset: 10, 7
+  index: -1
+fashe_13
+  rotate: false
+  xy: 422, 3
+  size: 211, 291
+  orig: 220, 293
+  offset: 6, 0
+  index: -1
+fashe_14
+  rotate: false
+  xy: 636, 297
+  size: 208, 290
+  orig: 220, 293
+  offset: 7, 2
+  index: -1
+fashe_15
+  rotate: false
+  xy: 427, 296
+  size: 207, 291
+  orig: 220, 293
+  offset: 11, 1
+  index: -1
+fashe_16
+  rotate: false
+  xy: 846, 302
+  size: 202, 285
+  orig: 220, 293
+  offset: 10, 7
+  index: -1
+fashe_17
+  rotate: false
+  xy: 1267, 24
+  size: 196, 280
+  orig: 220, 293
+  offset: 10, 5
+  index: -1
+fashe_18
+  rotate: false
+  xy: 1449, 320
+  size: 196, 267
+  orig: 220, 293
+  offset: 11, 3
+  index: -1
+fashe_19
+  rotate: false
+  xy: 1703, 147
+  size: 149, 96
+  orig: 220, 293
+  offset: 10, 5
+  index: -1
+fashe_20
+  rotate: true
+  xy: 1647, 323
+  size: 65, 45
+  orig: 220, 293
+  offset: 27, 10
+  index: -1
+tou_01
+  rotate: true
+  xy: 1791, 404
+  size: 183, 142
+  orig: 211, 152
+  offset: 28, 4
+  index: -1
+tou_02
+  rotate: true
+  xy: 1647, 390
+  size: 197, 142
+  orig: 211, 152
+  offset: 14, 4
+  index: -1
+tou_03
+  rotate: true
+  xy: 1559, 107
+  size: 211, 142
+  orig: 211, 152
+  offset: 0, 4
+  index: -1

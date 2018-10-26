@@ -1,0 +1,55 @@
+
+effect_buff_mabi.png
+size: 795,122
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mabi_01
+  rotate: true
+  xy: 2, 2
+  size: 118, 108
+  orig: 119, 130
+  offset: 0, 0
+  index: -1
+mabi_02
+  rotate: true
+  xy: 112, 2
+  size: 118, 108
+  orig: 119, 130
+  offset: 0, 0
+  index: -1
+mabi_03
+  rotate: true
+  xy: 222, 2
+  size: 118, 109
+  orig: 119, 130
+  offset: 1, 5
+  index: -1
+mabi_04
+  rotate: true
+  xy: 333, 2
+  size: 118, 115
+  orig: 119, 130
+  offset: 1, 11
+  index: -1
+mabi_05
+  rotate: true
+  xy: 564, 3
+  size: 117, 113
+  orig: 119, 130
+  offset: 1, 14
+  index: -1
+mabi_06
+  rotate: true
+  xy: 679, 3
+  size: 117, 114
+  orig: 119, 130
+  offset: 2, 14
+  index: -1
+mabi_07
+  rotate: true
+  xy: 450, 2
+  size: 118, 112
+  orig: 119, 130
+  offset: 1, 18
+  index: -1

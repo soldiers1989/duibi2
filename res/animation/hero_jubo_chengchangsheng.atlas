@@ -1,0 +1,286 @@
+
+hero_jubo_chengchangsheng.png
+size: 1953,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: true
+  xy: 1237, 21
+  size: 102, 126
+  orig: 102, 126
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: true
+  xy: 894, 2
+  size: 98, 132
+  orig: 98, 132
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 1681, 157
+  size: 72, 117
+  orig: 72, 117
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: true
+  xy: 674, 16
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: true
+  xy: 1850, 100
+  size: 77, 78
+  orig: 77, 81
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: false
+  xy: 1933, 215
+  size: 18, 59
+  orig: 18, 59
+  offset: 0, 0
+  index: -1
+hair_04
+  rotate: false
+  xy: 1028, 2
+  size: 22, 106
+  orig: 22, 106
+  offset: 0, 0
+  index: -1
+hair_05
+  rotate: true
+  xy: 1704, 3
+  size: 33, 102
+  orig: 33, 102
+  offset: 0, 0
+  index: -1
+hair_07
+  rotate: false
+  xy: 751, 73
+  size: 141, 201
+  orig: 141, 201
+  offset: 0, 0
+  index: -1
+hair_08
+  rotate: false
+  xy: 556, 65
+  size: 193, 209
+  orig: 193, 209
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1704, 38
+  size: 72, 117
+  orig: 72, 117
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: true
+  xy: 1093, 6
+  size: 117, 142
+  orig: 117, 142
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: true
+  xy: 1093, 125
+  size: 149, 145
+  orig: 149, 145
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: false
+  xy: 1585, 2
+  size: 85, 28
+  orig: 85, 28
+  offset: 0, 0
+  index: -1
+hip_04
+  rotate: true
+  xy: 894, 102
+  size: 172, 86
+  orig: 172, 86
+  offset: 0, 0
+  index: -1
+hip_05
+  rotate: false
+  xy: 349, 24
+  size: 172, 22
+  orig: 172, 22
+  offset: 0, 0
+  index: -1
+hip_06
+  rotate: true
+  xy: 982, 110
+  size: 164, 109
+  orig: 164, 109
+  offset: 0, 0
+  index: -1
+huoyan_01
+  rotate: false
+  xy: 1365, 23
+  size: 108, 123
+  orig: 111, 136
+  offset: 1, 2
+  index: -1
+huoyan_02
+  rotate: false
+  xy: 1461, 151
+  size: 109, 123
+  orig: 111, 136
+  offset: 0, 2
+  index: -1
+huoyan_03
+  rotate: false
+  xy: 1572, 153
+  size: 107, 121
+  orig: 111, 136
+  offset: 1, 3
+  index: -1
+huoyan_04
+  rotate: false
+  xy: 1240, 148
+  size: 110, 126
+  orig: 111, 136
+  offset: 1, 3
+  index: -1
+huoyan_05
+  rotate: false
+  xy: 1475, 26
+  size: 108, 123
+  orig: 111, 136
+  offset: 2, 0
+  index: -1
+huoyan_06
+  rotate: false
+  xy: 1352, 148
+  size: 107, 126
+  orig: 111, 136
+  offset: 3, 0
+  index: -1
+jianqi
+  rotate: false
+  xy: 2, 3
+  size: 345, 75
+  orig: 356, 82
+  offset: 0, 2
+  index: -1
+l_calf
+  rotate: true
+  xy: 1808, 4
+  size: 72, 50
+  orig: 72, 50
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: false
+  xy: 1585, 32
+  size: 117, 119
+  orig: 117, 119
+  offset: 0, 0
+  index: -1
+l_foot
+  rotate: false
+  xy: 1860, 6
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: true
+  xy: 1672, 4
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: true
+  xy: 1755, 163
+  size: 111, 71
+  orig: 111, 71
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: false
+  xy: 1052, 56
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+nuji
+  rotate: true
+  xy: 1778, 78
+  size: 83, 70
+  orig: 83, 83
+  offset: 0, 11
+  index: -1
+r_calf
+  rotate: false
+  xy: 1860, 42
+  size: 61, 56
+  orig: 61, 56
+  offset: 0, 0
+  index: -1
+r_elbow
+  rotate: true
+  xy: 606, 10
+  size: 53, 66
+  orig: 53, 66
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: false
+  xy: 854, 25
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 1778, 44
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: false
+  xy: 1828, 179
+  size: 103, 95
+  orig: 103, 95
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: true
+  xy: 523, 6
+  size: 40, 81
+  orig: 40, 81
+  offset: 0, 0
+  index: -1
+r_shoulder_01
+  rotate: true
+  xy: 751, 8
+  size: 63, 101
+  orig: 63, 102
+  offset: 0, 0
+  index: -1
+tx1_2
+  rotate: true
+  xy: 381, 48
+  size: 226, 173
+  orig: 226, 173
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 2, 80
+  size: 194, 377
+  orig: 194, 377
+  offset: 0, 0
+  index: -1

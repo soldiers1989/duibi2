@@ -1,0 +1,118 @@
+
+effect_ui_gonghuivs.png
+size: 201,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 2, 250
+  size: 100, 23
+  orig: 125, 38
+  offset: 13, 8
+  index: -1
+guangxian00010001
+  rotate: false
+  xy: 136, 2
+  size: 29, 23
+  orig: 92, 52
+  offset: 32, 16
+  index: -1
+guangxian00010003
+  rotate: false
+  xy: 74, 17
+  size: 60, 40
+  orig: 92, 52
+  offset: 16, 5
+  index: -1
+guangxian00010005
+  rotate: false
+  xy: 75, 59
+  size: 70, 42
+  orig: 92, 52
+  offset: 11, 4
+  index: -1
+guangxian00010007
+  rotate: false
+  xy: 78, 103
+  size: 73, 44
+  orig: 92, 52
+  offset: 10, 2
+  index: -1
+guangxian00010008
+  rotate: false
+  xy: 2, 203
+  size: 74, 45
+  orig: 92, 52
+  offset: 9, 2
+  index: -1
+guangxian00010009
+  rotate: false
+  xy: 78, 196
+  size: 74, 45
+  orig: 92, 52
+  offset: 9, 2
+  index: -1
+guangxian00010010
+  rotate: true
+  xy: 154, 167
+  size: 74, 45
+  orig: 92, 52
+  offset: 9, 2
+  index: -1
+guangxian00010011
+  rotate: false
+  xy: 2, 156
+  size: 74, 45
+  orig: 92, 52
+  offset: 9, 2
+  index: -1
+guangxian00010012
+  rotate: false
+  xy: 78, 149
+  size: 74, 45
+  orig: 92, 52
+  offset: 9, 2
+  index: -1
+guangxian00010013
+  rotate: false
+  xy: 2, 109
+  size: 74, 45
+  orig: 92, 52
+  offset: 9, 2
+  index: -1
+guangxian00010014
+  rotate: true
+  xy: 154, 93
+  size: 72, 44
+  orig: 92, 52
+  offset: 11, 2
+  index: -1
+guangxian00010015
+  rotate: false
+  xy: 2, 65
+  size: 71, 42
+  orig: 92, 52
+  offset: 12, 3
+  index: -1
+guangxian00010016
+  rotate: false
+  xy: 2, 21
+  size: 70, 42
+  orig: 92, 52
+  offset: 12, 3
+  index: -1
+guangxian00010020
+  rotate: true
+  xy: 147, 27
+  size: 64, 41
+  orig: 92, 52
+  offset: 15, 4
+  index: -1
+zi
+  rotate: false
+  xy: 104, 243
+  size: 90, 30
+  orig: 111, 44
+  offset: 11, 4
+  index: -1

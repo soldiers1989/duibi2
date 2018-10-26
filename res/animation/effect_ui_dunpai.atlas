@@ -1,0 +1,20 @@
+
+effect_ui_dunpai.png
+size: 135,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dun
+  rotate: false
+  xy: 2, 2
+  size: 68, 92
+  orig: 68, 92
+  offset: 0, 0
+  index: -1
+liang
+  rotate: false
+  xy: 72, 14
+  size: 61, 80
+  orig: 61, 80
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+effect_ui_kaifudajiang_liubian.png
+size: 167,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_ui_liubian_01
+  rotate: true
+  xy: 2, 34
+  size: 119, 31
+  orig: 133, 51
+  offset: 7, 9
+  index: -1
+effect_ui_liubian_02
+  rotate: true
+  xy: 134, 57
+  size: 96, 31
+  orig: 133, 51
+  offset: 18, 9
+  index: -1
+effect_ui_liubian_03
+  rotate: true
+  xy: 101, 38
+  size: 115, 31
+  orig: 133, 51
+  offset: 9, 9
+  index: -1
+effect_ui_liubian_04
+  rotate: false
+  xy: 2, 2
+  size: 119, 30
+  orig: 133, 51
+  offset: 7, 9
+  index: -1
+effect_ui_liubian_05
+  rotate: true
+  xy: 35, 34
+  size: 119, 31
+  orig: 133, 51
+  offset: 7, 9
+  index: -1
+effect_ui_liubian_06
+  rotate: true
+  xy: 68, 34
+  size: 119, 31
+  orig: 133, 51
+  offset: 7, 9
+  index: -1

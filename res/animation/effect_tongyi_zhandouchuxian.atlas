@@ -1,0 +1,62 @@
+
+effect_tongyi_zhandouchuxian.png
+size: 350,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_tongyi_zhandouchuxian_xuanfeng_01
+  rotate: false
+  xy: 249, 26
+  size: 74, 33
+  orig: 102, 113
+  offset: 16, 47
+  index: -1
+effect_tongyi_zhandouchuxian_xuanfeng_02
+  rotate: false
+  xy: 171, 17
+  size: 76, 40
+  orig: 102, 113
+  offset: 14, 40
+  index: -1
+effect_tongyi_zhandouchuxian_xuanfeng_03
+  rotate: false
+  xy: 90, 9
+  size: 79, 46
+  orig: 102, 113
+  offset: 13, 34
+  index: -1
+effect_tongyi_zhandouchuxian_xuanfeng_04
+  rotate: false
+  xy: 2, 2
+  size: 86, 53
+  orig: 102, 113
+  offset: 9, 27
+  index: -1
+effect_tongyi_zhandouchuxian_xuanfeng_05
+  rotate: true
+  xy: 287, 62
+  size: 93, 61
+  orig: 102, 113
+  offset: 5, 20
+  index: -1
+effect_tongyi_zhandouchuxian_xuanfeng_06
+  rotate: true
+  xy: 192, 61
+  size: 94, 93
+  orig: 102, 113
+  offset: 5, 9
+  index: -1
+effect_tongyi_zhandouchuxian_xuanfeng_07
+  rotate: true
+  xy: 97, 59
+  size: 96, 93
+  orig: 102, 113
+  offset: 4, 10
+  index: -1
+effect_tongyi_zhandouchuxian_xuanfeng_08
+  rotate: true
+  xy: 2, 57
+  size: 98, 93
+  orig: 102, 113
+  offset: 2, 11
+  index: -1

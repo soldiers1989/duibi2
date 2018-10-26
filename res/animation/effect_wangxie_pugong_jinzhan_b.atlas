@@ -1,0 +1,41 @@
+
+effect_wangxie_pugong_jinzhan_b.png
+size: 712,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_wangxie_pugong_jinzhan_b_01
+  rotate: false
+  xy: 612, 43
+  size: 98, 115
+  orig: 144, 168
+  offset: 32, 18
+  index: -1
+effect_wangxie_pugong_jinzhan_b_02
+  rotate: true
+  xy: 480, 9
+  size: 149, 130
+  orig: 168, 144
+  offset: 7, 8
+  index: -1
+effect_wangxie_pugong_jinzhan_b_03
+  rotate: true
+  xy: 340, 2
+  size: 156, 138
+  orig: 168, 144
+  offset: 6, 4
+  index: -1
+effect_wangxie_pugong_jinzhan_b_04
+  rotate: false
+  xy: 172, 15
+  size: 166, 143
+  orig: 168, 144
+  offset: 2, 0
+  index: -1
+effect_wangxie_pugong_jinzhan_b_05
+  rotate: false
+  xy: 2, 14
+  size: 168, 144
+  orig: 168, 144
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+effect_zhuzai_tianhuang_nuji.png
+size: 1522,424
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shang_01
+  rotate: true
+  xy: 1445, 278
+  size: 144, 73
+  orig: 291, 249
+  offset: 65, 47
+  index: -1
+shang_02
+  rotate: true
+  xy: 181, 169
+  size: 253, 167
+  orig: 291, 249
+  offset: 24, 49
+  index: -1
+shang_03
+  rotate: true
+  xy: 2, 163
+  size: 259, 177
+  orig: 291, 249
+  offset: 18, 50
+  index: -1
+shang_04
+  rotate: false
+  xy: 2, 2
+  size: 248, 159
+  orig: 291, 249
+  offset: 23, 63
+  index: -1
+shang_05
+  rotate: false
+  xy: 252, 8
+  size: 217, 159
+  orig: 291, 249
+  offset: 23, 10
+  index: -1
+yan_01
+  rotate: false
+  xy: 1445, 223
+  size: 75, 53
+  orig: 257, 221
+  offset: 56, 35
+  index: -1
+yan_02
+  rotate: true
+  xy: 1432, 12
+  size: 110, 87
+  orig: 257, 221
+  offset: 39, 27
+  index: -1
+yan_03
+  rotate: false
+  xy: 1286, 256
+  size: 131, 166
+  orig: 257, 221
+  offset: 33, 25
+  index: -1
+yan_04
+  rotate: true
+  xy: 1105, 219
+  size: 203, 179
+  orig: 257, 221
+  offset: 6, 24
+  index: -1
+yan_05
+  rotate: true
+  xy: 543, 207
+  size: 215, 189
+  orig: 257, 221
+  offset: 8, 17
+  index: -1
+yan_06
+  rotate: true
+  xy: 350, 204
+  size: 218, 191
+  orig: 257, 221
+  offset: 17, 15
+  index: -1
+yan_07
+  rotate: true
+  xy: 734, 209
+  size: 213, 192
+  orig: 257, 221
+  offset: 23, 15
+  index: -1
+yan_08
+  rotate: false
+  xy: 471, 14
+  size: 216, 188
+  orig: 257, 221
+  offset: 24, 15
+  index: -1
+yan_09
+  rotate: false
+  xy: 906, 17
+  size: 213, 190
+  orig: 257, 221
+  offset: 25, 15
+  index: -1
+yan_10
+  rotate: false
+  xy: 689, 18
+  size: 215, 187
+  orig: 257, 221
+  offset: 26, 18
+  index: -1
+yan_11
+  rotate: true
+  xy: 928, 213
+  size: 209, 175
+  orig: 257, 221
+  offset: 24, 30
+  index: -1
+yan_12
+  rotate: true
+  xy: 1121, 20
+  size: 197, 167
+  orig: 257, 221
+  offset: 30, 33
+  index: -1
+yan_13
+  rotate: false
+  xy: 1290, 124
+  size: 153, 130
+  orig: 257, 221
+  offset: 69, 69
+  index: -1
+yan_14
+  rotate: false
+  xy: 1290, 23
+  size: 140, 99
+  orig: 257, 221
+  offset: 78, 72
+  index: -1

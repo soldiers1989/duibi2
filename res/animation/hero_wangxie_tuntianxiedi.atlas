@@ -1,0 +1,328 @@
+
+hero_wangxie_tuntianxiedi.png
+size: 1605,332
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: false
+  xy: 852, 69
+  size: 86, 129
+  orig: 86, 129
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 1103, 211
+  size: 111, 119
+  orig: 111, 119
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 460, 154
+  size: 150, 176
+  orig: 150, 176
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1136, 90
+  size: 111, 119
+  orig: 111, 119
+  offset: 0, 0
+  index: -1
+hero_wangxie_tuntianxiedi
+  rotate: false
+  xy: 1486, 167
+  size: 69, 79
+  orig: 69, 81
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: false
+  xy: 1036, 79
+  size: 98, 124
+  orig: 98, 124
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: false
+  xy: 624, 35
+  size: 36, 145
+  orig: 36, 145
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: true
+  xy: 285, 5
+  size: 97, 180
+  orig: 97, 180
+  offset: 0, 0
+  index: -1
+hip_04
+  rotate: false
+  xy: 804, 200
+  size: 102, 130
+  orig: 102, 130
+  offset: 0, 0
+  index: -1
+hip_05
+  rotate: true
+  xy: 467, 31
+  size: 121, 155
+  orig: 121, 155
+  offset: 0, 0
+  index: -1
+huo_01
+  rotate: false
+  xy: 908, 201
+  size: 99, 129
+  orig: 129, 170
+  offset: 20, 10
+  index: -1
+huo_02
+  rotate: false
+  xy: 940, 70
+  size: 94, 129
+  orig: 129, 170
+  offset: 20, 12
+  index: -1
+huo_03
+  rotate: false
+  xy: 755, 50
+  size: 95, 137
+  orig: 129, 170
+  offset: 14, 12
+  index: -1
+huo_04
+  rotate: false
+  xy: 662, 35
+  size: 91, 145
+  orig: 129, 170
+  offset: 20, 11
+  index: -1
+huo_05
+  rotate: false
+  xy: 612, 182
+  size: 94, 148
+  orig: 129, 170
+  offset: 15, 12
+  index: -1
+huo_06
+  rotate: false
+  xy: 708, 189
+  size: 94, 141
+  orig: 129, 170
+  offset: 13, 12
+  index: -1
+huo_07
+  rotate: false
+  xy: 1009, 205
+  size: 92, 125
+  orig: 129, 170
+  offset: 17, 11
+  index: -1
+l_calf
+  rotate: true
+  xy: 1241, 22
+  size: 66, 92
+  orig: 66, 92
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: false
+  xy: 1355, 98
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+l_foot
+  rotate: true
+  xy: 1427, 9
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 1563, 92
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: true
+  xy: 1482, 248
+  size: 82, 79
+  orig: 82, 79
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: false
+  xy: 1480, 14
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+l_shoulder_01
+  rotate: false
+  xy: 949, 4
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: true
+  xy: 2, 33
+  size: 297, 281
+  orig: 297, 281
+  offset: 0, 0
+  index: -1
+r_calf
+  rotate: true
+  xy: 755, 2
+  size: 46, 93
+  orig: 46, 93
+  offset: 0, 0
+  index: -1
+r_elbow
+  rotate: false
+  xy: 1563, 130
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: true
+  xy: 1526, 23
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 1564, 58
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: true
+  xy: 1335, 20
+  size: 68, 90
+  orig: 68, 90
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: true
+  xy: 201, 2
+  size: 29, 57
+  orig: 29, 57
+  offset: 0, 0
+  index: -1
+r_shoulder_01
+  rotate: false
+  xy: 1480, 69
+  size: 81, 78
+  orig: 81, 78
+  offset: 0, 0
+  index: -1
+tx1_2
+  rotate: true
+  xy: 285, 104
+  size: 226, 173
+  orig: 226, 173
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 1322, 227
+  size: 80, 103
+  orig: 80, 103
+  offset: 0, 0
+  index: -1
+weapon_01
+  rotate: false
+  xy: 1216, 211
+  size: 104, 119
+  orig: 104, 119
+  offset: 0, 0
+  index: -1
+weapon_01_01
+  rotate: false
+  xy: 1249, 90
+  size: 104, 119
+  orig: 104, 119
+  offset: 0, 0
+  index: -1
+weapon_02
+  rotate: true
+  xy: 1036, 25
+  size: 52, 95
+  orig: 52, 95
+  offset: 0, 0
+  index: -1
+weapon_02_01
+  rotate: true
+  xy: 852, 15
+  size: 52, 95
+  orig: 52, 95
+  offset: 0, 0
+  index: -1
+weapon_03
+  rotate: false
+  xy: 1355, 135
+  size: 76, 90
+  orig: 76, 90
+  offset: 0, 0
+  index: -1
+weapon_03_01
+  rotate: false
+  xy: 1404, 240
+  size: 76, 90
+  orig: 76, 90
+  offset: 0, 0
+  index: -1
+weapon_04
+  rotate: false
+  xy: 1427, 44
+  size: 51, 89
+  orig: 51, 90
+  offset: 0, 1
+  index: -1
+weapon_04_01
+  rotate: false
+  xy: 1433, 149
+  size: 51, 89
+  orig: 51, 90
+  offset: 0, 1
+  index: -1
+weapon_05
+  rotate: false
+  xy: 1557, 175
+  size: 39, 71
+  orig: 39, 85
+  offset: 0, 0
+  index: -1
+weapon_05_01
+  rotate: false
+  xy: 1563, 259
+  size: 39, 71
+  orig: 39, 85
+  offset: 0, 0
+  index: -1
+weapon_1_01
+  rotate: true
+  xy: 1136, 8
+  size: 80, 103
+  orig: 80, 103
+  offset: 0, 0
+  index: -1
+xian
+  rotate: false
+  xy: 2, 17
+  size: 197, 14
+  orig: 219, 36
+  offset: 8, 12
+  index: -1

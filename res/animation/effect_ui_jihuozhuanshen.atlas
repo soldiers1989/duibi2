@@ -1,0 +1,55 @@
+
+effect_ui_jihuozhuanshen.png
+size: 206,159
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: false
+  xy: 2, 20
+  size: 68, 67
+  orig: 75, 68
+  offset: 4, 0
+  index: -1
+bao_02
+  rotate: false
+  xy: 2, 89
+  size: 74, 68
+  orig: 75, 68
+  offset: 1, 0
+  index: -1
+bao_03
+  rotate: false
+  xy: 78, 98
+  size: 62, 59
+  orig: 75, 68
+  offset: 9, 0
+  index: -1
+bao_04
+  rotate: false
+  xy: 78, 37
+  size: 61, 59
+  orig: 75, 68
+  offset: 10, 0
+  index: -1
+bao_05
+  rotate: false
+  xy: 142, 43
+  size: 61, 55
+  orig: 75, 68
+  offset: 10, 3
+  index: -1
+bao_06
+  rotate: false
+  xy: 142, 100
+  size: 62, 57
+  orig: 75, 68
+  offset: 9, 2
+  index: -1
+shan
+  rotate: false
+  xy: 72, 2
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1

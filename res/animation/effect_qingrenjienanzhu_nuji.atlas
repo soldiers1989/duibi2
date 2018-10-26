@@ -1,0 +1,55 @@
+
+effect_qingrenjienanzhu_nuji.png
+size: 626,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_chunlan_bao_01
+  rotate: true
+  xy: 366, 13
+  size: 79, 94
+  orig: 112, 112
+  offset: 20, 16
+  index: -1
+effect_chunlan_bao_02
+  rotate: false
+  xy: 162, 3
+  size: 101, 89
+  orig: 112, 112
+  offset: 0, 16
+  index: -1
+effect_chunlan_bao_03
+  rotate: false
+  xy: 265, 2
+  size: 99, 90
+  orig: 112, 112
+  offset: 1, 15
+  index: -1
+effect_chunlan_bao_04
+  rotate: false
+  xy: 462, 7
+  size: 86, 85
+  orig: 112, 112
+  offset: 11, 18
+  index: -1
+effect_chunlan_bao_05
+  rotate: false
+  xy: 550, 8
+  size: 74, 84
+  orig: 112, 112
+  offset: 21, 16
+  index: -1
+effect_chunlan_bo_01
+  rotate: true
+  xy: 2, 21
+  size: 13, 49
+  orig: 13, 49
+  offset: 0, 0
+  index: -1
+pai1
+  rotate: true
+  xy: 2, 36
+  size: 56, 158
+  orig: 56, 158
+  offset: 0, 0
+  index: -1

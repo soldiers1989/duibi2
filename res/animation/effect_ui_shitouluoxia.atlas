@@ -1,0 +1,27 @@
+
+effect_ui_shitouluoxia.png
+size: 99,170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shitou
+  rotate: false
+  xy: 48, 42
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+xian
+  rotate: false
+  xy: 2, 2
+  size: 44, 90
+  orig: 44, 92
+  offset: 0, 1
+  index: -1
+yanchen_01
+  rotate: false
+  xy: 2, 94
+  size: 95, 74
+  orig: 111, 80
+  offset: 0, 0
+  index: -1

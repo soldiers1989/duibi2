@@ -1,0 +1,97 @@
+
+effect_nanzhushengdan_nuji.png
+size: 1361,453
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: true
+  xy: 830, 223
+  size: 228, 191
+  orig: 241, 207
+  offset: 2, 8
+  index: -1
+bao_02
+  rotate: true
+  xy: 627, 213
+  size: 238, 201
+  orig: 241, 207
+  offset: 2, 0
+  index: -1
+bao_03
+  rotate: false
+  xy: 488, 4
+  size: 240, 204
+  orig: 241, 207
+  offset: 0, 0
+  index: -1
+bao_04
+  rotate: true
+  xy: 2, 210
+  size: 241, 205
+  orig: 241, 207
+  offset: 0, 0
+  index: -1
+bao_05
+  rotate: true
+  xy: 209, 210
+  size: 241, 207
+  orig: 241, 207
+  offset: 0, 0
+  index: -1
+bao_06
+  rotate: true
+  xy: 418, 210
+  size: 241, 207
+  orig: 241, 207
+  offset: 0, 0
+  index: -1
+bao_07
+  rotate: false
+  xy: 2, 2
+  size: 241, 206
+  orig: 241, 207
+  offset: 0, 0
+  index: -1
+bao_08
+  rotate: false
+  xy: 245, 3
+  size: 241, 205
+  orig: 241, 207
+  offset: 0, 0
+  index: -1
+bao_09
+  rotate: false
+  xy: 730, 8
+  size: 234, 203
+  orig: 241, 207
+  offset: 3, 0
+  index: -1
+bao_10
+  rotate: false
+  xy: 966, 22
+  size: 228, 199
+  orig: 241, 207
+  offset: 6, 0
+  index: -1
+bao_11
+  rotate: true
+  xy: 1023, 234
+  size: 217, 177
+  orig: 241, 207
+  offset: 12, 0
+  index: -1
+qi
+  rotate: true
+  xy: 1202, 295
+  size: 156, 157
+  orig: 156, 157
+  offset: 0, 0
+  index: -1
+xueren
+  rotate: true
+  xy: 1196, 130
+  size: 102, 163
+  orig: 102, 163
+  offset: 0, 0
+  index: -1

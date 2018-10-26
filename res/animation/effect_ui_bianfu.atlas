@@ -1,0 +1,27 @@
+
+effect_ui_bianfu.png
+size: 74,50
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bf_01
+  rotate: false
+  xy: 52, 25
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+bf_02
+  rotate: false
+  xy: 2, 2
+  size: 14, 46
+  orig: 14, 46
+  offset: 0, 0
+  index: -1
+bf_03
+  rotate: false
+  xy: 18, 3
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1

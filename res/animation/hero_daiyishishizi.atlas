@@ -1,0 +1,188 @@
+
+hero_daiyishishizi.png
+size: 926,217
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: false
+  xy: 152, 41
+  size: 160, 174
+  orig: 160, 174
+  offset: 0, 0
+  index: -1
+haed
+  rotate: false
+  xy: 2, 35
+  size: 148, 180
+  orig: 148, 180
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 646, 112
+  size: 121, 103
+  orig: 121, 103
+  offset: 0, 0
+  index: -1
+l_ leg
+  rotate: false
+  xy: 385, 9
+  size: 54, 68
+  orig: 54, 68
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: true
+  xy: 866, 34
+  size: 50, 55
+  orig: 50, 62
+  offset: 0, 7
+  index: -1
+l_hand
+  rotate: false
+  xy: 2, 6
+  size: 58, 27
+  orig: 58, 27
+  offset: 0, 0
+  index: -1
+l_knee
+  rotate: false
+  xy: 636, 2
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: true
+  xy: 314, 9
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+l_wing
+  rotate: false
+  xy: 314, 79
+  size: 169, 136
+  orig: 169, 136
+  offset: 0, 0
+  index: -1
+r_ leg
+  rotate: true
+  xy: 646, 40
+  size: 70, 85
+  orig: 70, 85
+  offset: 0, 0
+  index: -1
+r_elbow
+  rotate: true
+  xy: 866, 86
+  size: 45, 58
+  orig: 45, 58
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: false
+  xy: 577, 23
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 62, 4
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+r_knee
+  rotate: true
+  xy: 861, 133
+  size: 82, 51
+  orig: 82, 51
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: false
+  xy: 769, 112
+  size: 90, 103
+  orig: 90, 103
+  offset: 0, 0
+  index: -1
+r_wing
+  rotate: true
+  xy: 485, 66
+  size: 149, 159
+  orig: 149, 159
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 733, 43
+  size: 73, 67
+  orig: 73, 72
+  offset: 0, 2
+  index: -1
+tx1_1
+  rotate: true
+  xy: 117, 2
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+tx1_2
+  rotate: false
+  xy: 197, 2
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+tx1_3
+  rotate: true
+  xy: 152, 4
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+tx1_4
+  rotate: true
+  xy: 735, 7
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+tx2_1
+  rotate: false
+  xy: 686, 10
+  size: 47, 28
+  orig: 48, 31
+  offset: 0, 2
+  index: -1
+tx2_2
+  rotate: true
+  xy: 808, 38
+  size: 72, 56
+  orig: 74, 57
+  offset: 1, 1
+  index: -1
+tx2_3
+  rotate: false
+  xy: 511, 9
+  size: 64, 55
+  orig: 68, 56
+  offset: 4, 0
+  index: -1
+tx2_4
+  rotate: false
+  xy: 234, 4
+  size: 27, 35
+  orig: 28, 36
+  offset: 1, 0
+  index: -1
+tx3
+  rotate: false
+  xy: 441, 4
+  size: 68, 60
+  orig: 68, 63
+  offset: 0, 2
+  index: -1

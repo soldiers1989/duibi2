@@ -1,0 +1,153 @@
+
+hero_lingwang.png
+size: 559,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: false
+  xy: 257, 127
+  size: 134, 140
+  orig: 134, 140
+  offset: 0, 0
+  index: -1
+empty
+  rotate: false
+  xy: 556, 266
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 393, 127
+  size: 81, 140
+  orig: 81, 140
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 2, 75
+  size: 62, 192
+  orig: 62, 192
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: false
+  xy: 205, 3
+  size: 109, 114
+  orig: 109, 114
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: false
+  xy: 66, 87
+  size: 41, 180
+  orig: 41, 180
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: false
+  xy: 501, 20
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+hip_04
+  rotate: false
+  xy: 146, 2
+  size: 57, 115
+  orig: 60, 118
+  offset: 0, 3
+  index: -1
+hip_05
+  rotate: false
+  xy: 109, 94
+  size: 35, 173
+  orig: 79, 173
+  offset: 0, 0
+  index: -1
+hip_06
+  rotate: true
+  xy: 85, 16
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+hip_07
+  rotate: false
+  xy: 476, 136
+  size: 21, 131
+  orig: 21, 131
+  offset: 0, 0
+  index: -1
+l_foot
+  rotate: true
+  xy: 416, 2
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 501, 46
+  size: 48, 88
+  orig: 48, 88
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: false
+  xy: 416, 30
+  size: 83, 95
+  orig: 83, 96
+  offset: 0, 0
+  index: -1
+l_shoulder_01
+  rotate: false
+  xy: 499, 136
+  size: 55, 131
+  orig: 56, 132
+  offset: 0, 1
+  index: -1
+l_shoulder_02
+  rotate: true
+  xy: 85, 38
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+r_elbow01
+  rotate: false
+  xy: 458, 10
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: true
+  xy: 316, 4
+  size: 19, 50
+  orig: 19, 50
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: true
+  xy: 2, 9
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: false
+  xy: 316, 25
+  size: 98, 100
+  orig: 98, 100
+  offset: 0, 0
+  index: -1
+r_shoulder_01
+  rotate: false
+  xy: 146, 119
+  size: 109, 148
+  orig: 109, 148
+  offset: 0, 0
+  index: -1

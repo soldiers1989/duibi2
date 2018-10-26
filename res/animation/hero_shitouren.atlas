@@ -1,0 +1,153 @@
+
+hero_shitouren.png
+size: 438,539
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: false
+  xy: 207, 381
+  size: 164, 156
+  orig: 164, 156
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 339, 293
+  size: 86, 56
+  orig: 92, 67
+  offset: 6, 6
+  index: -1
+head
+  rotate: true
+  xy: 207, 293
+  size: 86, 130
+  orig: 86, 130
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 231, 165
+  size: 86, 126
+  orig: 86, 126
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: true
+  xy: 215, 2
+  size: 77, 85
+  orig: 77, 85
+  offset: 0, 0
+  index: -1
+l_shoulder_01
+  rotate: false
+  xy: 373, 411
+  size: 58, 126
+  orig: 58, 126
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: true
+  xy: 2, 4
+  size: 110, 126
+  orig: 110, 126
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: false
+  xy: 319, 170
+  size: 90, 121
+  orig: 90, 121
+  offset: 0, 0
+  index: -1
+r_shoulder_01
+  rotate: false
+  xy: 2, 116
+  size: 63, 148
+  orig: 63, 148
+  offset: 0, 0
+  index: -1
+ston3
+  rotate: false
+  xy: 396, 124
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+stone01
+  rotate: false
+  xy: 396, 82
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+stone02
+  rotate: false
+  xy: 302, 2
+  size: 44, 77
+  orig: 44, 77
+  offset: 0, 0
+  index: -1
+tx1
+  rotate: true
+  xy: 130, 5
+  size: 112, 83
+  orig: 134, 96
+  offset: 1, 4
+  index: -1
+tx2
+  rotate: false
+  xy: 2, 266
+  size: 201, 72
+  orig: 201, 72
+  offset: 0, 0
+  index: -1
+tx3_1
+  rotate: true
+  xy: 348, 3
+  size: 76, 39
+  orig: 76, 39
+  offset: 0, 0
+  index: -1
+tx3_2
+  rotate: true
+  xy: 151, 132
+  size: 132, 78
+  orig: 132, 78
+  offset: 0, 0
+  index: -1
+tx3_3
+  rotate: true
+  xy: 67, 119
+  size: 145, 82
+  orig: 145, 82
+  offset: 0, 0
+  index: -1
+tx3_4
+  rotate: false
+  xy: 231, 81
+  size: 95, 82
+  orig: 95, 82
+  offset: 0, 0
+  index: -1
+tx3_5
+  rotate: true
+  xy: 328, 81
+  size: 87, 66
+  orig: 87, 66
+  offset: 0, 0
+  index: -1
+tx3_6
+  rotate: true
+  xy: 389, 3
+  size: 76, 47
+  orig: 76, 47
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 340
+  size: 203, 197
+  orig: 203, 197
+  offset: 0, 0
+  index: -1

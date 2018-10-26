@@ -1,0 +1,118 @@
+
+effect_ui_liubian.png
+size: 174,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_01
+  rotate: false
+  xy: 2, 120
+  size: 41, 33
+  orig: 54, 50
+  offset: 7, 8
+  index: -1
+a_02
+  rotate: false
+  xy: 45, 121
+  size: 41, 32
+  orig: 54, 50
+  offset: 7, 9
+  index: -1
+a_03
+  rotate: true
+  xy: 130, 5
+  size: 37, 39
+  orig: 54, 50
+  offset: 9, 5
+  index: -1
+a_04
+  rotate: true
+  xy: 88, 118
+  size: 35, 41
+  orig: 54, 50
+  offset: 10, 4
+  index: -1
+a_05
+  rotate: true
+  xy: 131, 118
+  size: 35, 41
+  orig: 54, 50
+  offset: 10, 4
+  index: -1
+a_06
+  rotate: true
+  xy: 45, 82
+  size: 37, 41
+  orig: 54, 50
+  offset: 9, 4
+  index: -1
+a_07
+  rotate: false
+  xy: 44, 5
+  size: 39, 36
+  orig: 54, 50
+  offset: 8, 7
+  index: -1
+a_08
+  rotate: false
+  xy: 131, 44
+  size: 40, 35
+  orig: 54, 50
+  offset: 7, 7
+  index: -1
+a_09
+  rotate: false
+  xy: 2, 83
+  size: 41, 35
+  orig: 54, 50
+  offset: 7, 7
+  index: -1
+a_10
+  rotate: false
+  xy: 88, 39
+  size: 40, 37
+  orig: 54, 50
+  offset: 7, 6
+  index: -1
+a_11
+  rotate: true
+  xy: 88, 78
+  size: 38, 41
+  orig: 54, 50
+  offset: 8, 4
+  index: -1
+a_12
+  rotate: true
+  xy: 131, 81
+  size: 35, 41
+  orig: 54, 50
+  offset: 10, 4
+  index: -1
+a_13
+  rotate: true
+  xy: 2, 46
+  size: 35, 41
+  orig: 54, 50
+  offset: 10, 4
+  index: -1
+a_14
+  rotate: true
+  xy: 45, 43
+  size: 37, 41
+  orig: 54, 50
+  offset: 9, 4
+  index: -1
+a_15
+  rotate: false
+  xy: 85, 2
+  size: 39, 35
+  orig: 54, 50
+  offset: 8, 7
+  index: -1
+a_16
+  rotate: false
+  xy: 2, 9
+  size: 40, 35
+  orig: 54, 50
+  offset: 7, 7
+  index: -1

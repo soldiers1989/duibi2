@@ -1,0 +1,153 @@
+
+effect_wanshengmeihuo_pugong.png
+size: 1173,551
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 987, 67
+  size: 67, 71
+  orig: 90, 92
+  offset: 10, 14
+  index: -1
+1
+  rotate: true
+  xy: 907, 66
+  size: 69, 78
+  orig: 90, 92
+  offset: 9, 10
+  index: -1
+2
+  rotate: false
+  xy: 1093, 202
+  size: 72, 84
+  orig: 90, 92
+  offset: 8, 7
+  index: -1
+3
+  rotate: true
+  xy: 1005, 212
+  size: 74, 86
+  orig: 90, 92
+  offset: 7, 6
+  index: -1
+4
+  rotate: true
+  xy: 996, 136
+  size: 74, 86
+  orig: 90, 92
+  offset: 7, 6
+  index: -1
+5
+  rotate: true
+  xy: 916, 213
+  size: 76, 87
+  orig: 90, 92
+  offset: 6, 5
+  index: -1
+6
+  rotate: true
+  xy: 907, 137
+  size: 74, 87
+  orig: 90, 92
+  offset: 8, 5
+  index: -1
+7
+  rotate: true
+  xy: 1049, 288
+  size: 74, 88
+  orig: 90, 92
+  offset: 8, 4
+  index: -1
+bao_add0001
+  rotate: false
+  xy: 754, 399
+  size: 165, 150
+  orig: 180, 180
+  offset: 5, 14
+  index: -1
+bao_add0002
+  rotate: false
+  xy: 921, 291
+  size: 126, 120
+  orig: 180, 180
+  offset: 24, 27
+  index: -1
+bao_add0003
+  rotate: false
+  xy: 754, 2
+  size: 143, 125
+  orig: 180, 180
+  offset: 16, 20
+  index: -1
+bao_add0004
+  rotate: false
+  xy: 754, 265
+  size: 160, 132
+  orig: 180, 180
+  offset: 13, 18
+  index: -1
+bao_add0005
+  rotate: false
+  xy: 754, 129
+  size: 151, 134
+  orig: 180, 180
+  offset: 13, 16
+  index: -1
+bao_add0006
+  rotate: false
+  xy: 921, 413
+  size: 154, 136
+  orig: 180, 180
+  offset: 10, 15
+  index: -1
+l0
+  rotate: false
+  xy: 949, 30
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+l1
+  rotate: false
+  xy: 899, 12
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+l2
+  rotate: false
+  xy: 1060, 48
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+l3
+  rotate: false
+  xy: 1084, 120
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+l4
+  rotate: false
+  xy: 1077, 364
+  size: 91, 90
+  orig: 91, 90
+  offset: 0, 0
+  index: -1
+l5
+  rotate: false
+  xy: 1077, 456
+  size: 94, 93
+  orig: 94, 93
+  offset: 0, 0
+  index: -1
+大幽灵
+  rotate: false
+  xy: 2, 11
+  size: 750, 538
+  orig: 790, 812
+  offset: 24, 213
+  index: -1

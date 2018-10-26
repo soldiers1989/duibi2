@@ -1,0 +1,132 @@
+
+effect_taigushenzuzhuang_nuji.png
+size: 914,572
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow
+  rotate: true
+  xy: 2, 323
+  size: 247, 81
+  orig: 247, 81
+  offset: 0, 0
+  index: -1
+bingbao_0001
+  rotate: false
+  xy: 617, 2
+  size: 135, 187
+  orig: 285, 264
+  offset: 77, 32
+  index: -1
+bingbao_0002
+  rotate: false
+  xy: 391, 363
+  size: 194, 207
+  orig: 285, 264
+  offset: 25, 22
+  index: -1
+bingbao_0003
+  rotate: false
+  xy: 587, 384
+  size: 203, 186
+  orig: 285, 264
+  offset: 32, 32
+  index: -1
+bingbao_0004
+  rotate: false
+  xy: 420, 5
+  size: 195, 184
+  orig: 285, 264
+  offset: 45, 38
+  index: -1
+bingbao_0005
+  rotate: true
+  xy: 587, 191
+  size: 191, 202
+  orig: 285, 264
+  offset: 58, 29
+  index: -1
+bingbao_0006
+  rotate: false
+  xy: 286, 137
+  size: 132, 212
+  orig: 285, 264
+  offset: 81, 26
+  index: -1
+bingbao_0007
+  rotate: false
+  xy: 147, 102
+  size: 137, 232
+  orig: 285, 264
+  offset: 82, 15
+  index: -1
+bingbao_0008
+  rotate: false
+  xy: 2, 78
+  size: 143, 243
+  orig: 285, 264
+  offset: 82, 17
+  index: -1
+bingbao_0009
+  rotate: false
+  xy: 240, 351
+  size: 149, 219
+  orig: 285, 264
+  offset: 82, 11
+  index: -1
+bingbao_0010
+  rotate: false
+  xy: 85, 336
+  size: 153, 234
+  orig: 285, 264
+  offset: 83, 5
+  index: -1
+bingbao_0011
+  rotate: false
+  xy: 792, 445
+  size: 120, 125
+  orig: 285, 264
+  offset: 95, 66
+  index: -1
+bingbao_0012
+  rotate: false
+  xy: 792, 320
+  size: 120, 123
+  orig: 285, 264
+  offset: 95, 68
+  index: -1
+bingbao_0013
+  rotate: true
+  xy: 299, 47
+  size: 88, 109
+  orig: 285, 264
+  offset: 121, 68
+  index: -1
+tx4_0001
+  rotate: false
+  xy: 754, 95
+  size: 149, 94
+  orig: 158, 99
+  offset: 8, 4
+  index: -1
+tx4_0002
+  rotate: false
+  xy: 147, 2
+  size: 150, 98
+  orig: 156, 100
+  offset: 5, 2
+  index: -1
+tx4_0003
+  rotate: false
+  xy: 420, 269
+  size: 138, 92
+  orig: 143, 100
+  offset: 4, 7
+  index: -1
+tx4_0004
+  rotate: false
+  xy: 754, 9
+  size: 148, 84
+  orig: 153, 99
+  offset: 4, 7
+  index: -1

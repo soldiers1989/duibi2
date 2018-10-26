@@ -1,0 +1,167 @@
+
+effect_jubo_sidianzhu.png
+size: 1125,562
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: false
+  xy: 140, 79
+  size: 160, 234
+  orig: 192, 249
+  offset: 24, 3
+  index: -1
+bao_02
+  rotate: false
+  xy: 2, 315
+  size: 154, 245
+  orig: 192, 249
+  offset: 28, 4
+  index: -1
+bao_03
+  rotate: false
+  xy: 2, 77
+  size: 136, 236
+  orig: 192, 249
+  offset: 36, 7
+  index: -1
+bao_04
+  rotate: false
+  xy: 963, 368
+  size: 80, 192
+  orig: 192, 249
+  offset: 62, 56
+  index: -1
+guagnquan
+  rotate: true
+  xy: 999, 157
+  size: 120, 122
+  orig: 120, 122
+  offset: 0, 0
+  index: -1
+hongta
+  rotate: true
+  xy: 302, 15
+  size: 109, 208
+  orig: 109, 208
+  offset: 0, 0
+  index: -1
+huiguang
+  rotate: false
+  xy: 554, 353
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+san_01
+  rotate: false
+  xy: 800, 156
+  size: 197, 197
+  orig: 221, 201
+  offset: 7, 2
+  index: -1
+san_02
+  rotate: true
+  xy: 763, 355
+  size: 205, 198
+  orig: 221, 201
+  offset: 3, 0
+  index: -1
+san_03
+  rotate: true
+  xy: 302, 126
+  size: 215, 198
+  orig: 221, 201
+  offset: 0, 2
+  index: -1
+san_04
+  rotate: true
+  xy: 158, 343
+  size: 217, 196
+  orig: 221, 201
+  offset: 2, 2
+  index: -1
+san_05
+  rotate: true
+  xy: 356, 349
+  size: 211, 196
+  orig: 221, 201
+  offset: 9, 5
+  index: -1
+san_06
+  rotate: true
+  xy: 613, 144
+  size: 207, 185
+  orig: 221, 201
+  offset: 14, 5
+  index: -1
+san_07
+  rotate: false
+  xy: 613, 6
+  size: 175, 136
+  orig: 221, 201
+  offset: 17, 6
+  index: -1
+ta
+  rotate: false
+  xy: 502, 139
+  size: 109, 208
+  orig: 109, 208
+  offset: 0, 0
+  index: -1
+yanchen_01
+  rotate: true
+  xy: 870, 18
+  size: 136, 71
+  orig: 156, 78
+  offset: 9, 4
+  index: -1
+yanchen_02
+  rotate: false
+  xy: 149, 3
+  size: 139, 74
+  orig: 156, 78
+  offset: 7, 2
+  index: -1
+yanchen_03
+  rotate: true
+  xy: 1045, 418
+  size: 142, 78
+  orig: 156, 78
+  offset: 9, 0
+  index: -1
+yanchen_04
+  rotate: false
+  xy: 2, 5
+  size: 145, 70
+  orig: 156, 78
+  offset: 8, 7
+  index: -1
+yanchen_05
+  rotate: true
+  xy: 800, 2
+  size: 152, 68
+  orig: 156, 78
+  offset: 3, 3
+  index: -1
+yanchen_06
+  rotate: true
+  xy: 943, 18
+  size: 136, 69
+  orig: 156, 78
+  offset: 9, 6
+  index: -1
+yanchen_07
+  rotate: true
+  xy: 512, 5
+  size: 132, 69
+  orig: 156, 78
+  offset: 14, 7
+  index: -1
+yanchen_08
+  rotate: true
+  xy: 1045, 279
+  size: 137, 66
+  orig: 156, 78
+  offset: 9, 6
+  index: -1

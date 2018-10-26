@@ -1,0 +1,272 @@
+
+effect_junlintianxia_nuji.png
+size: 1736,680
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baodian0003
+  rotate: true
+  xy: 1080, 275
+  size: 200, 199
+  orig: 318, 213
+  offset: 55, 3
+  index: -1
+baodian0004
+  rotate: true
+  xy: 1281, 305
+  size: 173, 170
+  orig: 318, 213
+  offset: 69, 17
+  index: -1
+baodian0005
+  rotate: true
+  xy: 986, 477
+  size: 201, 157
+  orig: 318, 213
+  offset: 55, 29
+  index: -1
+baodian0006
+  rotate: true
+  xy: 819, 443
+  size: 235, 165
+  orig: 318, 213
+  offset: 38, 26
+  index: -1
+baodian0007
+  rotate: true
+  xy: 651, 410
+  size: 268, 166
+  orig: 318, 213
+  offset: 21, 25
+  index: -1
+baodian0008
+  rotate: true
+  xy: 570, 129
+  size: 271, 169
+  orig: 318, 213
+  offset: 20, 24
+  index: -1
+baodian0009
+  rotate: true
+  xy: 479, 402
+  size: 276, 170
+  orig: 318, 213
+  offset: 17, 23
+  index: -1
+baodian0010
+  rotate: true
+  xy: 396, 115
+  size: 279, 172
+  orig: 318, 213
+  offset: 16, 22
+  index: -1
+baodian0011
+  rotate: true
+  xy: 305, 396
+  size: 282, 172
+  orig: 318, 213
+  offset: 14, 22
+  index: -1
+baodian0012
+  rotate: true
+  xy: 221, 103
+  size: 285, 173
+  orig: 318, 213
+  offset: 13, 21
+  index: -1
+baodian0013
+  rotate: true
+  xy: 93, 390
+  size: 288, 133
+  orig: 318, 213
+  offset: 11, 35
+  index: -1
+baodian0014
+  rotate: true
+  xy: 86, 39
+  size: 289, 133
+  orig: 318, 213
+  offset: 11, 35
+  index: -1
+baodian0015
+  rotate: true
+  xy: 459, 8
+  size: 105, 107
+  orig: 318, 213
+  offset: 108, 51
+  index: -1
+citiao0001
+  rotate: true
+  xy: 2, 330
+  size: 348, 89
+  orig: 397, 135
+  offset: 20, 33
+  index: -1
+citiao0004
+  rotate: true
+  xy: 2, 4
+  size: 324, 82
+  orig: 397, 135
+  offset: 55, 31
+  index: -1
+citiao0007
+  rotate: true
+  xy: 228, 394
+  size: 284, 75
+  orig: 397, 135
+  offset: 99, 30
+  index: -1
+citiao0010
+  rotate: false
+  xy: 903, 151
+  size: 218, 60
+  orig: 397, 135
+  offset: 164, 30
+  index: -1
+citiaodi
+  rotate: false
+  xy: 221, 31
+  size: 236, 70
+  orig: 282, 141
+  offset: 16, 27
+  index: -1
+dao0001
+  rotate: true
+  xy: 1395, 15
+  size: 138, 99
+  orig: 283, 232
+  offset: 13, 74
+  index: -1
+dao0003
+  rotate: false
+  xy: 570, 3
+  size: 259, 124
+  orig: 283, 232
+  offset: 0, 58
+  index: -1
+dao0007
+  rotate: false
+  xy: 831, 2
+  size: 222, 146
+  orig: 283, 232
+  offset: 40, 46
+  index: -1
+dao0010
+  rotate: true
+  xy: 1290, 519
+  size: 159, 144
+  orig: 283, 232
+  offset: 104, 36
+  index: -1
+dao0013
+  rotate: false
+  xy: 1496, 19
+  size: 110, 134
+  orig: 283, 232
+  offset: 153, 32
+  index: -1
+daodi
+  rotate: true
+  xy: 903, 213
+  size: 228, 175
+  orig: 308, 247
+  offset: 42, 34
+  index: -1
+pu_bao_10001
+  rotate: true
+  xy: 1258, 12
+  size: 84, 75
+  orig: 160, 164
+  offset: 4, 84
+  index: -1
+pu_bao_10003
+  rotate: false
+  xy: 1608, 124
+  size: 124, 130
+  orig: 160, 164
+  offset: 7, 27
+  index: -1
+pu_bao_10005
+  rotate: true
+  xy: 1395, 155
+  size: 118, 141
+  orig: 160, 164
+  offset: 14, 17
+  index: -1
+pu_bao_10007
+  rotate: false
+  xy: 1607, 256
+  size: 126, 149
+  orig: 160, 164
+  offset: 14, 10
+  index: -1
+pu_bao_10009
+  rotate: true
+  xy: 1453, 275
+  size: 130, 152
+  orig: 160, 164
+  offset: 14, 7
+  index: -1
+pu_bao_10011
+  rotate: false
+  xy: 1436, 523
+  size: 132, 155
+  orig: 160, 164
+  offset: 15, 2
+  index: -1
+pu_bao_10013
+  rotate: true
+  xy: 1570, 543
+  size: 135, 155
+  orig: 160, 164
+  offset: 14, 2
+  index: -1
+pu_bao_10015
+  rotate: true
+  xy: 1570, 407
+  size: 134, 154
+  orig: 160, 164
+  offset: 15, 3
+  index: -1
+pu_bao_10017
+  rotate: false
+  xy: 1335, 35
+  size: 55, 61
+  orig: 160, 164
+  offset: 16, 96
+  index: -1
+toumingdao
+  rotate: true
+  xy: 741, 150
+  size: 258, 160
+  orig: 415, 266
+  offset: 93, 62
+  index: -1
+yanwu0003
+  rotate: true
+  xy: 1145, 480
+  size: 198, 143
+  orig: 283, 232
+  offset: 30, 56
+  index: -1
+yanwu0007
+  rotate: false
+  xy: 1055, 6
+  size: 201, 143
+  orig: 283, 232
+  offset: 23, 64
+  index: -1
+yanwu0010
+  rotate: true
+  xy: 1258, 98
+  size: 175, 135
+  orig: 283, 232
+  offset: 21, 75
+  index: -1
+yanwu0013
+  rotate: true
+  xy: 1608, 6
+  size: 116, 126
+  orig: 283, 232
+  offset: 19, 91
+  index: -1

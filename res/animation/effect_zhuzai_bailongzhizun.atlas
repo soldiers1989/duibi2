@@ -1,0 +1,153 @@
+
+effect_zhuzai_bailongzhizun.png
+size: 791,534
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai
+  rotate: false
+  xy: 561, 131
+  size: 113, 78
+  orig: 113, 78
+  offset: 0, 0
+  index: -1
+bao_01
+  rotate: true
+  xy: 204, 4
+  size: 89, 96
+  orig: 130, 148
+  offset: 33, 4
+  index: -1
+bao_02
+  rotate: false
+  xy: 670, 24
+  size: 96, 105
+  orig: 130, 148
+  offset: 26, 12
+  index: -1
+bao_03
+  rotate: false
+  xy: 451, 162
+  size: 108, 118
+  orig: 130, 148
+  offset: 12, 16
+  index: -1
+bao_04
+  rotate: true
+  xy: 437, 2
+  size: 114, 117
+  orig: 130, 148
+  offset: 4, 24
+  index: -1
+bao_05
+  rotate: false
+  xy: 317, 2
+  size: 118, 114
+  orig: 130, 148
+  offset: 1, 31
+  index: -1
+bao_06
+  rotate: false
+  xy: 582, 211
+  size: 117, 107
+  orig: 130, 148
+  offset: 0, 41
+  index: -1
+long_01
+  rotate: false
+  xy: 676, 131
+  size: 81, 78
+  orig: 200, 345
+  offset: 72, 0
+  index: -1
+long_02
+  rotate: false
+  xy: 701, 225
+  size: 88, 93
+  orig: 200, 345
+  offset: 67, 2
+  index: -1
+long_03
+  rotate: false
+  xy: 556, 16
+  size: 112, 113
+  orig: 200, 345
+  offset: 50, 2
+  index: -1
+long_04
+  rotate: false
+  xy: 317, 118
+  size: 132, 155
+  orig: 200, 345
+  offset: 66, 5
+  index: -1
+long_05
+  rotate: true
+  xy: 2, 79
+  size: 113, 200
+  orig: 200, 345
+  offset: 75, 8
+  index: -1
+long_06
+  rotate: false
+  xy: 289, 275
+  size: 156, 257
+  orig: 200, 345
+  offset: 44, 4
+  index: -1
+long_07
+  rotate: false
+  xy: 582, 320
+  size: 132, 212
+  orig: 200, 345
+  offset: 46, 21
+  index: -1
+long_08
+  rotate: false
+  xy: 133, 264
+  size: 154, 268
+  orig: 200, 345
+  offset: 24, 0
+  index: -1
+long_09
+  rotate: false
+  xy: 2, 194
+  size: 129, 338
+  orig: 200, 345
+  offset: 10, 7
+  index: -1
+long_10
+  rotate: false
+  xy: 447, 282
+  size: 133, 250
+  orig: 200, 345
+  offset: 0, 9
+  index: -1
+long_11
+  rotate: false
+  xy: 204, 95
+  size: 111, 167
+  orig: 200, 345
+  offset: 27, 7
+  index: -1
+long_12
+  rotate: true
+  xy: 2, 10
+  size: 67, 109
+  orig: 200, 345
+  offset: 76, 8
+  index: -1
+shan
+  rotate: false
+  xy: 451, 126
+  size: 79, 34
+  orig: 79, 34
+  offset: 0, 0
+  index: -1
+shandi
+  rotate: true
+  xy: 716, 322
+  size: 210, 28
+  orig: 210, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+effect_ui_xunbao_touzi.png
+size: 116,162
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 122
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 2, 82
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 40, 122
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 2, 42
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 40, 82
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 78, 122
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+cdjh_1
+  rotate: false
+  xy: 2, 2
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+cdjh_2
+  rotate: false
+  xy: 40, 42
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+cdjh_3
+  rotate: false
+  xy: 78, 82
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+cdjh_4
+  rotate: false
+  xy: 40, 2
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+cdjh_5
+  rotate: false
+  xy: 78, 42
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+cdjh_6
+  rotate: false
+  xy: 78, 2
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1

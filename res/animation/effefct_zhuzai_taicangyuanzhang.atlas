@@ -1,0 +1,139 @@
+
+effefct_zhuzai_taicangyuanzhang.png
+size: 563,552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: false
+  xy: 464, 291
+  size: 96, 94
+  orig: 111, 102
+  offset: 15, 0
+  index: -1
+bao_02
+  rotate: false
+  xy: 455, 467
+  size: 102, 83
+  orig: 111, 102
+  offset: 3, 17
+  index: -1
+bao_03
+  rotate: false
+  xy: 464, 387
+  size: 97, 78
+  orig: 111, 102
+  offset: 0, 24
+  index: -1
+bao_04
+  rotate: true
+  xy: 487, 46
+  size: 90, 73
+  orig: 111, 102
+  offset: 0, 29
+  index: -1
+bo
+  rotate: true
+  xy: 142, 175
+  size: 179, 150
+  orig: 179, 150
+  offset: 0, 0
+  index: -1
+ci_01
+  rotate: true
+  xy: 411, 138
+  size: 119, 130
+  orig: 144, 212
+  offset: 10, 11
+  index: -1
+ci_02
+  rotate: false
+  xy: 2, 340
+  size: 134, 210
+  orig: 144, 212
+  offset: 3, 2
+  index: -1
+ci_03
+  rotate: false
+  xy: 2, 128
+  size: 138, 210
+  orig: 144, 212
+  offset: 1, 2
+  index: -1
+ci_04
+  rotate: false
+  xy: 138, 356
+  size: 130, 194
+  orig: 144, 212
+  offset: 9, 2
+  index: -1
+ci_05
+  rotate: true
+  xy: 2, 7
+  size: 119, 209
+  orig: 144, 212
+  offset: 8, 2
+  index: -1
+ci_06
+  rotate: false
+  xy: 362, 259
+  size: 100, 142
+  orig: 144, 212
+  offset: 10, 0
+  index: -1
+di_01
+  rotate: true
+  xy: 339, 403
+  size: 147, 52
+  orig: 174, 69
+  offset: 15, 5
+  index: -1
+di_02
+  rotate: true
+  xy: 213, 11
+  size: 162, 59
+  orig: 174, 69
+  offset: 6, 4
+  index: -1
+di_03
+  rotate: true
+  xy: 270, 376
+  size: 174, 67
+  orig: 174, 69
+  offset: 0, 0
+  index: -1
+di_04
+  rotate: true
+  xy: 294, 221
+  size: 153, 66
+  orig: 174, 69
+  offset: 15, 3
+  index: -1
+di_05
+  rotate: true
+  xy: 274, 18
+  size: 155, 66
+  orig: 174, 69
+  offset: 14, 2
+  index: -1
+di_06
+  rotate: true
+  xy: 342, 72
+  size: 147, 67
+  orig: 174, 69
+  offset: 18, 1
+  index: -1
+di_07
+  rotate: false
+  xy: 342, 2
+  size: 143, 68
+  orig: 174, 69
+  offset: 21, 1
+  index: -1
+di_08
+  rotate: true
+  xy: 393, 408
+  size: 142, 60
+  orig: 174, 69
+  offset: 23, 4
+  index: -1

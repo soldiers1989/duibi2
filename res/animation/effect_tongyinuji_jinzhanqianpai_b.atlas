@@ -1,0 +1,76 @@
+
+effect_tongyinuji_jinzhanqianpai_b.png
+size: 555,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: false
+  xy: 464, 21
+  size: 89, 112
+  orig: 105, 163
+  offset: 10, 0
+  index: -1
+bao_02
+  rotate: true
+  xy: 317, 3
+  size: 101, 145
+  orig: 105, 163
+  offset: 2, 0
+  index: -1
+bao_03
+  rotate: true
+  xy: 161, 2
+  size: 102, 154
+  orig: 105, 163
+  offset: 1, 0
+  index: -1
+bao_04
+  rotate: true
+  xy: 2, 100
+  size: 104, 157
+  orig: 105, 163
+  offset: 1, 0
+  index: -1
+bao_05
+  rotate: false
+  xy: 447, 135
+  size: 105, 163
+  orig: 105, 163
+  offset: 0, 0
+  index: -1
+bao_06
+  rotate: true
+  xy: 245, 106
+  size: 105, 163
+  orig: 105, 163
+  offset: 0, 0
+  index: -1
+jinzhan_qianpai_a_01
+  rotate: false
+  xy: 161, 151
+  size: 58, 53
+  orig: 100, 278
+  offset: 27, 225
+  index: -1
+jinzhan_qianpai_a_02
+  rotate: true
+  xy: 2, 206
+  size: 92, 241
+  orig: 100, 278
+  offset: 0, 7
+  index: -1
+jinzhan_qianpai_a_03
+  rotate: true
+  xy: 245, 213
+  size: 85, 200
+  orig: 100, 278
+  offset: 7, 3
+  index: -1
+jinzhan_qianpai_a_04
+  rotate: true
+  xy: 2, 19
+  size: 79, 141
+  orig: 100, 278
+  offset: 21, 0
+  index: -1

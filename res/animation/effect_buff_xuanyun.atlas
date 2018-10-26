@@ -1,0 +1,90 @@
+
+effect_buff_xuanyun.png
+size: 1525,71
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_buff_xuanyun_01
+  rotate: false
+  xy: 396, 12
+  size: 128, 57
+  orig: 161, 92
+  offset: 14, 17
+  index: -1
+effect_buff_xuanyun_02
+  rotate: false
+  xy: 654, 10
+  size: 124, 59
+  orig: 161, 92
+  offset: 21, 17
+  index: -1
+effect_buff_xuanyun_03
+  rotate: false
+  xy: 780, 7
+  size: 124, 62
+  orig: 161, 92
+  offset: 21, 19
+  index: -1
+effect_buff_xuanyun_04
+  rotate: false
+  xy: 1156, 3
+  size: 121, 66
+  orig: 161, 92
+  offset: 21, 15
+  index: -1
+effect_buff_xuanyun_05
+  rotate: false
+  xy: 1279, 2
+  size: 121, 67
+  orig: 161, 92
+  offset: 21, 12
+  index: -1
+effect_buff_xuanyun_06
+  rotate: false
+  xy: 134, 10
+  size: 129, 59
+  orig: 161, 92
+  offset: 21, 13
+  index: -1
+effect_buff_xuanyun_07
+  rotate: false
+  xy: 526, 13
+  size: 126, 56
+  orig: 161, 92
+  offset: 21, 15
+  index: -1
+effect_buff_xuanyun_08
+  rotate: false
+  xy: 265, 9
+  size: 129, 60
+  orig: 161, 92
+  offset: 13, 17
+  index: -1
+effect_buff_xuanyun_09
+  rotate: false
+  xy: 2, 12
+  size: 130, 57
+  orig: 161, 92
+  offset: 12, 18
+  index: -1
+effect_buff_xuanyun_10
+  rotate: false
+  xy: 1032, 8
+  size: 122, 61
+  orig: 161, 92
+  offset: 21, 17
+  index: -1
+effect_buff_xuanyun_11
+  rotate: false
+  xy: 906, 7
+  size: 124, 62
+  orig: 161, 92
+  offset: 21, 19
+  index: -1
+effect_buff_xuanyun_12
+  rotate: false
+  xy: 1402, 2
+  size: 121, 67
+  orig: 161, 92
+  offset: 21, 14
+  index: -1

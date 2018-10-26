@@ -1,0 +1,146 @@
+
+effect_wangxie_youmingtianzun_nuji.png
+size: 861,594
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: false
+  xy: 758, 198
+  size: 101, 108
+  orig: 138, 147
+  offset: 19, 18
+  index: -1
+bao_02
+  rotate: true
+  xy: 172, 3
+  size: 132, 135
+  orig: 138, 147
+  offset: 3, 7
+  index: -1
+bao_03
+  rotate: false
+  xy: 618, 2
+  size: 137, 145
+  orig: 138, 147
+  offset: 1, 2
+  index: -1
+bao_04
+  rotate: false
+  xy: 320, 141
+  size: 138, 147
+  orig: 138, 147
+  offset: 0, 0
+  index: -1
+bao_05
+  rotate: true
+  xy: 320, 2
+  size: 137, 147
+  orig: 138, 147
+  offset: 1, 0
+  index: -1
+bao_06
+  rotate: true
+  xy: 554, 289
+  size: 138, 147
+  orig: 138, 147
+  offset: 0, 0
+  index: -1
+bao_07
+  rotate: true
+  xy: 460, 149
+  size: 138, 147
+  orig: 138, 147
+  offset: 0, 0
+  index: -1
+bao_08
+  rotate: true
+  xy: 469, 9
+  size: 138, 147
+  orig: 138, 147
+  offset: 0, 0
+  index: -1
+bao_09
+  rotate: true
+  xy: 609, 149
+  size: 138, 147
+  orig: 138, 147
+  offset: 0, 0
+  index: -1
+bao_10
+  rotate: false
+  xy: 703, 308
+  size: 115, 119
+  orig: 138, 147
+  offset: 13, 10
+  index: -1
+dian_01
+  rotate: false
+  xy: 368, 298
+  size: 116, 122
+  orig: 184, 184
+  offset: 35, 29
+  index: -1
+dian_02
+  rotate: false
+  xy: 172, 137
+  size: 146, 151
+  orig: 184, 184
+  offset: 22, 17
+  index: -1
+dian_03
+  rotate: false
+  xy: 554, 429
+  size: 159, 163
+  orig: 184, 184
+  offset: 15, 11
+  index: -1
+dian_04
+  rotate: false
+  xy: 386, 425
+  size: 166, 167
+  orig: 184, 184
+  offset: 9, 9
+  index: -1
+dian_05
+  rotate: false
+  xy: 214, 422
+  size: 170, 170
+  orig: 184, 184
+  offset: 7, 7
+  index: -1
+dian_06
+  rotate: false
+  xy: 2, 204
+  size: 168, 171
+  orig: 184, 184
+  offset: 10, 6
+  index: -1
+dian_07
+  rotate: false
+  xy: 2, 35
+  size: 168, 167
+  orig: 184, 184
+  offset: 10, 11
+  index: -1
+guang
+  rotate: false
+  xy: 2, 377
+  size: 210, 215
+  orig: 211, 216
+  offset: 1, 1
+  index: -1
+heizhang
+  rotate: false
+  xy: 715, 440
+  size: 130, 152
+  orig: 130, 152
+  offset: 0, 0
+  index: -1
+hongzhang
+  rotate: true
+  xy: 214, 290
+  size: 130, 152
+  orig: 130, 152
+  offset: 0, 0
+  index: -1

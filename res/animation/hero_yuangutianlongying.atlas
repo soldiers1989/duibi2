@@ -1,0 +1,279 @@
+
+hero_yuangutianlongying.png
+size: 709,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L _wing1
+  rotate: true
+  xy: 152, 89
+  size: 98, 176
+  orig: 98, 176
+  offset: 0, 0
+  index: -1
+L _zhua
+  rotate: true
+  xy: 658, 40
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+L_ shoulder
+  rotate: true
+  xy: 500, 2
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+L_ wing2
+  rotate: true
+  xy: 152, 5
+  size: 82, 120
+  orig: 82, 120
+  offset: 0, 0
+  index: -1
+L_zhua01
+  rotate: false
+  xy: 500, 24
+  size: 40, 45
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+bu
+  rotate: false
+  xy: 421, 2
+  size: 37, 53
+  orig: 37, 53
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 496, 155
+  size: 138, 112
+  orig: 138, 112
+  offset: 0, 0
+  index: -1
+chest02
+  rotate: false
+  xy: 338, 117
+  size: 156, 150
+  orig: 156, 150
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 477, 2
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 636, 153
+  size: 114, 71
+  orig: 114, 71
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 609, 45
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+r _wing2
+  rotate: false
+  xy: 496, 71
+  size: 111, 82
+  orig: 111, 82
+  offset: 0, 0
+  index: -1
+r_ shoulder
+  rotate: false
+  xy: 653, 2
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+r_ shoulder 1
+  rotate: true
+  xy: 274, 49
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: -1
+r_ wing1
+  rotate: false
+  xy: 2, 45
+  size: 148, 222
+  orig: 148, 222
+  offset: 0, 0
+  index: -1
+r_zhua01
+  rotate: true
+  xy: 81, 2
+  size: 41, 61
+  orig: 41, 61
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 152, 189
+  size: 184, 78
+  orig: 184, 78
+  offset: 0, 0
+  index: -1
+tail01
+  rotate: false
+  xy: 330, 26
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+tx1_1
+  rotate: false
+  xy: 364, 7
+  size: 14, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+tx1_2
+  rotate: true
+  xy: 587, 46
+  size: 23, 20
+  orig: 23, 21
+  offset: 0, 1
+  index: -1
+tx1_3
+  rotate: true
+  xy: 322, 2
+  size: 22, 17
+  orig: 23, 18
+  offset: 0, 1
+  index: -1
+tx1_4
+  rotate: true
+  xy: 460, 3
+  size: 12, 15
+  orig: 14, 16
+  offset: 1, 0
+  index: -1
+tx1_5
+  rotate: true
+  xy: 2, 2
+  size: 10, 11
+  orig: 12, 13
+  offset: 1, 1
+  index: -1
+tx2
+  rotate: false
+  xy: 587, 13
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+tx3_1
+  rotate: false
+  xy: 380, 7
+  size: 17, 17
+  orig: 23, 23
+  offset: 3, 3
+  index: -1
+tx3_2
+  rotate: false
+  xy: 528, 2
+  size: 19, 20
+  orig: 23, 23
+  offset: 2, 1
+  index: -1
+tx3_3
+  rotate: false
+  xy: 341, 3
+  size: 21, 21
+  orig: 23, 23
+  offset: 1, 1
+  index: -1
+tx4_1
+  rotate: true
+  xy: 678, 3
+  size: 35, 15
+  orig: 35, 16
+  offset: 0, 1
+  index: -1
+tx4_2
+  rotate: true
+  xy: 477, 78
+  size: 37, 14
+  orig: 38, 16
+  offset: 1, 1
+  index: -1
+tx4_3
+  rotate: true
+  xy: 626, 6
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+tx5_1
+  rotate: true
+  xy: 2, 14
+  size: 29, 77
+  orig: 31, 80
+  offset: 1, 0
+  index: -1
+tx5_2
+  rotate: false
+  xy: 421, 57
+  size: 35, 58
+  orig: 35, 58
+  offset: 0, 0
+  index: -1
+tx5_3
+  rotate: false
+  xy: 542, 33
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+tx5_4
+  rotate: false
+  xy: 274, 8
+  size: 46, 20
+  orig: 46, 20
+  offset: 0, 0
+  index: -1
+tx5_5
+  rotate: true
+  xy: 458, 65
+  size: 50, 17
+  orig: 51, 19
+  offset: 1, 1
+  index: -1
+tx5_6
+  rotate: false
+  xy: 274, 30
+  size: 51, 17
+  orig: 53, 17
+  offset: 1, 0
+  index: -1
+tx5_7
+  rotate: true
+  xy: 330, 138
+  size: 49, 6
+  orig: 53, 8
+  offset: 2, 1
+  index: -1
+tx7
+  rotate: true
+  xy: 609, 80
+  size: 71, 96
+  orig: 71, 96
+  offset: 0, 0
+  index: -1
+zhua1
+  rotate: true
+  xy: 460, 17
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1

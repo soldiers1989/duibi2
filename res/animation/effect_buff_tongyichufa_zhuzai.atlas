@@ -1,0 +1,195 @@
+
+effect_buff_tongyichufa_zhuzai.png
+size: 1795,409
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: true
+  xy: 372, 2
+  size: 111, 95
+  orig: 232, 233
+  offset: 59, 28
+  index: -1
+bao_02
+  rotate: true
+  xy: 1128, 4
+  size: 137, 132
+  orig: 232, 233
+  offset: 47, 34
+  index: -1
+bao_03
+  rotate: false
+  xy: 1646, 145
+  size: 143, 142
+  orig: 232, 233
+  offset: 44, 37
+  index: -1
+bao_04
+  rotate: true
+  xy: 1496, 257
+  size: 150, 148
+  orig: 232, 233
+  offset: 40, 40
+  index: -1
+bao_05
+  rotate: false
+  xy: 983, 4
+  size: 143, 134
+  orig: 232, 233
+  offset: 44, 47
+  index: -1
+di_01
+  rotate: true
+  xy: 1607, 2
+  size: 28, 33
+  orig: 200, 98
+  offset: 87, 25
+  index: -1
+di_02
+  rotate: true
+  xy: 469, 20
+  size: 93, 45
+  orig: 200, 98
+  offset: 60, 19
+  index: -1
+di_03
+  rotate: true
+  xy: 1558, 26
+  size: 117, 47
+  orig: 200, 98
+  offset: 47, 17
+  index: -1
+di_04
+  rotate: false
+  xy: 1518, 177
+  size: 125, 45
+  orig: 200, 98
+  offset: 42, 17
+  index: -1
+di_05
+  rotate: true
+  xy: 1518, 16
+  size: 127, 38
+  orig: 200, 98
+  offset: 39, 19
+  index: -1
+di_06
+  rotate: false
+  xy: 1518, 224
+  size: 126, 31
+  orig: 200, 98
+  offset: 39, 20
+  index: -1
+guang
+  rotate: true
+  xy: 1067, 143
+  size: 264, 210
+  orig: 376, 298
+  offset: 56, 44
+  index: -1
+xishou_01
+  rotate: true
+  xy: 1703, 39
+  size: 104, 74
+  orig: 378, 315
+  offset: 54, 202
+  index: -1
+xishou_02
+  rotate: false
+  xy: 1646, 289
+  size: 147, 118
+  orig: 378, 315
+  offset: 57, 176
+  index: -1
+xishou_03
+  rotate: true
+  xy: 1279, 2
+  size: 157, 118
+  orig: 378, 315
+  offset: 41, 153
+  index: -1
+xishou_04
+  rotate: true
+  xy: 1399, 5
+  size: 154, 117
+  orig: 378, 315
+  offset: 50, 127
+  index: -1
+xishou_05
+  rotate: false
+  xy: 533, 3
+  size: 227, 125
+  orig: 378, 315
+  offset: 55, 116
+  index: -1
+xishou_06
+  rotate: true
+  xy: 2, 94
+  size: 313, 198
+  orig: 378, 315
+  offset: 40, 23
+  index: -1
+xishou_07
+  rotate: true
+  xy: 868, 140
+  size: 267, 197
+  orig: 378, 315
+  offset: 61, 48
+  index: -1
+xishou_08
+  rotate: true
+  xy: 1279, 161
+  size: 246, 215
+  orig: 378, 315
+  offset: 38, 65
+  index: -1
+xishou_09
+  rotate: true
+  xy: 202, 115
+  size: 292, 143
+  orig: 378, 315
+  offset: 46, 107
+  index: -1
+xishou_10
+  rotate: true
+  xy: 533, 130
+  size: 277, 166
+  orig: 378, 315
+  offset: 39, 75
+  index: -1
+xishou_11
+  rotate: true
+  xy: 347, 115
+  size: 292, 184
+  orig: 378, 315
+  offset: 45, 62
+  index: -1
+xishou_12
+  rotate: true
+  xy: 701, 139
+  size: 268, 165
+  orig: 378, 315
+  offset: 29, 53
+  index: -1
+xishou_13
+  rotate: false
+  xy: 762, 5
+  size: 219, 132
+  orig: 378, 315
+  offset: 47, 85
+  index: -1
+xishou_14
+  rotate: false
+  xy: 202, 2
+  size: 168, 111
+  orig: 378, 315
+  offset: 59, 111
+  index: -1
+xishou_15
+  rotate: true
+  xy: 1607, 32
+  size: 111, 94
+  orig: 378, 315
+  offset: 77, 102
+  index: -1

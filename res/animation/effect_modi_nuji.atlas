@@ -1,0 +1,83 @@
+
+effect_modi_nuji.png
+size: 439,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhuazi_01
+  rotate: true
+  xy: 331, 103
+  size: 118, 85
+  orig: 232, 205
+  offset: 7, 64
+  index: -1
+zhuazi_02
+  rotate: true
+  xy: 331, 223
+  size: 120, 106
+  orig: 232, 205
+  offset: 6, 64
+  index: -1
+zhuazi_03
+  rotate: false
+  xy: 329, 73
+  size: 87, 28
+  orig: 232, 205
+  offset: 48, 90
+  index: -1
+zhuazi_04
+  rotate: false
+  xy: 329, 24
+  size: 87, 47
+  orig: 232, 205
+  offset: 48, 82
+  index: -1
+zhuazi_05
+  rotate: true
+  xy: 342, 384
+  size: 146, 69
+  orig: 232, 205
+  offset: 0, 71
+  index: -1
+zhuazi_06
+  rotate: true
+  xy: 172, 2
+  size: 146, 155
+  orig: 232, 205
+  offset: 71, 22
+  index: -1
+zhuazi_07
+  rotate: false
+  xy: 2, 335
+  size: 169, 195
+  orig: 232, 205
+  offset: 63, 10
+  index: -1
+zhuazi_08
+  rotate: false
+  xy: 2, 140
+  size: 168, 193
+  orig: 232, 205
+  offset: 64, 12
+  index: -1
+zhuazi_09
+  rotate: false
+  xy: 173, 345
+  size: 167, 185
+  orig: 232, 205
+  offset: 65, 0
+  index: -1
+zhuazi_10
+  rotate: false
+  xy: 172, 150
+  size: 157, 183
+  orig: 232, 205
+  offset: 70, 1
+  index: -1
+zhuazi_11
+  rotate: false
+  xy: 2, 9
+  size: 144, 129
+  orig: 232, 205
+  offset: 76, 12
+  index: -1

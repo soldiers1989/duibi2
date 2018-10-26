@@ -1,0 +1,48 @@
+
+effect_wangxie_xitianzhanhuang_jinzhan.png
+size: 1100,229
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: true
+  xy: 958, 31
+  size: 196, 140
+  orig: 234, 230
+  offset: 22, 39
+  index: -1
+bao_02
+  rotate: true
+  xy: 656, 14
+  size: 213, 183
+  orig: 234, 230
+  offset: 14, 19
+  index: -1
+bao_03
+  rotate: false
+  xy: 2, 29
+  size: 230, 198
+  orig: 234, 230
+  offset: 3, 14
+  index: -1
+bao_04
+  rotate: true
+  xy: 448, 4
+  size: 223, 206
+  orig: 234, 230
+  offset: 9, 11
+  index: -1
+bao_05
+  rotate: true
+  xy: 234, 2
+  size: 225, 212
+  orig: 234, 230
+  offset: 9, 9
+  index: -1
+bao_06
+  rotate: false
+  xy: 841, 14
+  size: 115, 213
+  orig: 234, 230
+  offset: 57, 9
+  index: -1

@@ -1,0 +1,13 @@
+
+effect_ui_zhuangbeizhuzao.png
+size: 174,53
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 2, 2
+  size: 170, 49
+  orig: 178, 72
+  offset: 4, 12
+  index: -1

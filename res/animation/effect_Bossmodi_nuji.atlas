@@ -1,0 +1,188 @@
+
+effect_Bossmodi_nuji.png
+size: 1790,481
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huobao_01
+  rotate: false
+  xy: 1254, 295
+  size: 140, 184
+  orig: 210, 222
+  offset: 25, 10
+  index: -1
+huobao_02
+  rotate: false
+  xy: 909, 270
+  size: 159, 209
+  orig: 210, 222
+  offset: 9, 0
+  index: -1
+huobao_03
+  rotate: false
+  xy: 913, 61
+  size: 176, 207
+  orig: 210, 222
+  offset: 4, 5
+  index: -1
+huobao_04
+  rotate: false
+  xy: 1070, 272
+  size: 182, 207
+  orig: 210, 222
+  offset: 2, 7
+  index: -1
+huobao_05
+  rotate: false
+  xy: 726, 46
+  size: 185, 213
+  orig: 210, 222
+  offset: 1, 5
+  index: -1
+huobao_06
+  rotate: false
+  xy: 544, 261
+  size: 196, 218
+  orig: 210, 222
+  offset: 0, 2
+  index: -1
+huobao_07
+  rotate: false
+  xy: 342, 30
+  size: 191, 220
+  orig: 210, 222
+  offset: 10, 2
+  index: -1
+quanfeng_01
+  rotate: false
+  xy: 726, 2
+  size: 108, 42
+  orig: 157, 160
+  offset: 22, 118
+  index: -1
+quanfeng_02
+  rotate: true
+  xy: 2, 6
+  size: 130, 158
+  orig: 157, 160
+  offset: 12, 0
+  index: -1
+quanfeng_03
+  rotate: false
+  xy: 1264, 136
+  size: 131, 157
+  orig: 157, 160
+  offset: 11, 3
+  index: -1
+quanfeng_04
+  rotate: true
+  xy: 1642, 332
+  size: 147, 146
+  orig: 157, 160
+  offset: 6, 12
+  index: -1
+quanfeng_05
+  rotate: true
+  xy: 1646, 73
+  size: 108, 139
+  orig: 157, 160
+  offset: 22, 8
+  index: -1
+quanfeng_06
+  rotate: false
+  xy: 1515, 331
+  size: 125, 148
+  orig: 157, 160
+  offset: 10, 4
+  index: -1
+quanfeng_07
+  rotate: true
+  xy: 1642, 183
+  size: 147, 136
+  orig: 157, 160
+  offset: 6, 17
+  index: -1
+quanfeng_08
+  rotate: false
+  xy: 1529, 183
+  size: 107, 146
+  orig: 157, 160
+  offset: 23, 6
+  index: -1
+quanfeng_09
+  rotate: false
+  xy: 1506, 30
+  size: 138, 140
+  orig: 157, 160
+  offset: 8, 13
+  index: -1
+quanfeng_10
+  rotate: true
+  xy: 1397, 172
+  size: 151, 130
+  orig: 157, 160
+  offset: 2, 23
+  index: -1
+quanfeng_11
+  rotate: false
+  xy: 1264, 5
+  size: 154, 129
+  orig: 157, 160
+  offset: 0, 25
+  index: -1
+quanfeng_12
+  rotate: true
+  xy: 1396, 325
+  size: 154, 117
+  orig: 157, 160
+  offset: 1, 25
+  index: -1
+quanfeng_13
+  rotate: true
+  xy: 1420, 23
+  size: 147, 84
+  orig: 157, 160
+  offset: 9, 25
+  index: -1
+xishou_01
+  rotate: false
+  xy: 162, 3
+  size: 158, 133
+  orig: 338, 341
+  offset: 87, 110
+  index: -1
+xishou_02
+  rotate: true
+  xy: 742, 267
+  size: 212, 165
+  orig: 338, 341
+  offset: 60, 94
+  index: -1
+xishou_03
+  rotate: true
+  xy: 342, 252
+  size: 227, 200
+  orig: 338, 341
+  offset: 60, 74
+  index: -1
+xishou_04
+  rotate: true
+  xy: 535, 30
+  size: 220, 189
+  orig: 338, 341
+  offset: 60, 80
+  index: -1
+xishou_05
+  rotate: true
+  xy: 1091, 65
+  size: 205, 171
+  orig: 338, 341
+  offset: 65, 89
+  index: -1
+xishou_06
+  rotate: false
+  xy: 2, 138
+  size: 338, 341
+  orig: 338, 341
+  offset: 0, 0
+  index: -1

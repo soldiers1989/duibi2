@@ -1,0 +1,391 @@
+
+effect_luoshenshizhuang_nuji.png
+size: 1524,278
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baodian_0001
+  rotate: false
+  xy: 1445, 216
+  size: 77, 60
+  orig: 167, 163
+  offset: 48, 40
+  index: -1
+baodian_0002
+  rotate: false
+  xy: 1216, 184
+  size: 77, 92
+  orig: 167, 163
+  offset: 48, 34
+  index: -1
+baodian_0003
+  rotate: true
+  xy: 929, 174
+  size: 102, 100
+  orig: 167, 163
+  offset: 33, 28
+  index: -1
+baodian_0004
+  rotate: true
+  xy: 835, 170
+  size: 106, 92
+  orig: 167, 163
+  offset: 32, 34
+  index: -1
+baodian_0005
+  rotate: true
+  xy: 629, 167
+  size: 109, 97
+  orig: 167, 163
+  offset: 28, 32
+  index: -1
+baodian_0006
+  rotate: true
+  xy: 673, 57
+  size: 108, 97
+  orig: 167, 163
+  offset: 28, 32
+  index: -1
+baodian_0007
+  rotate: true
+  xy: 456, 45
+  size: 114, 107
+  orig: 167, 163
+  offset: 25, 31
+  index: -1
+baodian_0008
+  rotate: true
+  xy: 519, 163
+  size: 113, 108
+  orig: 167, 163
+  offset: 26, 30
+  index: -1
+baodian_0009
+  rotate: true
+  xy: 565, 48
+  size: 113, 106
+  orig: 167, 163
+  offset: 27, 31
+  index: -1
+baodian_0010
+  rotate: true
+  xy: 411, 161
+  size: 115, 106
+  orig: 167, 163
+  offset: 25, 31
+  index: -1
+baodian_0011
+  rotate: true
+  xy: 879, 62
+  size: 106, 103
+  orig: 167, 163
+  offset: 33, 33
+  index: -1
+baodian_0012
+  rotate: false
+  xy: 728, 168
+  size: 105, 108
+  orig: 167, 163
+  offset: 30, 37
+  index: -1
+baodian_0013
+  rotate: false
+  xy: 772, 58
+  size: 105, 108
+  orig: 167, 163
+  offset: 30, 37
+  index: -1
+baodian_0014
+  rotate: false
+  xy: 298, 160
+  size: 111, 116
+  orig: 167, 163
+  offset: 27, 34
+  index: -1
+baodian_0015
+  rotate: false
+  xy: 343, 42
+  size: 111, 116
+  orig: 167, 163
+  offset: 27, 34
+  index: -1
+baodian_0016
+  rotate: false
+  xy: 2, 153
+  size: 113, 123
+  orig: 167, 163
+  offset: 26, 30
+  index: -1
+baodian_0017
+  rotate: false
+  xy: 2, 28
+  size: 113, 123
+  orig: 167, 163
+  offset: 26, 30
+  index: -1
+baodian_0018
+  rotate: false
+  xy: 190, 33
+  size: 89, 120
+  orig: 167, 163
+  offset: 38, 28
+  index: -1
+baodian_0019
+  rotate: false
+  xy: 207, 156
+  size: 89, 120
+  orig: 167, 163
+  offset: 38, 28
+  index: -1
+baodian_0020
+  rotate: false
+  xy: 879, 2
+  size: 65, 58
+  orig: 167, 163
+  offset: 59, 28
+  index: -1
+baodian_0021
+  rotate: false
+  xy: 1086, 75
+  size: 72, 98
+  orig: 167, 163
+  offset: 53, 36
+  index: -1
+dandao1_0001
+  rotate: true
+  xy: 1452, 51
+  size: 52, 49
+  orig: 122, 145
+  offset: 0, 31
+  index: -1
+dandao1_0002
+  rotate: false
+  xy: 1387, 39
+  size: 63, 64
+  orig: 122, 145
+  offset: 0, 31
+  index: -1
+dandao1_0003
+  rotate: false
+  xy: 1445, 141
+  size: 77, 73
+  orig: 122, 145
+  offset: 0, 31
+  index: -1
+dandao1_0004
+  rotate: false
+  xy: 1184, 2
+  size: 91, 75
+  orig: 122, 145
+  offset: 1, 43
+  index: -1
+dandao1_0005
+  rotate: false
+  xy: 1086, 2
+  size: 96, 71
+  orig: 122, 145
+  offset: 6, 52
+  index: -1
+dandao1_0006
+  rotate: false
+  xy: 984, 9
+  size: 75, 59
+  orig: 122, 145
+  offset: 27, 67
+  index: -1
+dandao1_0007
+  rotate: false
+  xy: 673, 4
+  size: 85, 51
+  orig: 122, 145
+  offset: 19, 75
+  index: -1
+dandao1_0008
+  rotate: false
+  xy: 456, 3
+  size: 85, 40
+  orig: 122, 145
+  offset: 19, 86
+  index: -1
+dandao1_0009
+  rotate: false
+  xy: 339, 7
+  size: 90, 25
+  orig: 122, 145
+  offset: 14, 101
+  index: -1
+dandao1_0010
+  rotate: true
+  xy: 1277, 8
+  size: 85, 29
+  orig: 122, 145
+  offset: 14, 97
+  index: -1
+dandao1_0011
+  rotate: false
+  xy: 117, 155
+  size: 88, 121
+  orig: 122, 145
+  offset: 14, 4
+  index: -1
+dandao1_0012
+  rotate: false
+  xy: 281, 34
+  size: 60, 120
+  orig: 122, 145
+  offset: 51, 4
+  index: -1
+dandao1_0013
+  rotate: false
+  xy: 117, 32
+  size: 40, 121
+  orig: 122, 145
+  offset: 71, 3
+  index: -1
+dandao1_0014
+  rotate: false
+  xy: 159, 32
+  size: 29, 121
+  orig: 122, 145
+  offset: 81, 2
+  index: -1
+dandao1_0015
+  rotate: true
+  xy: 117, 2
+  size: 28, 118
+  orig: 122, 145
+  offset: 82, 2
+  index: -1
+dandao1_0016
+  rotate: true
+  xy: 237, 3
+  size: 28, 100
+  orig: 122, 145
+  offset: 82, 2
+  index: -1
+dandao1_0017
+  rotate: true
+  xy: 2, 5
+  size: 21, 77
+  orig: 122, 145
+  offset: 82, 2
+  index: -1
+dandao2_0001
+  rotate: true
+  xy: 831, 16
+  size: 40, 43
+  orig: 122, 145
+  offset: 13, 48
+  index: -1
+dandao2_0002
+  rotate: true
+  xy: 616, 5
+  size: 41, 50
+  orig: 122, 145
+  offset: 11, 41
+  index: -1
+dandao2_0003
+  rotate: true
+  xy: 1320, 113
+  size: 78, 72
+  orig: 122, 145
+  offset: 10, 38
+  index: -1
+dandao2_0004
+  rotate: true
+  xy: 1295, 193
+  size: 83, 73
+  orig: 122, 145
+  offset: 11, 38
+  index: -1
+dandao2_0005
+  rotate: true
+  xy: 1246, 95
+  size: 87, 72
+  orig: 122, 145
+  offset: 11, 37
+  index: -1
+dandao2_0006
+  rotate: false
+  xy: 1031, 175
+  size: 87, 101
+  orig: 122, 145
+  offset: 11, 38
+  index: -1
+dandao2_0007
+  rotate: false
+  xy: 1160, 79
+  size: 84, 97
+  orig: 122, 145
+  offset: 14, 43
+  index: -1
+dandao2_0008
+  rotate: true
+  xy: 1308, 9
+  size: 84, 77
+  orig: 122, 145
+  offset: 13, 64
+  index: -1
+dandao2_0009
+  rotate: true
+  xy: 1370, 198
+  size: 78, 73
+  orig: 122, 145
+  offset: 14, 67
+  index: -1
+dandao2_0010
+  rotate: true
+  xy: 1387, 5
+  size: 32, 62
+  orig: 122, 145
+  offset: 15, 78
+  index: -1
+dandao2_0011
+  rotate: false
+  xy: 984, 70
+  size: 100, 102
+  orig: 122, 145
+  offset: 15, 37
+  index: -1
+dandao2_0012
+  rotate: true
+  xy: 1120, 178
+  size: 98, 94
+  orig: 122, 145
+  offset: 18, 42
+  index: -1
+dandao2_0013
+  rotate: true
+  xy: 1394, 126
+  size: 70, 46
+  orig: 122, 145
+  offset: 46, 48
+  index: -1
+dandao2_0014
+  rotate: false
+  xy: 760, 13
+  size: 69, 42
+  orig: 122, 145
+  offset: 46, 49
+  index: -1
+dandao2_0015
+  rotate: false
+  xy: 543, 5
+  size: 71, 38
+  orig: 122, 145
+  offset: 45, 54
+  index: -1
+dandao2_0016
+  rotate: false
+  xy: 1442, 105
+  size: 69, 34
+  orig: 122, 145
+  offset: 46, 58
+  index: -1
+dandao2_0017
+  rotate: false
+  xy: 1451, 10
+  size: 62, 27
+  orig: 122, 145
+  offset: 49, 62
+  index: -1

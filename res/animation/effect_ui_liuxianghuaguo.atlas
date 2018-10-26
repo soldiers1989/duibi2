@@ -1,0 +1,20 @@
+
+effect_ui_liuxianghuaguo.png
+size: 145,24
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shan
+  rotate: false
+  xy: 2, 2
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+xian
+  rotate: true
+  xy: 2, 16
+  size: 6, 141
+  orig: 6, 144
+  offset: 0, 3
+  index: -1

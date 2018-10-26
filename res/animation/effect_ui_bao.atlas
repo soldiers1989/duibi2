@@ -1,0 +1,62 @@
+
+effect_ui_bao.png
+size: 824,607
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baibai
+  rotate: false
+  xy: 641, 51
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+cheng
+  rotate: false
+  xy: 340, 358
+  size: 245, 247
+  orig: 245, 247
+  offset: 0, 0
+  index: -1
+effect_ui_bao_01
+  rotate: false
+  xy: 2, 9
+  size: 223, 258
+  orig: 248, 272
+  offset: 13, 5
+  index: -1
+effect_ui_bao_02
+  rotate: true
+  xy: 432, 2
+  size: 215, 207
+  orig: 272, 248
+  offset: 31, 18
+  index: -1
+effect_ui_bao_03
+  rotate: false
+  xy: 587, 219
+  size: 226, 192
+  orig: 272, 248
+  offset: 25, 31
+  index: -1
+effect_ui_bao_04
+  rotate: false
+  xy: 587, 413
+  size: 235, 192
+  orig: 272, 248
+  offset: 25, 33
+  index: -1
+effect_ui_bao_05
+  rotate: true
+  xy: 227, 14
+  size: 253, 203
+  orig: 272, 248
+  offset: 9, 27
+  index: -1
+effect_ui_di
+  rotate: false
+  xy: 2, 269
+  size: 336, 336
+  orig: 336, 336
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+hero_feixingdaojulingdang.png
+size: 114,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 2, 2
+  size: 20, 110
+  orig: 20, 110
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 2, 24
+  size: 107, 131
+  orig: 107, 131
+  offset: 0, 0
+  index: -1

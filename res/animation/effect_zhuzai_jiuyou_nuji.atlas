@@ -1,0 +1,125 @@
+
+effect_zhuzai_jiuyou_nuji.png
+size: 1089,560
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huiguang
+  rotate: false
+  xy: 902, 359
+  size: 185, 199
+  orig: 185, 199
+  offset: 0, 0
+  index: -1
+huobao_01
+  rotate: true
+  xy: 753, 130
+  size: 212, 203
+  orig: 231, 205
+  offset: 15, 0
+  index: -1
+huobao_02
+  rotate: true
+  xy: 438, 119
+  size: 218, 205
+  orig: 231, 205
+  offset: 6, 0
+  index: -1
+huobao_03
+  rotate: true
+  xy: 2, 329
+  size: 229, 197
+  orig: 231, 205
+  offset: 2, 4
+  index: -1
+huobao_04
+  rotate: true
+  xy: 123, 100
+  size: 227, 194
+  orig: 231, 205
+  offset: 0, 6
+  index: -1
+huobao_05
+  rotate: true
+  xy: 707, 344
+  size: 214, 193
+  orig: 231, 205
+  offset: 15, 7
+  index: -1
+huobao_06
+  rotate: true
+  xy: 510, 340
+  size: 218, 195
+  orig: 231, 205
+  offset: 11, 6
+  index: -1
+huobao_07
+  rotate: true
+  xy: 321, 339
+  size: 219, 187
+  orig: 231, 205
+  offset: 8, 6
+  index: -1
+huoqiu
+  rotate: false
+  xy: 958, 215
+  size: 75, 142
+  orig: 78, 142
+  offset: 1, 0
+  index: -1
+qi_01
+  rotate: false
+  xy: 877, 41
+  size: 205, 87
+  orig: 233, 122
+  offset: 23, 0
+  index: -1
+qi_02
+  rotate: false
+  xy: 123, 6
+  size: 217, 92
+  orig: 233, 122
+  offset: 12, 0
+  index: -1
+qi_03
+  rotate: true
+  xy: 645, 121
+  size: 217, 106
+  orig: 233, 122
+  offset: 12, 0
+  index: -1
+qi_04
+  rotate: false
+  xy: 658, 8
+  size: 217, 111
+  orig: 233, 122
+  offset: 13, 0
+  index: -1
+qi_05
+  rotate: false
+  xy: 438, 2
+  size: 218, 115
+  orig: 233, 122
+  offset: 12, 0
+  index: -1
+qi_06
+  rotate: true
+  xy: 319, 106
+  size: 223, 117
+  orig: 233, 122
+  offset: 8, 0
+  index: -1
+qi_07
+  rotate: true
+  xy: 201, 331
+  size: 227, 118
+  orig: 233, 122
+  offset: 4, 0
+  index: -1
+qi_08
+  rotate: true
+  xy: 2, 98
+  size: 229, 119
+  orig: 233, 122
+  offset: 4, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+effect_tongyinuji_jinzhanqianpai_a.png
+size: 189,1031
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_jinzhan_qianpai_a_01
+  rotate: true
+  xy: 2, 97
+  size: 299, 99
+  orig: 514, 136
+  offset: 204, 26
+  index: -1
+effect_jinzhan_qianpai_a_02
+  rotate: true
+  xy: 2, 714
+  size: 315, 95
+  orig: 514, 136
+  offset: 60, 18
+  index: -1
+effect_jinzhan_qianpai_a_03
+  rotate: true
+  xy: 2, 398
+  size: 314, 90
+  orig: 514, 136
+  offset: 39, 24
+  index: -1
+effect_jinzhan_qianpai_a_04
+  rotate: true
+  xy: 99, 729
+  size: 300, 86
+  orig: 514, 136
+  offset: 18, 24
+  index: -1
+effect_jinzhan_qianpai_a_05
+  rotate: true
+  xy: 99, 535
+  size: 192, 79
+  orig: 514, 136
+  offset: 128, 24
+  index: -1
+effect_jinzhan_qianpai_a_06
+  rotate: true
+  xy: 103, 382
+  size: 151, 77
+  orig: 514, 136
+  offset: 126, 28
+  index: -1
+effect_shouluo_bao_01
+  rotate: false
+  xy: 2, 2
+  size: 93, 93
+  orig: 101, 93
+  offset: 8, 0
+  index: -1
+effect_shouluo_bao_02
+  rotate: false
+  xy: 97, 6
+  size: 89, 89
+  orig: 101, 93
+  offset: 8, 2
+  index: -1
+effect_shouluo_bao_03
+  rotate: false
+  xy: 103, 295
+  size: 84, 85
+  orig: 101, 93
+  offset: 12, 4
+  index: -1
+effect_shouluo_bao_04
+  rotate: false
+  xy: 103, 211
+  size: 82, 82
+  orig: 101, 93
+  offset: 13, 6
+  index: -1
+effect_shouluo_bao_05
+  rotate: false
+  xy: 103, 127
+  size: 82, 82
+  orig: 101, 93
+  offset: 13, 6
+  index: -1

@@ -1,0 +1,76 @@
+
+hero_feixingqi_04.png
+size: 417,293
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ds
+  rotate: true
+  xy: 170, 142
+  size: 149, 148
+  orig: 166, 166
+  offset: 6, 12
+  index: -1
+kai jia
+  rotate: true
+  xy: 170, 92
+  size: 48, 43
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 320, 243
+  size: 48, 82
+  orig: 58, 82
+  offset: 0, 0
+  index: -1
+wei ba
+  rotate: true
+  xy: 2, 2
+  size: 70, 214
+  orig: 70, 214
+  offset: 0, 0
+  index: -1
+you chi bang
+  rotate: true
+  xy: 218, 38
+  size: 102, 96
+  orig: 105, 96
+  offset: 1, 0
+  index: -1
+you hu xu
+  rotate: false
+  xy: 2, 74
+  size: 82, 217
+  orig: 82, 217
+  offset: 0, 0
+  index: -1
+you wei ba long xu
+  rotate: true
+  xy: 316, 17
+  size: 25, 82
+  orig: 25, 82
+  offset: 0, 0
+  index: -1
+zuo  hu xu
+  rotate: false
+  xy: 86, 74
+  size: 82, 217
+  orig: 82, 217
+  offset: 0, 0
+  index: -1
+zuo chi bang
+  rotate: false
+  xy: 316, 44
+  size: 99, 96
+  orig: 105, 96
+  offset: 3, 0
+  index: -1
+zuo wei ba long xu
+  rotate: true
+  xy: 218, 11
+  size: 25, 82
+  orig: 25, 82
+  offset: 0, 0
+  index: -1

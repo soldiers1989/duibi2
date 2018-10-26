@@ -1,0 +1,97 @@
+
+effect_jubo_tiangonggongzhu_pugong.png
+size: 1213,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: true
+  xy: 1036, 24
+  size: 90, 81
+  orig: 120, 107
+  offset: 15, 13
+  index: -1
+bao_02
+  rotate: true
+  xy: 836, 10
+  size: 104, 93
+  orig: 120, 107
+  offset: 8, 7
+  index: -1
+bao_03
+  rotate: false
+  xy: 520, 13
+  size: 114, 101
+  orig: 120, 107
+  offset: 3, 3
+  index: -1
+bao_04
+  rotate: false
+  xy: 398, 7
+  size: 120, 107
+  orig: 120, 107
+  offset: 0, 0
+  index: -1
+bao_05
+  rotate: true
+  xy: 636, 2
+  size: 112, 101
+  orig: 120, 107
+  offset: 4, 3
+  index: -1
+bao_06
+  rotate: true
+  xy: 739, 7
+  size: 107, 95
+  orig: 120, 107
+  offset: 7, 6
+  index: -1
+feixing_01
+  rotate: true
+  xy: 2, 28
+  size: 86, 131
+  orig: 112, 131
+  offset: 14, 0
+  index: -1
+feixing_02
+  rotate: true
+  xy: 135, 3
+  size: 111, 130
+  orig: 112, 131
+  offset: 0, 0
+  index: -1
+feixing_03
+  rotate: true
+  xy: 267, 2
+  size: 112, 129
+  orig: 112, 131
+  offset: 0, 0
+  index: -1
+feixing_04
+  rotate: true
+  xy: 931, 10
+  size: 104, 103
+  orig: 112, 131
+  offset: 4, 2
+  index: -1
+feixing_05
+  rotate: false
+  xy: 1119, 7
+  size: 52, 61
+  orig: 112, 131
+  offset: 30, 23
+  index: -1
+feixing_06
+  rotate: true
+  xy: 1119, 70
+  size: 44, 63
+  orig: 112, 131
+  offset: 30, 23
+  index: -1
+feixing_07
+  rotate: true
+  xy: 1173, 36
+  size: 32, 38
+  orig: 112, 131
+  offset: 42, 25
+  index: -1

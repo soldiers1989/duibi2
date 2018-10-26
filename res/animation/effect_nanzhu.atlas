@@ -1,0 +1,139 @@
+
+effect_nanzhu.png
+size: 1606,440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: true
+  xy: 1423, 75
+  size: 150, 178
+  orig: 188, 291
+  offset: 26, 0
+  index: -1
+bao_02
+  rotate: false
+  xy: 305, 2
+  size: 161, 168
+  orig: 188, 291
+  offset: 16, 33
+  index: -1
+bao_03
+  rotate: false
+  xy: 1435, 227
+  size: 169, 211
+  orig: 188, 291
+  offset: 12, 44
+  index: -1
+bao_04
+  rotate: false
+  xy: 841, 202
+  size: 176, 236
+  orig: 188, 291
+  offset: 8, 45
+  index: -1
+bao_05
+  rotate: false
+  xy: 658, 201
+  size: 181, 237
+  orig: 188, 291
+  offset: 5, 47
+  index: -1
+bao_06
+  rotate: false
+  xy: 470, 192
+  size: 186, 246
+  orig: 188, 291
+  offset: 2, 40
+  index: -1
+bao_07
+  rotate: true
+  xy: 470, 2
+  size: 188, 230
+  orig: 188, 291
+  offset: 0, 58
+  index: -1
+bao_08
+  rotate: false
+  xy: 1019, 207
+  size: 186, 231
+  orig: 188, 291
+  offset: 1, 59
+  index: -1
+bao_09
+  rotate: true
+  xy: 918, 15
+  size: 185, 213
+  orig: 188, 291
+  offset: 2, 77
+  index: -1
+bao_10
+  rotate: true
+  xy: 702, 15
+  size: 184, 214
+  orig: 188, 291
+  offset: 2, 77
+  index: -1
+bao_11
+  rotate: true
+  xy: 1207, 110
+  size: 184, 214
+  orig: 188, 291
+  offset: 2, 77
+  index: -1
+chuxian_01
+  rotate: false
+  xy: 1207, 296
+  size: 220, 68
+  orig: 242, 72
+  offset: 0, 0
+  index: -1
+chuxian_02
+  rotate: false
+  xy: 1207, 366
+  size: 226, 72
+  orig: 242, 72
+  offset: 10, 0
+  index: -1
+chuxian_03
+  rotate: false
+  xy: 90, 77
+  size: 213, 69
+  orig: 242, 72
+  offset: 22, 0
+  index: -1
+chuxian_04
+  rotate: false
+  xy: 90, 3
+  size: 210, 72
+  orig: 242, 72
+  offset: 5, 0
+  index: -1
+guang
+  rotate: false
+  xy: 90, 148
+  size: 210, 290
+  orig: 210, 292
+  offset: 0, 0
+  index: -1
+jian
+  rotate: false
+  xy: 392, 185
+  size: 76, 253
+  orig: 76, 253
+  offset: 0, 0
+  index: -1
+jianying
+  rotate: false
+  xy: 2, 61
+  size: 86, 377
+  orig: 86, 377
+  offset: 0, 0
+  index: -1
+liangjian
+  rotate: false
+  xy: 302, 172
+  size: 88, 266
+  orig: 88, 266
+  offset: 0, 0
+  index: -1

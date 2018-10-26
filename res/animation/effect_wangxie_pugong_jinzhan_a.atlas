@@ -1,0 +1,76 @@
+
+effect_wangxie_pugong_jinzhan_a.png
+size: 496,305
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_wangxie_pugong_jinzhan_a_01
+  rotate: true
+  xy: 2, 157
+  size: 146, 145
+  orig: 146, 150
+  offset: 0, 5
+  index: -1
+effect_wangxie_pugong_jinzhan_a_02
+  rotate: false
+  xy: 2, 16
+  size: 136, 139
+  orig: 146, 150
+  offset: 7, 0
+  index: -1
+effect_wangxie_pugong_jinzhan_a_03
+  rotate: false
+  xy: 140, 19
+  size: 127, 136
+  orig: 146, 150
+  offset: 18, 5
+  index: -1
+effect_wangxie_pugong_jinzhan_a_04
+  rotate: false
+  xy: 267, 186
+  size: 108, 117
+  orig: 146, 150
+  offset: 10, 26
+  index: -1
+effect_wangxie_pugong_jinzhan_a_05
+  rotate: false
+  xy: 383, 2
+  size: 62, 93
+  orig: 146, 150
+  offset: 19, 43
+  index: -1
+effect_wangxie_pugong_jinzhan_a_06
+  rotate: true
+  xy: 149, 161
+  size: 20, 55
+  orig: 146, 150
+  offset: 30, 59
+  index: -1
+effect_wangxie_pugong_jinzhan_a_xue_01
+  rotate: false
+  xy: 383, 97
+  size: 95, 87
+  orig: 129, 126
+  offset: 21, 16
+  index: -1
+effect_wangxie_pugong_jinzhan_a_xue_02
+  rotate: true
+  xy: 269, 71
+  size: 113, 112
+  orig: 129, 126
+  offset: 8, 4
+  index: -1
+effect_wangxie_pugong_jinzhan_a_xue_03
+  rotate: false
+  xy: 377, 186
+  size: 117, 117
+  orig: 129, 126
+  offset: 6, 2
+  index: -1
+effect_wangxie_pugong_jinzhan_a_xue_04
+  rotate: false
+  xy: 149, 183
+  size: 116, 120
+  orig: 129, 126
+  offset: 5, 2
+  index: -1

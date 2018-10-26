@@ -1,0 +1,55 @@
+
+effect_ui_xianshikuangtanchu.png
+size: 445,1030
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuxian_01
+  rotate: false
+  xy: 304, 476
+  size: 139, 140
+  orig: 411, 205
+  offset: 136, 37
+  index: -1
+chuxian_02
+  rotate: true
+  xy: 2, 617
+  size: 411, 205
+  orig: 411, 205
+  offset: 0, 0
+  index: -1
+chuxian_03
+  rotate: true
+  xy: 2, 204
+  size: 411, 205
+  orig: 411, 205
+  offset: 0, 0
+  index: -1
+chuxian_04
+  rotate: true
+  xy: 209, 618
+  size: 410, 205
+  orig: 411, 205
+  offset: 1, 0
+  index: -1
+chuxian_05
+  rotate: false
+  xy: 2, 2
+  size: 409, 200
+  orig: 411, 205
+  offset: 2, 5
+  index: -1
+chuxian_06
+  rotate: true
+  xy: 209, 241
+  size: 375, 93
+  orig: 411, 205
+  offset: 19, 62
+  index: -1
+chuxian_07
+  rotate: false
+  xy: 209, 228
+  size: 181, 11
+  orig: 411, 205
+  offset: 116, 102
+  index: -1

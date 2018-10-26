@@ -1,0 +1,90 @@
+
+effect_ui_shenyuzhengbachuansong_1.png
+size: 459,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guanghuan
+  rotate: true
+  xy: 442, 113
+  size: 24, 9
+  orig: 28, 9
+  offset: 2, 0
+  index: -1
+guanghuanhong
+  rotate: true
+  xy: 410, 47
+  size: 24, 9
+  orig: 28, 9
+  offset: 2, 0
+  index: -1
+guanghuanlv
+  rotate: false
+  xy: 410, 127
+  size: 30, 10
+  orig: 30, 10
+  offset: 0, 0
+  index: -1
+guangxianhong
+  rotate: false
+  xy: 426, 74
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+guangxianlan
+  rotate: false
+  xy: 436, 51
+  size: 21, 21
+  orig: 24, 24
+  offset: 2, 1
+  index: -1
+guangxianlv
+  rotate: false
+  xy: 410, 21
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+guangyunlanb
+  rotate: false
+  xy: 2, 2
+  size: 134, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+guangyunlang
+  rotate: false
+  xy: 138, 2
+  size: 134, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+guangyunlanr
+  rotate: false
+  xy: 274, 3
+  size: 134, 134
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+lanshuijinghong
+  rotate: false
+  xy: 410, 100
+  size: 14, 25
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+lanshuijinglan
+  rotate: false
+  xy: 410, 73
+  size: 14, 25
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+lanshuijinglv
+  rotate: false
+  xy: 426, 100
+  size: 14, 25
+  orig: 14, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+effect_nuzhushengdan_nuji.png
+size: 625,1037
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: true
+  xy: 419, 268
+  size: 139, 143
+  orig: 145, 224
+  offset: 1, 0
+  index: -1
+bao_02
+  rotate: false
+  xy: 436, 605
+  size: 142, 208
+  orig: 145, 224
+  offset: 3, 0
+  index: -1
+bao_03
+  rotate: true
+  xy: 2, 7
+  size: 141, 210
+  orig: 145, 224
+  offset: 2, 6
+  index: -1
+bao_04
+  rotate: false
+  xy: 466, 822
+  size: 139, 213
+  orig: 145, 224
+  offset: 4, 0
+  index: -1
+bao_05
+  rotate: true
+  xy: 229, 458
+  size: 140, 193
+  orig: 145, 224
+  offset: 0, 9
+  index: -1
+bao_06
+  rotate: true
+  xy: 214, 2
+  size: 136, 186
+  orig: 145, 224
+  offset: 5, 14
+  index: -1
+bao_07
+  rotate: true
+  xy: 225, 317
+  size: 139, 192
+  orig: 145, 224
+  offset: 3, 21
+  index: -1
+bao_08
+  rotate: true
+  xy: 220, 140
+  size: 123, 189
+  orig: 145, 224
+  offset: 2, 35
+  index: -1
+bao_09
+  rotate: false
+  xy: 402, 19
+  size: 117, 119
+  orig: 145, 224
+  offset: 10, 44
+  index: -1
+bao_10
+  rotate: false
+  xy: 521, 151
+  size: 102, 115
+  orig: 145, 224
+  offset: 16, 59
+  index: -1
+baodian_01
+  rotate: false
+  xy: 424, 409
+  size: 189, 189
+  orig: 237, 225
+  offset: 19, 24
+  index: -1
+baodian_02
+  rotate: false
+  xy: 2, 593
+  size: 225, 218
+  orig: 237, 225
+  offset: 0, 7
+  index: -1
+baodian_03
+  rotate: false
+  xy: 239, 815
+  size: 225, 220
+  orig: 237, 225
+  offset: 0, 5
+  index: -1
+baodian_04
+  rotate: false
+  xy: 229, 600
+  size: 205, 211
+  orig: 237, 225
+  offset: 14, 10
+  index: -1
+baodian_05
+  rotate: false
+  xy: 2, 371
+  size: 221, 220
+  orig: 237, 225
+  offset: 7, 5
+  index: -1
+baodian_06
+  rotate: false
+  xy: 2, 813
+  size: 235, 222
+  orig: 237, 225
+  offset: 2, 3
+  index: -1
+baodian_07
+  rotate: false
+  xy: 2, 150
+  size: 216, 219
+  orig: 237, 225
+  offset: 11, 0
+  index: -1
+hezi
+  rotate: false
+  xy: 521, 12
+  size: 89, 74
+  orig: 89, 74
+  offset: 0, 0
+  index: -1
+heziliang
+  rotate: true
+  xy: 411, 174
+  size: 89, 74
+  orig: 89, 74
+  offset: 0, 0
+  index: -1
+lingdang
+  rotate: false
+  xy: 564, 335
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 521, 88
+  size: 96, 61
+  orig: 96, 61
+  offset: 0, 0
+  index: -1
+qi
+  rotate: false
+  xy: 220, 265
+  size: 190, 50
+  orig: 190, 50
+  offset: 0, 0
+  index: -1
+wazi
+  rotate: true
+  xy: 411, 148
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 564, 363
+  size: 44, 44
+  orig: 51, 51
+  offset: 4, 3
+  index: -1

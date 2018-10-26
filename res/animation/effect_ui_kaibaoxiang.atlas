@@ -1,0 +1,62 @@
+
+effect_ui_kaibaoxiang.png
+size: 1717,322
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: true
+  xy: 1100, 22
+  size: 298, 224
+  orig: 320, 263
+  offset: 14, 18
+  index: -1
+bao_02
+  rotate: true
+  xy: 333, 2
+  size: 318, 252
+  orig: 320, 263
+  offset: 0, 3
+  index: -1
+bao_03
+  rotate: true
+  xy: 587, 5
+  size: 315, 250
+  orig: 320, 263
+  offset: 5, 3
+  index: -1
+bao_04
+  rotate: true
+  xy: 839, 13
+  size: 307, 259
+  orig: 320, 263
+  offset: 9, 0
+  index: -1
+bao_05
+  rotate: true
+  xy: 1326, 66
+  size: 254, 245
+  orig: 320, 263
+  offset: 23, 18
+  index: -1
+shan
+  rotate: true
+  xy: 2, 13
+  size: 307, 329
+  orig: 307, 329
+  offset: 0, 0
+  index: -1
+xiangzi_01
+  rotate: false
+  xy: 1573, 42
+  size: 125, 115
+  orig: 142, 182
+  offset: 4, 0
+  index: -1
+xiangzi_02
+  rotate: false
+  xy: 1573, 159
+  size: 142, 161
+  orig: 142, 182
+  offset: 0, 0
+  index: -1

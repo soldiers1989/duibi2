@@ -1,0 +1,300 @@
+
+hero_xiaohuang.png
+size: 626,273
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: true
+  xy: 307, 184
+  size: 87, 101
+  orig: 87, 101
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 64, 11
+  size: 52, 24
+  orig: 52, 24
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 73, 163
+  size: 123, 108
+  orig: 123, 108
+  offset: 0, 0
+  index: -1
+head_01
+  rotate: true
+  xy: 504, 204
+  size: 67, 91
+  orig: 68, 91
+  offset: 0, 0
+  index: -1
+head_02
+  rotate: true
+  xy: 73, 122
+  size: 39, 109
+  orig: 39, 109
+  offset: 0, 0
+  index: -1
+head_03
+  rotate: true
+  xy: 501, 88
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+head_04
+  rotate: false
+  xy: 424, 84
+  size: 37, 59
+  orig: 37, 59
+  offset: 0, 0
+  index: -1
+head_05
+  rotate: false
+  xy: 410, 192
+  size: 92, 79
+  orig: 92, 79
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: false
+  xy: 431, 25
+  size: 27, 57
+  orig: 27, 57
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: false
+  xy: 198, 215
+  size: 107, 56
+  orig: 107, 56
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: false
+  xy: 553, 67
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+hip_04
+  rotate: false
+  xy: 597, 205
+  size: 27, 66
+  orig: 27, 66
+  offset: 0, 0
+  index: -1
+hip_05
+  rotate: false
+  xy: 546, 34
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+hip_06
+  rotate: false
+  xy: 370, 149
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: false
+  xy: 121, 42
+  size: 41, 78
+  orig: 41, 78
+  offset: 0, 0
+  index: -1
+l_elbow01
+  rotate: false
+  xy: 2, 118
+  size: 69, 153
+  orig: 69, 153
+  offset: 0, 0
+  index: -1
+l_foot
+  rotate: true
+  xy: 546, 2
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 506, 2
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+l_knee
+  rotate: false
+  xy: 266, 67
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: true
+  xy: 198, 140
+  size: 73, 84
+  orig: 73, 84
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: false
+  xy: 206, 64
+  size: 58, 74
+  orig: 58, 74
+  offset: 0, 0
+  index: -1
+l_shoulder_01
+  rotate: true
+  xy: 410, 145
+  size: 45, 61
+  orig: 49, 61
+  offset: 4, 0
+  index: -1
+r_elbow
+  rotate: false
+  xy: 319, 18
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+r_elbow01
+  rotate: false
+  xy: 2, 3
+  size: 60, 113
+  orig: 60, 113
+  offset: 0, 0
+  index: -1
+r_elbow02
+  rotate: true
+  xy: 284, 139
+  size: 43, 84
+  orig: 43, 84
+  offset: 0, 0
+  index: -1
+r_elbow03
+  rotate: true
+  xy: 473, 146
+  size: 44, 19
+  orig: 44, 19
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: true
+  xy: 496, 43
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: true
+  xy: 590, 122
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+r_knee
+  rotate: false
+  xy: 463, 86
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: false
+  xy: 64, 37
+  size: 55, 79
+  orig: 56, 79
+  offset: 1, 0
+  index: -1
+r_shoulder
+  rotate: false
+  xy: 164, 44
+  size: 40, 76
+  orig: 40, 76
+  offset: 0, 0
+  index: -1
+r_shoulder_01
+  rotate: true
+  xy: 121, 2
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+ribbno
+  rotate: true
+  xy: 504, 119
+  size: 83, 84
+  orig: 83, 84
+  offset: 0, 0
+  index: -1
+tx1
+  rotate: true
+  xy: 320, 69
+  size: 68, 53
+  orig: 68, 54
+  offset: 0, 1
+  index: -1
+tx2_1
+  rotate: true
+  xy: 275, 3
+  size: 62, 42
+  orig: 84, 60
+  offset: 8, 8
+  index: -1
+tx2_2
+  rotate: false
+  xy: 206, 3
+  size: 67, 59
+  orig: 84, 60
+  offset: 5, 1
+  index: -1
+tx2_3
+  rotate: false
+  xy: 375, 22
+  size: 54, 59
+  orig: 84, 60
+  offset: 11, 1
+  index: -1
+tx2_4
+  rotate: false
+  xy: 375, 83
+  size: 47, 60
+  orig: 84, 60
+  offset: 17, 0
+  index: -1
+tx3_1
+  rotate: false
+  xy: 170, 7
+  size: 34, 35
+  orig: 84, 60
+  offset: 19, 12
+  index: -1
+tx3_2
+  rotate: false
+  xy: 460, 38
+  size: 34, 44
+  orig: 84, 60
+  offset: 17, 10
+  index: -1
+tx3_3
+  rotate: true
+  xy: 460, 5
+  size: 31, 44
+  orig: 84, 60
+  offset: 22, 9
+  index: -1
+tx3_4
+  rotate: false
+  xy: 590, 157
+  size: 31, 45
+  orig: 84, 60
+  offset: 19, 7
+  index: -1

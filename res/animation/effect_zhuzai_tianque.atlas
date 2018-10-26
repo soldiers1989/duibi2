@@ -1,0 +1,153 @@
+
+effect_zhuzai_tianque.png
+size: 1295,291
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: false
+  xy: 1237, 30
+  size: 52, 40
+  orig: 161, 167
+  offset: 55, 65
+  index: -1
+bao_02
+  rotate: false
+  xy: 1027, 3
+  size: 82, 142
+  orig: 161, 167
+  offset: 34, 16
+  index: -1
+bao_03
+  rotate: true
+  xy: 339, 9
+  size: 111, 165
+  orig: 161, 167
+  offset: 31, 1
+  index: -1
+bao_04
+  rotate: true
+  xy: 506, 7
+  size: 114, 165
+  orig: 161, 167
+  offset: 28, 1
+  index: -1
+bao_05
+  rotate: false
+  xy: 339, 122
+  size: 122, 167
+  orig: 161, 167
+  offset: 20, 0
+  index: -1
+bao_06
+  rotate: false
+  xy: 463, 123
+  size: 128, 166
+  orig: 161, 167
+  offset: 13, 1
+  index: -1
+bao_07
+  rotate: false
+  xy: 593, 137
+  size: 135, 152
+  orig: 161, 167
+  offset: 8, 1
+  index: -1
+bao_08
+  rotate: true
+  xy: 1027, 147
+  size: 142, 144
+  orig: 161, 167
+  offset: 5, 11
+  index: -1
+bao_09
+  rotate: false
+  xy: 879, 142
+  size: 146, 147
+  orig: 161, 167
+  offset: 2, 10
+  index: -1
+bao_10
+  rotate: true
+  xy: 730, 139
+  size: 150, 147
+  orig: 161, 167
+  offset: 0, 10
+  index: -1
+bao_11
+  rotate: false
+  xy: 790, 44
+  size: 86, 93
+  orig: 161, 167
+  offset: 40, 38
+  index: -1
+fashe_01
+  rotate: false
+  xy: 1173, 207
+  size: 48, 82
+  orig: 67, 215
+  offset: 11, 128
+  index: -1
+fashe_02
+  rotate: false
+  xy: 277, 74
+  size: 60, 215
+  orig: 67, 215
+  offset: 7, 0
+  index: -1
+fashe_03
+  rotate: false
+  xy: 673, 3
+  size: 51, 132
+  orig: 67, 215
+  offset: 6, 73
+  index: -1
+fashe_04
+  rotate: false
+  xy: 1237, 72
+  size: 50, 106
+  orig: 67, 215
+  offset: 6, 91
+  index: -1
+fashe_05
+  rotate: false
+  xy: 730, 2
+  size: 58, 135
+  orig: 67, 215
+  offset: 0, 66
+  index: -1
+fashe_06
+  rotate: false
+  xy: 1237, 180
+  size: 56, 109
+  orig: 67, 215
+  offset: 4, 79
+  index: -1
+fashe_07
+  rotate: true
+  xy: 790, 3
+  size: 39, 72
+  orig: 67, 215
+  offset: 0, 103
+  index: -1
+shan
+  rotate: false
+  xy: 2, 16
+  size: 273, 273
+  orig: 273, 273
+  offset: 0, 0
+  index: -1
+zhen
+  rotate: false
+  xy: 1111, 10
+  size: 124, 135
+  orig: 126, 137
+  offset: 2, 0
+  index: -1
+zhenshan
+  rotate: false
+  xy: 879, 3
+  size: 124, 137
+  orig: 126, 137
+  offset: 2, 0
+  index: -1

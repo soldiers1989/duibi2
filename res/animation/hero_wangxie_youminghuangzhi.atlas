@@ -1,0 +1,286 @@
+
+hero_wangxie_youminghuangzhi.png
+size: 895,533
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: false
+  xy: 260, 383
+  size: 110, 148
+  orig: 110, 148
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 493, 409
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: true
+  xy: 518, 62
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: true
+  xy: 420, 396
+  size: 135, 71
+  orig: 135, 71
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 547, 147
+  size: 121, 122
+  orig: 121, 122
+  offset: 0, 0
+  index: -1
+hero_wangxie_youminghuangzhi
+  rotate: false
+  xy: 697, 33
+  size: 71, 75
+  orig: 101, 76
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: true
+  xy: 770, 41
+  size: 67, 62
+  orig: 67, 62
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: false
+  xy: 849, 478
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: false
+  xy: 786, 125
+  size: 84, 77
+  orig: 84, 77
+  offset: 0, 0
+  index: -1
+l_calf
+  rotate: true
+  xy: 260, 258
+  size: 31, 60
+  orig: 31, 60
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: false
+  xy: 322, 254
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+l_foot
+  rotate: false
+  xy: 770, 5
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 849, 417
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: false
+  xy: 811, 322
+  size: 81, 93
+  orig: 81, 93
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: true
+  xy: 834, 96
+  size: 27, 59
+  orig: 27, 59
+  offset: 0, 0
+  index: -1
+l_shoulder_01
+  rotate: true
+  xy: 697, 110
+  size: 57, 81
+  orig: 57, 81
+  offset: 0, 0
+  index: -1
+nuji
+  rotate: false
+  xy: 433, 57
+  size: 83, 67
+  orig: 85, 68
+  offset: 2, 0
+  index: -1
+r_calf
+  rotate: true
+  xy: 834, 54
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+r_elbow
+  rotate: true
+  xy: 376, 256
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: true
+  xy: 811, 294
+  size: 26, 48
+  orig: 26, 48
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: true
+  xy: 834, 12
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: true
+  xy: 786, 204
+  size: 88, 102
+  orig: 88, 102
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: false
+  xy: 849, 446
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+texiao
+  rotate: false
+  xy: 2, 9
+  size: 189, 243
+  orig: 192, 244
+  offset: 3, 1
+  index: -1
+texiao_01
+  rotate: false
+  xy: 670, 169
+  size: 114, 116
+  orig: 122, 130
+  offset: 3, 0
+  index: -1
+texiao_02
+  rotate: true
+  xy: 736, 417
+  size: 114, 111
+  orig: 122, 130
+  offset: 3, 6
+  index: -1
+texiao_03
+  rotate: true
+  xy: 579, 28
+  size: 117, 116
+  orig: 122, 130
+  offset: 1, 5
+  index: -1
+texiao_04
+  rotate: true
+  xy: 617, 412
+  size: 119, 117
+  orig: 122, 130
+  offset: 2, 7
+  index: -1
+texiao_05
+  rotate: true
+  xy: 577, 287
+  size: 120, 119
+  orig: 122, 130
+  offset: 2, 7
+  index: -1
+texiao_06
+  rotate: false
+  xy: 464, 271
+  size: 111, 123
+  orig: 122, 130
+  offset: 0, 5
+  index: -1
+texiao_07
+  rotate: false
+  xy: 433, 126
+  size: 112, 126
+  orig: 122, 130
+  offset: 3, 4
+  index: -1
+texiao_08
+  rotate: true
+  xy: 698, 294
+  size: 116, 111
+  orig: 122, 130
+  offset: 4, 10
+  index: -1
+tx1_1
+  rotate: true
+  xy: 372, 392
+  size: 139, 46
+  orig: 199, 58
+  offset: 30, 6
+  index: -1
+tx1_2
+  rotate: true
+  xy: 193, 53
+  size: 199, 52
+  orig: 199, 58
+  offset: 0, 0
+  index: -1
+tx1_3
+  rotate: false
+  xy: 193, 2
+  size: 195, 49
+  orig: 199, 58
+  offset: 2, 5
+  index: -1
+tx1_4
+  rotate: true
+  xy: 409, 254
+  size: 136, 53
+  orig: 199, 58
+  offset: 61, 5
+  index: -1
+tx1_5
+  rotate: false
+  xy: 390, 6
+  size: 187, 48
+  orig: 199, 58
+  offset: 9, 10
+  index: -1
+weapon
+  rotate: true
+  xy: 2, 254
+  size: 277, 256
+  orig: 277, 256
+  offset: 0, 0
+  index: -1
+wing
+  rotate: false
+  xy: 260, 291
+  size: 147, 90
+  orig: 147, 90
+  offset: 0, 0
+  index: -1
+xuanfeng
+  rotate: false
+  xy: 247, 56
+  size: 184, 196
+  orig: 244, 239
+  offset: 33, 21
+  index: -1

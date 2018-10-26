@@ -1,0 +1,83 @@
+
+effect_qinglvnan_pugong.png
+size: 507,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kapai
+  rotate: true
+  xy: 354, 41
+  size: 44, 73
+  orig: 44, 73
+  offset: 0, 0
+  index: -1
+liang
+  rotate: false
+  xy: 2, 2
+  size: 156, 152
+  orig: 156, 152
+  offset: 0, 0
+  index: -1
+xiaobao_01
+  rotate: false
+  xy: 234, 25
+  size: 69, 51
+  orig: 77, 95
+  offset: 3, 22
+  index: -1
+xiaobao_02
+  rotate: true
+  xy: 351, 4
+  size: 35, 47
+  orig: 77, 95
+  offset: 24, 26
+  index: -1
+xiaobao_03
+  rotate: false
+  xy: 305, 16
+  size: 44, 60
+  orig: 77, 95
+  offset: 19, 19
+  index: -1
+xiaobao_04
+  rotate: false
+  xy: 448, 78
+  size: 57, 76
+  orig: 77, 95
+  offset: 12, 9
+  index: -1
+xiaobao_05
+  rotate: true
+  xy: 354, 87
+  size: 67, 92
+  orig: 77, 95
+  offset: 6, 1
+  index: -1
+xiaobao_06
+  rotate: true
+  xy: 160, 78
+  size: 76, 95
+  orig: 77, 95
+  offset: 1, 0
+  index: -1
+xiaobao_07
+  rotate: true
+  xy: 257, 78
+  size: 76, 95
+  orig: 77, 95
+  offset: 1, 0
+  index: -1
+xiaobao_08
+  rotate: false
+  xy: 429, 9
+  size: 69, 67
+  orig: 77, 95
+  offset: 2, 17
+  index: -1
+xiaobao_09
+  rotate: false
+  xy: 160, 8
+  size: 72, 68
+  orig: 77, 95
+  offset: 0, 17
+  index: -1

@@ -1,0 +1,272 @@
+
+hero_mufengyang.png
+size: 1185,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: false
+  xy: 480, 41
+  size: 90, 101
+  orig: 90, 101
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 1116, 7
+  size: 49, 16
+  orig: 49, 16
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 311, 35
+  size: 93, 107
+  orig: 93, 107
+  offset: 0, 0
+  index: -1
+hand_00
+  rotate: true
+  xy: 572, 2
+  size: 44, 86
+  orig: 44, 86
+  offset: 0, 0
+  index: -1
+hand_01
+  rotate: false
+  xy: 836, 3
+  size: 78, 52
+  orig: 78, 52
+  offset: 0, 0
+  index: -1
+hand_02
+  rotate: true
+  xy: 503, 5
+  size: 34, 58
+  orig: 34, 58
+  offset: 0, 0
+  index: -1
+hand_03
+  rotate: false
+  xy: 393, 14
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+hand_04
+  rotate: false
+  xy: 361, 3
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+hand_05
+  rotate: true
+  xy: 2, 6
+  size: 22, 86
+  orig: 22, 86
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: true
+  xy: 910, 63
+  size: 79, 58
+  orig: 79, 58
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: true
+  xy: 1030, 4
+  size: 65, 40
+  orig: 65, 40
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: true
+  xy: 1036, 78
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1
+hip_04
+  rotate: false
+  xy: 184, 2
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+hip_05
+  rotate: false
+  xy: 231, 4
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+hip_06
+  rotate: false
+  xy: 207, 2
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+hip_07
+  rotate: false
+  xy: 254, 6
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+l_ foot
+  rotate: false
+  xy: 148, 4
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+l_ leg
+  rotate: false
+  xy: 748, 54
+  size: 86, 88
+  orig: 86, 88
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: false
+  xy: 660, 3
+  size: 63, 43
+  orig: 63, 43
+  offset: 0, 0
+  index: -1
+l_elbow01
+  rotate: false
+  xy: 916, 9
+  size: 72, 52
+  orig: 72, 52
+  offset: 0, 0
+  index: -1
+l_elbow02
+  rotate: true
+  xy: 572, 48
+  size: 94, 80
+  orig: 94, 80
+  offset: 0, 0
+  index: -1
+l_elbow03
+  rotate: true
+  xy: 406, 36
+  size: 106, 72
+  orig: 106, 72
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 90, 7
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+l_knee
+  rotate: true
+  xy: 311, 5
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+r_elbow
+  rotate: true
+  xy: 1072, 13
+  size: 63, 42
+  orig: 63, 42
+  offset: 0, 0
+  index: -1
+r_elbow01
+  rotate: false
+  xy: 2, 40
+  size: 144, 102
+  orig: 144, 102
+  offset: 0, 0
+  index: -1
+r_elbow02
+  rotate: false
+  xy: 748, 5
+  size: 82, 47
+  orig: 82, 47
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: false
+  xy: 725, 5
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 1089, 84
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+r_knee
+  rotate: false
+  xy: 990, 2
+  size: 38, 67
+  orig: 39, 67
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: true
+  xy: 654, 48
+  size: 94, 92
+  orig: 94, 92
+  offset: 0, 0
+  index: -1
+r_shoulde
+  rotate: true
+  xy: 233, 31
+  size: 111, 76
+  orig: 111, 76
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: true
+  xy: 1133, 84
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+r_shoulder_01
+  rotate: true
+  xy: 970, 71
+  size: 71, 64
+  orig: 71, 64
+  offset: 0, 0
+  index: -1
+ribbno
+  rotate: false
+  xy: 406, 2
+  size: 95, 32
+  orig: 95, 32
+  offset: 0, 0
+  index: -1
+ribbno_01
+  rotate: true
+  xy: 148, 30
+  size: 112, 83
+  orig: 112, 83
+  offset: 0, 0
+  index: -1
+tx1
+  rotate: false
+  xy: 836, 57
+  size: 72, 85
+  orig: 72, 85
+  offset: 0, 0
+  index: -1
+tx3
+  rotate: false
+  xy: 1116, 25
+  size: 58, 57
+  orig: 61, 61
+  offset: 2, 2
+  index: -1

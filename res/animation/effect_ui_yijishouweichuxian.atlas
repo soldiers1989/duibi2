@@ -1,0 +1,167 @@
+
+effect_ui_yijishouweichuxian.png
+size: 2019,542
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiguang
+  rotate: false
+  xy: 1878, 130
+  size: 139, 139
+  orig: 397, 399
+  offset: 129, 130
+  index: -1
+guangshu
+  rotate: false
+  xy: 1115, 16
+  size: 250, 253
+  orig: 716, 721
+  offset: 233, 234
+  index: -1
+guangxian
+  rotate: false
+  xy: 2, 323
+  size: 543, 24
+  orig: 543, 24
+  offset: 0, 0
+  index: -1
+huangguang
+  rotate: false
+  xy: 1159, 300
+  size: 240, 240
+  orig: 684, 684
+  offset: 222, 222
+  index: -1
+shandian_01
+  rotate: false
+  xy: 1401, 310
+  size: 165, 230
+  orig: 373, 528
+  offset: 123, 189
+  index: -1
+shandian_02
+  rotate: false
+  xy: 754, 38
+  size: 143, 291
+  orig: 373, 528
+  offset: 132, 116
+  index: -1
+shandian_03
+  rotate: true
+  xy: 1796, 29
+  size: 96, 61
+  orig: 373, 528
+  offset: 139, 100
+  index: -1
+shandian_04
+  rotate: false
+  xy: 483, 5
+  size: 269, 316
+  orig: 373, 528
+  offset: 45, 105
+  index: -1
+shandian_05
+  rotate: false
+  xy: 234, 4
+  size: 247, 317
+  orig: 373, 528
+  offset: 56, 103
+  index: -1
+shandian_06
+  rotate: false
+  xy: 2, 2
+  size: 230, 319
+  orig: 373, 528
+  offset: 73, 90
+  index: -1
+shandian_07
+  rotate: true
+  xy: 587, 331
+  size: 209, 307
+  orig: 373, 528
+  offset: 94, 91
+  index: -1
+shandian_08
+  rotate: true
+  xy: 1583, 101
+  size: 211, 140
+  orig: 373, 528
+  offset: 93, 90
+  index: -1
+shandian_09
+  rotate: false
+  xy: 1784, 341
+  size: 220, 199
+  orig: 373, 528
+  offset: 86, 89
+  index: -1
+shandian_10
+  rotate: false
+  xy: 899, 10
+  size: 214, 259
+  orig: 373, 528
+  offset: 93, 88
+  index: -1
+shandian_11
+  rotate: false
+  xy: 1367, 63
+  size: 214, 235
+  orig: 373, 528
+  offset: 94, 88
+  index: -1
+shandian_12
+  rotate: false
+  xy: 1568, 314
+  size: 214, 226
+  orig: 373, 528
+  offset: 94, 88
+  index: -1
+shandian_13
+  rotate: false
+  xy: 1583, 19
+  size: 211, 80
+  orig: 373, 528
+  offset: 97, 94
+  index: -1
+shandian_14
+  rotate: false
+  xy: 1784, 271
+  size: 212, 68
+  orig: 373, 528
+  offset: 98, 108
+  index: -1
+shandian_15
+  rotate: false
+  xy: 1367, 7
+  size: 213, 54
+  orig: 373, 528
+  offset: 98, 112
+  index: -1
+shandian_16
+  rotate: true
+  xy: 1725, 105
+  size: 207, 39
+  orig: 373, 528
+  offset: 105, 122
+  index: -1
+xiaohong
+  rotate: false
+  xy: 1766, 127
+  size: 110, 142
+  orig: 110, 142
+  offset: 0, 0
+  index: -1
+xiguang
+  rotate: false
+  xy: 899, 271
+  size: 258, 269
+  orig: 744, 777
+  offset: 243, 254
+  index: -1
+zi
+  rotate: false
+  xy: 2, 349
+  size: 583, 191
+  orig: 709, 248
+  offset: 57, 21
+  index: -1

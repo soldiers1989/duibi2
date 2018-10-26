@@ -1,0 +1,188 @@
+
+hero_wangxie_youmingtianzhun.png
+size: 1281,398
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi
+  rotate: true
+  xy: 1185, 143
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+chest
+  rotate: true
+  xy: 889, 16
+  size: 86, 114
+  orig: 93, 114
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 814, 8
+  size: 73, 116
+  orig: 73, 116
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 921, 248
+  size: 148, 178
+  orig: 148, 178
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 518, 31
+  size: 73, 116
+  orig: 73, 116
+  offset: 0, 0
+  index: -1
+head_01
+  rotate: true
+  xy: 1114, 5
+  size: 29, 85
+  orig: 29, 85
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: true
+  xy: 921, 104
+  size: 142, 167
+  orig: 142, 167
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: true
+  xy: 358, 17
+  size: 87, 158
+  orig: 87, 158
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: true
+  xy: 649, 70
+  size: 54, 163
+  orig: 54, 163
+  offset: 0, 0
+  index: -1
+hip_04
+  rotate: false
+  xy: 1101, 232
+  size: 177, 164
+  orig: 177, 164
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: true
+  xy: 1005, 25
+  size: 77, 107
+  orig: 77, 107
+  offset: 0, 0
+  index: -1
+l_foot
+  rotate: false
+  xy: 552, 2
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 518, 2
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: true
+  xy: 636, 10
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+nuji
+  rotate: false
+  xy: 1185, 161
+  size: 51, 69
+  orig: 51, 70
+  offset: 0, 1
+  index: -1
+pugong
+  rotate: false
+  xy: 706, 6
+  size: 53, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+r_elbow
+  rotate: false
+  xy: 1114, 36
+  size: 91, 94
+  orig: 93, 94
+  offset: 2, 0
+  index: -1
+r_foot
+  rotate: true
+  xy: 889, 105
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: true
+  xy: 1090, 106
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: false
+  xy: 1238, 171
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+sanzhi
+  rotate: true
+  xy: 2, 6
+  size: 390, 354
+  orig: 650, 869
+  offset: 134, 268
+  index: -1
+texiao_02
+  rotate: false
+  xy: 649, 126
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+texiao_03
+  rotate: false
+  xy: 1207, 92
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+texiao_04
+  rotate: false
+  xy: 1207, 23
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+texiao_05
+  rotate: false
+  xy: 358, 106
+  size: 289, 290
+  orig: 289, 290
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 1090, 132
+  size: 98, 93
+  orig: 98, 93
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+effect_ui_yizhouniantubiao.png
+size: 126,46
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+saoguang0015
+  rotate: true
+  xy: 19, 2
+  size: 4, 9
+  orig: 32, 30
+  offset: 4, 16
+  index: -1
+saoguang0017
+  rotate: false
+  xy: 36, 11
+  size: 8, 14
+  orig: 32, 30
+  offset: 3, 13
+  index: -1
+saoguang0019
+  rotate: false
+  xy: 111, 29
+  size: 11, 15
+  orig: 32, 30
+  offset: 3, 12
+  index: -1
+saoguang0021
+  rotate: false
+  xy: 72, 28
+  size: 11, 16
+  orig: 32, 30
+  offset: 4, 10
+  index: -1
+saoguang0023
+  rotate: false
+  xy: 85, 28
+  size: 12, 16
+  orig: 32, 30
+  offset: 6, 9
+  index: -1
+saoguang0025
+  rotate: true
+  xy: 111, 17
+  size: 10, 13
+  orig: 32, 30
+  offset: 8, 9
+  index: -1
+saoguang0027
+  rotate: false
+  xy: 2, 7
+  size: 15, 17
+  orig: 32, 30
+  offset: 10, 9
+  index: -1
+saoguang0029
+  rotate: false
+  xy: 21, 27
+  size: 15, 17
+  orig: 32, 30
+  offset: 12, 9
+  index: -1
+saoguang0031
+  rotate: false
+  xy: 38, 27
+  size: 13, 17
+  orig: 32, 30
+  offset: 15, 9
+  index: -1
+saoguang0033
+  rotate: false
+  xy: 99, 28
+  size: 10, 16
+  orig: 32, 30
+  offset: 18, 9
+  index: -1
+saoguang0035
+  rotate: false
+  xy: 62, 12
+  size: 10, 13
+  orig: 32, 30
+  offset: 20, 9
+  index: -1
+saoguang0037
+  rotate: true
+  xy: 100, 19
+  size: 7, 9
+  orig: 32, 30
+  offset: 23, 9
+  index: -1
+yanhua0001
+  rotate: false
+  xy: 88, 16
+  size: 10, 10
+  orig: 32, 30
+  offset: 10, 11
+  index: -1
+yanhua0002
+  rotate: false
+  xy: 88, 16
+  size: 10, 10
+  orig: 32, 30
+  offset: 10, 11
+  index: -1
+yanhua0003
+  rotate: false
+  xy: 74, 13
+  size: 12, 13
+  orig: 32, 30
+  offset: 9, 9
+  index: -1
+yanhua0004
+  rotate: false
+  xy: 74, 13
+  size: 12, 13
+  orig: 32, 30
+  offset: 9, 9
+  index: -1
+yanhua0005
+  rotate: false
+  xy: 46, 11
+  size: 14, 14
+  orig: 32, 30
+  offset: 8, 8
+  index: -1
+yanhua0006
+  rotate: false
+  xy: 46, 11
+  size: 14, 14
+  orig: 32, 30
+  offset: 8, 8
+  index: -1
+yanhua0007
+  rotate: true
+  xy: 19, 8
+  size: 16, 15
+  orig: 32, 30
+  offset: 7, 8
+  index: -1
+yanhua0008
+  rotate: true
+  xy: 19, 8
+  size: 16, 15
+  orig: 32, 30
+  offset: 7, 8
+  index: -1
+yanhua0009
+  rotate: false
+  xy: 53, 27
+  size: 17, 17
+  orig: 32, 30
+  offset: 7, 7
+  index: -1
+yanhua0010
+  rotate: false
+  xy: 53, 27
+  size: 17, 17
+  orig: 32, 30
+  offset: 7, 7
+  index: -1
+yanhua0011
+  rotate: false
+  xy: 2, 26
+  size: 17, 18
+  orig: 32, 30
+  offset: 7, 6
+  index: -1
+yanhua0012
+  rotate: false
+  xy: 2, 26
+  size: 17, 18
+  orig: 32, 30
+  offset: 7, 6
+  index: -1

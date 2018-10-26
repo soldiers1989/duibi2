@@ -1,0 +1,307 @@
+
+hero_boss_dujiaolongbaowang.png
+size: 924,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: false
+  xy: 2, 40
+  size: 136, 234
+  orig: 136, 234
+  offset: 0, 0
+  index: -1
+daiji_01
+  rotate: false
+  xy: 371, 229
+  size: 87, 144
+  orig: 100, 162
+  offset: 7, 0
+  index: -1
+daiji_02
+  rotate: false
+  xy: 271, 374
+  size: 85, 147
+  orig: 100, 162
+  offset: 10, 0
+  index: -1
+daiji_03
+  rotate: false
+  xy: 654, 137
+  size: 92, 119
+  orig: 100, 162
+  offset: 7, 0
+  index: -1
+daiji_04
+  rotate: false
+  xy: 469, 95
+  size: 94, 139
+  orig: 100, 162
+  offset: 5, 0
+  index: -1
+daiji_05
+  rotate: false
+  xy: 378, 85
+  size: 89, 142
+  orig: 100, 162
+  offset: 11, 0
+  index: -1
+daiji_06
+  rotate: false
+  xy: 450, 378
+  size: 87, 143
+  orig: 100, 162
+  offset: 6, 0
+  index: -1
+daiji_07
+  rotate: false
+  xy: 565, 120
+  size: 87, 123
+  orig: 100, 162
+  offset: 3, 0
+  index: -1
+daiji_08
+  rotate: false
+  xy: 284, 225
+  size: 85, 147
+  orig: 100, 162
+  offset: 9, 0
+  index: -1
+daiji_09
+  rotate: false
+  xy: 658, 405
+  size: 91, 116
+  orig: 100, 162
+  offset: 9, 0
+  index: -1
+daiji_10
+  rotate: false
+  xy: 551, 245
+  size: 95, 134
+  orig: 100, 162
+  offset: 5, 0
+  index: -1
+daiji_11
+  rotate: false
+  xy: 358, 375
+  size: 90, 146
+  orig: 100, 162
+  offset: 10, 0
+  index: -1
+daiji_12
+  rotate: false
+  xy: 460, 236
+  size: 89, 140
+  orig: 100, 162
+  offset: 7, 0
+  index: -1
+daiji_13
+  rotate: false
+  xy: 290, 78
+  size: 86, 145
+  orig: 100, 162
+  offset: 3, 0
+  index: -1
+daiji_14
+  rotate: true
+  xy: 140, 56
+  size: 82, 148
+  orig: 100, 162
+  offset: 9, 0
+  index: -1
+daiji_15
+  rotate: false
+  xy: 742, 293
+  size: 89, 110
+  orig: 100, 162
+  offset: 10, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 276
+  size: 118, 245
+  orig: 118, 245
+  offset: 0, 0
+  index: -1
+hero_boss_dujiaolongbaowang
+  rotate: true
+  xy: 814, 123
+  size: 74, 85
+  orig: 74, 86
+  offset: 0, 0
+  index: -1
+huan01
+  rotate: false
+  xy: 884, 54
+  size: 34, 67
+  orig: 34, 67
+  offset: 0, 0
+  index: -1
+huan_02
+  rotate: true
+  xy: 605, 7
+  size: 23, 67
+  orig: 23, 67
+  offset: 0, 0
+  index: -1
+l_calf_hou
+  rotate: true
+  xy: 833, 296
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+l_calf_qian
+  rotate: false
+  xy: 648, 258
+  size: 92, 121
+  orig: 92, 122
+  offset: 0, 0
+  index: -1
+l_foot_hou
+  rotate: true
+  xy: 140, 6
+  size: 48, 82
+  orig: 48, 82
+  offset: 0, 0
+  index: -1
+l_foot_qian
+  rotate: false
+  xy: 833, 353
+  size: 79, 61
+  orig: 79, 61
+  offset: 0, 0
+  index: -1
+l_leg_hou
+  rotate: false
+  xy: 751, 414
+  size: 68, 107
+  orig: 68, 107
+  offset: 0, 0
+  index: -1
+l_leg_qian
+  rotate: true
+  xy: 469, 6
+  size: 87, 134
+  orig: 87, 134
+  offset: 0, 0
+  index: -1
+l_zuazi_hou
+  rotate: false
+  xy: 883, 2
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 140, 140
+  size: 142, 163
+  orig: 142, 163
+  offset: 0, 0
+  index: -1
+r_calf_hou
+  rotate: false
+  xy: 814, 55
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+r_calf_qian
+  rotate: false
+  xy: 748, 199
+  size: 78, 92
+  orig: 78, 92
+  offset: 0, 0
+  index: -1
+r_foot_hou
+  rotate: false
+  xy: 404, 3
+  size: 47, 80
+  orig: 47, 80
+  offset: 0, 0
+  index: -1
+r_foot_qian
+  rotate: false
+  xy: 828, 206
+  size: 73, 85
+  orig: 73, 85
+  offset: 0, 0
+  index: -1
+r_leg_hou
+  rotate: true
+  xy: 290, 10
+  size: 66, 112
+  orig: 66, 112
+  offset: 0, 0
+  index: -1
+r_leg_qian
+  rotate: false
+  xy: 539, 381
+  size: 117, 140
+  orig: 117, 140
+  offset: 0, 0
+  index: -1
+r_zhuazi_hou
+  rotate: true
+  xy: 224, 10
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+tx1_1
+  rotate: false
+  xy: 814, 26
+  size: 67, 27
+  orig: 68, 27
+  offset: 0, 0
+  index: -1
+tx1_2
+  rotate: false
+  xy: 654, 122
+  size: 55, 13
+  orig: 56, 13
+  offset: 1, 0
+  index: -1
+tx2_0
+  rotate: false
+  xy: 748, 140
+  size: 61, 57
+  orig: 160, 117
+  offset: 24, 29
+  index: -1
+tx2_1
+  rotate: true
+  xy: 821, 416
+  size: 105, 80
+  orig: 160, 117
+  offset: 21, 18
+  index: -1
+tx2_2
+  rotate: false
+  xy: 605, 32
+  size: 120, 86
+  orig: 160, 117
+  offset: 20, 15
+  index: -1
+tx2_3
+  rotate: true
+  xy: 727, 17
+  size: 118, 85
+  orig: 160, 117
+  offset: 28, 15
+  index: -1
+tx2_4
+  rotate: false
+  xy: 751, 406
+  size: 75, 6
+  orig: 160, 117
+  offset: 70, 55
+  index: -1
+weiba
+  rotate: true
+  xy: 122, 305
+  size: 216, 147
+  orig: 216, 147
+  offset: 0, 0
+  index: -1

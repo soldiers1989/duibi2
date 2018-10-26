@@ -1,0 +1,104 @@
+
+effect_ui_yunceng.png
+size: 1539,429
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai
+  rotate: false
+  xy: 2, 86
+  size: 192, 341
+  orig: 192, 341
+  offset: 0, 0
+  index: -1
+yun_01
+  rotate: true
+  xy: 778, 41
+  size: 145, 128
+  orig: 256, 264
+  offset: 5, 16
+  index: -1
+yun_02
+  rotate: false
+  xy: 626, 22
+  size: 150, 159
+  orig: 256, 264
+  offset: 7, 8
+  index: -1
+yun_03
+  rotate: true
+  xy: 437, 2
+  size: 179, 187
+  orig: 256, 264
+  offset: 10, 10
+  index: -1
+yun_04
+  rotate: true
+  xy: 920, 5
+  size: 187, 197
+  orig: 256, 264
+  offset: 7, 10
+  index: -1
+yun_05
+  rotate: true
+  xy: 1134, 206
+  size: 221, 225
+  orig: 256, 264
+  offset: 10, 9
+  index: -1
+yun_06
+  rotate: false
+  xy: 196, 178
+  size: 239, 249
+  orig: 256, 264
+  offset: 10, 10
+  index: -1
+yun_07
+  rotate: false
+  xy: 437, 183
+  size: 242, 244
+  orig: 256, 264
+  offset: 10, 14
+  index: -1
+yun_08
+  rotate: false
+  xy: 681, 188
+  size: 237, 239
+  orig: 256, 264
+  offset: 10, 16
+  index: -1
+yun_09
+  rotate: true
+  xy: 920, 194
+  size: 233, 212
+  orig: 256, 264
+  offset: 12, 37
+  index: -1
+yun_10
+  rotate: true
+  xy: 1134, 8
+  size: 196, 204
+  orig: 256, 264
+  offset: 46, 47
+  index: -1
+yun_11
+  rotate: false
+  xy: 1340, 2
+  size: 194, 202
+  orig: 256, 264
+  offset: 50, 48
+  index: -1
+yun_12
+  rotate: false
+  xy: 1361, 236
+  size: 176, 191
+  orig: 256, 264
+  offset: 51, 53
+  index: -1
+yun_13
+  rotate: true
+  xy: 196, 33
+  size: 143, 191
+  orig: 256, 264
+  offset: 52, 55
+  index: -1

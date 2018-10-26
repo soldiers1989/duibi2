@@ -1,0 +1,13 @@
+
+effect_ui_yinghuochong.png
+size: 16,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yinghuochong
+  rotate: false
+  xy: 2, 2
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1

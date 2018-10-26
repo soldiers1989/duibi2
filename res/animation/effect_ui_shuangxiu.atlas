@@ -1,0 +1,55 @@
+
+effect_ui_shuangxiu.png
+size: 280,997
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shangsheng_01
+  rotate: true
+  xy: 197, 60
+  size: 117, 67
+  orig: 187, 309
+  offset: 39, 4
+  index: -1
+shangsheng_02
+  rotate: true
+  xy: 2, 2
+  size: 175, 193
+  orig: 187, 309
+  offset: 0, 5
+  index: -1
+shangsheng_03
+  rotate: true
+  xy: 2, 179
+  size: 175, 220
+  orig: 187, 309
+  offset: 0, 5
+  index: -1
+shangsheng_04
+  rotate: true
+  xy: 2, 356
+  size: 181, 261
+  orig: 187, 309
+  offset: 6, 5
+  index: -1
+shangsheng_05
+  rotate: true
+  xy: 2, 539
+  size: 151, 276
+  orig: 187, 309
+  offset: 15, 4
+  index: -1
+shangsheng_06
+  rotate: false
+  xy: 142, 694
+  size: 136, 301
+  orig: 187, 309
+  offset: 15, 5
+  index: -1
+shangsheng_07
+  rotate: false
+  xy: 2, 692
+  size: 138, 303
+  orig: 187, 309
+  offset: 14, 6
+  index: -1

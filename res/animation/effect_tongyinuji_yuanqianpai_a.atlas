@@ -1,0 +1,48 @@
+
+effect_tongyinuji_yuanqianpai_a.png
+size: 1169,255
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fashi_huangyueying_bao_01
+  rotate: false
+  xy: 977, 4
+  size: 169, 169
+  orig: 263, 251
+  offset: 48, 41
+  index: -1
+fashi_huangyueying_bao_02
+  rotate: false
+  xy: 764, 48
+  size: 211, 205
+  orig: 263, 251
+  offset: 26, 26
+  index: -1
+fashi_huangyueying_bao_03
+  rotate: false
+  xy: 532, 28
+  size: 230, 225
+  orig: 263, 251
+  offset: 17, 16
+  index: -1
+fashi_huangyueying_bao_04
+  rotate: false
+  xy: 2, 2
+  size: 263, 251
+  orig: 263, 251
+  offset: 0, 0
+  index: -1
+fashi_huangyueying_bao_05
+  rotate: false
+  xy: 267, 2
+  size: 263, 251
+  orig: 263, 251
+  offset: 0, 0
+  index: -1
+fashi_huangyueying_she
+  rotate: true
+  xy: 977, 175
+  size: 78, 190
+  orig: 78, 190
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,300 @@
+
+effcet_ui_renwuzhaomu_b.png
+size: 1836,779
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: true
+  xy: 1122, 335
+  size: 212, 204
+  orig: 329, 324
+  offset: 57, 61
+  index: -1
+bao_02
+  rotate: false
+  xy: 946, 82
+  size: 224, 224
+  orig: 329, 324
+  offset: 52, 51
+  index: -1
+bao_03
+  rotate: false
+  xy: 859, 543
+  size: 234, 234
+  orig: 329, 324
+  offset: 47, 46
+  index: -1
+bao_04
+  rotate: false
+  xy: 702, 19
+  size: 242, 242
+  orig: 329, 324
+  offset: 43, 42
+  index: -1
+bao_05
+  rotate: false
+  xy: 124, 521
+  size: 256, 256
+  orig: 329, 324
+  offset: 36, 35
+  index: -1
+bao_06
+  rotate: false
+  xy: 240, 263
+  size: 256, 256
+  orig: 329, 324
+  offset: 36, 35
+  index: -1
+bao_07
+  rotate: false
+  xy: 382, 521
+  size: 256, 256
+  orig: 329, 324
+  offset: 36, 35
+  index: -1
+bao_08
+  rotate: false
+  xy: 276, 5
+  size: 256, 256
+  orig: 329, 324
+  offset: 36, 35
+  index: -1
+bao_09
+  rotate: false
+  xy: 498, 263
+  size: 256, 256
+  orig: 329, 324
+  offset: 36, 35
+  index: -1
+quan
+  rotate: false
+  xy: 1738, 167
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+xishou_01
+  rotate: false
+  xy: 234, 27
+  size: 37, 37
+  orig: 240, 154
+  offset: 100, 52
+  index: -1
+xishou_02
+  rotate: false
+  xy: 1797, 563
+  size: 37, 37
+  orig: 240, 154
+  offset: 100, 55
+  index: -1
+xishou_03
+  rotate: false
+  xy: 234, 66
+  size: 39, 38
+  orig: 240, 154
+  offset: 99, 56
+  index: -1
+xishou_04
+  rotate: false
+  xy: 1172, 2
+  size: 197, 125
+  orig: 240, 154
+  offset: 21, 12
+  index: -1
+xishou_05
+  rotate: true
+  xy: 1361, 163
+  size: 196, 128
+  orig: 240, 154
+  offset: 22, 11
+  index: -1
+xishou_06
+  rotate: false
+  xy: 1371, 34
+  size: 194, 127
+  orig: 240, 154
+  offset: 22, 12
+  index: -1
+xishou_07
+  rotate: false
+  xy: 1567, 37
+  size: 190, 128
+  orig: 240, 154
+  offset: 22, 12
+  index: -1
+xishou_08
+  rotate: true
+  xy: 1610, 197
+  size: 186, 126
+  orig: 240, 154
+  offset: 24, 14
+  index: -1
+xishou_09
+  rotate: true
+  xy: 1514, 385
+  size: 190, 121
+  orig: 240, 154
+  offset: 22, 19
+  index: -1
+xishou_10
+  rotate: true
+  xy: 1637, 390
+  size: 185, 93
+  orig: 240, 154
+  offset: 27, 47
+  index: -1
+xishou_11
+  rotate: true
+  xy: 1738, 338
+  size: 124, 93
+  orig: 240, 154
+  offset: 70, 47
+  index: -1
+xishou_12
+  rotate: false
+  xy: 1738, 243
+  size: 94, 93
+  orig: 240, 154
+  offset: 71, 47
+  index: -1
+xuan_01
+  rotate: true
+  xy: 534, 10
+  size: 251, 166
+  orig: 303, 253
+  offset: 28, 41
+  index: -1
+xuan_02
+  rotate: true
+  xy: 1095, 549
+  size: 228, 177
+  orig: 303, 253
+  offset: 52, 38
+  index: -1
+xuan_03
+  rotate: true
+  xy: 756, 286
+  size: 237, 182
+  orig: 303, 253
+  offset: 44, 33
+  index: -1
+xuan_04
+  rotate: true
+  xy: 940, 308
+  size: 233, 180
+  orig: 303, 253
+  offset: 46, 35
+  index: -1
+xuan_05
+  rotate: true
+  xy: 1328, 361
+  size: 203, 184
+  orig: 303, 253
+  offset: 65, 31
+  index: -1
+xuan_06
+  rotate: true
+  xy: 1172, 129
+  size: 204, 187
+  orig: 303, 253
+  offset: 65, 28
+  index: -1
+xuan_07
+  rotate: true
+  xy: 1274, 566
+  size: 211, 188
+  orig: 303, 253
+  offset: 56, 27
+  index: -1
+xuan_08
+  rotate: true
+  xy: 1464, 577
+  size: 200, 185
+  orig: 303, 253
+  offset: 65, 30
+  index: -1
+xuan_09
+  rotate: true
+  xy: 1651, 602
+  size: 175, 182
+  orig: 303, 253
+  offset: 65, 33
+  index: -1
+yanchi_01
+  rotate: true
+  xy: 1732, 464
+  size: 136, 63
+  orig: 274, 134
+  offset: 69, 7
+  index: -1
+yanchi_02
+  rotate: true
+  xy: 1491, 167
+  size: 192, 117
+  orig: 274, 134
+  offset: 41, 0
+  index: -1
+yanchi_03
+  rotate: true
+  xy: 2, 503
+  size: 274, 120
+  orig: 274, 134
+  offset: 0, 12
+  index: -1
+yanchi_04
+  rotate: false
+  xy: 2, 106
+  size: 272, 119
+  orig: 274, 134
+  offset: 1, 15
+  index: -1
+yanchi_05
+  rotate: true
+  xy: 2, 227
+  size: 274, 117
+  orig: 274, 134
+  offset: 0, 16
+  index: -1
+yanchi_06
+  rotate: true
+  xy: 121, 233
+  size: 268, 117
+  orig: 274, 134
+  offset: 3, 17
+  index: -1
+yanchi_07
+  rotate: true
+  xy: 640, 521
+  size: 256, 109
+  orig: 274, 134
+  offset: 9, 23
+  index: -1
+yanchi_08
+  rotate: true
+  xy: 751, 525
+  size: 252, 106
+  orig: 274, 134
+  offset: 11, 27
+  index: -1
+yanchi_09
+  rotate: false
+  xy: 2, 45
+  size: 230, 59
+  orig: 274, 134
+  offset: 22, 74
+  index: -1
+yanchi_10
+  rotate: false
+  xy: 946, 27
+  size: 220, 53
+  orig: 274, 134
+  offset: 27, 80
+  index: -1
+yanchi_11
+  rotate: false
+  xy: 756, 264
+  size: 166, 20
+  orig: 274, 134
+  offset: 54, 85
+  index: -1

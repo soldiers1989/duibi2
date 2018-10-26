@@ -1,0 +1,41 @@
+
+effect_buff_busi.png
+size: 806,203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_buff_busi_chibang_01
+  rotate: false
+  xy: 657, 60
+  size: 147, 141
+  orig: 269, 204
+  offset: 61, 0
+  index: -1
+effect_buff_busi_chibang_02
+  rotate: true
+  xy: 514, 22
+  size: 179, 141
+  orig: 269, 204
+  offset: 45, 0
+  index: -1
+effect_buff_busi_chibang_03
+  rotate: false
+  xy: 2, 70
+  size: 269, 131
+  orig: 269, 204
+  offset: 0, 15
+  index: -1
+effect_buff_busi_chibang_04
+  rotate: false
+  xy: 273, 10
+  size: 239, 191
+  orig: 269, 204
+  offset: 15, 13
+  index: -1
+effect_buff_busi_guang
+  rotate: true
+  xy: 2, 2
+  size: 66, 222
+  orig: 66, 222
+  offset: 0, 0
+  index: -1

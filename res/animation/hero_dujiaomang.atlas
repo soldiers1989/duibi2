@@ -1,0 +1,125 @@
+
+hero_dujiaomang.png
+size: 453,514
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: false
+  xy: 2, 217
+  size: 158, 295
+  orig: 158, 295
+  offset: 0, 0
+  index: -1
+chest_01
+  rotate: true
+  xy: 2, 2
+  size: 213, 144
+  orig: 213, 145
+  offset: 0, 1
+  index: -1
+chest_02
+  rotate: true
+  xy: 148, 23
+  size: 68, 133
+  orig: 68, 133
+  offset: 0, 0
+  index: -1
+chest_03
+  rotate: true
+  xy: 350, 398
+  size: 114, 81
+  orig: 114, 81
+  offset: 0, 0
+  index: -1
+chest_04
+  rotate: false
+  xy: 379, 68
+  size: 57, 48
+  orig: 57, 48
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 433, 469
+  size: 43, 18
+  orig: 43, 18
+  offset: 0, 0
+  index: -1
+fins01
+  rotate: false
+  xy: 162, 403
+  size: 186, 109
+  orig: 186, 112
+  offset: 0, 0
+  index: -1
+fins02
+  rotate: false
+  xy: 162, 306
+  size: 177, 95
+  orig: 177, 95
+  offset: 0, 0
+  index: -1
+fins03
+  rotate: false
+  xy: 283, 10
+  size: 67, 35
+  orig: 67, 35
+  offset: 0, 0
+  index: -1
+fins04
+  rotate: true
+  xy: 341, 284
+  size: 112, 110
+  orig: 120, 110
+  offset: 8, 0
+  index: -1
+fins05
+  rotate: false
+  xy: 283, 47
+  size: 85, 35
+  orig: 86, 35
+  offset: 0, 0
+  index: -1
+fins06
+  rotate: false
+  xy: 333, 186
+  size: 82, 96
+  orig: 82, 96
+  offset: 0, 0
+  index: -1
+fins07
+  rotate: false
+  xy: 417, 225
+  size: 27, 57
+  orig: 27, 57
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 162, 170
+  size: 134, 169
+  orig: 134, 169
+  offset: 0, 0
+  index: -1
+head01
+  rotate: false
+  xy: 379, 118
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+head02
+  rotate: false
+  xy: 284, 84
+  size: 93, 84
+  orig: 93, 84
+  offset: 0, 0
+  index: -1
+tx1
+  rotate: false
+  xy: 148, 93
+  size: 134, 75
+  orig: 135, 75
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,181 @@
+
+hero_zhuzai_mantuluo.png
+size: 351,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 99, 266
+  size: 163, 117
+  orig: 163, 117
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 204, 53
+  size: 95, 92
+  orig: 95, 92
+  offset: 0, 0
+  index: -1
+chest_01
+  rotate: true
+  xy: 94, 33
+  size: 51, 73
+  orig: 51, 73
+  offset: 0, 0
+  index: -1
+chest_02
+  rotate: true
+  xy: 2, 5
+  size: 65, 82
+  orig: 65, 82
+  offset: 0, 0
+  index: -1
+chest_03
+  rotate: true
+  xy: 259, 149
+  size: 57, 77
+  orig: 57, 77
+  offset: 0, 0
+  index: -1
+guangxiao
+  rotate: false
+  xy: 99, 385
+  size: 212, 136
+  orig: 212, 136
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: false
+  xy: 2, 72
+  size: 90, 211
+  orig: 90, 219
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: false
+  xy: 2, 285
+  size: 95, 236
+  orig: 95, 236
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 94, 147
+  size: 163, 117
+  orig: 163, 117
+  offset: 0, 0
+  index: -1
+head_01
+  rotate: true
+  xy: 250, 28
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+head_02
+  rotate: false
+  xy: 169, 37
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+hero_zhuzai_mantuluo
+  rotate: false
+  xy: 169, 2
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+l_calf
+  rotate: false
+  xy: 301, 79
+  size: 41, 68
+  orig: 41, 68
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: false
+  xy: 94, 86
+  size: 108, 59
+  orig: 108, 59
+  offset: 0, 0
+  index: -1
+l_foot
+  rotate: false
+  xy: 212, 3
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: true
+  xy: 250, 3
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: false
+  xy: 313, 459
+  size: 35, 62
+  orig: 35, 62
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: true
+  xy: 86, 7
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+qi
+  rotate: true
+  xy: 264, 208
+  size: 71, 85
+  orig: 71, 85
+  offset: 0, 0
+  index: -1
+r_calf
+  rotate: false
+  xy: 301, 18
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+r_elbow
+  rotate: false
+  xy: 264, 281
+  size: 81, 102
+  orig: 81, 102
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: true
+  xy: 313, 387
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: true
+  xy: 133, 6
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: false
+  xy: 313, 407
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: false
+  xy: 212, 19
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1

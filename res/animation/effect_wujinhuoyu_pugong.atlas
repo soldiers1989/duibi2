@@ -1,0 +1,69 @@
+
+effect_wujinhuoyu_pugong.png
+size: 651,350
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx4_0001
+  rotate: false
+  xy: 582, 42
+  size: 67, 108
+  orig: 120, 225
+  offset: 28, 115
+  index: -1
+tx4_0002
+  rotate: false
+  xy: 503, 149
+  size: 67, 199
+  orig: 120, 225
+  offset: 24, 8
+  index: -1
+tx4_0004
+  rotate: false
+  xy: 572, 152
+  size: 76, 196
+  orig: 120, 225
+  offset: 19, 0
+  index: -1
+tx4_0006
+  rotate: true
+  xy: 392, 51
+  size: 96, 188
+  orig: 120, 225
+  offset: 12, 4
+  index: -1
+tx4_0008
+  rotate: true
+  xy: 191, 3
+  size: 99, 186
+  orig: 120, 225
+  offset: 10, 8
+  index: -1
+tx4_0010
+  rotate: true
+  xy: 2, 2
+  size: 103, 187
+  orig: 120, 225
+  offset: 8, 6
+  index: -1
+tx4_0012
+  rotate: true
+  xy: 2, 107
+  size: 103, 196
+  orig: 120, 225
+  offset: 7, 5
+  index: -1
+tx4_0014
+  rotate: true
+  xy: 200, 104
+  size: 106, 190
+  orig: 120, 225
+  offset: 6, 1
+  index: -1
+weapon1
+  rotate: true
+  xy: 2, 212
+  size: 136, 499
+  orig: 136, 499
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+effect_tongyinuji_jinzhanzhixian_c.png
+size: 296,334
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: false
+  xy: 187, 60
+  size: 99, 122
+  orig: 160, 230
+  offset: 20, 80
+  index: -1
+bao_02
+  rotate: false
+  xy: 210, 195
+  size: 84, 137
+  orig: 160, 230
+  offset: 46, 56
+  index: -1
+bao_03
+  rotate: false
+  xy: 2, 2
+  size: 89, 162
+  orig: 160, 230
+  offset: 41, 18
+  index: -1
+bao_04
+  rotate: false
+  xy: 2, 166
+  size: 106, 166
+  orig: 160, 230
+  offset: 37, 10
+  index: -1
+bao_05
+  rotate: false
+  xy: 110, 184
+  size: 98, 148
+  orig: 160, 230
+  offset: 37, 17
+  index: -1
+bao_06
+  rotate: false
+  xy: 93, 19
+  size: 92, 145
+  orig: 160, 230
+  offset: 38, 0
+  index: -1
+bao_07
+  rotate: true
+  xy: 187, 8
+  size: 50, 91
+  orig: 160, 230
+  offset: 42, 6
+  index: -1

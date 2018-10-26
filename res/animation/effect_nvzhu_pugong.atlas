@@ -1,0 +1,125 @@
+
+effect_nvzhu_pugong.png
+size: 1838,467
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: false
+  xy: 1402, 11
+  size: 226, 225
+  orig: 337, 350
+  offset: 57, 65
+  index: -1
+bao_02
+  rotate: false
+  xy: 594, 191
+  size: 274, 274
+  orig: 337, 350
+  offset: 33, 37
+  index: -1
+bao_03
+  rotate: false
+  xy: 2, 163
+  size: 301, 302
+  orig: 337, 350
+  offset: 20, 26
+  index: -1
+bao_04
+  rotate: false
+  xy: 305, 179
+  size: 287, 286
+  orig: 337, 350
+  offset: 26, 34
+  index: -1
+bao_05
+  rotate: false
+  xy: 870, 193
+  size: 271, 272
+  orig: 337, 350
+  offset: 34, 41
+  index: -1
+bao_06
+  rotate: false
+  xy: 1143, 208
+  size: 257, 257
+  orig: 337, 350
+  offset: 41, 49
+  index: -1
+bo
+  rotate: false
+  xy: 2, 11
+  size: 179, 150
+  orig: 179, 150
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 325, 96
+  size: 68, 81
+  orig: 135, 120
+  offset: 37, 23
+  index: -1
+qiubao_01
+  rotate: false
+  xy: 325, 31
+  size: 63, 63
+  orig: 248, 255
+  offset: 94, 90
+  index: -1
+qiubao_02
+  rotate: false
+  xy: 183, 20
+  size: 140, 141
+  orig: 248, 255
+  offset: 58, 46
+  index: -1
+qiubao_03
+  rotate: false
+  xy: 1402, 238
+  size: 224, 227
+  orig: 248, 255
+  offset: 12, 8
+  index: -1
+qiubao_04
+  rotate: false
+  xy: 789, 23
+  size: 190, 166
+  orig: 248, 255
+  offset: 37, 42
+  index: -1
+qiubao_05
+  rotate: false
+  xy: 1630, 57
+  size: 206, 180
+  orig: 248, 255
+  offset: 32, 49
+  index: -1
+qiubao_06
+  rotate: true
+  xy: 1628, 239
+  size: 226, 208
+  orig: 248, 255
+  offset: 22, 34
+  index: -1
+qiubao_07
+  rotate: false
+  xy: 1143, 2
+  size: 212, 204
+  orig: 248, 255
+  offset: 30, 27
+  index: -1
+qiubao_08
+  rotate: true
+  xy: 594, 9
+  size: 180, 193
+  orig: 248, 255
+  offset: 43, 32
+  index: -1
+shan
+  rotate: false
+  xy: 981, 30
+  size: 148, 161
+  orig: 149, 162
+  offset: 1, 0
+  index: -1

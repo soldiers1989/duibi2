@@ -1,0 +1,118 @@
+
+effect_wangxie_liutiandao.png
+size: 851,281
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+changbing_zhangliao_bao_01
+  rotate: false
+  xy: 317, 8
+  size: 58, 38
+  orig: 171, 204
+  offset: 51, 33
+  index: -1
+changbing_zhangliao_bao_02
+  rotate: false
+  xy: 660, 135
+  size: 93, 144
+  orig: 171, 204
+  offset: 32, 29
+  index: -1
+changbing_zhangliao_bao_03
+  rotate: false
+  xy: 755, 140
+  size: 94, 139
+  orig: 171, 204
+  offset: 33, 29
+  index: -1
+changbing_zhangliao_bao_04
+  rotate: true
+  xy: 2, 2
+  size: 100, 139
+  orig: 171, 204
+  offset: 33, 29
+  index: -1
+changbing_zhangliao_bao_05
+  rotate: true
+  xy: 647, 10
+  size: 111, 150
+  orig: 171, 204
+  offset: 32, 20
+  index: -1
+changbing_zhangliao_bao_06
+  rotate: false
+  xy: 539, 123
+  size: 119, 156
+  orig: 171, 204
+  offset: 29, 18
+  index: -1
+changbing_zhangliao_bao_07
+  rotate: false
+  xy: 411, 116
+  size: 126, 163
+  orig: 171, 204
+  offset: 23, 15
+  index: -1
+changbing_zhangliao_bao_08
+  rotate: false
+  xy: 147, 110
+  size: 135, 169
+  orig: 171, 204
+  offset: 17, 12
+  index: -1
+changbing_zhangliao_bao_09
+  rotate: false
+  xy: 2, 104
+  size: 143, 175
+  orig: 171, 204
+  offset: 13, 9
+  index: -1
+yan_01
+  rotate: true
+  xy: 799, 13
+  size: 125, 40
+  orig: 184, 78
+  offset: 28, 18
+  index: -1
+yan_02
+  rotate: false
+  xy: 486, 8
+  size: 149, 48
+  orig: 184, 78
+  offset: 18, 12
+  index: -1
+yan_03
+  rotate: false
+  xy: 486, 58
+  size: 159, 56
+  orig: 184, 78
+  offset: 12, 9
+  index: -1
+yan_04
+  rotate: true
+  xy: 284, 112
+  size: 167, 61
+  orig: 184, 78
+  offset: 7, 8
+  index: -1
+yan_05
+  rotate: false
+  xy: 317, 48
+  size: 167, 62
+  orig: 184, 78
+  offset: 7, 7
+  index: -1
+yan_06
+  rotate: false
+  xy: 147, 46
+  size: 168, 62
+  orig: 184, 78
+  offset: 7, 7
+  index: -1
+yan_07
+  rotate: true
+  xy: 347, 112
+  size: 167, 62
+  orig: 184, 78
+  offset: 8, 7
+  index: -1

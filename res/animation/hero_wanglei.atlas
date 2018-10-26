@@ -1,0 +1,237 @@
+
+hero_wanglei.png
+size: 594,527
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: false
+  xy: 447, 25
+  size: 76, 89
+  orig: 76, 89
+  offset: 0, 0
+  index: -1
+chest_01
+  rotate: false
+  xy: 311, 111
+  size: 117, 114
+  orig: 117, 114
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 525, 58
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 433, 236
+  size: 90, 101
+  orig: 90, 101
+  offset: 0, 0
+  index: -1
+head_01
+  rotate: false
+  xy: 411, 416
+  size: 47, 62
+  orig: 47, 62
+  offset: 0, 0
+  index: -1
+head_02
+  rotate: false
+  xy: 311, 351
+  size: 98, 127
+  orig: 98, 127
+  offset: 0, 0
+  index: -1
+head_03
+  rotate: false
+  xy: 433, 328
+  size: 104, 82
+  orig: 104, 82
+  offset: 0, 0
+  index: -1
+hip 03
+  rotate: false
+  xy: 2, 133
+  size: 148, 54
+  orig: 148, 54
+  offset: 0, 0
+  index: -1
+hip_04
+  rotate: false
+  xy: 311, 480
+  size: 147, 45
+  orig: 147, 45
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: false
+  xy: 167, 37
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+l_foot
+  rotate: true
+  xy: 167, 2
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 205, 6
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+l_hand01
+  rotate: true
+  xy: 411, 390
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+l_knee
+  rotate: false
+  xy: 500, 156
+  size: 75, 78
+  orig: 75, 78
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: true
+  xy: 380, 14
+  size: 95, 65
+  orig: 95, 65
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: false
+  xy: 76, 6
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+l_shoulder_01
+  rotate: false
+  xy: 213, 38
+  size: 36, 41
+  orig: 37, 41
+  offset: 1, 0
+  index: -1
+l_shoulder_02
+  rotate: false
+  xy: 536, 270
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+longweapon
+  rotate: false
+  xy: 2, 189
+  size: 307, 336
+  orig: 307, 336
+  offset: 0, 0
+  index: -1
+r_elbow
+  rotate: false
+  xy: 125, 14
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: true
+  xy: 536, 237
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 525, 100
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+r_knee
+  rotate: false
+  xy: 430, 116
+  size: 68, 109
+  orig: 68, 109
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: true
+  xy: 275, 8
+  size: 101, 103
+  orig: 101, 103
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: false
+  xy: 525, 8
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+r_shoulder_01
+  rotate: true
+  xy: 539, 348
+  size: 62, 40
+  orig: 63, 40
+  offset: 1, 0
+  index: -1
+r_shoulder_02
+  rotate: true
+  xy: 2, 2
+  size: 59, 72
+  orig: 59, 72
+  offset: 0, 0
+  index: -1
+r_shoulder_04
+  rotate: false
+  xy: 275, 131
+  size: 33, 56
+  orig: 33, 56
+  offset: 0, 0
+  index: -1
+r_shoulder_05
+  rotate: false
+  xy: 539, 313
+  size: 49, 33
+  orig: 49, 33
+  offset: 0, 0
+  index: -1
+tx1
+  rotate: false
+  xy: 2, 63
+  size: 130, 68
+  orig: 130, 68
+  offset: 0, 0
+  index: -1
+tx2_1
+  rotate: false
+  xy: 311, 227
+  size: 120, 122
+  orig: 120, 122
+  offset: 0, 0
+  index: -1
+tx2_3
+  rotate: true
+  xy: 460, 412
+  size: 113, 132
+  orig: 113, 132
+  offset: 0, 0
+  index: -1
+tx2_4
+  rotate: true
+  xy: 152, 81
+  size: 106, 121
+  orig: 106, 121
+  offset: 0, 0
+  index: -1

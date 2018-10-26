@@ -1,0 +1,55 @@
+
+effect_zhuzai_pugong_luoli.png
+size: 1503,113
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shui_01
+  rotate: false
+  xy: 1340, 41
+  size: 161, 70
+  orig: 263, 134
+  offset: 48, 33
+  index: -1
+shui_02
+  rotate: false
+  xy: 1146, 20
+  size: 192, 91
+  orig: 263, 134
+  offset: 35, 20
+  index: -1
+shui_03
+  rotate: false
+  xy: 933, 7
+  size: 211, 104
+  orig: 263, 134
+  offset: 24, 14
+  index: -1
+shui_04
+  rotate: false
+  xy: 705, 6
+  size: 226, 105
+  orig: 263, 134
+  offset: 16, 16
+  index: -1
+shui_05
+  rotate: false
+  xy: 475, 2
+  size: 228, 109
+  orig: 263, 134
+  offset: 18, 14
+  index: -1
+shui_06
+  rotate: false
+  xy: 2, 4
+  size: 236, 107
+  orig: 263, 134
+  offset: 16, 16
+  index: -1
+shui_07
+  rotate: false
+  xy: 240, 8
+  size: 233, 103
+  orig: 263, 134
+  offset: 14, 19
+  index: -1

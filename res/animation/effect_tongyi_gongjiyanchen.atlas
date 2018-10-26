@@ -1,0 +1,55 @@
+
+effect_tongyi_gongjiyanchen.png
+size: 169,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_tongyi_gongjiyanchen_01
+  rotate: true
+  xy: 111, 2
+  size: 27, 17
+  orig: 73, 56
+  offset: 40, 1
+  index: -1
+effect_tongyi_gongjiyanchen_02
+  rotate: false
+  xy: 111, 31
+  size: 56, 43
+  orig: 73, 56
+  offset: 14, 1
+  index: -1
+effect_tongyi_gongjiyanchen_03
+  rotate: true
+  xy: 109, 76
+  size: 62, 48
+  orig: 73, 56
+  offset: 8, 1
+  index: -1
+effect_tongyi_gongjiyanchen_04
+  rotate: true
+  xy: 56, 73
+  size: 65, 51
+  orig: 73, 56
+  offset: 5, 1
+  index: -1
+effect_tongyi_gongjiyanchen_05
+  rotate: true
+  xy: 57, 6
+  size: 65, 52
+  orig: 73, 56
+  offset: 5, 1
+  index: -1
+effect_tongyi_gongjiyanchen_06
+  rotate: true
+  xy: 2, 72
+  size: 66, 52
+  orig: 73, 56
+  offset: 4, 1
+  index: -1
+effect_tongyi_gongjiyanchen_07
+  rotate: true
+  xy: 2, 4
+  size: 66, 53
+  orig: 73, 56
+  offset: 4, 1
+  index: -1

@@ -1,0 +1,62 @@
+
+effect_buff_zhongdu.png
+size: 1004,103
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_buff_zhongdu_di_01
+  rotate: false
+  xy: 526, 28
+  size: 122, 73
+  orig: 132, 109
+  offset: 6, 7
+  index: -1
+effect_buff_zhongdu_di_02
+  rotate: false
+  xy: 889, 25
+  size: 113, 76
+  orig: 132, 109
+  offset: 4, 7
+  index: -1
+effect_buff_zhongdu_di_03
+  rotate: false
+  xy: 650, 6
+  size: 119, 95
+  orig: 132, 109
+  offset: 5, 5
+  index: -1
+effect_buff_zhongdu_di_04
+  rotate: false
+  xy: 771, 2
+  size: 116, 99
+  orig: 132, 109
+  offset: 8, 7
+  index: -1
+effect_buff_zhongdu_di_05
+  rotate: false
+  xy: 398, 3
+  size: 126, 98
+  orig: 132, 109
+  offset: 2, 6
+  index: -1
+effect_buff_zhongdu_di_06
+  rotate: false
+  xy: 136, 3
+  size: 129, 98
+  orig: 132, 109
+  offset: 1, 7
+  index: -1
+effect_buff_zhongdu_di_07
+  rotate: false
+  xy: 2, 7
+  size: 132, 94
+  orig: 132, 109
+  offset: 0, 7
+  index: -1
+effect_buff_zhongdu_di_08
+  rotate: false
+  xy: 267, 9
+  size: 129, 92
+  orig: 132, 109
+  offset: 0, 7
+  index: -1

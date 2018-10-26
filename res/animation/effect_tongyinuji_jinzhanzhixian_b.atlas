@@ -1,0 +1,62 @@
+
+effect_tongyinuji_jinzhanzhixian_b.png
+size: 883,242
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_zhixian_b_01
+  rotate: true
+  xy: 578, 19
+  size: 99, 122
+  orig: 176, 321
+  offset: 23, 183
+  index: -1
+effect_zhixian_b_02
+  rotate: false
+  xy: 755, 36
+  size: 126, 204
+  orig: 176, 321
+  offset: 50, 92
+  index: -1
+effect_zhixian_b_03
+  rotate: true
+  xy: 2, 129
+  size: 111, 263
+  orig: 176, 321
+  offset: 44, 20
+  index: -1
+effect_zhixian_b_04
+  rotate: true
+  xy: 2, 7
+  size: 120, 261
+  orig: 176, 321
+  offset: 41, 18
+  index: -1
+effect_zhixian_b_05
+  rotate: true
+  xy: 267, 120
+  size: 120, 255
+  orig: 176, 321
+  offset: 41, 18
+  index: -1
+effect_zhixian_b_06
+  rotate: true
+  xy: 524, 120
+  size: 120, 229
+  orig: 176, 321
+  offset: 41, 19
+  index: -1
+effect_zhixian_b_07
+  rotate: true
+  xy: 265, 2
+  size: 116, 183
+  orig: 176, 321
+  offset: 46, 17
+  index: -1
+effect_zhixian_b_08
+  rotate: true
+  xy: 450, 42
+  size: 76, 126
+  orig: 176, 321
+  offset: 86, 18
+  index: -1

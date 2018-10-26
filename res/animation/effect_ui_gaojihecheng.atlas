@@ -1,0 +1,160 @@
+
+effect_ui_gaojihecheng.png
+size: 643,525
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baodian0001
+  rotate: true
+  xy: 441, 102
+  size: 125, 120
+  orig: 180, 172
+  offset: 28, 27
+  index: -1
+baodian0003
+  rotate: false
+  xy: 308, 96
+  size: 131, 131
+  orig: 180, 172
+  offset: 26, 21
+  index: -1
+baodian0005
+  rotate: false
+  xy: 468, 234
+  size: 138, 137
+  orig: 180, 172
+  offset: 22, 18
+  index: -1
+baodian0007
+  rotate: false
+  xy: 324, 229
+  size: 142, 142
+  orig: 180, 172
+  offset: 20, 16
+  index: -1
+baodian0009
+  rotate: false
+  xy: 2, 4
+  size: 150, 151
+  orig: 180, 172
+  offset: 16, 11
+  index: -1
+baodian0011
+  rotate: true
+  xy: 337, 373
+  size: 150, 151
+  orig: 180, 172
+  offset: 16, 11
+  index: -1
+baodian0013
+  rotate: true
+  xy: 490, 373
+  size: 150, 151
+  orig: 180, 172
+  offset: 16, 11
+  index: -1
+baodian0015
+  rotate: false
+  xy: 154, 4
+  size: 150, 151
+  orig: 180, 172
+  offset: 16, 11
+  index: -1
+baodian0017
+  rotate: true
+  xy: 171, 283
+  size: 150, 151
+  orig: 180, 172
+  offset: 16, 11
+  index: -1
+guangxian0001
+  rotate: true
+  xy: 608, 330
+  size: 41, 25
+  orig: 195, 98
+  offset: 3, 33
+  index: -1
+guangxian0003
+  rotate: false
+  xy: 500, 53
+  size: 50, 47
+  orig: 195, 98
+  offset: 5, 33
+  index: -1
+guangxian0005
+  rotate: true
+  xy: 563, 125
+  size: 107, 68
+  orig: 195, 98
+  offset: 5, 14
+  index: -1
+guangxian0007
+  rotate: false
+  xy: 306, 2
+  size: 129, 92
+  orig: 195, 98
+  offset: 4, 1
+  index: -1
+guangxian0009
+  rotate: false
+  xy: 157, 157
+  size: 149, 90
+  orig: 195, 98
+  offset: 9, 2
+  index: -1
+guangxian0011
+  rotate: false
+  xy: 2, 157
+  size: 153, 90
+  orig: 195, 98
+  offset: 9, 2
+  index: -1
+guangxian0013
+  rotate: false
+  xy: 2, 342
+  size: 166, 90
+  orig: 195, 98
+  offset: 9, 2
+  index: -1
+guangxian0015
+  rotate: false
+  xy: 2, 249
+  size: 160, 91
+  orig: 195, 98
+  offset: 19, 1
+  index: -1
+guangxian0017
+  rotate: false
+  xy: 2, 434
+  size: 167, 89
+  orig: 195, 98
+  offset: 20, 3
+  index: -1
+guangxian0019
+  rotate: false
+  xy: 171, 435
+  size: 164, 88
+  orig: 195, 98
+  offset: 30, 3
+  index: -1
+guangxian0021
+  rotate: false
+  xy: 563, 69
+  size: 74, 54
+  orig: 195, 98
+  offset: 121, 19
+  index: -1
+guangxian0023
+  rotate: false
+  xy: 441, 47
+  size: 57, 53
+  orig: 195, 98
+  offset: 133, 19
+  index: -1
+kuang
+  rotate: false
+  xy: 608, 305
+  size: 23, 23
+  orig: 27, 27
+  offset: 2, 2
+  index: -1

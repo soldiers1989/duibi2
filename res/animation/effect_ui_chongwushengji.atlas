@@ -1,0 +1,90 @@
+
+effect_ui_chongwushengji.png
+size: 1596,529
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sheng_01
+  rotate: true
+  xy: 1242, 260
+  size: 267, 145
+  orig: 267, 328
+  offset: 0, 10
+  index: -1
+sheng_02
+  rotate: true
+  xy: 1428, 12
+  size: 246, 166
+  orig: 267, 328
+  offset: 21, 0
+  index: -1
+sheng_03
+  rotate: true
+  xy: 1389, 260
+  size: 267, 196
+  orig: 267, 328
+  offset: 0, 8
+  index: -1
+sheng_04
+  rotate: false
+  xy: 910, 21
+  size: 259, 237
+  orig: 267, 328
+  offset: 8, 12
+  index: -1
+sheng_05
+  rotate: false
+  xy: 1171, 7
+  size: 255, 251
+  orig: 267, 328
+  offset: 0, 9
+  index: -1
+sheng_06
+  rotate: true
+  xy: 2, 268
+  size: 259, 317
+  orig: 267, 328
+  offset: 8, 11
+  index: -1
+sheng_07
+  rotate: true
+  xy: 640, 261
+  size: 266, 308
+  orig: 267, 328
+  offset: 0, 11
+  index: -1
+sheng_08
+  rotate: true
+  xy: 321, 278
+  size: 249, 317
+  orig: 267, 328
+  offset: 10, 11
+  index: -1
+sheng_09
+  rotate: true
+  xy: 321, 20
+  size: 256, 306
+  orig: 267, 328
+  offset: 0, 18
+  index: -1
+sheng_10
+  rotate: true
+  xy: 2, 2
+  size: 264, 286
+  orig: 267, 328
+  offset: 1, 23
+  index: -1
+sheng_11
+  rotate: true
+  xy: 950, 260
+  size: 267, 290
+  orig: 267, 328
+  offset: 0, 14
+  index: -1
+sheng_12
+  rotate: true
+  xy: 629, 23
+  size: 236, 279
+  orig: 267, 328
+  offset: 8, 24
+  index: -1

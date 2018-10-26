@@ -1,0 +1,321 @@
+
+hero_baixuan.png
+size: 987,274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: false
+  xy: 443, 34
+  size: 73, 116
+  orig: 73, 116
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 886, 35
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 578, 59
+  size: 94, 102
+  orig: 94, 102
+  offset: 0, 0
+  index: -1
+head_01
+  rotate: true
+  xy: 2, 13
+  size: 34, 75
+  orig: 34, 75
+  offset: 0, 0
+  index: -1
+head_02
+  rotate: false
+  xy: 718, 185
+  size: 48, 87
+  orig: 48, 87
+  offset: 0, 0
+  index: -1
+head_03
+  rotate: true
+  xy: 518, 47
+  size: 109, 58
+  orig: 109, 58
+  offset: 0, 0
+  index: -1
+head_04
+  rotate: true
+  xy: 834, 100
+  size: 36, 64
+  orig: 36, 64
+  offset: 0, 0
+  index: -1
+hip
+  rotate: true
+  xy: 756, 5
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: true
+  xy: 292, 147
+  size: 125, 80
+  orig: 125, 80
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: false
+  xy: 621, 170
+  size: 95, 102
+  orig: 95, 102
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: true
+  xy: 374, 152
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+hip_04
+  rotate: false
+  xy: 2, 49
+  size: 285, 95
+  orig: 285, 95
+  offset: 0, 0
+  index: -1
+l_ leg
+  rotate: false
+  xy: 757, 97
+  size: 75, 86
+  orig: 75, 86
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: false
+  xy: 365, 2
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+l_foot
+  rotate: true
+  xy: 886, 2
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 491, 5
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+l_knee
+  rotate: false
+  xy: 819, 205
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1
+l_shoulder-
+  rotate: true
+  xy: 850, 78
+  size: 20, 48
+  orig: 20, 48
+  offset: 0, 0
+  index: -1
+l_shoulder_01
+  rotate: false
+  xy: 961, 125
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+r_ leg
+  rotate: false
+  xy: 674, 78
+  size: 81, 90
+  orig: 81, 90
+  offset: 0, 0
+  index: -1
+r_elbow
+  rotate: false
+  xy: 946, 218
+  size: 35, 54
+  orig: 35, 54
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: false
+  xy: 955, 17
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 921, 14
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+r_knee
+  rotate: false
+  xy: 365, 24
+  size: 76, 121
+  orig: 76, 121
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: false
+  xy: 141, 14
+  size: 52, 33
+  orig: 52, 33
+  offset: 0, 0
+  index: -1
+r_shoulder_01
+  rotate: false
+  xy: 900, 91
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+r_shoulder_02
+  rotate: false
+  xy: 921, 51
+  size: 38, 38
+  orig: 38, 40
+  offset: 0, 2
+  index: -1
+ribbno_01
+  rotate: false
+  xy: 2, 146
+  size: 288, 126
+  orig: 288, 126
+  offset: 0, 0
+  index: -1
+ribbno_03
+  rotate: false
+  xy: 518, 24
+  size: 55, 21
+  orig: 55, 21
+  offset: 0, 0
+  index: -1
+ribbno_04
+  rotate: true
+  xy: 946, 163
+  size: 53, 34
+  orig: 55, 34
+  offset: 2, 0
+  index: -1
+tx1_1
+  rotate: false
+  xy: 443, 2
+  size: 46, 30
+  orig: 48, 32
+  offset: 1, 1
+  index: -1
+tx1_2
+  rotate: false
+  xy: 195, 10
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+tx1_3
+  rotate: false
+  xy: 245, 2
+  size: 42, 45
+  orig: 48, 52
+  offset: 4, 4
+  index: -1
+tx2_0001
+  rotate: true
+  xy: 834, 138
+  size: 65, 54
+  orig: 65, 54
+  offset: 0, 0
+  index: -1
+tx2_0002
+  rotate: true
+  xy: 790, 28
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+tx2_0003
+  rotate: true
+  xy: 768, 189
+  size: 83, 49
+  orig: 83, 49
+  offset: 0, 0
+  index: -1
+tx2_0004
+  rotate: true
+  xy: 850, 29
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+tx2_0005
+  rotate: true
+  xy: 877, 207
+  size: 65, 59
+  orig: 65, 59
+  offset: 0, 0
+  index: -1
+tx2_0006
+  rotate: false
+  xy: 676, 2
+  size: 78, 74
+  orig: 78, 74
+  offset: 0, 0
+  index: -1
+tx2_0007
+  rotate: false
+  xy: 79, 4
+  size: 60, 43
+  orig: 60, 43
+  offset: 0, 0
+  index: -1
+tx2_0008
+  rotate: true
+  xy: 890, 144
+  size: 61, 54
+  orig: 61, 54
+  offset: 0, 0
+  index: -1
+tx4_1
+  rotate: false
+  xy: 289, 15
+  size: 74, 129
+  orig: 74, 129
+  offset: 0, 0
+  index: -1
+tx4_2
+  rotate: true
+  xy: 544, 163
+  size: 109, 75
+  orig: 109, 75
+  offset: 0, 0
+  index: -1
+weapon_01
+  rotate: false
+  xy: 578, 2
+  size: 96, 55
+  orig: 96, 55
+  offset: 0, 0
+  index: -1
+weapon_02
+  rotate: false
+  xy: 481, 158
+  size: 61, 114
+  orig: 61, 114
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,293 @@
+
+hero_zhouqingshan.png
+size: 933,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_knee
+  rotate: false
+  xy: 269, 3
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+chest
+  rotate: true
+  xy: 517, 13
+  size: 79, 103
+  orig: 79, 103
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 884, 9
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 517, 94
+  size: 101, 109
+  orig: 101, 109
+  offset: 0, 0
+  index: -1
+head_02
+  rotate: false
+  xy: 777, 78
+  size: 37, 59
+  orig: 37, 59
+  offset: 0, 0
+  index: -1
+head_03
+  rotate: true
+  xy: 895, 78
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+head_04
+  rotate: true
+  xy: 622, 15
+  size: 33, 72
+  orig: 33, 72
+  offset: 0, 0
+  index: -1
+head_05
+  rotate: true
+  xy: 834, 14
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+l_ foot
+  rotate: false
+  xy: 899, 141
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+l_ leg
+  rotate: false
+  xy: 330, 86
+  size: 100, 117
+  orig: 100, 117
+  offset: 0, 0
+  index: -1
+l_elbow_01
+  rotate: false
+  xy: 805, 145
+  size: 36, 58
+  orig: 36, 58
+  offset: 0, 0
+  index: -1
+l_elbow_02
+  rotate: false
+  xy: 816, 88
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+l_hand_01
+  rotate: false
+  xy: 895, 42
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+l_hand_02
+  rotate: true
+  xy: 868, 110
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: true
+  xy: 696, 5
+  size: 55, 68
+  orig: 55, 68
+  offset: 0, 0
+  index: -1
+l_shoulder_01
+  rotate: true
+  xy: 843, 149
+  size: 54, 37
+  orig: 54, 43
+  offset: 0, 0
+  index: -1
+l_shoulder_02
+  rotate: true
+  xy: 495, 38
+  size: 51, 18
+  orig: 51, 18
+  offset: 0, 0
+  index: -1
+r_elbow
+  rotate: true
+  xy: 622, 50
+  size: 75, 67
+  orig: 75, 67
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: true
+  xy: 834, 37
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: true
+  xy: 863, 40
+  size: 46, 30
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+r_hand_01
+  rotate: true
+  xy: 882, 173
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+r_knee
+  rotate: true
+  xy: 190, 3
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: true
+  xy: 330, 16
+  size: 68, 99
+  orig: 68, 99
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: false
+  xy: 620, 127
+  size: 60, 76
+  orig: 60, 76
+  offset: 0, 0
+  index: -1
+ribbno
+  rotate: true
+  xy: 432, 91
+  size: 112, 83
+  orig: 112, 83
+  offset: 0, 0
+  index: -1
+ribbno_01
+  rotate: false
+  xy: 691, 62
+  size: 51, 69
+  orig: 51, 69
+  offset: 0, 0
+  index: -1
+ribbno_02
+  rotate: false
+  xy: 744, 65
+  size: 31, 66
+  orig: 31, 66
+  offset: 0, 0
+  index: -1
+ribbno_03
+  rotate: false
+  xy: 766, 16
+  size: 66, 47
+  orig: 66, 47
+  offset: 0, 0
+  index: -1
+tl_01
+  rotate: false
+  xy: 269, 67
+  size: 59, 136
+  orig: 59, 136
+  offset: 0, 0
+  index: -1
+tx2_10001
+  rotate: true
+  xy: 432, 4
+  size: 85, 61
+  orig: 87, 67
+  offset: 1, 6
+  index: -1
+tx2_10002
+  rotate: true
+  xy: 682, 133
+  size: 70, 64
+  orig: 87, 67
+  offset: 16, 3
+  index: -1
+tx2_10003
+  rotate: true
+  xy: 135, 4
+  size: 26, 53
+  orig: 87, 67
+  offset: 60, 2
+  index: -1
+tx3
+  rotate: true
+  xy: 495, 2
+  size: 34, 20
+  orig: 36, 20
+  offset: 1, 0
+  index: -1
+tx4_10001
+  rotate: true
+  xy: 314, 20
+  size: 45, 14
+  orig: 69, 23
+  offset: 9, 5
+  index: -1
+tx4_10002
+  rotate: false
+  xy: 73, 8
+  size: 60, 22
+  orig: 69, 23
+  offset: 2, 0
+  index: -1
+tx4_10003
+  rotate: false
+  xy: 2, 7
+  size: 69, 23
+  orig: 69, 23
+  offset: 0, 0
+  index: -1
+tx5
+  rotate: false
+  xy: 314, 10
+  size: 10, 8
+  orig: 12, 10
+  offset: 1, 1
+  index: -1
+tx6
+  rotate: true
+  xy: 882, 154
+  size: 8, 6
+  orig: 8, 7
+  offset: 0, 1
+  index: -1
+tx7
+  rotate: false
+  xy: 882, 164
+  size: 10, 7
+  orig: 10, 10
+  offset: 0, 2
+  index: -1
+tx9
+  rotate: false
+  xy: 748, 139
+  size: 55, 64
+  orig: 55, 64
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 32
+  size: 265, 171
+  orig: 265, 171
+  offset: 0, 0
+  index: -1

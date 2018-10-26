@@ -1,0 +1,139 @@
+
+effect_wangxie_tuntianxiedi_nuji.png
+size: 1435,360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: true
+  xy: 729, 55
+  size: 107, 110
+  orig: 215, 209
+  offset: 48, 0
+  index: -1
+bao_02
+  rotate: false
+  xy: 183, 3
+  size: 146, 152
+  orig: 215, 209
+  offset: 33, 2
+  index: -1
+bao_03
+  rotate: false
+  xy: 1251, 9
+  size: 175, 169
+  orig: 215, 209
+  offset: 24, 4
+  index: -1
+bao_04
+  rotate: false
+  xy: 1251, 180
+  size: 182, 178
+  orig: 215, 209
+  offset: 19, 3
+  index: -1
+bao_05
+  rotate: false
+  xy: 848, 171
+  size: 200, 187
+  orig: 215, 209
+  offset: 10, 5
+  index: -1
+bao_06
+  rotate: false
+  xy: 641, 164
+  size: 205, 194
+  orig: 215, 209
+  offset: 6, 5
+  index: -1
+bao_07
+  rotate: false
+  xy: 219, 159
+  size: 210, 199
+  orig: 215, 209
+  offset: 2, 8
+  index: -1
+bao_08
+  rotate: false
+  xy: 2, 157
+  size: 215, 201
+  orig: 215, 209
+  offset: 0, 8
+  index: -1
+bao_09
+  rotate: false
+  xy: 431, 181
+  size: 208, 177
+  orig: 215, 209
+  offset: 4, 30
+  index: -1
+bao_10
+  rotate: true
+  xy: 431, 2
+  size: 177, 128
+  orig: 215, 209
+  offset: 26, 36
+  index: -1
+qi
+  rotate: false
+  xy: 561, 22
+  size: 156, 48
+  orig: 156, 48
+  offset: 0, 0
+  index: -1
+shan
+  rotate: false
+  xy: 1050, 159
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: -1
+she_01
+  rotate: true
+  xy: 962, 16
+  size: 141, 157
+  orig: 146, 197
+  offset: 5, 16
+  index: -1
+she_02
+  rotate: true
+  xy: 2, 9
+  size: 146, 179
+  orig: 146, 197
+  offset: 0, 18
+  index: -1
+she_03
+  rotate: false
+  xy: 1121, 12
+  size: 124, 145
+  orig: 146, 197
+  offset: 15, 26
+  index: -1
+she_04
+  rotate: false
+  xy: 848, 2
+  size: 112, 167
+  orig: 146, 197
+  offset: 20, 0
+  index: -1
+she_05
+  rotate: true
+  xy: 561, 72
+  size: 90, 166
+  orig: 146, 197
+  offset: 30, 1
+  index: -1
+she_06
+  rotate: false
+  xy: 331, 60
+  size: 90, 97
+  orig: 146, 197
+  offset: 30, 71
+  index: -1
+she_07
+  rotate: false
+  xy: 331, 11
+  size: 84, 47
+  orig: 146, 197
+  offset: 34, 122
+  index: -1

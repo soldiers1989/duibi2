@@ -1,0 +1,384 @@
+
+hero_fanghuayingchun.png
+size: 1969,332
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1111
+  rotate: true
+  xy: 1401, 171
+  size: 159, 188
+  orig: 161, 188
+  offset: 1, 0
+  index: -1
+chest
+  rotate: false
+  xy: 711, 8
+  size: 52, 99
+  orig: 52, 99
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 1271, 17
+  size: 93, 104
+  orig: 93, 104
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: true
+  xy: 1586, 90
+  size: 52, 86
+  orig: 52, 86
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: true
+  xy: 1514, 2
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: false
+  xy: 859, 12
+  size: 46, 95
+  orig: 46, 95
+  offset: 0, 0
+  index: -1
+hair_04
+  rotate: true
+  xy: 1762, 20
+  size: 40, 64
+  orig: 40, 64
+  offset: 0, 0
+  index: -1
+hair_05
+  rotate: true
+  xy: 1828, 35
+  size: 25, 63
+  orig: 25, 63
+  offset: 0, 0
+  index: -1
+hair_06
+  rotate: false
+  xy: 559, 109
+  size: 215, 221
+  orig: 215, 221
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 615, 3
+  size: 94, 104
+  orig: 95, 104
+  offset: 1, 0
+  index: -1
+hip_01
+  rotate: false
+  xy: 1768, 62
+  size: 143, 113
+  orig: 143, 113
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: true
+  xy: 1514, 63
+  size: 106, 70
+  orig: 106, 70
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: false
+  xy: 1381, 183
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+hip_04
+  rotate: false
+  xy: 1586, 2
+  size: 71, 86
+  orig: 71, 86
+  offset: 0, 0
+  index: -1
+hip_05
+  rotate: true
+  xy: 1591, 227
+  size: 103, 178
+  orig: 103, 178
+  offset: 0, 0
+  index: -1
+hip_06
+  rotate: true
+  xy: 1659, 9
+  size: 79, 77
+  orig: 79, 77
+  offset: 0, 0
+  index: -1
+hip_08
+  rotate: true
+  xy: 907, 12
+  size: 95, 77
+  orig: 95, 77
+  offset: 0, 0
+  index: -1
+hip_09
+  rotate: false
+  xy: 2, 25
+  size: 110, 47
+  orig: 110, 47
+  offset: 0, 0
+  index: -1
+hip_10
+  rotate: true
+  xy: 1771, 177
+  size: 153, 178
+  orig: 153, 178
+  offset: 0, 0
+  index: -1
+hip_11
+  rotate: false
+  xy: 765, 11
+  size: 92, 96
+  orig: 92, 96
+  offset: 0, 0
+  index: -1
+hip_12
+  rotate: true
+  xy: 776, 109
+  size: 49, 174
+  orig: 49, 174
+  offset: 0, 0
+  index: -1
+l_calf
+  rotate: false
+  xy: 1738, 26
+  size: 22, 77
+  orig: 22, 77
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: false
+  xy: 1893, 19
+  size: 18, 41
+  orig: 18, 41
+  offset: 0, 0
+  index: -1
+l_foot
+  rotate: false
+  xy: 1381, 199
+  size: 15, 48
+  orig: 15, 48
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: true
+  xy: 40, 2
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: false
+  xy: 1913, 77
+  size: 33, 98
+  orig: 33, 98
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: false
+  xy: 1913, 2
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+nuji_luodiyan_0001
+  rotate: false
+  xy: 1195, 249
+  size: 204, 81
+  orig: 210, 85
+  offset: 1, 2
+  index: -1
+nuji_luodiyan_0002
+  rotate: false
+  xy: 148, 2
+  size: 205, 82
+  orig: 210, 85
+  offset: 1, 1
+  index: -1
+nuji_luodiyan_0003
+  rotate: false
+  xy: 986, 247
+  size: 207, 83
+  orig: 210, 85
+  offset: 0, 1
+  index: -1
+nuji_luodiyan_0004
+  rotate: false
+  xy: 776, 246
+  size: 208, 84
+  orig: 210, 85
+  offset: 0, 1
+  index: -1
+nuji_luodiyan_0005
+  rotate: false
+  xy: 986, 161
+  size: 206, 84
+  orig: 210, 85
+  offset: 1, 1
+  index: -1
+nuji_luodiyan_0006
+  rotate: false
+  xy: 776, 160
+  size: 208, 84
+  orig: 210, 85
+  offset: 0, 1
+  index: -1
+r_calf
+  rotate: true
+  xy: 1377, 20
+  size: 37, 81
+  orig: 37, 81
+  offset: 0, 0
+  index: -1
+r_elbow
+  rotate: true
+  xy: 2, 5
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: true
+  xy: 296, 86
+  size: 14, 40
+  orig: 14, 40
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: true
+  xy: 1241, 222
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: true
+  xy: 1674, 105
+  size: 37, 85
+  orig: 37, 85
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: false
+  xy: 1194, 171
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+xinjia_hulu_0001
+  rotate: true
+  xy: 1133, 2
+  size: 11, 35
+  orig: 158, 270
+  offset: 27, 52
+  index: -1
+xinjia_hulu_0003
+  rotate: true
+  xy: 1913, 39
+  size: 36, 54
+  orig: 158, 270
+  offset: 29, 65
+  index: -1
+xinjia_hulu_0005
+  rotate: true
+  xy: 1195, 213
+  size: 34, 44
+  orig: 158, 270
+  offset: 33, 76
+  index: -1
+xinjia_hulu_0007
+  rotate: true
+  xy: 1460, 10
+  size: 47, 51
+  orig: 158, 270
+  offset: 21, 74
+  index: -1
+xinjia_hulu_0009
+  rotate: true
+  xy: 495, 3
+  size: 100, 118
+  orig: 158, 270
+  offset: 11, 7
+  index: -1
+xinjia_hulu_0010
+  rotate: false
+  xy: 1381, 59
+  size: 131, 110
+  orig: 158, 270
+  offset: 9, 2
+  index: -1
+xinjia_hulu_0011
+  rotate: true
+  xy: 1271, 112
+  size: 135, 108
+  orig: 158, 270
+  offset: 11, 2
+  index: -1
+xinjia_hulu_0012
+  rotate: false
+  xy: 355, 20
+  size: 138, 80
+  orig: 158, 270
+  offset: 10, 2
+  index: -1
+xinjia_hulu_0013
+  rotate: false
+  xy: 1133, 15
+  size: 136, 144
+  orig: 158, 270
+  offset: 15, 4
+  index: -1
+xinjia_hulu_0014
+  rotate: false
+  xy: 986, 2
+  size: 145, 157
+  orig: 158, 270
+  offset: 8, 4
+  index: -1
+xinjia_hulu_0015
+  rotate: false
+  xy: 2, 74
+  size: 144, 256
+  orig: 158, 270
+  offset: 7, 5
+  index: -1
+xinjia_hulu_0016
+  rotate: false
+  xy: 148, 86
+  size: 146, 244
+  orig: 158, 270
+  offset: 5, 20
+  index: -1
+xinjia_hulu_0017
+  rotate: false
+  xy: 296, 102
+  size: 140, 228
+  orig: 158, 270
+  offset: 7, 40
+  index: -1
+xinjia_hulu_0018
+  rotate: false
+  xy: 438, 105
+  size: 119, 225
+  orig: 158, 270
+  offset: 9, 43
+  index: -1
+xinjia_hulu_0019
+  rotate: true
+  xy: 1591, 144
+  size: 81, 175
+  orig: 158, 270
+  offset: 10, 87
+  index: -1

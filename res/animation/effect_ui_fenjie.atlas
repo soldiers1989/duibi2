@@ -1,0 +1,41 @@
+
+effect_ui_fenjie.png
+size: 140,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fenjie_01
+  rotate: false
+  xy: 2, 41
+  size: 58, 53
+  orig: 59, 54
+  offset: 1, 0
+  index: -1
+fenjie_02
+  rotate: false
+  xy: 62, 47
+  size: 49, 47
+  orig: 59, 54
+  offset: 5, 4
+  index: -1
+fenjie_03
+  rotate: false
+  xy: 62, 6
+  size: 42, 39
+  orig: 59, 54
+  offset: 9, 7
+  index: -1
+fenjie_04
+  rotate: true
+  xy: 2, 2
+  size: 37, 36
+  orig: 59, 54
+  offset: 13, 8
+  index: -1
+fenjie_05
+  rotate: true
+  xy: 106, 12
+  size: 33, 32
+  orig: 59, 54
+  offset: 15, 10
+  index: -1

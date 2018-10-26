@@ -1,0 +1,244 @@
+
+effect_zhounianqingnanzhu_pugong.png
+size: 1081,531
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+474
+  rotate: false
+  xy: 2, 307
+  size: 222, 222
+  orig: 236, 236
+  offset: 6, 8
+  index: -1
+Daoguan_01
+  rotate: true
+  xy: 1052, 467
+  size: 62, 27
+  orig: 177, 119
+  offset: 94, 28
+  index: -1
+Daoguan_02
+  rotate: true
+  xy: 111, 142
+  size: 163, 105
+  orig: 177, 119
+  offset: 12, 2
+  index: -1
+Daoguan_03
+  rotate: false
+  xy: 726, 424
+  size: 161, 105
+  orig: 177, 119
+  offset: 12, 2
+  index: -1
+Daoguan_04
+  rotate: true
+  xy: 326, 148
+  size: 160, 105
+  orig: 177, 119
+  offset: 13, 4
+  index: -1
+Daoguan_05
+  rotate: false
+  xy: 226, 310
+  size: 162, 105
+  orig: 177, 119
+  offset: 2, 4
+  index: -1
+Daoguan_06
+  rotate: false
+  xy: 398, 422
+  size: 162, 107
+  orig: 177, 119
+  offset: 2, 10
+  index: -1
+Daoguan_07
+  rotate: false
+  xy: 562, 422
+  size: 162, 107
+  orig: 177, 119
+  offset: 2, 10
+  index: -1
+Daoguan_08
+  rotate: true
+  xy: 218, 2
+  size: 140, 107
+  orig: 177, 119
+  offset: 3, 10
+  index: -1
+Daoguan_09
+  rotate: true
+  xy: 327, 6
+  size: 140, 106
+  orig: 177, 119
+  offset: 3, 11
+  index: -1
+Daoguan_10
+  rotate: false
+  xy: 860, 74
+  size: 131, 106
+  orig: 177, 119
+  offset: 3, 11
+  index: -1
+Daoguan_11
+  rotate: false
+  xy: 993, 104
+  size: 86, 76
+  orig: 177, 119
+  offset: 48, 31
+  index: -1
+Daoguanb_01
+  rotate: false
+  xy: 2, 130
+  size: 107, 175
+  orig: 114, 182
+  offset: 3, 4
+  index: -1
+Daoguanb_02
+  rotate: false
+  xy: 814, 183
+  size: 62, 25
+  orig: 177, 119
+  offset: 94, 29
+  index: -1
+Daoguanb_03
+  rotate: false
+  xy: 398, 318
+  size: 160, 102
+  orig: 177, 119
+  offset: 15, 2
+  index: -1
+Daoguanb_04
+  rotate: false
+  xy: 548, 214
+  size: 157, 102
+  orig: 177, 119
+  offset: 15, 2
+  index: -1
+Daoguanb_05
+  rotate: false
+  xy: 548, 108
+  size: 157, 104
+  orig: 177, 119
+  offset: 15, 3
+  index: -1
+Daoguanb_06
+  rotate: false
+  xy: 889, 425
+  size: 161, 104
+  orig: 177, 119
+  offset: 4, 3
+  index: -1
+Daoguanb_07
+  rotate: false
+  xy: 2, 16
+  size: 161, 112
+  orig: 177, 119
+  offset: 4, 3
+  index: -1
+Daoguanb_08
+  rotate: true
+  xy: 218, 144
+  size: 161, 106
+  orig: 177, 119
+  offset: 4, 9
+  index: -1
+Daoguanb_09
+  rotate: true
+  xy: 435, 15
+  size: 139, 106
+  orig: 177, 119
+  offset: 4, 9
+  index: -1
+Daoguanb_10
+  rotate: false
+  xy: 889, 317
+  size: 139, 106
+  orig: 177, 119
+  offset: 4, 9
+  index: -1
+Daoguanb_11
+  rotate: false
+  xy: 814, 210
+  size: 133, 105
+  orig: 177, 119
+  offset: 4, 10
+  index: -1
+Daoguanb_12
+  rotate: true
+  xy: 949, 182
+  size: 133, 105
+  orig: 177, 119
+  offset: 4, 10
+  index: -1
+Daoguanb_13
+  rotate: false
+  xy: 993, 28
+  size: 85, 74
+  orig: 177, 119
+  offset: 49, 31
+  index: -1
+Daoguanb_14
+  rotate: true
+  xy: 1030, 339
+  size: 84, 44
+  orig: 177, 119
+  offset: 47, 56
+  index: -1
+effect_juqing_pugong_yuancheng_b_01
+  rotate: false
+  xy: 726, 326
+  size: 117, 96
+  orig: 183, 122
+  offset: 23, 13
+  index: -1
+effect_juqing_pugong_yuancheng_b_02
+  rotate: false
+  xy: 543, 6
+  size: 138, 100
+  orig: 183, 122
+  offset: 10, 8
+  index: -1
+effect_juqing_pugong_yuancheng_b_03
+  rotate: true
+  xy: 707, 161
+  size: 155, 105
+  orig: 183, 122
+  offset: 6, 4
+  index: -1
+effect_juqing_pugong_yuancheng_b_04
+  rotate: false
+  xy: 560, 318
+  size: 158, 102
+  orig: 183, 122
+  offset: 6, 8
+  index: -1
+effect_juqing_pugong_yuancheng_b_05
+  rotate: false
+  xy: 707, 53
+  size: 151, 106
+  orig: 183, 122
+  offset: 15, 4
+  index: -1
+effect_juqing_pugong_yuancheng_b_06
+  rotate: true
+  xy: 433, 156
+  size: 160, 113
+  orig: 183, 122
+  offset: 15, 2
+  index: -1
+effect_juqing_pugong_yuancheng_b_07
+  rotate: false
+  xy: 226, 417
+  size: 170, 112
+  orig: 183, 122
+  offset: 9, 2
+  index: -1
+flashSlice_crits
+  rotate: false
+  xy: 165, 38
+  size: 51, 102
+  orig: 51, 102
+  offset: 0, 0
+  index: -1

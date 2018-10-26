@@ -1,0 +1,83 @@
+
+effect_taigushenzuzhuang_pugong.png
+size: 210,527
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow
+  rotate: true
+  xy: 2, 278
+  size: 247, 81
+  orig: 247, 81
+  offset: 0, 0
+  index: -1
+tx1_0001
+  rotate: false
+  xy: 2, 188
+  size: 102, 66
+  orig: 112, 71
+  offset: 8, 3
+  index: -1
+tx1_0002
+  rotate: false
+  xy: 85, 256
+  size: 107, 83
+  orig: 112, 84
+  offset: 4, 0
+  index: -1
+tx1_0003
+  rotate: false
+  xy: 85, 341
+  size: 115, 88
+  orig: 116, 89
+  offset: 0, 0
+  index: -1
+tx1_0004
+  rotate: false
+  xy: 85, 431
+  size: 120, 94
+  orig: 123, 95
+  offset: 0, 0
+  index: -1
+tx1_0005
+  rotate: false
+  xy: 106, 163
+  size: 102, 91
+  orig: 113, 93
+  offset: 8, 0
+  index: -1
+tx1_0006
+  rotate: false
+  xy: 97, 69
+  size: 92, 92
+  orig: 104, 94
+  offset: 8, 0
+  index: -1
+tx1_0007
+  rotate: true
+  xy: 2, 98
+  size: 88, 93
+  orig: 96, 95
+  offset: 5, 0
+  index: -1
+tx1_0008
+  rotate: false
+  xy: 2, 28
+  size: 85, 68
+  orig: 96, 75
+  offset: 9, 4
+  index: -1
+tx1_0009
+  rotate: false
+  xy: 89, 2
+  size: 78, 65
+  orig: 95, 75
+  offset: 15, 5
+  index: -1
+tx2
+  rotate: false
+  xy: 169, 44
+  size: 37, 23
+  orig: 41, 26
+  offset: 3, 2
+  index: -1

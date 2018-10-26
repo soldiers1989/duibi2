@@ -1,0 +1,223 @@
+
+effect_ui_ren.png
+size: 126,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniu
+  rotate: true
+  xy: 77, 19
+  size: 18, 6
+  orig: 18, 6
+  offset: 0, 0
+  index: -1
+banzi
+  rotate: false
+  xy: 50, 63
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: false
+  xy: 113, 42
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 101, 115
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: false
+  xy: 2, 5
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: false
+  xy: 50, 36
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: false
+  xy: 33, 11
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+hair_04
+  rotate: true
+  xy: 24, 2
+  size: 7, 19
+  orig: 7, 19
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 31
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: false
+  xy: 2, 20
+  size: 29, 9
+  orig: 29, 9
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: true
+  xy: 87, 102
+  size: 38, 12
+  orig: 38, 12
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: true
+  xy: 72, 39
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+hip_04
+  rotate: false
+  xy: 79, 63
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+hip_05
+  rotate: false
+  xy: 78, 5
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+l_calf
+  rotate: false
+  xy: 93, 52
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: false
+  xy: 96, 21
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+l_foot
+  rotate: false
+  xy: 45, 3
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 93, 69
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: true
+  xy: 56, 14
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: false
+  xy: 109, 69
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+r_calf
+  rotate: true
+  xy: 96, 34
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+r_elbow
+  rotate: true
+  xy: 111, 53
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: false
+  xy: 97, 10
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 24, 12
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: true
+  xy: 86, 76
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: true
+  xy: 56, 2
+  size: 10, 20
+  orig: 10, 20
+  offset: 0, 0
+  index: -1
+r_shoulder_01
+  rotate: false
+  xy: 109, 88
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+tanhuang
+  rotate: true
+  xy: 85, 19
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+tiezhu
+  rotate: false
+  xy: 101, 108
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 77
+  size: 82, 23
+  orig: 83, 23
+  offset: 0, 0
+  index: -1
+wing
+  rotate: false
+  xy: 2, 102
+  size: 83, 38
+  orig: 83, 38
+  offset: 0, 0
+  index: -1

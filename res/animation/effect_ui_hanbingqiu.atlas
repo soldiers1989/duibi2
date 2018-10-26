@@ -1,0 +1,188 @@
+
+effect_ui_hanbingqiu.png
+size: 205,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+andi
+  rotate: false
+  xy: 2, 83
+  size: 58, 57
+  orig: 60, 60
+  offset: 2, 0
+  index: -1
+zhuti_0001
+  rotate: false
+  xy: 185, 50
+  size: 11, 12
+  orig: 39, 54
+  offset: 10, 8
+  index: -1
+zhuti_0002
+  rotate: false
+  xy: 132, 11
+  size: 16, 24
+  orig: 39, 54
+  offset: 8, 6
+  index: -1
+zhuti_0003
+  rotate: false
+  xy: 93, 102
+  size: 21, 38
+  orig: 39, 54
+  offset: 8, 5
+  index: -1
+zhuti_0004
+  rotate: false
+  xy: 116, 102
+  size: 24, 38
+  orig: 39, 54
+  offset: 7, 5
+  index: -1
+zhuti_0005
+  rotate: true
+  xy: 2, 2
+  size: 25, 47
+  orig: 39, 54
+  offset: 7, 4
+  index: -1
+zhuti_0006
+  rotate: true
+  xy: 51, 2
+  size: 26, 47
+  orig: 39, 54
+  offset: 7, 4
+  index: -1
+zhuti_0007
+  rotate: false
+  xy: 32, 30
+  size: 28, 51
+  orig: 39, 54
+  offset: 6, 3
+  index: -1
+zhuti_0008
+  rotate: false
+  xy: 62, 35
+  size: 28, 51
+  orig: 39, 54
+  offset: 6, 3
+  index: -1
+zhuti_0009
+  rotate: false
+  xy: 2, 29
+  size: 28, 52
+  orig: 39, 54
+  offset: 6, 2
+  index: -1
+zhuti_0010
+  rotate: false
+  xy: 62, 88
+  size: 29, 52
+  orig: 39, 54
+  offset: 5, 2
+  index: -1
+zhuti_0011
+  rotate: false
+  xy: 142, 102
+  size: 30, 38
+  orig: 39, 54
+  offset: 5, 2
+  index: -1
+zhuti_0012
+  rotate: true
+  xy: 93, 69
+  size: 31, 37
+  orig: 39, 54
+  offset: 4, 4
+  index: -1
+zhuti_0013
+  rotate: false
+  xy: 92, 30
+  size: 32, 37
+  orig: 39, 54
+  offset: 4, 4
+  index: -1
+zhuti_0014
+  rotate: false
+  xy: 174, 103
+  size: 29, 37
+  orig: 39, 54
+  offset: 4, 4
+  index: -1
+zhuti_0015
+  rotate: true
+  xy: 132, 72
+  size: 28, 32
+  orig: 39, 54
+  offset: 6, 9
+  index: -1
+zhuti_0016
+  rotate: false
+  xy: 126, 37
+  size: 28, 30
+  orig: 39, 54
+  offset: 6, 9
+  index: -1
+zhuti_0017
+  rotate: false
+  xy: 156, 40
+  size: 27, 30
+  orig: 39, 54
+  offset: 6, 9
+  index: -1
+zhuti_0018
+  rotate: true
+  xy: 100, 4
+  size: 24, 30
+  orig: 39, 54
+  offset: 9, 9
+  index: -1
+zhuti_0019
+  rotate: true
+  xy: 166, 76
+  size: 24, 23
+  orig: 39, 54
+  offset: 9, 10
+  index: -1
+zhuti_0020
+  rotate: false
+  xy: 150, 12
+  size: 21, 23
+  orig: 39, 54
+  offset: 9, 10
+  index: -1
+zhuti_0021
+  rotate: false
+  xy: 173, 18
+  size: 19, 20
+  orig: 39, 54
+  offset: 9, 13
+  index: -1
+zhuti_0022
+  rotate: false
+  xy: 191, 83
+  size: 12, 18
+  orig: 39, 54
+  offset: 16, 15
+  index: -1
+zhuti_0023
+  rotate: false
+  xy: 191, 64
+  size: 12, 17
+  orig: 39, 54
+  offset: 16, 16
+  index: -1
+zhuti_0024
+  rotate: true
+  xy: 132, 2
+  size: 7, 12
+  orig: 39, 54
+  offset: 16, 17
+  index: -1
+zhuti_0025
+  rotate: true
+  xy: 146, 2
+  size: 7, 12
+  orig: 39, 54
+  offset: 16, 17
+  index: -1

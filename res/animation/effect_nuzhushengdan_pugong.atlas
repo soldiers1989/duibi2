@@ -1,0 +1,76 @@
+
+effect_nuzhushengdan_pugong.png
+size: 377,531
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: false
+  xy: 293, 74
+  size: 81, 86
+  orig: 214, 185
+  offset: 59, 48
+  index: -1
+bao_02
+  rotate: false
+  xy: 280, 254
+  size: 92, 92
+  orig: 214, 185
+  offset: 53, 44
+  index: -1
+bao_03
+  rotate: true
+  xy: 179, 230
+  size: 116, 99
+  orig: 214, 185
+  offset: 44, 38
+  index: -1
+bao_04
+  rotate: true
+  xy: 169, 11
+  size: 139, 122
+  orig: 214, 185
+  offset: 34, 26
+  index: -1
+bao_05
+  rotate: false
+  xy: 2, 2
+  size: 165, 148
+  orig: 214, 185
+  offset: 24, 12
+  index: -1
+bao_06
+  rotate: true
+  xy: 208, 348
+  size: 181, 163
+  orig: 214, 185
+  offset: 17, 7
+  index: -1
+bao_07
+  rotate: true
+  xy: 2, 152
+  size: 195, 175
+  orig: 214, 185
+  offset: 13, 2
+  index: -1
+bao_08
+  rotate: false
+  xy: 2, 349
+  size: 204, 180
+  orig: 214, 185
+  offset: 9, 0
+  index: -1
+qi
+  rotate: false
+  xy: 293, 162
+  size: 82, 90
+  orig: 82, 90
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 179, 194
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1

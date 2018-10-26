@@ -1,0 +1,377 @@
+
+effect_luoshen_nuji.png
+size: 2030,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_bao_ci_add_01_0001
+  rotate: false
+  xy: 1294, 331
+  size: 84, 174
+  orig: 128, 200
+  offset: 20, 4
+  index: -1
+effect_bao_ci_add_01_0002
+  rotate: false
+  xy: 1003, 109
+  size: 105, 194
+  orig: 128, 200
+  offset: 9, 0
+  index: -1
+effect_bao_ci_add_01_0003
+  rotate: false
+  xy: 1033, 311
+  size: 109, 194
+  orig: 128, 200
+  offset: 4, 4
+  index: -1
+effect_bao_ci_add_01_0004
+  rotate: false
+  xy: 1110, 118
+  size: 117, 191
+  orig: 128, 200
+  offset: 0, 4
+  index: -1
+effect_bao_ci_add_01_0005
+  rotate: false
+  xy: 1409, 201
+  size: 113, 142
+  orig: 128, 200
+  offset: 5, 4
+  index: -1
+effect_bao_ci_add_01_0006
+  rotate: false
+  xy: 1724, 197
+  size: 110, 101
+  orig: 128, 200
+  offset: 6, 46
+  index: -1
+effect_bao_ci_add_01_0007
+  rotate: true
+  xy: 1969, 437
+  size: 68, 56
+  orig: 128, 200
+  offset: 39, 46
+  index: -1
+effect_bao_ci_add_02_0001
+  rotate: true
+  xy: 559, 10
+  size: 83, 175
+  orig: 128, 200
+  offset: 20, 2
+  index: -1
+effect_bao_ci_add_02_0002
+  rotate: true
+  xy: 894, 2
+  size: 100, 194
+  orig: 128, 200
+  offset: 12, 0
+  index: -1
+effect_bao_ci_add_02_0003
+  rotate: false
+  xy: 894, 104
+  size: 107, 199
+  orig: 128, 200
+  offset: 7, 0
+  index: -1
+effect_bao_ci_add_02_0004
+  rotate: false
+  xy: 559, 95
+  size: 115, 200
+  orig: 128, 200
+  offset: 3, 0
+  index: -1
+effect_bao_ci_add_02_0005
+  rotate: true
+  xy: 1382, 19
+  size: 111, 150
+  orig: 128, 200
+  offset: 1, 0
+  index: -1
+effect_bao_ci_add_02_0006
+  rotate: false
+  xy: 1744, 3
+  size: 86, 81
+  orig: 128, 200
+  offset: 28, 43
+  index: -1
+effect_bao_ci_add_02_0007
+  rotate: true
+  xy: 1832, 6
+  size: 78, 66
+  orig: 128, 200
+  offset: 36, 40
+  index: -1
+effect_bao_dao_add_0001
+  rotate: true
+  xy: 625, 305
+  size: 200, 110
+  orig: 200, 112
+  offset: 0, 2
+  index: -1
+effect_bao_dao_add_0002
+  rotate: true
+  xy: 676, 103
+  size: 200, 111
+  orig: 200, 112
+  offset: 0, 0
+  index: -1
+effect_bao_dao_add_0003
+  rotate: true
+  xy: 737, 305
+  size: 200, 108
+  orig: 200, 112
+  offset: 0, 0
+  index: -1
+effect_bao_dao_add_0004
+  rotate: true
+  xy: 789, 103
+  size: 200, 103
+  orig: 200, 112
+  offset: 0, 0
+  index: -1
+effect_bao_dao_add_0005
+  rotate: false
+  xy: 1846, 292
+  size: 118, 91
+  orig: 200, 112
+  offset: 20, 0
+  index: -1
+effect_bao_dao_add_0006
+  rotate: true
+  xy: 1936, 89
+  size: 97, 89
+  orig: 200, 112
+  offset: 18, 3
+  index: -1
+effect_bao_shan_0001
+  rotate: false
+  xy: 1836, 118
+  size: 98, 74
+  orig: 128, 200
+  offset: 19, 39
+  index: -1
+effect_bao_shan_0002
+  rotate: true
+  xy: 1637, 260
+  size: 111, 85
+  orig: 128, 200
+  offset: 8, 37
+  index: -1
+effect_bao_shan_0003
+  rotate: false
+  xy: 1640, 7
+  size: 102, 76
+  orig: 128, 200
+  offset: 14, 38
+  index: -1
+effect_bao_shan_0004
+  rotate: false
+  xy: 1534, 2
+  size: 104, 73
+  orig: 128, 200
+  offset: 14, 42
+  index: -1
+effect_bao_shui_add_0001
+  rotate: false
+  xy: 1900, 27
+  size: 57, 60
+  orig: 128, 200
+  offset: 40, 52
+  index: -1
+effect_bao_shui_add_0002
+  rotate: false
+  xy: 1637, 85
+  size: 97, 110
+  orig: 128, 200
+  offset: 21, 36
+  index: -1
+effect_bao_shui_add_0003
+  rotate: true
+  xy: 1725, 300
+  size: 100, 119
+  orig: 128, 200
+  offset: 18, 36
+  index: -1
+effect_bao_shui_add_0004
+  rotate: true
+  xy: 1836, 194
+  size: 96, 104
+  orig: 128, 200
+  offset: 22, 35
+  index: -1
+effect_bao_shui_add_0005
+  rotate: false
+  xy: 1736, 86
+  size: 98, 109
+  orig: 128, 200
+  offset: 21, 33
+  index: -1
+effect_bao_shui_add_0006
+  rotate: true
+  xy: 1090, 15
+  size: 92, 135
+  orig: 128, 200
+  offset: 20, 32
+  index: -1
+effect_bao_shui_alpha_0001
+  rotate: false
+  xy: 1969, 367
+  size: 57, 68
+  orig: 128, 200
+  offset: 40, 45
+  index: -1
+effect_bao_shui_alpha_0002
+  rotate: true
+  xy: 1725, 402
+  size: 103, 120
+  orig: 128, 200
+  offset: 15, 33
+  index: -1
+effect_bao_shui_alpha_0003
+  rotate: false
+  xy: 1534, 77
+  size: 101, 126
+  orig: 128, 200
+  offset: 19, 30
+  index: -1
+effect_bao_shui_alpha_0004
+  rotate: false
+  xy: 1528, 371
+  size: 96, 134
+  orig: 128, 200
+  offset: 22, 28
+  index: -1
+effect_bao_shui_alpha_0005
+  rotate: false
+  xy: 1626, 373
+  size: 97, 132
+  orig: 128, 200
+  offset: 22, 33
+  index: -1
+effect_bao_shui_alpha_0006
+  rotate: true
+  xy: 736, 10
+  size: 91, 135
+  orig: 128, 200
+  offset: 21, 32
+  index: -1
+effect_guangyun
+  rotate: false
+  xy: 1847, 385
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+effect_nuji_shui_add_0001
+  rotate: true
+  xy: 2, 269
+  size: 236, 202
+  orig: 240, 240
+  offset: 0, 22
+  index: -1
+effect_nuji_shui_add_0002
+  rotate: true
+  xy: 206, 277
+  size: 228, 220
+  orig: 240, 240
+  offset: 12, 10
+  index: -1
+effect_nuji_shui_add_0003
+  rotate: false
+  xy: 359, 59
+  size: 198, 216
+  orig: 240, 240
+  offset: 38, 14
+  index: -1
+effect_nuji_shui_add_0004
+  rotate: false
+  xy: 847, 305
+  size: 184, 200
+  orig: 240, 240
+  offset: 44, 23
+  index: -1
+effect_nuji_shui_add_0005
+  rotate: false
+  xy: 1144, 316
+  size: 148, 189
+  orig: 240, 240
+  offset: 44, 17
+  index: -1
+effect_nuji_shui_add_0006
+  rotate: false
+  xy: 1524, 205
+  size: 111, 138
+  orig: 240, 240
+  offset: 63, 43
+  index: -1
+effect_nuji_shui_add_0007
+  rotate: true
+  xy: 1409, 133
+  size: 66, 112
+  orig: 240, 240
+  offset: 88, 59
+  index: -1
+effect_nuji_shui_add_0008
+  rotate: false
+  xy: 1966, 297
+  size: 42, 68
+  orig: 240, 240
+  offset: 96, 90
+  index: -1
+effect_nuji_shui_alpha_0001
+  rotate: true
+  xy: 2, 32
+  size: 235, 165
+  orig: 240, 240
+  offset: 0, 22
+  index: -1
+effect_nuji_shui_alpha_0002
+  rotate: true
+  xy: 169, 37
+  size: 230, 188
+  orig: 240, 240
+  offset: 10, 7
+  index: -1
+effect_nuji_shui_alpha_0003
+  rotate: true
+  xy: 428, 297
+  size: 208, 195
+  orig: 240, 240
+  offset: 32, 5
+  index: -1
+effect_nuji_shui_alpha_0004
+  rotate: false
+  xy: 1229, 132
+  size: 178, 182
+  orig: 240, 240
+  offset: 57, 8
+  index: -1
+effect_nuji_shui_alpha_0005
+  rotate: false
+  xy: 1380, 345
+  size: 146, 160
+  orig: 240, 240
+  offset: 72, 27
+  index: -1
+effect_nuji_shui_alpha_0006
+  rotate: true
+  xy: 1229, 7
+  size: 123, 151
+  orig: 240, 240
+  offset: 76, 29
+  index: -1
+effect_nuji_shui_alpha_0007
+  rotate: false
+  xy: 1942, 188
+  size: 86, 102
+  orig: 240, 240
+  offset: 78, 69
+  index: -1
+effect_nuji_shui_alpha_0008
+  rotate: false
+  xy: 1637, 197
+  size: 74, 61
+  orig: 240, 240
+  offset: 84, 87
+  index: -1

@@ -1,0 +1,118 @@
+
+effect_xinnian_nvzhu_nuji.png
+size: 1451,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xuan_01
+  rotate: false
+  xy: 1311, 91
+  size: 138, 94
+  orig: 185, 185
+  offset: 22, 0
+  index: -1
+xuan_02
+  rotate: true
+  xy: 1311, 187
+  size: 175, 134
+  orig: 185, 185
+  offset: 0, 0
+  index: -1
+xuan_03
+  rotate: false
+  xy: 2, 214
+  size: 185, 148
+  orig: 185, 185
+  offset: 0, 0
+  index: -1
+xuan_04
+  rotate: false
+  xy: 189, 188
+  size: 185, 174
+  orig: 185, 185
+  offset: 0, 5
+  index: -1
+xuan_05
+  rotate: false
+  xy: 376, 177
+  size: 185, 185
+  orig: 185, 185
+  offset: 0, 0
+  index: -1
+xuan_06
+  rotate: false
+  xy: 563, 177
+  size: 185, 185
+  orig: 185, 185
+  offset: 0, 0
+  index: -1
+xuan_07
+  rotate: false
+  xy: 750, 177
+  size: 185, 185
+  orig: 185, 185
+  offset: 0, 0
+  index: -1
+xuan_08
+  rotate: false
+  xy: 937, 177
+  size: 185, 185
+  orig: 185, 185
+  offset: 0, 0
+  index: -1
+xuan_09
+  rotate: false
+  xy: 1124, 177
+  size: 185, 185
+  orig: 185, 185
+  offset: 0, 0
+  index: -1
+xuan_10
+  rotate: false
+  xy: 2, 27
+  size: 185, 185
+  orig: 185, 185
+  offset: 0, 0
+  index: -1
+xuan_11
+  rotate: false
+  xy: 189, 2
+  size: 185, 184
+  orig: 185, 185
+  offset: 0, 1
+  index: -1
+xuan_12
+  rotate: false
+  xy: 376, 3
+  size: 185, 172
+  orig: 185, 185
+  offset: 0, 13
+  index: -1
+xuan_13
+  rotate: false
+  xy: 563, 3
+  size: 185, 172
+  orig: 185, 185
+  offset: 0, 13
+  index: -1
+xuan_14
+  rotate: false
+  xy: 750, 3
+  size: 185, 172
+  orig: 185, 185
+  offset: 0, 13
+  index: -1
+xuan_15
+  rotate: false
+  xy: 937, 3
+  size: 185, 172
+  orig: 185, 185
+  offset: 0, 13
+  index: -1
+xuan_16
+  rotate: false
+  xy: 1124, 29
+  size: 146, 146
+  orig: 185, 185
+  offset: 39, 39
+  index: -1

@@ -1,0 +1,27 @@
+
+hero_hulu.png
+size: 248,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hulu
+  rotate: true
+  xy: 2, 2
+  size: 140, 162
+  orig: 140, 162
+  offset: 0, 0
+  index: -1
+kuijia_01
+  rotate: false
+  xy: 166, 53
+  size: 39, 89
+  orig: 39, 89
+  offset: 0, 0
+  index: -1
+kuijia_02
+  rotate: false
+  xy: 207, 53
+  size: 39, 89
+  orig: 39, 89
+  offset: 0, 0
+  index: -1

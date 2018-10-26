@@ -1,0 +1,13 @@
+
+effect_buff_chenmo.png
+size: 32,61
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_buff_chenmo_fu
+  rotate: false
+  xy: 2, 2
+  size: 28, 57
+  orig: 36, 63
+  offset: 4, 3
+  index: -1

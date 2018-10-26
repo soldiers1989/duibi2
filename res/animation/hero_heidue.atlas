@@ -1,0 +1,195 @@
+
+hero_heidue.png
+size: 1083,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: false
+  xy: 214, 4
+  size: 179, 151
+  orig: 179, 151
+  offset: 0, 0
+  index: -1
+dorsal fin _01
+  rotate: false
+  xy: 481, 47
+  size: 87, 108
+  orig: 87, 108
+  offset: 0, 0
+  index: -1
+dorsal fin _02
+  rotate: false
+  xy: 678, 50
+  size: 65, 105
+  orig: 65, 105
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 1040, 4
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+hand_01
+  rotate: true
+  xy: 395, 22
+  size: 133, 84
+  orig: 133, 84
+  offset: 0, 0
+  index: -1
+hand_02
+  rotate: false
+  xy: 570, 49
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+hand_03
+  rotate: false
+  xy: 887, 19
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+l_ foot
+  rotate: false
+  xy: 1001, 19
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: false
+  xy: 1040, 28
+  size: 34, 33
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 678, 6
+  size: 63, 42
+  orig: 63, 42
+  offset: 0, 0
+  index: -1
+l_knee
+  rotate: false
+  xy: 1001, 65
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: false
+  xy: 1036, 63
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+l_shoulde01
+  rotate: true
+  xy: 954, 5
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: false
+  xy: 1036, 108
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+r_ foot
+  rotate: true
+  xy: 954, 43
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+r_elbow02
+  rotate: false
+  xy: 942, 94
+  size: 50, 61
+  orig: 50, 61
+  offset: 0, 0
+  index: -1
+r_hand02
+  rotate: true
+  xy: 745, 74
+  size: 81, 55
+  orig: 81, 55
+  offset: 0, 0
+  index: -1
+r_knee
+  rotate: false
+  xy: 533, 8
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: false
+  xy: 745, 5
+  size: 74, 67
+  orig: 74, 67
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: true
+  xy: 821, 2
+  size: 70, 64
+  orig: 70, 64
+  offset: 0, 0
+  index: -1
+r_shoulder01
+  rotate: true
+  xy: 884, 86
+  size: 69, 56
+  orig: 70, 56
+  offset: 1, 0
+  index: -1
+tail
+  rotate: false
+  xy: 2, 17
+  size: 210, 138
+  orig: 210, 138
+  offset: 0, 0
+  index: -1
+tx1_1
+  rotate: false
+  xy: 570, 5
+  size: 52, 42
+  orig: 67, 42
+  offset: 15, 0
+  index: -1
+tx2
+  rotate: true
+  xy: 802, 74
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+tx2_1
+  rotate: false
+  xy: 624, 5
+  size: 51, 42
+  orig: 67, 42
+  offset: 16, 0
+  index: -1
+tx3_1
+  rotate: false
+  xy: 481, 5
+  size: 50, 40
+  orig: 67, 42
+  offset: 17, 1
+  index: -1
+tx4_1
+  rotate: true
+  xy: 994, 107
+  size: 48, 40
+  orig: 67, 42
+  offset: 18, 1
+  index: -1

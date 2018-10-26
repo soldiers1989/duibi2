@@ -1,0 +1,48 @@
+
+effect_ui_zhuangbeijinjie.png
+size: 830,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: true
+  xy: 705, 32
+  size: 162, 123
+  orig: 246, 199
+  offset: 43, 14
+  index: -1
+bao_02
+  rotate: true
+  xy: 409, 2
+  size: 192, 175
+  orig: 246, 199
+  offset: 29, 6
+  index: -1
+bao_03
+  rotate: false
+  xy: 209, 12
+  size: 198, 182
+  orig: 246, 199
+  offset: 26, 3
+  index: -1
+bao_04
+  rotate: false
+  xy: 2, 6
+  size: 205, 188
+  orig: 246, 199
+  offset: 22, 0
+  index: -1
+di
+  rotate: false
+  xy: 705, 7
+  size: 119, 23
+  orig: 119, 23
+  offset: 0, 0
+  index: -1
+guangzhu
+  rotate: false
+  xy: 586, 31
+  size: 117, 163
+  orig: 186, 233
+  offset: 37, 11
+  index: -1

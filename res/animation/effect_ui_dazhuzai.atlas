@@ -1,0 +1,34 @@
+
+effect_ui_dazhuzai.png
+size: 109,81
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang
+  rotate: false
+  xy: 2, 24
+  size: 99, 25
+  orig: 99, 25
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 51
+  size: 103, 28
+  orig: 103, 28
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 2, 2
+  size: 52, 20
+  orig: 52, 20
+  offset: 0, 0
+  index: -1
+ziliang
+  rotate: false
+  xy: 56, 3
+  size: 51, 19
+  orig: 51, 19
+  offset: 0, 0
+  index: -1

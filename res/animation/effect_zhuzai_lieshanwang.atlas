@@ -1,0 +1,97 @@
+
+effect_zhuzai_lieshanwang.png
+size: 632,558
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+abao_01
+  rotate: true
+  xy: 506, 370
+  size: 186, 124
+  orig: 277, 188
+  offset: 46, 21
+  index: -1
+abao_02
+  rotate: false
+  xy: 2, 400
+  size: 252, 156
+  orig: 277, 188
+  offset: 11, 14
+  index: -1
+abao_03
+  rotate: false
+  xy: 256, 404
+  size: 248, 152
+  orig: 277, 188
+  offset: 17, 16
+  index: -1
+abao_04
+  rotate: false
+  xy: 256, 251
+  size: 243, 151
+  orig: 277, 188
+  offset: 19, 15
+  index: -1
+she_01
+  rotate: false
+  xy: 272, 12
+  size: 115, 71
+  orig: 231, 176
+  offset: 56, 48
+  index: -1
+she_02
+  rotate: true
+  xy: 501, 190
+  size: 178, 96
+  orig: 231, 176
+  offset: 26, 47
+  index: -1
+she_03
+  rotate: false
+  xy: 2, 255
+  size: 204, 143
+  orig: 231, 176
+  offset: 8, 17
+  index: -1
+yan_01
+  rotate: true
+  xy: 2, 166
+  size: 87, 178
+  orig: 168, 220
+  offset: 43, 30
+  index: -1
+yan_02
+  rotate: true
+  xy: 182, 128
+  size: 121, 173
+  orig: 168, 220
+  offset: 22, 19
+  index: -1
+yan_03
+  rotate: false
+  xy: 357, 85
+  size: 132, 164
+  orig: 168, 220
+  offset: 18, 14
+  index: -1
+yan_04
+  rotate: false
+  xy: 491, 39
+  size: 137, 149
+  orig: 168, 220
+  offset: 15, 12
+  index: -1
+yan_05
+  rotate: false
+  xy: 2, 30
+  size: 136, 134
+  orig: 168, 220
+  offset: 15, 8
+  index: -1
+yan_06
+  rotate: false
+  xy: 140, 2
+  size: 130, 124
+  orig: 168, 220
+  offset: 20, 10
+  index: -1

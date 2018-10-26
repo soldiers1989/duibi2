@@ -1,0 +1,48 @@
+
+hero_zhiyuan.png
+size: 304,97
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: false
+  xy: 199, 12
+  size: 47, 83
+  orig: 47, 83
+  offset: 0, 0
+  index: -1
+wing_01
+  rotate: false
+  xy: 29, 6
+  size: 83, 89
+  orig: 83, 89
+  offset: 0, 0
+  index: -1
+wing_02
+  rotate: false
+  xy: 114, 6
+  size: 83, 89
+  orig: 83, 89
+  offset: 0, 0
+  index: -1
+wing_03
+  rotate: false
+  xy: 248, 27
+  size: 24, 68
+  orig: 24, 68
+  offset: 0, 0
+  index: -1
+wing_04
+  rotate: false
+  xy: 274, 28
+  size: 28, 67
+  orig: 28, 67
+  offset: 0, 0
+  index: -1
+wing_05
+  rotate: false
+  xy: 2, 2
+  size: 25, 93
+  orig: 25, 93
+  offset: 0, 0
+  index: -1

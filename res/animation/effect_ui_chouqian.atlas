@@ -1,0 +1,62 @@
+
+effect_ui_chouqian.png
+size: 397,1039
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_effect_chouqian_hezi_hou
+  rotate: true
+  xy: 106, 7
+  size: 214, 289
+  orig: 214, 289
+  offset: 0, 0
+  index: -1
+ui_effect_chouqian_hezi_qian
+  rotate: true
+  xy: 2, 568
+  size: 469, 304
+  orig: 469, 304
+  offset: 0, 0
+  index: -1
+ui_effect_chouqian_qian_bai
+  rotate: false
+  xy: 2, 186
+  size: 102, 380
+  orig: 155, 434
+  offset: 27, 29
+  index: -1
+ui_effect_chouqian_qian_daluo
+  rotate: false
+  xy: 186, 224
+  size: 91, 342
+  orig: 91, 342
+  offset: 0, 0
+  index: -1
+ui_effect_chouqian_qian_shenge
+  rotate: false
+  xy: 279, 226
+  size: 103, 340
+  orig: 103, 340
+  offset: 0, 0
+  index: -1
+ui_effect_chouqian_qian_xuantian
+  rotate: false
+  xy: 106, 223
+  size: 78, 343
+  orig: 78, 343
+  offset: 0, 0
+  index: -1
+ui_effect_chouqian_qian_youming
+  rotate: false
+  xy: 308, 693
+  size: 67, 344
+  orig: 67, 344
+  offset: 0, 0
+  index: -1
+ui_effect_chouqian_yingyin
+  rotate: true
+  xy: 2, 2
+  size: 182, 83
+  orig: 187, 94
+  offset: 5, 6
+  index: -1

@@ -1,0 +1,69 @@
+
+effect_tongyinuji_yuandisuiji_b.png
+size: 1004,211
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fei_01
+  rotate: true
+  xy: 253, 6
+  size: 85, 233
+  orig: 116, 265
+  offset: 15, 32
+  index: -1
+fei_02
+  rotate: true
+  xy: 504, 113
+  size: 96, 217
+  orig: 116, 265
+  offset: 9, 32
+  index: -1
+fei_03
+  rotate: true
+  xy: 2, 111
+  size: 98, 249
+  orig: 116, 265
+  offset: 8, 0
+  index: -1
+fei_04
+  rotate: true
+  xy: 2, 2
+  size: 107, 249
+  orig: 116, 265
+  offset: 4, 0
+  index: -1
+fei_05
+  rotate: true
+  xy: 253, 93
+  size: 116, 249
+  orig: 116, 265
+  offset: 0, 0
+  index: -1
+qibo_01
+  rotate: false
+  xy: 723, 120
+  size: 168, 89
+  orig: 168, 109
+  offset: 0, 0
+  index: -1
+qibo_02
+  rotate: true
+  xy: 893, 41
+  size: 168, 109
+  orig: 168, 109
+  offset: 0, 0
+  index: -1
+qibo_03
+  rotate: false
+  xy: 723, 9
+  size: 168, 109
+  orig: 168, 109
+  offset: 0, 0
+  index: -1
+qibo_04
+  rotate: false
+  xy: 504, 2
+  size: 168, 109
+  orig: 168, 109
+  offset: 0, 0
+  index: -1

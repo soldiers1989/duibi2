@@ -1,0 +1,90 @@
+
+effect_Bossmodi_pugong.png
+size: 1795,298
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao0001
+  rotate: false
+  xy: 406, 42
+  size: 197, 254
+  orig: 230, 269
+  offset: 20, 0
+  index: -1
+bao0002
+  rotate: false
+  xy: 605, 42
+  size: 197, 254
+  orig: 230, 269
+  offset: 20, 0
+  index: -1
+bao0003
+  rotate: false
+  xy: 804, 42
+  size: 197, 254
+  orig: 230, 269
+  offset: 20, 0
+  index: -1
+bao0004
+  rotate: false
+  xy: 1003, 42
+  size: 197, 254
+  orig: 230, 269
+  offset: 20, 0
+  index: -1
+bao0005
+  rotate: false
+  xy: 1202, 42
+  size: 197, 254
+  orig: 230, 269
+  offset: 20, 0
+  index: -1
+bao0006
+  rotate: false
+  xy: 1401, 42
+  size: 196, 254
+  orig: 230, 269
+  offset: 21, 0
+  index: -1
+bao0007
+  rotate: false
+  xy: 1599, 44
+  size: 194, 252
+  orig: 230, 269
+  offset: 22, 1
+  index: -1
+bao0008
+  rotate: true
+  xy: 2, 2
+  size: 143, 132
+  orig: 230, 269
+  offset: 69, 70
+  index: -1
+bao0009
+  rotate: true
+  xy: 136, 4
+  size: 141, 132
+  orig: 230, 269
+  offset: 72, 70
+  index: -1
+bao0010
+  rotate: true
+  xy: 270, 76
+  size: 69, 130
+  orig: 230, 269
+  offset: 86, 70
+  index: -1
+bao0011
+  rotate: true
+  xy: 1599, 2
+  size: 40, 83
+  orig: 230, 269
+  offset: 108, 116
+  index: -1
+wuqi_02
+  rotate: false
+  xy: 2, 147
+  size: 402, 149
+  orig: 402, 149
+  offset: 0, 0
+  index: -1

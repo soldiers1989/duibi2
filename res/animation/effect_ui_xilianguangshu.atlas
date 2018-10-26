@@ -1,0 +1,48 @@
+
+effect_ui_xilianguangshu.png
+size: 497,151
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xilian_01
+  rotate: false
+  xy: 172, 17
+  size: 72, 132
+  orig: 83, 147
+  offset: 0, 0
+  index: -1
+xilian_02
+  rotate: false
+  xy: 246, 17
+  size: 79, 132
+  orig: 83, 147
+  offset: 0, 0
+  index: -1
+xilian_03
+  rotate: false
+  xy: 327, 17
+  size: 83, 132
+  orig: 83, 147
+  offset: 0, 0
+  index: -1
+xilian_04
+  rotate: false
+  xy: 412, 18
+  size: 83, 131
+  orig: 83, 147
+  offset: 0, 0
+  index: -1
+xilian_05
+  rotate: false
+  xy: 87, 12
+  size: 83, 137
+  orig: 83, 147
+  offset: 0, 0
+  index: -1
+xilian_06
+  rotate: false
+  xy: 2, 2
+  size: 83, 147
+  orig: 83, 147
+  offset: 0, 0
+  index: -1

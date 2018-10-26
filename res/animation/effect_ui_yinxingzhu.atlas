@@ -1,0 +1,111 @@
+
+effect_ui_yinxingzhu.png
+size: 368,99
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wu_0001
+  rotate: true
+  xy: 238, 51
+  size: 46, 43
+  orig: 66, 66
+  offset: 12, 10
+  index: -1
+wu_0002
+  rotate: false
+  xy: 144, 2
+  size: 48, 44
+  orig: 66, 66
+  offset: 12, 10
+  index: -1
+wu_0003
+  rotate: true
+  xy: 2, 47
+  size: 50, 45
+  orig: 66, 66
+  offset: 11, 9
+  index: -1
+wu_0004
+  rotate: false
+  xy: 2, 3
+  size: 49, 42
+  orig: 66, 66
+  offset: 10, 12
+  index: -1
+wu_0005
+  rotate: false
+  xy: 53, 2
+  size: 49, 43
+  orig: 66, 66
+  offset: 10, 12
+  index: -1
+wu_0006
+  rotate: true
+  xy: 144, 48
+  size: 49, 44
+  orig: 66, 66
+  offset: 10, 11
+  index: -1
+wu_0007
+  rotate: true
+  xy: 49, 47
+  size: 50, 45
+  orig: 66, 66
+  offset: 9, 10
+  index: -1
+wu_0008
+  rotate: true
+  xy: 96, 47
+  size: 50, 46
+  orig: 66, 66
+  offset: 9, 9
+  index: -1
+wu_0009
+  rotate: false
+  xy: 243, 4
+  size: 45, 45
+  orig: 66, 66
+  offset: 9, 11
+  index: -1
+wu_0010
+  rotate: false
+  xy: 283, 52
+  size: 45, 45
+  orig: 66, 66
+  offset: 9, 11
+  index: -1
+wu_0011
+  rotate: false
+  xy: 290, 5
+  size: 43, 45
+  orig: 66, 66
+  offset: 8, 11
+  index: -1
+wu_0012
+  rotate: true
+  xy: 190, 49
+  size: 48, 46
+  orig: 66, 66
+  offset: 8, 10
+  index: -1
+wu_0013
+  rotate: false
+  xy: 194, 5
+  size: 47, 42
+  orig: 66, 66
+  offset: 10, 11
+  index: -1
+wu_0014
+  rotate: true
+  xy: 330, 55
+  size: 42, 36
+  orig: 66, 66
+  offset: 15, 13
+  index: -1
+wu_0015
+  rotate: true
+  xy: 104, 2
+  size: 43, 37
+  orig: 66, 66
+  offset: 14, 12
+  index: -1

@@ -1,0 +1,97 @@
+
+effect_wangxie_jixuan.png
+size: 303,1037
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dao1
+  rotate: false
+  xy: 2, 683
+  size: 126, 352
+  orig: 127, 352
+  offset: 0, 0
+  index: -1
+fire_01
+  rotate: false
+  xy: 2, 4
+  size: 131, 116
+  orig: 153, 187
+  offset: 11, 3
+  index: -1
+fire_02
+  rotate: false
+  xy: 157, 499
+  size: 136, 160
+  orig: 153, 187
+  offset: 10, 6
+  index: -1
+fire_03
+  rotate: false
+  xy: 2, 122
+  size: 147, 174
+  orig: 153, 187
+  offset: 4, 7
+  index: -1
+fire_04
+  rotate: false
+  xy: 130, 661
+  size: 151, 185
+  orig: 153, 187
+  offset: 1, 0
+  index: -1
+fire_05
+  rotate: false
+  xy: 130, 848
+  size: 153, 187
+  orig: 153, 187
+  offset: 0, 0
+  index: -1
+fire_06
+  rotate: false
+  xy: 2, 476
+  size: 153, 183
+  orig: 153, 187
+  offset: 0, 4
+  index: -1
+fire_07
+  rotate: false
+  xy: 2, 298
+  size: 150, 176
+  orig: 153, 187
+  offset: 0, 4
+  index: -1
+fire_08
+  rotate: false
+  xy: 157, 358
+  size: 144, 139
+  orig: 153, 187
+  offset: 2, 0
+  index: -1
+fire_09
+  rotate: true
+  xy: 154, 221
+  size: 135, 138
+  orig: 153, 187
+  offset: 10, 0
+  index: -1
+fire_10
+  rotate: true
+  xy: 151, 84
+  size: 135, 138
+  orig: 153, 187
+  offset: 10, 0
+  index: -1
+fire_11
+  rotate: false
+  xy: 135, 43
+  size: 131, 39
+  orig: 153, 187
+  offset: 10, 0
+  index: -1
+fire_12
+  rotate: false
+  xy: 135, 2
+  size: 131, 39
+  orig: 153, 187
+  offset: 10, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+effect_ui_xiuliao_leishenti_a.png
+size: 939,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shan
+  rotate: false
+  xy: 612, 19
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+shidian_01
+  rotate: false
+  xy: 468, 92
+  size: 54, 34
+  orig: 95, 72
+  offset: 21, 38
+  index: -1
+shidian_02
+  rotate: false
+  xy: 395, 90
+  size: 71, 36
+  orig: 95, 72
+  offset: 13, 36
+  index: -1
+shidian_03
+  rotate: true
+  xy: 538, 49
+  size: 77, 38
+  orig: 95, 72
+  offset: 9, 31
+  index: -1
+shidian_04
+  rotate: false
+  xy: 851, 87
+  size: 86, 39
+  orig: 95, 72
+  offset: 5, 25
+  index: -1
+shidian_05
+  rotate: true
+  xy: 721, 31
+  size: 95, 41
+  orig: 95, 72
+  offset: 0, 19
+  index: -1
+shidian_06
+  rotate: true
+  xy: 764, 34
+  size: 92, 40
+  orig: 95, 72
+  offset: 3, 14
+  index: -1
+shidian_07
+  rotate: true
+  xy: 806, 38
+  size: 88, 43
+  orig: 95, 72
+  offset: 4, 5
+  index: -1
+shidian_08
+  rotate: true
+  xy: 851, 5
+  size: 80, 41
+  orig: 95, 72
+  offset: 8, 2
+  index: -1
+shidian_09
+  rotate: true
+  xy: 894, 16
+  size: 69, 35
+  orig: 95, 72
+  offset: 15, 0
+  index: -1
+xiaoshandian_01
+  rotate: false
+  xy: 579, 2
+  size: 31, 124
+  orig: 49, 195
+  offset: 13, 64
+  index: -1
+xiaoshandian_02
+  rotate: true
+  xy: 199, 44
+  size: 44, 190
+  orig: 49, 195
+  offset: 5, 0
+  index: -1
+xiaoshandian_03
+  rotate: true
+  xy: 199, 3
+  size: 39, 188
+  orig: 49, 195
+  offset: 7, 0
+  index: -1
+xiaoshandian_04
+  rotate: true
+  xy: 389, 2
+  size: 40, 188
+  orig: 49, 195
+  offset: 9, 0
+  index: -1
+xiaoshandian_05
+  rotate: true
+  xy: 2, 84
+  size: 42, 195
+  orig: 49, 195
+  offset: 5, 0
+  index: -1
+xiaoshandian_06
+  rotate: true
+  xy: 2, 38
+  size: 44, 195
+  orig: 49, 195
+  offset: 4, 0
+  index: -1
+xiaoshandian_07
+  rotate: true
+  xy: 199, 90
+  size: 36, 194
+  orig: 49, 195
+  offset: 10, 0
+  index: -1
+xiaoshandian_08
+  rotate: true
+  xy: 2, 4
+  size: 32, 179
+  orig: 49, 195
+  offset: 13, 15
+  index: -1
+xiaoshandian_09
+  rotate: true
+  xy: 391, 62
+  size: 26, 145
+  orig: 49, 195
+  offset: 15, 5
+  index: -1

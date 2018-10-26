@@ -1,0 +1,125 @@
+
+effect_shanggutiandi_nuji.png
+size: 1488,837
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: false
+  xy: 2, 11
+  size: 261, 220
+  orig: 269, 266
+  offset: 4, 7
+  index: -1
+bao_02
+  rotate: true
+  xy: 1018, 306
+  size: 265, 234
+  orig: 269, 266
+  offset: 2, 6
+  index: -1
+bao_03
+  rotate: false
+  xy: 476, 71
+  size: 267, 246
+  orig: 269, 266
+  offset: 1, 8
+  index: -1
+bao_04
+  rotate: false
+  xy: 819, 573
+  size: 269, 262
+  orig: 269, 266
+  offset: 0, 2
+  index: -1
+bao_05
+  rotate: false
+  xy: 1090, 575
+  size: 269, 260
+  orig: 269, 266
+  offset: 0, 6
+  index: -1
+bao_06
+  rotate: false
+  xy: 476, 319
+  size: 269, 262
+  orig: 269, 266
+  offset: 0, 4
+  index: -1
+bao_07
+  rotate: false
+  xy: 747, 311
+  size: 269, 260
+  orig: 269, 266
+  offset: 0, 4
+  index: -1
+bao_08
+  rotate: false
+  xy: 745, 53
+  size: 267, 256
+  orig: 269, 266
+  offset: 1, 7
+  index: -1
+bao_09
+  rotate: true
+  xy: 1014, 47
+  size: 257, 247
+  orig: 269, 266
+  offset: 6, 8
+  index: -1
+bao_10
+  rotate: true
+  xy: 1254, 332
+  size: 241, 223
+  orig: 269, 266
+  offset: 14, 9
+  index: -1
+bao_11
+  rotate: true
+  xy: 265, 2
+  size: 229, 193
+  orig: 269, 266
+  offset: 20, 0
+  index: -1
+dao
+  rotate: false
+  xy: 2, 605
+  size: 517, 110
+  orig: 517, 110
+  offset: 0, 0
+  index: -1
+daoguang_01
+  rotate: false
+  xy: 2, 233
+  size: 472, 370
+  orig: 476, 375
+  offset: 0, 5
+  index: -1
+daoguang_02
+  rotate: true
+  xy: 524, 583
+  size: 252, 293
+  orig: 476, 375
+  offset: 224, 8
+  index: -1
+daoguang_03
+  rotate: true
+  xy: 1263, 95
+  size: 235, 194
+  orig: 476, 375
+  offset: 241, 11
+  index: -1
+daoguang_04
+  rotate: false
+  xy: 1361, 691
+  size: 125, 144
+  orig: 476, 375
+  offset: 348, 14
+  index: -1
+daoliang
+  rotate: false
+  xy: 2, 717
+  size: 520, 118
+  orig: 520, 118
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+effect_tongyimohua.png
+size: 1192,320
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+man_01
+  rotate: false
+  xy: 690, 160
+  size: 168, 158
+  orig: 180, 183
+  offset: 8, 5
+  index: -1
+man_02
+  rotate: false
+  xy: 2, 157
+  size: 170, 161
+  orig: 180, 183
+  offset: 6, 5
+  index: -1
+man_03
+  rotate: false
+  xy: 174, 155
+  size: 170, 163
+  orig: 180, 183
+  offset: 6, 5
+  index: -1
+man_04
+  rotate: false
+  xy: 346, 152
+  size: 170, 166
+  orig: 180, 183
+  offset: 5, 4
+  index: -1
+man_05
+  rotate: false
+  xy: 518, 152
+  size: 170, 166
+  orig: 180, 183
+  offset: 5, 5
+  index: -1
+man_06
+  rotate: true
+  xy: 860, 157
+  size: 161, 167
+  orig: 180, 183
+  offset: 5, 5
+  index: -1
+man_07
+  rotate: false
+  xy: 1029, 154
+  size: 161, 164
+  orig: 180, 183
+  offset: 6, 5
+  index: -1
+man_08
+  rotate: false
+  xy: 1022, 2
+  size: 162, 150
+  orig: 180, 183
+  offset: 6, 4
+  index: -1
+man_09
+  rotate: false
+  xy: 340, 6
+  size: 160, 144
+  orig: 180, 183
+  offset: 11, 5
+  index: -1
+man_10
+  rotate: false
+  xy: 857, 10
+  size: 163, 145
+  orig: 180, 183
+  offset: 10, 5
+  index: -1
+man_11
+  rotate: false
+  xy: 690, 15
+  size: 165, 143
+  orig: 180, 183
+  offset: 8, 5
+  index: -1
+man_12
+  rotate: false
+  xy: 172, 12
+  size: 166, 141
+  orig: 180, 183
+  offset: 8, 4
+  index: -1
+man_13
+  rotate: false
+  xy: 2, 4
+  size: 168, 151
+  orig: 180, 183
+  offset: 7, 5
+  index: -1

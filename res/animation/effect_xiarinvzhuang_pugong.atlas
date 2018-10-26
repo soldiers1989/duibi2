@@ -1,0 +1,167 @@
+
+effect_xiarinvzhuang_pugong.png
+size: 1632,351
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gguang
+  rotate: false
+  xy: 1528, 251
+  size: 37, 37
+  orig: 40, 40
+  offset: 1, 1
+  index: -1
+boom0001
+  rotate: false
+  xy: 2, 14
+  size: 120, 103
+  orig: 200, 240
+  offset: 49, 89
+  index: -1
+boom0003
+  rotate: false
+  xy: 504, 11
+  size: 125, 117
+  orig: 200, 240
+  offset: 47, 82
+  index: -1
+boom0005
+  rotate: false
+  xy: 161, 2
+  size: 135, 120
+  orig: 200, 240
+  offset: 38, 80
+  index: -1
+boom0007
+  rotate: false
+  xy: 1228, 33
+  size: 157, 133
+  orig: 200, 240
+  offset: 27, 71
+  index: -1
+boom0009
+  rotate: false
+  xy: 1038, 154
+  size: 188, 195
+  orig: 200, 240
+  offset: 12, 44
+  index: -1
+boom0011
+  rotate: false
+  xy: 308, 125
+  size: 194, 224
+  orig: 200, 240
+  offset: 6, 14
+  index: -1
+boom0013
+  rotate: false
+  xy: 703, 134
+  size: 194, 215
+  orig: 200, 240
+  offset: 0, 5
+  index: -1
+boom0015
+  rotate: false
+  xy: 504, 130
+  size: 197, 219
+  orig: 200, 240
+  offset: 1, 6
+  index: -1
+boom0017
+  rotate: false
+  xy: 1228, 168
+  size: 178, 181
+  orig: 200, 240
+  offset: 20, 43
+  index: -1
+chufa0001
+  rotate: false
+  xy: 432, 78
+  size: 41, 45
+  orig: 192, 260
+  offset: 151, 215
+  index: -1
+chufa0003
+  rotate: false
+  xy: 1387, 39
+  size: 116, 127
+  orig: 192, 260
+  offset: 62, 117
+  index: -1
+chufa0005
+  rotate: false
+  xy: 2, 119
+  size: 157, 230
+  orig: 192, 260
+  offset: 14, 9
+  index: -1
+chufa0007
+  rotate: false
+  xy: 161, 124
+  size: 145, 225
+  orig: 192, 260
+  offset: 14, 0
+  index: -1
+chufa0009
+  rotate: false
+  xy: 899, 135
+  size: 137, 214
+  orig: 192, 260
+  offset: 10, 8
+  index: -1
+chufa0011
+  rotate: false
+  xy: 1408, 168
+  size: 118, 181
+  orig: 192, 260
+  offset: 13, 8
+  index: -1
+chufa0013
+  rotate: true
+  xy: 1038, 34
+  size: 118, 173
+  orig: 192, 260
+  offset: 12, 11
+  index: -1
+chufa0015
+  rotate: false
+  xy: 631, 6
+  size: 123, 122
+  orig: 192, 260
+  offset: 5, 6
+  index: -1
+chufa0017
+  rotate: false
+  xy: 756, 9
+  size: 123, 123
+  orig: 192, 260
+  offset: 4, 4
+  index: -1
+chufa0019
+  rotate: false
+  xy: 1505, 39
+  size: 125, 127
+  orig: 192, 260
+  offset: 2, 5
+  index: -1
+chufa0021
+  rotate: false
+  xy: 308, 2
+  size: 122, 121
+  orig: 192, 260
+  offset: 4, 9
+  index: -1
+chufa0023
+  rotate: false
+  xy: 899, 2
+  size: 131, 131
+  orig: 192, 260
+  offset: 0, 4
+  index: -1
+languang
+  rotate: false
+  xy: 1528, 290
+  size: 59, 59
+  orig: 60, 60
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,55 @@
+
+effect_ui_baowujinjie.png
+size: 921,184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: false
+  xy: 2, 13
+  size: 193, 169
+  orig: 193, 181
+  offset: 0, 0
+  index: -1
+bao_02
+  rotate: true
+  xy: 523, 7
+  size: 175, 146
+  orig: 193, 181
+  offset: 12, 0
+  index: -1
+bao_03
+  rotate: true
+  xy: 383, 2
+  size: 180, 138
+  orig: 193, 181
+  offset: 10, 5
+  index: -1
+bao_04
+  rotate: false
+  xy: 197, 40
+  size: 184, 142
+  orig: 193, 181
+  offset: 6, 8
+  index: -1
+bao_05
+  rotate: true
+  xy: 789, 33
+  size: 149, 130
+  orig: 193, 181
+  offset: 12, 33
+  index: -1
+di
+  rotate: false
+  xy: 789, 4
+  size: 126, 27
+  orig: 126, 27
+  offset: 0, 0
+  index: -1
+guangzhu
+  rotate: false
+  xy: 671, 19
+  size: 116, 163
+  orig: 116, 163
+  offset: 0, 0
+  index: -1

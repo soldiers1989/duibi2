@@ -1,0 +1,90 @@
+
+effect_ui_longfengtian.png
+size: 424,293
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 63
+  size: 131, 69
+  orig: 131, 69
+  offset: 0, 0
+  index: -1
+dii
+  rotate: false
+  xy: 267, 20
+  size: 117, 57
+  orig: 117, 57
+  offset: 0, 0
+  index: -1
+er
+  rotate: false
+  xy: 170, 119
+  size: 162, 54
+  orig: 162, 54
+  offset: 0, 0
+  index: -1
+err
+  rotate: false
+  xy: 178, 175
+  size: 172, 50
+  orig: 172, 50
+  offset: 0, 0
+  index: -1
+san
+  rotate: false
+  xy: 2, 134
+  size: 166, 45
+  orig: 166, 45
+  offset: 0, 0
+  index: -1
+sann
+  rotate: false
+  xy: 2, 181
+  size: 174, 49
+  orig: 174, 49
+  offset: 0, 0
+  index: -1
+tian
+  rotate: false
+  xy: 135, 65
+  size: 130, 52
+  orig: 130, 52
+  offset: 0, 0
+  index: -1
+tianliang
+  rotate: true
+  xy: 352, 79
+  size: 146, 70
+  orig: 146, 70
+  offset: 0, 0
+  index: -1
+yi
+  rotate: false
+  xy: 204, 227
+  size: 194, 64
+  orig: 194, 64
+  offset: 0, 0
+  index: -1
+yii
+  rotate: false
+  xy: 2, 232
+  size: 200, 59
+  orig: 200, 59
+  offset: 0, 0
+  index: -1
+zhangkongjing
+  rotate: false
+  xy: 135, 4
+  size: 113, 59
+  orig: 124, 59
+  offset: 8, 0
+  index: -1
+zhangkongjingliang
+  rotate: false
+  xy: 2, 2
+  size: 113, 59
+  orig: 124, 59
+  offset: 8, 0
+  index: -1

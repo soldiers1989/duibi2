@@ -1,0 +1,55 @@
+
+effefct_zhuzai_qingyanjing.png
+size: 612,162
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: true
+  xy: 498, 2
+  size: 85, 108
+  orig: 98, 150
+  offset: 8, 0
+  index: -1
+bao_02
+  rotate: false
+  xy: 400, 23
+  size: 96, 137
+  orig: 98, 150
+  offset: 1, 2
+  index: -1
+bao_03
+  rotate: false
+  xy: 302, 15
+  size: 96, 145
+  orig: 98, 150
+  offset: 0, 2
+  index: -1
+bao_04
+  rotate: false
+  xy: 2, 12
+  size: 98, 148
+  orig: 98, 150
+  offset: 0, 2
+  index: -1
+bao_05
+  rotate: false
+  xy: 102, 12
+  size: 98, 148
+  orig: 98, 150
+  offset: 0, 2
+  index: -1
+bao_06
+  rotate: false
+  xy: 202, 12
+  size: 98, 148
+  orig: 98, 150
+  offset: 0, 2
+  index: -1
+ta
+  rotate: true
+  xy: 498, 89
+  size: 71, 112
+  orig: 71, 112
+  offset: 0, 0
+  index: -1

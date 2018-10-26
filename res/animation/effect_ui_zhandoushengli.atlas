@@ -1,0 +1,125 @@
+
+effect_ui_zhandoushengli.png
+size: 1485,807
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dun
+  rotate: true
+  xy: 293, 164
+  size: 129, 190
+  orig: 129, 190
+  offset: 0, 0
+  index: -1
+dunliang
+  rotate: false
+  xy: 1201, 7
+  size: 152, 207
+  orig: 152, 207
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 511, 337
+  size: 464, 468
+  orig: 464, 468
+  offset: 0, 0
+  index: -1
+guanga
+  rotate: true
+  xy: 2, 295
+  size: 510, 507
+  orig: 511, 507
+  offset: 0, 0
+  index: -1
+jian
+  rotate: true
+  xy: 1412, 462
+  size: 343, 71
+  orig: 343, 71
+  offset: 0, 0
+  index: -1
+jianliang
+  rotate: true
+  xy: 1356, 10
+  size: 360, 93
+  orig: 360, 93
+  offset: 0, 0
+  index: -1
+liangbai
+  rotate: false
+  xy: 2, 4
+  size: 289, 289
+  orig: 289, 289
+  offset: 0, 0
+  index: -1
+liangju
+  rotate: false
+  xy: 977, 372
+  size: 433, 433
+  orig: 433, 433
+  offset: 0, 0
+  index: -1
+shan
+  rotate: false
+  xy: 890, 217
+  size: 54, 118
+  orig: 54, 118
+  offset: 0, 0
+  index: -1
+tiaozhanjieshu
+  rotate: false
+  xy: 890, 120
+  size: 309, 94
+  orig: 314, 104
+  offset: 0, 6
+  index: -1
+tiaozhanjieshuliang
+  rotate: true
+  xy: 649, 4
+  size: 331, 122
+  orig: 331, 122
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: true
+  xy: 392, 82
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+xingxingliang
+  rotate: true
+  xy: 293, 63
+  size: 99, 97
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+zhandoujieshu
+  rotate: true
+  xy: 773, 25
+  size: 310, 115
+  orig: 310, 115
+  offset: 0, 0
+  index: -1
+zhandoujieshuliang
+  rotate: true
+  xy: 511, 2
+  size: 333, 136
+  orig: 333, 136
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 890, 16
+  size: 304, 102
+  orig: 331, 102
+  offset: 0, 0
+  index: -1
+ziliang
+  rotate: false
+  xy: 977, 216
+  size: 377, 154
+  orig: 377, 154
+  offset: 0, 0
+  index: -1

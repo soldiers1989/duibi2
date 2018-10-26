@@ -1,0 +1,125 @@
+
+effect_nanhualaoxian_pugong.png
+size: 715,306
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baodian0005
+  rotate: false
+  xy: 393, 71
+  size: 103, 114
+  orig: 159, 150
+  offset: 25, 16
+  index: -1
+baodian0006
+  rotate: false
+  xy: 391, 187
+  size: 115, 117
+  orig: 159, 150
+  offset: 19, 13
+  index: -1
+baodian0007
+  rotate: true
+  xy: 266, 23
+  size: 135, 125
+  orig: 159, 150
+  offset: 10, 9
+  index: -1
+baodian0008
+  rotate: true
+  xy: 252, 160
+  size: 144, 137
+  orig: 159, 150
+  offset: 7, 9
+  index: -1
+baodian0009
+  rotate: true
+  xy: 2, 5
+  size: 148, 136
+  orig: 159, 150
+  offset: 4, 8
+  index: -1
+baodian0010
+  rotate: true
+  xy: 2, 155
+  size: 149, 124
+  orig: 159, 150
+  offset: 6, 8
+  index: -1
+baodian0011
+  rotate: true
+  xy: 128, 156
+  size: 148, 122
+  orig: 159, 150
+  offset: 7, 9
+  index: -1
+baodian0012
+  rotate: true
+  xy: 140, 7
+  size: 147, 124
+  orig: 159, 150
+  offset: 6, 8
+  index: -1
+effect_a03_01
+  rotate: true
+  xy: 492, 28
+  size: 41, 86
+  orig: 88, 140
+  offset: 24, 0
+  index: -1
+effect_a03_02
+  rotate: false
+  xy: 498, 99
+  size: 52, 86
+  orig: 88, 140
+  offset: 19, 0
+  index: -1
+effect_a03_03
+  rotate: true
+  xy: 393, 2
+  size: 67, 97
+  orig: 88, 140
+  offset: 13, 9
+  index: -1
+effect_a03_04
+  rotate: false
+  xy: 636, 66
+  size: 72, 71
+  orig: 88, 140
+  offset: 10, 37
+  index: -1
+effect_a03_05
+  rotate: true
+  xy: 636, 139
+  size: 80, 77
+  orig: 88, 140
+  offset: 4, 34
+  index: -1
+effect_a03_06
+  rotate: true
+  xy: 592, 221
+  size: 83, 80
+  orig: 88, 140
+  offset: 4, 31
+  index: -1
+effect_a03_07
+  rotate: true
+  xy: 508, 220
+  size: 84, 82
+  orig: 88, 140
+  offset: 4, 30
+  index: -1
+effect_a03_08
+  rotate: true
+  xy: 552, 134
+  size: 84, 82
+  orig: 88, 140
+  offset: 4, 30
+  index: -1
+zhuzi
+  rotate: false
+  xy: 552, 72
+  size: 45, 60
+  orig: 64, 64
+  offset: 10, 2
+  index: -1

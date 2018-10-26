@@ -1,0 +1,48 @@
+
+effect_tongyinuji_jinzhandanti_b.png
+size: 975,197
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_jinzhan_b_01
+  rotate: false
+  xy: 239, 9
+  size: 226, 186
+  orig: 251, 222
+  offset: 11, 17
+  index: -1
+effect_jinzhan_b_02
+  rotate: false
+  xy: 2, 2
+  size: 235, 193
+  orig: 251, 222
+  offset: 5, 22
+  index: -1
+effect_jinzhan_b_03
+  rotate: false
+  xy: 619, 25
+  size: 133, 170
+  orig: 251, 222
+  offset: 58, 22
+  index: -1
+effect_jinzhan_b_04
+  rotate: false
+  xy: 467, 14
+  size: 150, 181
+  orig: 251, 222
+  offset: 52, 15
+  index: -1
+effect_jinzhan_b_05
+  rotate: false
+  xy: 754, 36
+  size: 124, 159
+  orig: 251, 222
+  offset: 67, 28
+  index: -1
+effect_jinzhan_b_06
+  rotate: false
+  xy: 880, 38
+  size: 93, 157
+  orig: 251, 222
+  offset: 70, 26
+  index: -1

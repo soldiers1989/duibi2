@@ -1,0 +1,104 @@
+
+effect_buff_huifushengming.png
+size: 1954,589
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_buff_huifu_shan
+  rotate: false
+  xy: 1230, 58
+  size: 199, 197
+  orig: 199, 197
+  offset: 0, 0
+  index: -1
+effect_buff_huifu_shizi
+  rotate: false
+  xy: 278, 80
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect_buff_huifu_xu_01
+  rotate: true
+  xy: 2, 18
+  size: 164, 274
+  orig: 416, 446
+  offset: 101, 119
+  index: -1
+effect_buff_huifu_xu_02
+  rotate: false
+  xy: 1227, 257
+  size: 203, 330
+  orig: 416, 446
+  offset: 92, 64
+  index: -1
+effect_buff_huifu_xu_03
+  rotate: false
+  xy: 953, 205
+  size: 272, 382
+  orig: 416, 446
+  offset: 62, 22
+  index: -1
+effect_buff_huifu_xu_04
+  rotate: false
+  xy: 318, 194
+  size: 299, 393
+  orig: 416, 446
+  offset: 55, 19
+  index: -1
+effect_buff_huifu_xu_05
+  rotate: false
+  xy: 2, 184
+  size: 314, 403
+  orig: 416, 446
+  offset: 49, 19
+  index: -1
+effect_buff_huifu_xu_06
+  rotate: false
+  xy: 619, 199
+  size: 332, 388
+  orig: 416, 446
+  offset: 45, 36
+  index: -1
+effect_buff_huifu_xu_07
+  rotate: false
+  xy: 1432, 295
+  size: 312, 292
+  orig: 416, 446
+  offset: 42, 38
+  index: -1
+effect_buff_huifu_xu_08
+  rotate: true
+  xy: 1432, 41
+  size: 252, 310
+  orig: 416, 446
+  offset: 51, 38
+  index: -1
+effect_buff_huifu_xu_09
+  rotate: false
+  xy: 1746, 290
+  size: 205, 297
+  orig: 416, 446
+  offset: 89, 44
+  index: -1
+effect_buff_huifu_xu_10
+  rotate: false
+  xy: 1744, 6
+  size: 208, 282
+  orig: 416, 446
+  offset: 102, 62
+  index: -1
+effect_buff_huifu_xu_11
+  rotate: true
+  xy: 953, 7
+  size: 196, 275
+  orig: 416, 446
+  offset: 98, 83
+  index: -1
+effect_buff_huifu_xu_12
+  rotate: true
+  xy: 619, 2
+  size: 195, 275
+  orig: 416, 446
+  offset: 109, 108
+  index: -1

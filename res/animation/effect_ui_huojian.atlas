@@ -1,0 +1,76 @@
+
+effect_ui_huojian.png
+size: 560,245
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangyun
+  rotate: false
+  xy: 352, 181
+  size: 167, 62
+  orig: 167, 62
+  offset: 0, 0
+  index: -1
+huojian
+  rotate: true
+  xy: 2, 62
+  size: 181, 348
+  orig: 181, 348
+  offset: 0, 0
+  index: -1
+jianguang
+  rotate: true
+  xy: 352, 84
+  size: 95, 120
+  orig: 95, 120
+  offset: 0, 0
+  index: -1
+paotong_02
+  rotate: true
+  xy: 106, 3
+  size: 57, 75
+  orig: 92, 79
+  offset: 18, 1
+  index: -1
+tongyi_paotong_02
+  rotate: true
+  xy: 106, 3
+  size: 57, 75
+  orig: 92, 79
+  offset: 18, 1
+  index: -1
+tongyi_paotong_01
+  rotate: false
+  xy: 183, 2
+  size: 56, 58
+  orig: 92, 79
+  offset: 17, 17
+  index: -1
+tongyi_paotong_03
+  rotate: true
+  xy: 352, 8
+  size: 74, 76
+  orig: 92, 79
+  offset: 10, 1
+  index: -1
+tongyi_paotong_04
+  rotate: false
+  xy: 474, 15
+  size: 84, 76
+  orig: 92, 79
+  offset: 4, 1
+  index: -1
+tongyi_paotong_05
+  rotate: true
+  xy: 474, 93
+  size: 86, 76
+  orig: 92, 79
+  offset: 3, 1
+  index: -1
+weiba
+  rotate: true
+  xy: 2, 38
+  size: 22, 102
+  orig: 22, 102
+  offset: 0, 0
+  index: -1

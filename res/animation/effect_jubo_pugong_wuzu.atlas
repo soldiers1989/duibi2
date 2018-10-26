@@ -1,0 +1,90 @@
+
+effect_jubo_pugong_wuzu.png
+size: 699,295
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dishan_01
+  rotate: false
+  xy: 353, 78
+  size: 188, 44
+  orig: 193, 63
+  offset: 1, 9
+  index: -1
+dishan_02
+  rotate: false
+  xy: 353, 124
+  size: 191, 49
+  orig: 193, 63
+  offset: 0, 9
+  index: -1
+dishan_03
+  rotate: false
+  xy: 266, 2
+  size: 193, 57
+  orig: 193, 63
+  offset: 0, 5
+  index: -1
+dishan_04
+  rotate: true
+  xy: 571, 114
+  size: 179, 63
+  orig: 193, 63
+  offset: 6, 0
+  index: -1
+dishan_05
+  rotate: true
+  xy: 636, 127
+  size: 166, 61
+  orig: 193, 63
+  offset: 11, 2
+  index: -1
+dishan_06
+  rotate: false
+  xy: 461, 26
+  size: 69, 50
+  orig: 193, 63
+  offset: 13, 2
+  index: -1
+luoshan_01
+  rotate: true
+  xy: 543, 3
+  size: 109, 123
+  orig: 110, 252
+  offset: 1, 129
+  index: -1
+luoshan_02
+  rotate: false
+  xy: 266, 61
+  size: 85, 232
+  orig: 110, 252
+  offset: 21, 0
+  index: -1
+luoshan_03
+  rotate: false
+  xy: 2, 43
+  size: 102, 250
+  orig: 110, 252
+  offset: 8, 0
+  index: -1
+luoshan_04
+  rotate: false
+  xy: 106, 44
+  size: 77, 249
+  orig: 110, 252
+  offset: 22, 2
+  index: -1
+luoshan_05
+  rotate: false
+  xy: 185, 46
+  size: 79, 247
+  orig: 110, 252
+  offset: 23, 2
+  index: -1
+shan
+  rotate: false
+  xy: 353, 175
+  size: 216, 118
+  orig: 216, 118
+  offset: 0, 0
+  index: -1

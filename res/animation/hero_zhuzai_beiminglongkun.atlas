@@ -1,0 +1,342 @@
+
+hero_zhuzai_beiminglongkun.png
+size: 1478,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoshiguang
+  rotate: false
+  xy: 2, 82
+  size: 135, 444
+  orig: 135, 444
+  offset: 0, 0
+  index: -1
+baoshiguang_01
+  rotate: false
+  xy: 139, 113
+  size: 121, 413
+  orig: 164, 418
+  offset: 30, 5
+  index: -1
+chest
+  rotate: true
+  xy: 363, 2
+  size: 99, 122
+  orig: 99, 122
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 935, 227
+  size: 89, 145
+  orig: 89, 145
+  offset: 0, 0
+  index: -1
+head_eye
+  rotate: false
+  xy: 953, 80
+  size: 89, 145
+  orig: 89, 145
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 1418, 338
+  size: 58, 79
+  orig: 58, 79
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: false
+  xy: 1268, 219
+  size: 108, 94
+  orig: 108, 94
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: true
+  xy: 530, 331
+  size: 195, 165
+  orig: 195, 165
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: false
+  xy: 1314, 6
+  size: 64, 90
+  orig: 64, 90
+  offset: 0, 0
+  index: -1
+hip_04
+  rotate: true
+  xy: 1298, 419
+  size: 107, 128
+  orig: 107, 128
+  offset: 0, 0
+  index: -1
+l_calf
+  rotate: true
+  xy: 695, 3
+  size: 72, 102
+  orig: 72, 102
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: true
+  xy: 1268, 336
+  size: 54, 25
+  orig: 54, 25
+  offset: 0, 0
+  index: -1
+l_foot
+  rotate: false
+  xy: 1418, 315
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: true
+  xy: 1135, 54
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: false
+  xy: 1263, 111
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: true
+  xy: 530, 242
+  size: 87, 178
+  orig: 87, 178
+  offset: 0, 0
+  index: -1
+longshen_01
+  rotate: true
+  xy: 697, 348
+  size: 178, 95
+  orig: 178, 95
+  offset: 0, 0
+  index: -1
+longshen_02
+  rotate: false
+  xy: 695, 77
+  size: 112, 163
+  orig: 112, 163
+  offset: 0, 0
+  index: -1
+longshen_03
+  rotate: true
+  xy: 794, 364
+  size: 162, 114
+  orig: 162, 114
+  offset: 0, 0
+  index: -1
+longshen_04
+  rotate: true
+  xy: 1378, 206
+  size: 107, 94
+  orig: 107, 94
+  offset: 0, 0
+  index: -1
+longshou_01
+  rotate: true
+  xy: 1428, 456
+  size: 70, 41
+  orig: 70, 41
+  offset: 0, 0
+  index: -1
+longshou_02
+  rotate: true
+  xy: 1167, 4
+  size: 105, 82
+  orig: 105, 82
+  offset: 0, 0
+  index: -1
+longtou
+  rotate: true
+  xy: 491, 22
+  size: 166, 202
+  orig: 166, 203
+  offset: 0, 0
+  index: -1
+r_calf
+  rotate: false
+  xy: 1167, 142
+  size: 94, 107
+  orig: 94, 107
+  offset: 0, 0
+  index: -1
+r_elbow
+  rotate: false
+  xy: 1167, 111
+  size: 56, 29
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: true
+  xy: 779, 324
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: true
+  xy: 1225, 111
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: false
+  xy: 710, 242
+  size: 67, 104
+  orig: 67, 104
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: true
+  xy: 262, 103
+  size: 85, 227
+  orig: 85, 227
+  offset: 0, 0
+  index: -1
+ren_01
+  rotate: false
+  xy: 1251, 11
+  size: 61, 98
+  orig: 61, 99
+  offset: 0, 0
+  index: -1
+shandian_01
+  rotate: false
+  xy: 1428, 419
+  size: 45, 35
+  orig: 230, 158
+  offset: 21, 79
+  index: -1
+shandian_02
+  rotate: false
+  xy: 953, 19
+  size: 79, 59
+  orig: 230, 158
+  offset: 0, 56
+  index: -1
+shandian_03
+  rotate: true
+  xy: 1371, 98
+  size: 106, 105
+  orig: 230, 158
+  offset: 2, 28
+  index: -1
+shandian_04
+  rotate: true
+  xy: 1026, 230
+  size: 142, 130
+  orig: 230, 158
+  offset: 0, 4
+  index: -1
+shandian_05
+  rotate: false
+  xy: 1163, 392
+  size: 133, 134
+  orig: 230, 158
+  offset: 5, 0
+  index: -1
+shandian_06
+  rotate: false
+  xy: 1044, 92
+  size: 121, 136
+  orig: 230, 158
+  offset: 16, 0
+  index: -1
+shandian_07
+  rotate: false
+  xy: 809, 57
+  size: 142, 150
+  orig: 230, 158
+  offset: 28, 0
+  index: -1
+shandian_08
+  rotate: false
+  xy: 910, 374
+  size: 128, 152
+  orig: 230, 158
+  offset: 50, 0
+  index: -1
+shandian_09
+  rotate: false
+  xy: 809, 209
+  size: 124, 153
+  orig: 230, 158
+  offset: 83, 0
+  index: -1
+shandian_10
+  rotate: false
+  xy: 1040, 389
+  size: 121, 137
+  orig: 230, 158
+  offset: 89, 19
+  index: -1
+shandian_11
+  rotate: false
+  xy: 1158, 251
+  size: 108, 136
+  orig: 230, 158
+  offset: 101, 22
+  index: -1
+shandian_12
+  rotate: true
+  xy: 1298, 315
+  size: 102, 118
+  orig: 230, 158
+  offset: 126, 24
+  index: -1
+shandian_13
+  rotate: true
+  xy: 1380, 8
+  size: 88, 87
+  orig: 230, 158
+  offset: 142, 28
+  index: -1
+shandian_14
+  rotate: false
+  xy: 799, 4
+  size: 61, 51
+  orig: 230, 158
+  offset: 162, 41
+  index: -1
+shandian_15
+  rotate: true
+  xy: 530, 199
+  size: 41, 54
+  orig: 230, 158
+  offset: 187, 41
+  index: -1
+texiao_01
+  rotate: false
+  xy: 262, 190
+  size: 266, 336
+  orig: 266, 336
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 2, 5
+  size: 75, 359
+  orig: 75, 359
+  offset: 0, 0
+  index: -1
+wenshenguangxiao
+  rotate: false
+  xy: 1044, 6
+  size: 89, 84
+  orig: 89, 84
+  offset: 0, 0
+  index: -1

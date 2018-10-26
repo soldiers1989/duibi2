@@ -1,0 +1,160 @@
+
+effect_nanhualaoxian_nuji.png
+size: 1090,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dark01@2x
+  rotate: true
+  xy: 274, 39
+  size: 234, 226
+  orig: 234, 226
+  offset: 0, 0
+  index: -1
+effect_a03_01
+  rotate: true
+  xy: 608, 6
+  size: 41, 86
+  orig: 88, 140
+  offset: 24, 0
+  index: -1
+effect_a03_02
+  rotate: true
+  xy: 699, 7
+  size: 52, 86
+  orig: 88, 140
+  offset: 19, 0
+  index: -1
+effect_a03_03
+  rotate: false
+  xy: 699, 61
+  size: 67, 97
+  orig: 88, 140
+  offset: 13, 9
+  index: -1
+effect_a03_04
+  rotate: true
+  xy: 1000, 119
+  size: 72, 71
+  orig: 88, 140
+  offset: 10, 37
+  index: -1
+effect_a03_05
+  rotate: true
+  xy: 966, 193
+  size: 80, 77
+  orig: 88, 140
+  offset: 4, 34
+  index: -1
+effect_a03_06
+  rotate: true
+  xy: 841, 104
+  size: 83, 80
+  orig: 88, 140
+  offset: 4, 31
+  index: -1
+effect_a03_07
+  rotate: true
+  xy: 787, 2
+  size: 84, 82
+  orig: 88, 140
+  offset: 4, 30
+  index: -1
+effect_a03_08
+  rotate: true
+  xy: 804, 189
+  size: 84, 82
+  orig: 88, 140
+  offset: 4, 30
+  index: -1
+effect_a06_02
+  rotate: false
+  xy: 1024, 50
+  size: 64, 67
+  orig: 88, 92
+  offset: 15, 16
+  index: -1
+effect_a06_03
+  rotate: true
+  xy: 950, 32
+  size: 74, 72
+  orig: 88, 92
+  offset: 10, 11
+  index: -1
+effect_a06_04
+  rotate: true
+  xy: 871, 21
+  size: 81, 77
+  orig: 88, 92
+  offset: 5, 6
+  index: -1
+effect_a06_05
+  rotate: false
+  xy: 768, 88
+  size: 71, 86
+  orig: 88, 92
+  offset: 14, 1
+  index: -1
+effect_a06_06
+  rotate: false
+  xy: 888, 191
+  size: 76, 82
+  orig: 88, 92
+  offset: 12, 10
+  index: -1
+effect_d03_01
+  rotate: true
+  xy: 923, 108
+  size: 81, 75
+  orig: 114, 104
+  offset: 18, 14
+  index: -1
+effect_d03_02
+  rotate: true
+  xy: 713, 176
+  size: 97, 89
+  orig: 114, 104
+  offset: 10, 7
+  index: -1
+effect_d03_03
+  rotate: true
+  xy: 608, 160
+  size: 113, 103
+  orig: 114, 104
+  offset: 1, 0
+  index: -1
+effect_d03_04
+  rotate: true
+  xy: 502, 159
+  size: 114, 104
+  orig: 114, 104
+  offset: 0, 0
+  index: -1
+effect_d03_05
+  rotate: true
+  xy: 502, 43
+  size: 114, 104
+  orig: 114, 104
+  offset: 0, 0
+  index: -1
+effect_d03_06
+  rotate: true
+  xy: 608, 49
+  size: 109, 89
+  orig: 114, 104
+  offset: 0, 6
+  index: -1
+zhuzi
+  rotate: true
+  xy: 1024, 3
+  size: 45, 60
+  orig: 64, 64
+  offset: 10, 2
+  index: -1
+zhuzi2
+  rotate: false
+  xy: 2, 3
+  size: 270, 270
+  orig: 280, 280
+  offset: 5, 5
+  index: -1

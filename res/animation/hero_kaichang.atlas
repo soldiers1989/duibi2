@@ -1,0 +1,188 @@
+
+hero_kaichang.png
+size: 1137,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: true
+  xy: 158, 26
+  size: 126, 127
+  orig: 156, 152
+  offset: 13, 13
+  index: -1
+bao_02
+  rotate: true
+  xy: 289, 2
+  size: 151, 152
+  orig: 156, 152
+  offset: 0, 0
+  index: -1
+bao_03
+  rotate: false
+  xy: 993, 388
+  size: 142, 142
+  orig: 156, 152
+  offset: 5, 5
+  index: -1
+bao_04
+  rotate: true
+  xy: 993, 112
+  size: 133, 138
+  orig: 156, 152
+  offset: 12, 6
+  index: -1
+bao_05
+  rotate: false
+  xy: 443, 9
+  size: 144, 144
+  orig: 156, 152
+  offset: 7, 3
+  index: -1
+bao_06
+  rotate: false
+  xy: 2, 4
+  size: 154, 148
+  orig: 156, 152
+  offset: 2, 1
+  index: -1
+bao_07
+  rotate: false
+  xy: 993, 247
+  size: 139, 139
+  orig: 156, 152
+  offset: 9, 3
+  index: -1
+quan
+  rotate: false
+  xy: 819, 359
+  size: 172, 171
+  orig: 175, 175
+  offset: 1, 1
+  index: -1
+quan_03
+  rotate: false
+  xy: 819, 359
+  size: 172, 171
+  orig: 175, 175
+  offset: 1, 1
+  index: -1
+quan_01
+  rotate: false
+  xy: 797, 71
+  size: 112, 112
+  orig: 175, 175
+  offset: 31, 34
+  index: -1
+quan_02
+  rotate: false
+  xy: 642, 195
+  size: 158, 158
+  orig: 175, 175
+  offset: 8, 11
+  index: -1
+quan_04
+  rotate: false
+  xy: 642, 355
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+quan_05
+  rotate: false
+  xy: 819, 185
+  size: 172, 172
+  orig: 175, 175
+  offset: 1, 1
+  index: -1
+suiping
+  rotate: true
+  xy: 642, 97
+  size: 96, 153
+  orig: 96, 153
+  offset: 0, 0
+  index: -1
+xue_01
+  rotate: true
+  xy: 589, 68
+  size: 85, 48
+  orig: 85, 48
+  offset: 0, 0
+  index: -1
+xue_02
+  rotate: true
+  xy: 639, 10
+  size: 85, 48
+  orig: 85, 48
+  offset: 0, 0
+  index: -1
+xue_03
+  rotate: true
+  xy: 689, 10
+  size: 85, 48
+  orig: 85, 48
+  offset: 0, 0
+  index: -1
+xue_04
+  rotate: true
+  xy: 739, 10
+  size: 85, 48
+  orig: 85, 48
+  offset: 0, 0
+  index: -1
+yinzhang
+  rotate: true
+  xy: 289, 155
+  size: 375, 351
+  orig: 375, 351
+  offset: 0, 0
+  index: -1
+zhonghuo_01
+  rotate: false
+  xy: 949, 15
+  size: 25, 26
+  orig: 71, 70
+  offset: 20, 22
+  index: -1
+zhonghuo_02
+  rotate: true
+  xy: 907, 5
+  size: 36, 40
+  orig: 71, 70
+  offset: 14, 17
+  index: -1
+zhonghuo_03
+  rotate: true
+  xy: 851, 16
+  size: 53, 54
+  orig: 71, 70
+  offset: 6, 10
+  index: -1
+zhonghuo_04
+  rotate: true
+  xy: 789, 8
+  size: 61, 60
+  orig: 71, 70
+  offset: 2, 6
+  index: -1
+zhonghuo_05
+  rotate: false
+  xy: 911, 43
+  size: 69, 68
+  orig: 71, 70
+  offset: 0, 1
+  index: -1
+zhonghuo_06
+  rotate: false
+  xy: 911, 113
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+zhuzaizhiyin
+  rotate: true
+  xy: 2, 154
+  size: 376, 285
+  orig: 376, 285
+  offset: 0, 0
+  index: -1

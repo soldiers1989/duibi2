@@ -1,0 +1,97 @@
+
+effect_wangxie_moxingtian.png
+size: 512,1075
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: false
+  xy: 289, 185
+  size: 216, 127
+  orig: 308, 170
+  offset: 61, 25
+  index: -1
+bao_02
+  rotate: false
+  xy: 2, 267
+  size: 267, 121
+  orig: 308, 170
+  offset: 21, 26
+  index: -1
+bao_03
+  rotate: true
+  xy: 284, 314
+  size: 273, 123
+  orig: 308, 170
+  offset: 15, 25
+  index: -1
+bao_04
+  rotate: true
+  xy: 2, 2
+  size: 263, 128
+  orig: 308, 170
+  offset: 25, 26
+  index: -1
+bao_05
+  rotate: false
+  xy: 2, 390
+  size: 271, 133
+  orig: 308, 170
+  offset: 17, 23
+  index: -1
+bao_06
+  rotate: true
+  xy: 357, 896
+  size: 177, 138
+  orig: 308, 170
+  offset: 111, 19
+  index: -1
+bao_07
+  rotate: true
+  xy: 409, 402
+  size: 185, 101
+  orig: 308, 170
+  offset: 105, 13
+  index: -1
+bao_08
+  rotate: false
+  xy: 289, 79
+  size: 191, 104
+  orig: 308, 170
+  offset: 101, 10
+  index: -1
+dao_01
+  rotate: false
+  xy: 2, 525
+  size: 280, 157
+  orig: 448, 234
+  offset: 13, 56
+  index: -1
+dao_02
+  rotate: true
+  xy: 321, 589
+  size: 293, 189
+  orig: 448, 234
+  offset: 67, 21
+  index: -1
+dao_03
+  rotate: false
+  xy: 2, 884
+  size: 353, 189
+  orig: 448, 234
+  offset: 77, 20
+  index: -1
+dao_04
+  rotate: false
+  xy: 2, 684
+  size: 317, 198
+  orig: 448, 234
+  offset: 75, 11
+  index: -1
+dao_05
+  rotate: true
+  xy: 132, 17
+  size: 248, 155
+  orig: 448, 234
+  offset: 128, 15
+  index: -1

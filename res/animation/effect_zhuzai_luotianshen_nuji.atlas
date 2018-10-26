@@ -1,0 +1,146 @@
+
+effect_zhuzai_luotianshen_nuji.png
+size: 1252,560
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: false
+  xy: 1012, 36
+  size: 141, 157
+  orig: 228, 248
+  offset: 59, 47
+  index: -1
+bao_02
+  rotate: false
+  xy: 720, 19
+  size: 158, 176
+  orig: 228, 248
+  offset: 40, 38
+  index: -1
+bao_03
+  rotate: true
+  xy: 424, 7
+  size: 176, 187
+  orig: 228, 248
+  offset: 24, 28
+  index: -1
+bao_04
+  rotate: true
+  xy: 1052, 378
+  size: 180, 198
+  orig: 228, 248
+  offset: 25, 18
+  index: -1
+bao_05
+  rotate: true
+  xy: 239, 364
+  size: 194, 204
+  orig: 228, 248
+  offset: 14, 12
+  index: -1
+bao_06
+  rotate: true
+  xy: 2, 2
+  size: 192, 208
+  orig: 228, 248
+  offset: 17, 10
+  index: -1
+bao_07
+  rotate: false
+  xy: 445, 364
+  size: 201, 194
+  orig: 228, 248
+  offset: 12, 20
+  index: -1
+bao_08
+  rotate: false
+  xy: 880, 33
+  size: 130, 162
+  orig: 228, 248
+  offset: 70, 31
+  index: -1
+dao_01
+  rotate: true
+  xy: 851, 197
+  size: 186, 187
+  orig: 266, 220
+  offset: 51, 0
+  index: -1
+dao_02
+  rotate: false
+  xy: 1040, 195
+  size: 187, 181
+  orig: 266, 220
+  offset: 61, 23
+  index: -1
+dao_03
+  rotate: false
+  xy: 648, 378
+  size: 201, 180
+  orig: 266, 220
+  offset: 58, 26
+  index: -1
+dao_04
+  rotate: false
+  xy: 228, 31
+  size: 194, 175
+  orig: 266, 220
+  offset: 39, 32
+  index: -1
+dao_05
+  rotate: false
+  xy: 228, 208
+  size: 196, 154
+  orig: 266, 220
+  offset: 66, 31
+  index: -1
+dao_06
+  rotate: false
+  xy: 648, 200
+  size: 195, 176
+  orig: 266, 220
+  offset: 50, 13
+  index: -1
+dao_07
+  rotate: false
+  xy: 851, 385
+  size: 199, 173
+  orig: 266, 220
+  offset: 46, 23
+  index: -1
+dao_08
+  rotate: false
+  xy: 2, 381
+  size: 235, 177
+  orig: 266, 220
+  offset: 0, 24
+  index: -1
+dao_09
+  rotate: false
+  xy: 2, 196
+  size: 224, 183
+  orig: 266, 220
+  offset: 19, 15
+  index: -1
+dao_10
+  rotate: false
+  xy: 426, 185
+  size: 196, 177
+  orig: 266, 220
+  offset: 49, 15
+  index: -1
+dao_11
+  rotate: true
+  xy: 613, 5
+  size: 178, 105
+  orig: 266, 220
+  offset: 67, 81
+  index: -1
+dao_12
+  rotate: true
+  xy: 1155, 84
+  size: 109, 65
+  orig: 266, 220
+  offset: 62, 121
+  index: -1

@@ -1,0 +1,41 @@
+
+effect_ui_huodewupin.png
+size: 194,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liang_01
+  rotate: false
+  xy: 136, 2
+  size: 56, 56
+  orig: 78, 56
+  offset: 11, 0
+  index: -1
+liang_02
+  rotate: false
+  xy: 74, 11
+  size: 60, 47
+  orig: 78, 56
+  offset: 9, 4
+  index: -1
+liang_03
+  rotate: false
+  xy: 2, 11
+  size: 70, 47
+  orig: 78, 56
+  offset: 5, 4
+  index: -1
+liang_04
+  rotate: false
+  xy: 82, 60
+  size: 73, 48
+  orig: 78, 56
+  offset: 2, 4
+  index: -1
+liang_05
+  rotate: false
+  xy: 2, 60
+  size: 78, 48
+  orig: 78, 56
+  offset: 0, 4
+  index: -1

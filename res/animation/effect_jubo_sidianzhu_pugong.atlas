@@ -1,0 +1,48 @@
+
+effect_jubo_sidianzhu_pugong.png
+size: 1155,243
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_pugong_hai_yuancheng_a_bao_01
+  rotate: false
+  xy: 985, 36
+  size: 168, 205
+  orig: 238, 296
+  offset: 33, 47
+  index: -1
+effect_pugong_hai_yuancheng_a_bao_02
+  rotate: true
+  xy: 277, 56
+  size: 185, 251
+  orig: 238, 296
+  offset: 25, 24
+  index: -1
+effect_pugong_hai_yuancheng_a_bao_03
+  rotate: true
+  xy: 2, 39
+  size: 202, 273
+  orig: 238, 296
+  offset: 17, 13
+  index: -1
+effect_pugong_hai_yuancheng_a_bao_04
+  rotate: false
+  xy: 766, 21
+  size: 217, 220
+  orig: 238, 296
+  offset: 8, 40
+  index: -1
+effect_pugong_hai_yuancheng_a_bao_05
+  rotate: true
+  xy: 530, 9
+  size: 232, 234
+  orig: 238, 296
+  offset: 0, 34
+  index: -1
+ta
+  rotate: true
+  xy: 277, 2
+  size: 52, 61
+  orig: 52, 61
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+effect_yehua_pugong.png
+size: 397,537
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_12011302xuqing_0001
+  rotate: true
+  xy: 201, 65
+  size: 44, 85
+  orig: 76, 104
+  offset: 16, 0
+  index: -1
+effect_12011302xuqing_0002
+  rotate: true
+  xy: 2, 112
+  size: 45, 95
+  orig: 76, 104
+  offset: 16, 1
+  index: -1
+effect_12011302xuqing_0003
+  rotate: true
+  xy: 107, 162
+  size: 44, 98
+  orig: 76, 104
+  offset: 16, 0
+  index: -1
+effect_12011302xuqing_0004
+  rotate: true
+  xy: 234, 206
+  size: 45, 99
+  orig: 76, 104
+  offset: 16, 0
+  index: -1
+effect_12011302xuqing_0005
+  rotate: true
+  xy: 2, 66
+  size: 44, 95
+  orig: 76, 104
+  offset: 16, 0
+  index: -1
+effect_12011302xuqing_0006
+  rotate: true
+  xy: 2, 159
+  size: 45, 98
+  orig: 76, 104
+  offset: 16, 0
+  index: -1
+effect_12011302xuqing_0007
+  rotate: false
+  xy: 338, 197
+  size: 44, 101
+  orig: 76, 104
+  offset: 16, 0
+  index: -1
+effect_12011302xuqing_0008
+  rotate: true
+  xy: 234, 253
+  size: 45, 102
+  orig: 76, 104
+  offset: 16, 0
+  index: -1
+effect_12011302xuqing_jizhong_0001
+  rotate: false
+  xy: 247, 300
+  size: 114, 112
+  orig: 160, 160
+  offset: 21, 25
+  index: -1
+effect_12011302xuqing_jizhong_0002
+  rotate: false
+  xy: 129, 307
+  size: 116, 114
+  orig: 160, 160
+  offset: 20, 24
+  index: -1
+effect_12011302xuqing_jizhong_0003
+  rotate: true
+  xy: 284, 414
+  size: 121, 111
+  orig: 160, 160
+  offset: 22, 25
+  index: -1
+effect_12011302xuqing_jizhong_0004
+  rotate: true
+  xy: 2, 423
+  size: 112, 144
+  orig: 160, 160
+  offset: 20, 0
+  index: -1
+effect_12011302xuqing_jizhong_0005
+  rotate: false
+  xy: 148, 423
+  size: 134, 112
+  orig: 160, 160
+  offset: 7, 27
+  index: -1
+effect_12011302xuqing_jizhong_0006
+  rotate: true
+  xy: 2, 305
+  size: 116, 125
+  orig: 160, 160
+  offset: 20, 30
+  index: -1
+effect_12011302xuqing_jizhong_0007
+  rotate: true
+  xy: 207, 111
+  size: 93, 97
+  orig: 160, 160
+  offset: 33, 30
+  index: -1
+effect_12011302xuqing_jizhong_0008
+  rotate: true
+  xy: 129, 208
+  size: 97, 103
+  orig: 160, 160
+  offset: 31, 27
+  index: -1
+effect_12011302xuqing_jizhong_0009
+  rotate: true
+  xy: 2, 206
+  size: 97, 103
+  orig: 160, 160
+  offset: 31, 27
+  index: -1
+effect_12011302xuqing_jizhong_0010
+  rotate: false
+  xy: 99, 2
+  size: 83, 72
+  orig: 160, 160
+  offset: 34, 45
+  index: -1
+effect_12011302xuqing_jizhong_0011
+  rotate: false
+  xy: 102, 76
+  size: 97, 84
+  orig: 160, 160
+  offset: 28, 39
+  index: -1
+effect_12011302xuqing_jizhong_0012
+  rotate: false
+  xy: 306, 30
+  size: 87, 83
+  orig: 160, 160
+  offset: 37, 33
+  index: -1
+effect_12011302xuqing_jizhong_0013
+  rotate: false
+  xy: 306, 115
+  size: 88, 80
+  orig: 160, 160
+  offset: 32, 35
+  index: -1
+effect_12011302xuqing_jizhong_0014
+  rotate: false
+  xy: 184, 2
+  size: 61, 61
+  orig: 160, 160
+  offset: 49, 49
+  index: -1
+effect_12011302xuqing_jizhong_0015
+  rotate: false
+  xy: 2, 2
+  size: 62, 62
+  orig: 160, 160
+  offset: 48, 48
+  index: -1
+lan
+  rotate: false
+  xy: 247, 23
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1

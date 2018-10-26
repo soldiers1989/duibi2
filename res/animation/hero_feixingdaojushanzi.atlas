@@ -1,0 +1,20 @@
+
+hero_feixingdaojushanzi.png
+size: 170,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shanzi
+  rotate: true
+  xy: 2, 2
+  size: 128, 161
+  orig: 300, 180
+  offset: 78, 8
+  index: -1
+shanziliang
+  rotate: true
+  xy: 2, 132
+  size: 133, 166
+  orig: 133, 166
+  offset: 0, 0
+  index: -1

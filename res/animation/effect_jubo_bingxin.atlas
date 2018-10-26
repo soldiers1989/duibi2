@@ -1,0 +1,62 @@
+
+effect_jubo_bingxin.png
+size: 668,377
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: true
+  xy: 2, 8
+  size: 193, 201
+  orig: 230, 244
+  offset: 22, 21
+  index: -1
+bao_02
+  rotate: true
+  xy: 205, 2
+  size: 193, 200
+  orig: 230, 244
+  offset: 22, 22
+  index: -1
+bao_03
+  rotate: true
+  xy: 407, 16
+  size: 175, 185
+  orig: 230, 244
+  offset: 30, 28
+  index: -1
+bao_04
+  rotate: true
+  xy: 2, 203
+  size: 172, 208
+  orig: 230, 244
+  offset: 43, 16
+  index: -1
+bao_05
+  rotate: true
+  xy: 212, 197
+  size: 178, 208
+  orig: 230, 244
+  offset: 37, 16
+  index: -1
+bao_06
+  rotate: true
+  xy: 422, 193
+  size: 182, 207
+  orig: 230, 244
+  offset: 33, 17
+  index: -1
+fashi_bing
+  rotate: false
+  xy: 594, 52
+  size: 72, 139
+  orig: 72, 139
+  offset: 0, 0
+  index: -1
+xiantiao
+  rotate: false
+  xy: 631, 196
+  size: 34, 179
+  orig: 34, 180
+  offset: 0, 1
+  index: -1

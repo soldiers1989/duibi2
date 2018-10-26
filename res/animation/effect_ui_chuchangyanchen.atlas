@@ -1,0 +1,55 @@
+
+effect_ui_chuchangyanchen.png
+size: 310,1014
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yan_01
+  rotate: false
+  xy: 2, 136
+  size: 269, 93
+  orig: 355, 198
+  offset: 43, 23
+  index: -1
+yan_02
+  rotate: true
+  xy: 163, 425
+  size: 288, 140
+  orig: 355, 198
+  offset: 35, 24
+  index: -1
+yan_03
+  rotate: true
+  xy: 159, 715
+  size: 297, 149
+  orig: 355, 198
+  offset: 30, 22
+  index: -1
+yan_04
+  rotate: false
+  xy: 2, 231
+  size: 306, 153
+  orig: 355, 198
+  offset: 26, 22
+  index: -1
+yan_05
+  rotate: true
+  xy: 2, 386
+  size: 311, 159
+  orig: 355, 198
+  offset: 24, 20
+  index: -1
+yan_06
+  rotate: true
+  xy: 2, 699
+  size: 313, 155
+  orig: 355, 198
+  offset: 22, 24
+  index: -1
+yan_07
+  rotate: false
+  xy: 2, 2
+  size: 197, 132
+  orig: 355, 198
+  offset: 77, 47
+  index: -1

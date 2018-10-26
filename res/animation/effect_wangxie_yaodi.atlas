@@ -1,0 +1,146 @@
+
+effect_wangxie_yaodi.png
+size: 615,529
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di_01
+  rotate: false
+  xy: 210, 342
+  size: 185, 78
+  orig: 254, 136
+  offset: 36, 14
+  index: -1
+di_02
+  rotate: false
+  xy: 2, 126
+  size: 195, 83
+  orig: 254, 136
+  offset: 26, 14
+  index: -1
+di_03
+  rotate: false
+  xy: 2, 29
+  size: 195, 95
+  orig: 254, 136
+  offset: 26, 14
+  index: -1
+di_04
+  rotate: false
+  xy: 2, 211
+  size: 196, 99
+  orig: 254, 136
+  offset: 26, 14
+  index: -1
+di_05
+  rotate: false
+  xy: 412, 424
+  size: 196, 103
+  orig: 254, 136
+  offset: 26, 14
+  index: -1
+di_06
+  rotate: false
+  xy: 210, 422
+  size: 200, 105
+  orig: 254, 136
+  offset: 23, 14
+  index: -1
+di_07
+  rotate: false
+  xy: 2, 312
+  size: 204, 106
+  orig: 254, 136
+  offset: 19, 14
+  index: -1
+di_08
+  rotate: false
+  xy: 2, 420
+  size: 206, 107
+  orig: 254, 136
+  offset: 19, 14
+  index: -1
+guang_01
+  rotate: true
+  xy: 533, 271
+  size: 98, 80
+  orig: 162, 118
+  offset: 30, 0
+  index: -1
+guang_02
+  rotate: true
+  xy: 512, 12
+  size: 118, 97
+  orig: 162, 118
+  offset: 21, 1
+  index: -1
+guang_03
+  rotate: false
+  xy: 382, 147
+  size: 129, 112
+  orig: 162, 118
+  offset: 16, 4
+  index: -1
+guang_04
+  rotate: false
+  xy: 382, 35
+  size: 128, 110
+  orig: 162, 118
+  offset: 16, 7
+  index: -1
+guang_05
+  rotate: false
+  xy: 397, 261
+  size: 134, 108
+  orig: 162, 118
+  offset: 14, 10
+  index: -1
+guang_06
+  rotate: true
+  xy: 513, 132
+  size: 127, 99
+  orig: 162, 118
+  offset: 13, 17
+  index: -1
+gui
+  rotate: false
+  xy: 199, 49
+  size: 121, 154
+  orig: 136, 154
+  offset: 6, 0
+  index: -1
+tou
+  rotate: false
+  xy: 199, 2
+  size: 112, 45
+  orig: 118, 45
+  offset: 3, 0
+  index: -1
+yanchen_01
+  rotate: false
+  xy: 412, 371
+  size: 151, 51
+  orig: 201, 85
+  offset: 30, 10
+  index: -1
+yanchen_02
+  rotate: true
+  xy: 322, 51
+  size: 152, 58
+  orig: 201, 85
+  offset: 30, 10
+  index: -1
+yanchen_03
+  rotate: false
+  xy: 200, 205
+  size: 167, 65
+  orig: 201, 85
+  offset: 19, 10
+  index: -1
+yanchen_04
+  rotate: false
+  xy: 208, 272
+  size: 174, 68
+  orig: 201, 85
+  offset: 12, 10
+  index: -1

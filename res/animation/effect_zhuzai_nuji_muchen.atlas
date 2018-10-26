@@ -1,0 +1,167 @@
+
+effect_zhuzai_nuji_muchen.png
+size: 464,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+an
+  rotate: true
+  xy: 2, 428
+  size: 100, 164
+  orig: 107, 185
+  offset: 7, 10
+  index: -1
+bao_01
+  rotate: true
+  xy: 2, 530
+  size: 158, 209
+  orig: 193, 241
+  offset: 16, 10
+  index: -1
+bao_02
+  rotate: true
+  xy: 231, 537
+  size: 160, 212
+  orig: 193, 241
+  offset: 14, 10
+  index: -1
+bao_03
+  rotate: true
+  xy: 234, 861
+  size: 169, 228
+  orig: 193, 241
+  offset: 14, 6
+  index: -1
+bao_04
+  rotate: true
+  xy: 2, 690
+  size: 169, 227
+  orig: 193, 241
+  offset: 14, 6
+  index: -1
+bao_05
+  rotate: true
+  xy: 2, 861
+  size: 169, 230
+  orig: 193, 241
+  offset: 14, 6
+  index: -1
+bao_06
+  rotate: true
+  xy: 231, 699
+  size: 160, 219
+  orig: 193, 241
+  offset: 19, 10
+  index: -1
+bao_07
+  rotate: true
+  xy: 2, 283
+  size: 143, 160
+  orig: 193, 241
+  offset: 25, 44
+  index: -1
+bao_08
+  rotate: false
+  xy: 334, 280
+  size: 126, 154
+  orig: 193, 241
+  offset: 24, 54
+  index: -1
+bao_09
+  rotate: true
+  xy: 2, 119
+  size: 87, 148
+  orig: 193, 241
+  offset: 43, 63
+  index: -1
+fuwen
+  rotate: true
+  xy: 284, 2
+  size: 78, 115
+  orig: 107, 185
+  offset: 14, 41
+  index: -1
+liang
+  rotate: true
+  xy: 168, 334
+  size: 100, 164
+  orig: 107, 185
+  offset: 7, 10
+  index: -1
+liangliang
+  rotate: true
+  xy: 213, 436
+  size: 99, 183
+  orig: 99, 183
+  offset: 0, 0
+  index: -1
+yan_01
+  rotate: true
+  xy: 398, 445
+  size: 90, 47
+  orig: 175, 94
+  offset: 44, 16
+  index: -1
+yan_02
+  rotate: false
+  xy: 147, 20
+  size: 135, 73
+  orig: 175, 94
+  offset: 22, 10
+  index: -1
+yan_03
+  rotate: false
+  xy: 2, 38
+  size: 143, 79
+  orig: 175, 94
+  offset: 18, 8
+  index: -1
+yan_04
+  rotate: false
+  xy: 302, 82
+  size: 145, 83
+  orig: 175, 94
+  offset: 15, 6
+  index: -1
+yan_05
+  rotate: false
+  xy: 152, 95
+  size: 148, 84
+  orig: 175, 94
+  offset: 13, 6
+  index: -1
+yan_06
+  rotate: false
+  xy: 308, 167
+  size: 150, 86
+  orig: 175, 94
+  offset: 12, 4
+  index: -1
+yan_07
+  rotate: false
+  xy: 164, 255
+  size: 152, 77
+  orig: 175, 94
+  offset: 12, 4
+  index: -1
+yan_08
+  rotate: false
+  xy: 2, 208
+  size: 151, 73
+  orig: 175, 94
+  offset: 12, 5
+  index: -1
+yan_09
+  rotate: false
+  xy: 155, 181
+  size: 151, 72
+  orig: 175, 94
+  offset: 12, 6
+  index: -1
+yan_10
+  rotate: true
+  xy: 452, 839
+  size: 20, 8
+  orig: 175, 94
+  offset: 102, 8
+  index: -1

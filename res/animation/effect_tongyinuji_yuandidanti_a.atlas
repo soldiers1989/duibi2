@@ -1,0 +1,132 @@
+
+effect_tongyinuji_yuandidanti_a.png
+size: 401,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_kongshouboji_jinzhan_pugong_01
+  rotate: false
+  xy: 306, 27
+  size: 87, 87
+  orig: 108, 92
+  offset: 0, 5
+  index: -1
+effect_kongshouboji_jinzhan_pugong_02
+  rotate: false
+  xy: 2, 4
+  size: 101, 92
+  orig: 108, 92
+  offset: 0, 0
+  index: -1
+effect_kongshouboji_jinzhan_pugong_03
+  rotate: true
+  xy: 112, 14
+  size: 106, 92
+  orig: 108, 92
+  offset: 0, 0
+  index: -1
+effect_kongshouboji_jinzhan_pugong_04
+  rotate: false
+  xy: 119, 122
+  size: 108, 92
+  orig: 108, 92
+  offset: 0, 0
+  index: -1
+effect_kongshouboji_jinzhan_pugong_05
+  rotate: false
+  xy: 2, 98
+  size: 108, 92
+  orig: 108, 92
+  offset: 0, 0
+  index: -1
+yuandi_danti_a_01
+  rotate: false
+  xy: 345, 2
+  size: 32, 23
+  orig: 135, 123
+  offset: 10, 23
+  index: -1
+yuandi_danti_a_02
+  rotate: true
+  xy: 306, 116
+  size: 94, 90
+  orig: 135, 123
+  offset: 10, 23
+  index: -1
+yuandi_danti_a_03
+  rotate: true
+  xy: 206, 19
+  size: 101, 98
+  orig: 135, 123
+  offset: 10, 23
+  index: -1
+yuandi_danti_b_01
+  rotate: true
+  xy: 306, 4
+  size: 21, 37
+  orig: 135, 123
+  offset: 110, 73
+  index: -1
+yuandi_danti_b_02
+  rotate: false
+  xy: 129, 216
+  size: 115, 92
+  orig: 135, 123
+  offset: 16, 18
+  index: -1
+yuandi_danti_b_03
+  rotate: false
+  xy: 254, 298
+  size: 118, 91
+  orig: 135, 123
+  offset: 13, 18
+  index: -1
+yuandi_danti_b_04
+  rotate: false
+  xy: 129, 310
+  size: 123, 91
+  orig: 135, 123
+  offset: 8, 18
+  index: -1
+yuandi_danti_c_01
+  rotate: true
+  xy: 246, 212
+  size: 84, 111
+  orig: 135, 123
+  offset: 35, 0
+  index: -1
+yuandi_danti_c_02
+  rotate: true
+  xy: 2, 192
+  size: 92, 115
+  orig: 135, 123
+  offset: 27, 0
+  index: -1
+yuandi_danti_c_03
+  rotate: false
+  xy: 2, 286
+  size: 125, 115
+  orig: 135, 123
+  offset: 0, 0
+  index: -1
+yuandi_danti_c_04
+  rotate: false
+  xy: 2, 403
+  size: 135, 123
+  orig: 135, 123
+  offset: 0, 0
+  index: -1
+yuandi_danti_c_05
+  rotate: false
+  xy: 139, 403
+  size: 135, 123
+  orig: 135, 123
+  offset: 0, 0
+  index: -1
+yuandi_danti_c_06
+  rotate: true
+  xy: 276, 391
+  size: 135, 123
+  orig: 135, 123
+  offset: 0, 0
+  index: -1

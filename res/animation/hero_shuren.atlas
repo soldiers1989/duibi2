@@ -1,0 +1,167 @@
+
+hero_shuren.png
+size: 157,1028
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: true
+  xy: 2, 549
+  size: 117, 135
+  orig: 117, 135
+  offset: 0, 0
+  index: -1
+empty
+  rotate: false
+  xy: 147, 913
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 128, 880
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 668
+  size: 66, 149
+  orig: 68, 149
+  offset: 0, 0
+  index: -1
+l_ foot
+  rotate: true
+  xy: 94, 842
+  size: 72, 32
+  orig: 72, 32
+  offset: 0, 0
+  index: -1
+l_corner
+  rotate: true
+  xy: 2, 460
+  size: 87, 125
+  orig: 87, 125
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: true
+  xy: 106, 338
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 99, 241
+  size: 55, 82
+  orig: 55, 82
+  offset: 0, 0
+  index: -1
+l_knee
+  rotate: false
+  xy: 95, 170
+  size: 47, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: false
+  xy: 2, 160
+  size: 91, 84
+  orig: 91, 84
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: true
+  xy: 82, 33
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+l_shoulder_01
+  rotate: true
+  xy: 90, 82
+  size: 76, 61
+  orig: 76, 62
+  offset: 0, 0
+  index: -1
+r_ foot
+  rotate: false
+  xy: 95, 207
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+r_corner
+  rotate: true
+  xy: 2, 841
+  size: 185, 90
+  orig: 185, 90
+  offset: 0, 0
+  index: -1
+r_elbow
+  rotate: false
+  xy: 2, 325
+  size: 102, 62
+  orig: 102, 62
+  offset: 0, 0
+  index: -1
+r_hand01
+  rotate: true
+  xy: 107, 383
+  size: 75, 39
+  orig: 75, 39
+  offset: 0, 0
+  index: -1
+r_hand02
+  rotate: true
+  xy: 2, 736
+  size: 103, 153
+  orig: 103, 153
+  offset: 0, 0
+  index: -1
+r_hand03
+  rotate: true
+  xy: 2, 389
+  size: 69, 103
+  orig: 69, 103
+  offset: 0, 0
+  index: -1
+r_knee
+  rotate: true
+  xy: 82, 2
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: true
+  xy: 2, 94
+  size: 64, 86
+  orig: 64, 86
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: true
+  xy: 2, 246
+  size: 77, 95
+  orig: 77, 95
+  offset: 0, 0
+  index: -1
+r_shoulder_01
+  rotate: true
+  xy: 2, 15
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+ribbno
+  rotate: false
+  xy: 94, 916
+  size: 61, 110
+  orig: 61, 110
+  offset: 0, 0
+  index: -1

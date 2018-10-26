@@ -1,0 +1,27 @@
+
+effect_ui_zhuangbei_beijingguang_huanga.png
+size: 376,146
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiguang
+  rotate: false
+  xy: 279, 49
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+guangshu
+  rotate: false
+  xy: 146, 7
+  size: 131, 137
+  orig: 131, 137
+  offset: 0, 0
+  index: -1
+huangguang
+  rotate: false
+  xy: 2, 2
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1

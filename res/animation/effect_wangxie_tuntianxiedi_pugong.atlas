@@ -1,0 +1,90 @@
+
+effect_wangxie_tuntianxiedi_pugong.png
+size: 1000,365
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: true
+  xy: 857, 83
+  size: 135, 141
+  orig: 168, 170
+  offset: 16, 13
+  index: -1
+bao_02
+  rotate: false
+  xy: 857, 220
+  size: 139, 143
+  orig: 168, 170
+  offset: 13, 12
+  index: -1
+bao_03
+  rotate: false
+  xy: 702, 205
+  size: 153, 158
+  orig: 168, 170
+  offset: 7, 4
+  index: -1
+bao_04
+  rotate: false
+  xy: 534, 196
+  size: 166, 167
+  orig: 168, 170
+  offset: 2, 0
+  index: -1
+qi
+  rotate: false
+  xy: 378, 2
+  size: 171, 171
+  orig: 171, 171
+  offset: 0, 0
+  index: -1
+xishou_01
+  rotate: true
+  xy: 350, 175
+  size: 188, 182
+  orig: 224, 237
+  offset: 0, 55
+  index: -1
+xishou_02
+  rotate: true
+  xy: 2, 148
+  size: 215, 176
+  orig: 224, 237
+  offset: 4, 60
+  index: -1
+xishou_03
+  rotate: true
+  xy: 180, 159
+  size: 204, 168
+  orig: 224, 237
+  offset: 20, 65
+  index: -1
+xishou_04
+  rotate: false
+  xy: 2, 15
+  size: 189, 131
+  orig: 224, 237
+  offset: 35, 79
+  index: -1
+xishou_05
+  rotate: true
+  xy: 551, 28
+  size: 166, 165
+  orig: 224, 237
+  offset: 30, 41
+  index: -1
+xishou_06
+  rotate: true
+  xy: 193, 7
+  size: 150, 183
+  orig: 224, 237
+  offset: 41, 14
+  index: -1
+xishou_07
+  rotate: false
+  xy: 718, 64
+  size: 130, 139
+  orig: 224, 237
+  offset: 43, 8
+  index: -1

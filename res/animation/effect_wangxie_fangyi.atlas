@@ -1,0 +1,83 @@
+
+effect_wangxie_fangyi.png
+size: 411,537
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: true
+  xy: 314, 255
+  size: 33, 32
+  orig: 142, 138
+  offset: 55, 52
+  index: -1
+bao_02
+  rotate: false
+  xy: 314, 290
+  size: 74, 68
+  orig: 142, 138
+  offset: 34, 34
+  index: -1
+bao_03
+  rotate: false
+  xy: 296, 21
+  size: 105, 98
+  orig: 142, 138
+  offset: 19, 19
+  index: -1
+bao_04
+  rotate: false
+  xy: 296, 121
+  size: 113, 109
+  orig: 142, 138
+  offset: 14, 14
+  index: -1
+bao_05
+  rotate: true
+  xy: 180, 114
+  size: 116, 114
+  orig: 142, 138
+  offset: 13, 11
+  index: -1
+bao_06
+  rotate: true
+  xy: 180, 13
+  size: 99, 114
+  orig: 142, 138
+  offset: 22, 11
+  index: -1
+dao_01
+  rotate: true
+  xy: 180, 232
+  size: 126, 132
+  orig: 235, 267
+  offset: 64, 77
+  index: -1
+dao_02
+  rotate: true
+  xy: 192, 360
+  size: 175, 178
+  orig: 235, 267
+  offset: 35, 52
+  index: -1
+dao_03
+  rotate: true
+  xy: 2, 360
+  size: 175, 188
+  orig: 235, 267
+  offset: 26, 27
+  index: -1
+dao_04
+  rotate: true
+  xy: 2, 181
+  size: 177, 176
+  orig: 235, 267
+  offset: 26, 39
+  index: -1
+dao_05
+  rotate: true
+  xy: 2, 2
+  size: 177, 176
+  orig: 235, 267
+  offset: 26, 39
+  index: -1

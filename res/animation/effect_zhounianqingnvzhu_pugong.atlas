@@ -1,0 +1,62 @@
+
+effect_zhounianqingnvzhu_pugong.png
+size: 356,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pugong
+  rotate: true
+  xy: 2, 234
+  size: 64, 242
+  orig: 64, 242
+  offset: 0, 0
+  index: -1
+pugongbaodian0001
+  rotate: false
+  xy: 231, 13
+  size: 67, 61
+  orig: 138, 110
+  offset: 33, 16
+  index: -1
+pugongbaodian0003
+  rotate: false
+  xy: 234, 76
+  size: 120, 83
+  orig: 138, 110
+  offset: 8, 16
+  index: -1
+pugongbaodian0005
+  rotate: false
+  xy: 2, 137
+  size: 130, 95
+  orig: 138, 110
+  offset: 2, 10
+  index: -1
+pugongbaodian0007
+  rotate: true
+  xy: 134, 103
+  size: 129, 98
+  orig: 138, 110
+  offset: 3, 7
+  index: -1
+pugongbaodian0009
+  rotate: true
+  xy: 246, 161
+  size: 137, 107
+  orig: 138, 110
+  offset: 0, 3
+  index: -1
+pugongbaodian0011
+  rotate: false
+  xy: 2, 31
+  size: 120, 104
+  orig: 138, 110
+  offset: 12, 1
+  index: -1
+pugongbaodian0013
+  rotate: false
+  xy: 124, 2
+  size: 105, 99
+  orig: 138, 110
+  offset: 24, 7
+  index: -1

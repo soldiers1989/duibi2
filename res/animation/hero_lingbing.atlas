@@ -1,0 +1,125 @@
+
+hero_lingbing.png
+size: 479,281
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: false
+  xy: 2, 63
+  size: 109, 131
+  orig: 109, 131
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 300, 202
+  size: 77, 121
+  orig: 79, 121
+  offset: 2, 0
+  index: -1
+hip_01
+  rotate: false
+  xy: 113, 75
+  size: 66, 119
+  orig: 66, 119
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: false
+  xy: 181, 80
+  size: 84, 114
+  orig: 84, 114
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: true
+  xy: 2, 12
+  size: 49, 102
+  orig: 50, 106
+  offset: 0, 0
+  index: -1
+l_elbow01
+  rotate: false
+  xy: 267, 92
+  size: 36, 102
+  orig: 36, 102
+  offset: 0, 0
+  index: -1
+l_elbow02
+  rotate: false
+  xy: 305, 100
+  size: 44, 100
+  orig: 44, 100
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 415, 108
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: -1
+l_shoulder_01
+  rotate: true
+  xy: 351, 61
+  size: 39, 49
+  orig: 48, 56
+  offset: 1, 7
+  index: -1
+l_shoulder_02
+  rotate: true
+  xy: 106, 2
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+r_elbow01
+  rotate: false
+  xy: 351, 102
+  size: 62, 98
+  orig: 62, 98
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 270, 5
+  size: 73, 85
+  orig: 73, 85
+  offset: 0, 0
+  index: -1
+r_shoulder_01
+  rotate: false
+  xy: 113, 25
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+r_shoulder_02
+  rotate: false
+  xy: 181, 14
+  size: 87, 64
+  orig: 87, 64
+  offset: 0, 0
+  index: -1
+r_shoulder_03
+  rotate: true
+  xy: 423, 189
+  size: 90, 54
+  orig: 90, 54
+  offset: 0, 0
+  index: -1
+r_shoulder_04
+  rotate: false
+  xy: 415, 66
+  size: 58, 40
+  orig: 58, 40
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 196
+  size: 296, 83
+  orig: 297, 83
+  offset: 1, 0
+  index: -1

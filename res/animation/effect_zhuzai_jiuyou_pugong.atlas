@@ -1,0 +1,55 @@
+
+effect_zhuzai_jiuyou_pugong.png
+size: 531,330
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_jiuyou_pugong_huoyu_01
+  rotate: true
+  xy: 2, 211
+  size: 117, 282
+  orig: 207, 282
+  offset: 40, 0
+  index: -1
+effect_jiuyou_pugong_huoyu_02
+  rotate: true
+  xy: 286, 181
+  size: 147, 243
+  orig: 207, 282
+  offset: 25, 0
+  index: -1
+effect_jiuyou_pugong_huoyu_03
+  rotate: true
+  xy: 368, 15
+  size: 164, 131
+  orig: 207, 282
+  offset: 22, 0
+  index: -1
+effect_jiuyou_pugong_huoyu_04
+  rotate: false
+  xy: 2, 109
+  size: 185, 100
+  orig: 207, 282
+  offset: 2, 0
+  index: -1
+effect_jiuyou_pugong_huoyu_05
+  rotate: false
+  xy: 189, 88
+  size: 177, 91
+  orig: 207, 282
+  offset: 9, 36
+  index: -1
+effect_jiuyou_pugong_huoyu_06
+  rotate: false
+  xy: 2, 9
+  size: 172, 98
+  orig: 207, 282
+  offset: 35, 52
+  index: -1
+effect_jiuyou_pugong_niao_03
+  rotate: false
+  xy: 176, 2
+  size: 109, 84
+  orig: 136, 119
+  offset: 13, 9
+  index: -1

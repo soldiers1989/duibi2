@@ -1,0 +1,48 @@
+
+effect_zhuzai_pugong_jinzhan_b.png
+size: 723,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_zhuzai_pugong_jinzhan_b_01
+  rotate: false
+  xy: 273, 12
+  size: 123, 98
+  orig: 146, 122
+  offset: 12, 5
+  index: -1
+effect_zhuzai_pugong_jinzhan_b_02
+  rotate: false
+  xy: 139, 10
+  size: 132, 100
+  orig: 146, 122
+  offset: 7, 9
+  index: -1
+effect_zhuzai_pugong_jinzhan_b_03
+  rotate: false
+  xy: 2, 7
+  size: 135, 103
+  orig: 146, 122
+  offset: 6, 9
+  index: -1
+effect_zhuzai_pugong_jinzhan_b_04
+  rotate: false
+  xy: 398, 9
+  size: 113, 101
+  orig: 146, 122
+  offset: 29, 11
+  index: -1
+effect_zhuzai_pugong_jinzhan_b_05
+  rotate: true
+  xy: 619, 10
+  size: 100, 102
+  orig: 146, 122
+  offset: 29, 11
+  index: -1
+effect_zhuzai_pugong_jinzhan_b_06
+  rotate: false
+  xy: 513, 2
+  size: 104, 108
+  orig: 146, 122
+  offset: 27, 8
+  index: -1

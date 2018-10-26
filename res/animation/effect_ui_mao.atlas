@@ -1,0 +1,104 @@
+
+effect_ui_mao.png
+size: 78,46
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: false
+  xy: 25, 26
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+chest_01
+  rotate: false
+  xy: 43, 27
+  size: 14, 17
+  orig: 16, 17
+  offset: 2, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 24
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+head_01
+  rotate: false
+  xy: 59, 28
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: true
+  xy: 24, 2
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+l_leg_01
+  rotate: true
+  xy: 34, 19
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+l_leg_03
+  rotate: true
+  xy: 25, 19
+  size: 5, 7
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: false
+  xy: 24, 12
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+r_leg_01
+  rotate: false
+  xy: 33, 11
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+r_leg_03
+  rotate: false
+  xy: 32, 3
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+suduxian
+  rotate: false
+  xy: 2, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 59, 20
+  size: 6, 17
+  orig: 6, 17
+  offset: 0, 0
+  index: -1
+weiba_01
+  rotate: true
+  xy: 59, 12
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+yu
+  rotate: false
+  xy: 43, 16
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1

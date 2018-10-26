@@ -1,0 +1,90 @@
+
+effect_ui_baowuqianghua.png
+size: 317,541
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: true
+  xy: 156, 179
+  size: 110, 115
+  orig: 152, 148
+  offset: 21, 16
+  index: -1
+bao_02
+  rotate: false
+  xy: 182, 420
+  size: 132, 119
+  orig: 152, 148
+  offset: 10, 14
+  index: -1
+bao_03
+  rotate: false
+  xy: 2, 72
+  size: 142, 137
+  orig: 152, 148
+  offset: 5, 5
+  index: -1
+bao_04
+  rotate: false
+  xy: 2, 211
+  size: 152, 148
+  orig: 152, 148
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 2, 361
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+shan
+  rotate: false
+  xy: 182, 291
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+xishou_01
+  rotate: false
+  xy: 146, 86
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+xishou_02
+  rotate: false
+  xy: 146, 3
+  size: 84, 81
+  orig: 91, 91
+  offset: 3, 8
+  index: -1
+xishou_03
+  rotate: true
+  xy: 239, 97
+  size: 80, 76
+  orig: 91, 91
+  offset: 5, 13
+  index: -1
+xishou_04
+  rotate: false
+  xy: 2, 2
+  size: 77, 68
+  orig: 91, 91
+  offset: 5, 13
+  index: -1
+xishou_05
+  rotate: false
+  xy: 81, 26
+  size: 49, 44
+  orig: 91, 91
+  offset: 18, 26
+  index: -1
+xishou_06
+  rotate: false
+  xy: 273, 251
+  size: 37, 38
+  orig: 91, 91
+  offset: 27, 29
+  index: -1

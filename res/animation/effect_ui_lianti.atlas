@@ -1,0 +1,118 @@
+
+effect_ui_lianti.png
+size: 102,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai
+  rotate: false
+  xy: 67, 19
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+bao_01
+  rotate: false
+  xy: 11, 128
+  size: 44, 44
+  orig: 47, 46
+  offset: 2, 2
+  index: -1
+bao_02
+  rotate: false
+  xy: 11, 82
+  size: 44, 44
+  orig: 47, 46
+  offset: 2, 2
+  index: -1
+bao_03
+  rotate: false
+  xy: 11, 220
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+bao_04
+  rotate: false
+  xy: 60, 224
+  size: 40, 42
+  orig: 47, 46
+  offset: 4, 2
+  index: -1
+bao_05
+  rotate: false
+  xy: 11, 174
+  size: 47, 44
+  orig: 47, 46
+  offset: 0, 2
+  index: -1
+guangtiao
+  rotate: true
+  xy: 2, 109
+  size: 157, 7
+  orig: 157, 7
+  offset: 0, 0
+  index: -1
+huo_01
+  rotate: false
+  xy: 57, 110
+  size: 30, 34
+  orig: 38, 41
+  offset: 5, 2
+  index: -1
+huo_02
+  rotate: false
+  xy: 35, 7
+  size: 30, 35
+  orig: 38, 41
+  offset: 5, 2
+  index: -1
+huo_03
+  rotate: false
+  xy: 34, 44
+  size: 30, 36
+  orig: 38, 41
+  offset: 4, 2
+  index: -1
+huo_04
+  rotate: false
+  xy: 60, 183
+  size: 30, 39
+  orig: 38, 41
+  offset: 4, 2
+  index: -1
+huo_05
+  rotate: true
+  xy: 66, 44
+  size: 31, 33
+  orig: 38, 41
+  offset: 4, 2
+  index: -1
+huo_06
+  rotate: true
+  xy: 66, 77
+  size: 31, 34
+  orig: 38, 41
+  offset: 4, 2
+  index: -1
+huo_07
+  rotate: false
+  xy: 60, 146
+  size: 31, 35
+  orig: 38, 41
+  offset: 4, 2
+  index: -1
+huo_08
+  rotate: false
+  xy: 2, 2
+  size: 31, 37
+  orig: 38, 41
+  offset: 4, 2
+  index: -1
+huo_09
+  rotate: false
+  xy: 2, 41
+  size: 30, 39
+  orig: 38, 41
+  offset: 4, 2
+  index: -1

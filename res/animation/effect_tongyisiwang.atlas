@@ -1,0 +1,83 @@
+
+effect_tongyisiwang.png
+size: 406,1035
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quan
+  rotate: false
+  xy: 2, 268
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+xiaoshi_01
+  rotate: true
+  xy: 234, 424
+  size: 227, 170
+  orig: 237, 274
+  offset: 10, 80
+  index: -1
+xiaoshi_02
+  rotate: true
+  xy: 2, 832
+  size: 201, 253
+  orig: 237, 274
+  offset: 11, 14
+  index: -1
+xiaoshi_03
+  rotate: true
+  xy: 2, 653
+  size: 177, 248
+  orig: 237, 274
+  offset: 14, 8
+  index: -1
+xiaoshi_04
+  rotate: true
+  xy: 2, 490
+  size: 161, 230
+  orig: 237, 274
+  offset: 16, 11
+  index: -1
+xiaoshi_05
+  rotate: true
+  xy: 2, 83
+  size: 183, 208
+  orig: 237, 274
+  offset: 15, 12
+  index: -1
+xiaoshi_06
+  rotate: false
+  xy: 224, 271
+  size: 179, 151
+  orig: 237, 274
+  offset: 21, 13
+  index: -1
+xiaoshi_07
+  rotate: true
+  xy: 224, 109
+  size: 160, 173
+  orig: 237, 274
+  offset: 38, 14
+  index: -1
+xiaoshi_08
+  rotate: false
+  xy: 257, 855
+  size: 142, 178
+  orig: 237, 274
+  offset: 41, 18
+  index: -1
+xiaoshi_09
+  rotate: false
+  xy: 252, 661
+  size: 151, 169
+  orig: 237, 274
+  offset: 34, 30
+  index: -1
+xiaoshi_10
+  rotate: true
+  xy: 212, 2
+  size: 105, 121
+  orig: 237, 274
+  offset: 31, 83
+  index: -1

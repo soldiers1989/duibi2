@@ -1,0 +1,153 @@
+
+effect_wangxie_shoumoren.png
+size: 1432,559
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: false
+  xy: 2, 289
+  size: 268, 268
+  orig: 287, 310
+  offset: 8, 27
+  index: -1
+bao_02
+  rotate: false
+  xy: 272, 289
+  size: 268, 268
+  orig: 287, 310
+  offset: 8, 27
+  index: -1
+bao_03
+  rotate: false
+  xy: 542, 289
+  size: 268, 268
+  orig: 287, 310
+  offset: 8, 27
+  index: -1
+bao_04
+  rotate: false
+  xy: 812, 289
+  size: 268, 268
+  orig: 287, 310
+  offset: 8, 27
+  index: -1
+bao_05
+  rotate: false
+  xy: 1082, 289
+  size: 268, 268
+  orig: 287, 310
+  offset: 8, 27
+  index: -1
+bao_06
+  rotate: false
+  xy: 2, 19
+  size: 268, 268
+  orig: 287, 310
+  offset: 8, 27
+  index: -1
+dibao_01
+  rotate: false
+  xy: 272, 7
+  size: 109, 106
+  orig: 156, 124
+  offset: 21, 6
+  index: -1
+dibao_02
+  rotate: false
+  xy: 1102, 2
+  size: 146, 115
+  orig: 156, 124
+  offset: 4, 4
+  index: -1
+dibao_03
+  rotate: false
+  xy: 1250, 13
+  size: 132, 104
+  orig: 156, 124
+  offset: 10, 11
+  index: -1
+dibao_04
+  rotate: false
+  xy: 677, 27
+  size: 127, 87
+  orig: 156, 124
+  offset: 11, 13
+  index: -1
+dibao_05
+  rotate: false
+  xy: 806, 30
+  size: 127, 84
+  orig: 156, 124
+  offset: 12, 14
+  index: -1
+dibao_06
+  rotate: true
+  xy: 1352, 430
+  size: 127, 71
+  orig: 156, 124
+  offset: 12, 21
+  index: -1
+mubei
+  rotate: false
+  xy: 1352, 308
+  size: 78, 120
+  orig: 78, 120
+  offset: 0, 0
+  index: -1
+xishou_01
+  rotate: true
+  xy: 383, 27
+  size: 86, 101
+  orig: 268, 204
+  offset: 87, 5
+  index: -1
+xishou_02
+  rotate: true
+  xy: 952, 28
+  size: 121, 148
+  orig: 268, 204
+  offset: 87, 5
+  index: -1
+xishou_03
+  rotate: true
+  xy: 513, 16
+  size: 149, 162
+  orig: 268, 204
+  offset: 85, 7
+  index: -1
+xishou_04
+  rotate: false
+  xy: 1163, 119
+  size: 190, 168
+  orig: 268, 204
+  offset: 51, 8
+  index: -1
+xishou_05
+  rotate: false
+  xy: 737, 116
+  size: 213, 171
+  orig: 268, 204
+  offset: 35, 18
+  index: -1
+xishou_06
+  rotate: false
+  xy: 272, 115
+  size: 239, 172
+  orig: 268, 204
+  offset: 19, 18
+  index: -1
+xishou_07
+  rotate: false
+  xy: 952, 151
+  size: 209, 136
+  orig: 268, 204
+  offset: 21, 59
+  index: -1
+xishou_08
+  rotate: false
+  xy: 513, 167
+  size: 222, 120
+  orig: 268, 204
+  offset: 7, 76
+  index: -1

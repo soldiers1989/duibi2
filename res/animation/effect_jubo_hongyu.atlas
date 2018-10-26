@@ -1,0 +1,69 @@
+
+effect_jubo_hongyu.png
+size: 387,570
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: true
+  xy: 307, 52
+  size: 85, 78
+  orig: 129, 142
+  offset: 22, 35
+  index: -1
+bao_02
+  rotate: false
+  xy: 112, 169
+  size: 101, 101
+  orig: 129, 142
+  offset: 17, 27
+  index: -1
+bao_03
+  rotate: false
+  xy: 2, 160
+  size: 108, 110
+  orig: 129, 142
+  offset: 14, 22
+  index: -1
+bao_04
+  rotate: true
+  xy: 194, 25
+  size: 112, 111
+  orig: 129, 142
+  offset: 12, 22
+  index: -1
+daoguang_01
+  rotate: false
+  xy: 2, 2
+  size: 190, 135
+  orig: 266, 186
+  offset: 40, 30
+  index: -1
+daoguang_02
+  rotate: true
+  xy: 226, 139
+  size: 196, 140
+  orig: 266, 186
+  offset: 33, 16
+  index: -1
+daoguang_03
+  rotate: true
+  xy: 243, 337
+  size: 231, 139
+  orig: 266, 186
+  offset: 27, 13
+  index: -1
+daoguang_04
+  rotate: false
+  xy: 2, 272
+  size: 222, 150
+  orig: 266, 186
+  offset: 29, 17
+  index: -1
+daoguang_05
+  rotate: false
+  xy: 2, 424
+  size: 239, 144
+  orig: 266, 186
+  offset: 8, 25
+  index: -1

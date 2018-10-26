@@ -1,0 +1,174 @@
+
+effect_jubo_huomeier.png
+size: 1939,439
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baishan
+  rotate: false
+  xy: 314, 139
+  size: 286, 298
+  orig: 286, 298
+  offset: 0, 0
+  index: -1
+bao_01
+  rotate: false
+  xy: 911, 2
+  size: 150, 162
+  orig: 180, 193
+  offset: 20, 3
+  index: -1
+bao_02
+  rotate: false
+  xy: 1261, 20
+  size: 175, 175
+  orig: 180, 193
+  offset: 0, 0
+  index: -1
+bao_03
+  rotate: false
+  xy: 1585, 71
+  size: 177, 164
+  orig: 180, 193
+  offset: 3, 13
+  index: -1
+bao_04
+  rotate: true
+  xy: 1438, 30
+  size: 166, 140
+  orig: 180, 193
+  offset: 6, 23
+  index: -1
+bao_05
+  rotate: true
+  xy: 2, 14
+  size: 99, 132
+  orig: 180, 193
+  offset: 18, 34
+  index: -1
+bao_06
+  rotate: false
+  xy: 1764, 89
+  size: 143, 146
+  orig: 180, 193
+  offset: 22, 30
+  index: -1
+bao_07
+  rotate: true
+  xy: 314, 4
+  size: 133, 152
+  orig: 180, 193
+  offset: 34, 30
+  index: -1
+bao_08
+  rotate: false
+  xy: 468, 6
+  size: 140, 131
+  orig: 180, 193
+  offset: 34, 48
+  index: -1
+bao_09
+  rotate: true
+  xy: 136, 17
+  size: 96, 132
+  orig: 180, 193
+  offset: 77, 56
+  index: -1
+bao_10
+  rotate: false
+  xy: 610, 17
+  size: 93, 130
+  orig: 180, 193
+  offset: 82, 63
+  index: -1
+bao_11
+  rotate: false
+  xy: 705, 23
+  size: 72, 124
+  orig: 180, 193
+  offset: 92, 68
+  index: -1
+heishan
+  rotate: false
+  xy: 1585, 237
+  size: 192, 200
+  orig: 192, 200
+  offset: 0, 0
+  index: -1
+penghuo_01
+  rotate: false
+  xy: 779, 45
+  size: 92, 112
+  orig: 180, 299
+  offset: 29, 0
+  index: -1
+penghuo_02
+  rotate: false
+  xy: 1261, 197
+  size: 151, 240
+  orig: 180, 299
+  offset: 7, 4
+  index: -1
+penghuo_03
+  rotate: false
+  xy: 760, 159
+  size: 149, 278
+  orig: 180, 299
+  offset: 8, 6
+  index: -1
+penghuo_04
+  rotate: false
+  xy: 602, 149
+  size: 156, 288
+  orig: 180, 299
+  offset: 4, 11
+  index: -1
+penghuo_05
+  rotate: false
+  xy: 1092, 175
+  size: 167, 262
+  orig: 180, 299
+  offset: 7, 14
+  index: -1
+penghuo_06
+  rotate: false
+  xy: 911, 166
+  size: 179, 271
+  orig: 180, 299
+  offset: 1, 23
+  index: -1
+penghuo_07
+  rotate: false
+  xy: 1414, 198
+  size: 169, 239
+  orig: 180, 299
+  offset: 0, 55
+  index: -1
+penghuo_08
+  rotate: false
+  xy: 1779, 238
+  size: 158, 199
+  orig: 180, 299
+  offset: 9, 64
+  index: -1
+penghuo_09
+  rotate: true
+  xy: 1063, 4
+  size: 160, 153
+  orig: 180, 299
+  offset: 12, 117
+  index: -1
+penghuo_10
+  rotate: true
+  xy: 1764, 14
+  size: 73, 87
+  orig: 180, 299
+  offset: 9, 145
+  index: -1
+shan
+  rotate: false
+  xy: 2, 115
+  size: 310, 322
+  orig: 310, 322
+  offset: 0, 0
+  index: -1

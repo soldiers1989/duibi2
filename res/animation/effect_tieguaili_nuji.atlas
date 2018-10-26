@@ -1,0 +1,181 @@
+
+effect_tieguaili_nuji.png
+size: 1476,407
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+canying
+  rotate: false
+  xy: 2, 3
+  size: 102, 80
+  orig: 114, 91
+  offset: 3, 6
+  index: -1
+hulu
+  rotate: false
+  xy: 1401, 197
+  size: 61, 95
+  orig: 61, 95
+  offset: 0, 0
+  index: -1
+huo0001
+  rotate: true
+  xy: 1134, 193
+  size: 212, 133
+  orig: 244, 164
+  offset: 6, 6
+  index: -1
+huo0002
+  rotate: false
+  xy: 888, 45
+  size: 218, 136
+  orig: 244, 164
+  offset: 6, 10
+  index: -1
+huo0003
+  rotate: false
+  xy: 656, 24
+  size: 230, 147
+  orig: 244, 164
+  offset: 3, 9
+  index: -1
+huo0004
+  rotate: false
+  xy: 420, 8
+  size: 234, 151
+  orig: 244, 164
+  offset: 2, 8
+  index: -1
+huo0005
+  rotate: true
+  xy: 538, 173
+  size: 232, 154
+  orig: 244, 164
+  offset: 4, 5
+  index: -1
+huo0006
+  rotate: true
+  xy: 694, 181
+  size: 224, 150
+  orig: 244, 164
+  offset: 11, 4
+  index: -1
+huo0007
+  rotate: true
+  xy: 846, 183
+  size: 222, 149
+  orig: 244, 164
+  offset: 11, 6
+  index: -1
+huo0008
+  rotate: false
+  xy: 1108, 42
+  size: 215, 145
+  orig: 244, 164
+  offset: 12, 10
+  index: -1
+huo0009
+  rotate: false
+  xy: 106, 2
+  size: 94, 81
+  orig: 244, 164
+  offset: 127, 19
+  index: -1
+piaodai0001
+  rotate: false
+  xy: 231, 5
+  size: 91, 104
+  orig: 272, 392
+  offset: 88, 266
+  index: -1
+piaodai0002
+  rotate: false
+  xy: 997, 189
+  size: 135, 216
+  orig: 272, 392
+  offset: 67, 150
+  index: -1
+piaodai0003
+  rotate: false
+  xy: 231, 111
+  size: 187, 294
+  orig: 272, 392
+  offset: 43, 81
+  index: -1
+piaodai0004
+  rotate: false
+  xy: 2, 85
+  size: 227, 320
+  orig: 272, 392
+  offset: 17, 36
+  index: -1
+piaodai0005
+  rotate: false
+  xy: 420, 161
+  size: 116, 244
+  orig: 272, 392
+  offset: 88, 87
+  index: -1
+piaodai0006
+  rotate: true
+  xy: 1269, 294
+  size: 111, 199
+  orig: 272, 392
+  offset: 89, 87
+  index: -1
+piaodai0007
+  rotate: true
+  xy: 1269, 190
+  size: 102, 130
+  orig: 272, 392
+  offset: 94, 92
+  index: -1
+piaodai0008
+  rotate: false
+  xy: 324, 6
+  size: 93, 103
+  orig: 272, 392
+  offset: 100, 96
+  index: -1
+piaodai0009
+  rotate: false
+  xy: 1325, 94
+  size: 94, 94
+  orig: 272, 392
+  offset: 100, 101
+  index: -1
+xishou0001
+  rotate: false
+  xy: 1325, 10
+  size: 53, 55
+  orig: 58, 68
+  offset: 2, 0
+  index: -1
+xishou0002
+  rotate: false
+  xy: 1421, 131
+  size: 53, 64
+  orig: 58, 68
+  offset: 1, 0
+  index: -1
+xishou0003
+  rotate: false
+  xy: 1421, 67
+  size: 49, 62
+  orig: 58, 68
+  offset: 3, 0
+  index: -1
+xishou0004
+  rotate: false
+  xy: 1380, 12
+  size: 45, 53
+  orig: 58, 68
+  offset: 6, 8
+  index: -1
+xishou0005
+  rotate: true
+  xy: 1325, 68
+  size: 24, 29
+  orig: 58, 68
+  offset: 16, 20
+  index: -1

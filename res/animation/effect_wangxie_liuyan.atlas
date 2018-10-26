@@ -1,0 +1,139 @@
+
+effect_wangxie_liuyan.png
+size: 1736,373
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: false
+  xy: 1076, 31
+  size: 133, 119
+  orig: 203, 271
+  offset: 40, 13
+  index: -1
+bao_02
+  rotate: true
+  xy: 875, 38
+  size: 154, 199
+  orig: 203, 271
+  offset: 35, 19
+  index: -1
+bao_03
+  rotate: true
+  xy: 1180, 210
+  size: 161, 256
+  orig: 203, 271
+  offset: 30, 15
+  index: -1
+bao_04
+  rotate: true
+  xy: 1438, 195
+  size: 176, 240
+  orig: 203, 271
+  offset: 21, 11
+  index: -1
+bao_05
+  rotate: false
+  xy: 300, 2
+  size: 181, 205
+  orig: 203, 271
+  offset: 19, 2
+  index: -1
+bao_06
+  rotate: false
+  xy: 483, 2
+  size: 188, 205
+  orig: 203, 271
+  offset: 15, 0
+  index: -1
+daoguang_01
+  rotate: false
+  xy: 1211, 2
+  size: 57, 62
+  orig: 304, 191
+  offset: 247, 76
+  index: -1
+daoguang_02
+  rotate: false
+  xy: 1211, 66
+  size: 90, 84
+  orig: 304, 191
+  offset: 211, 65
+  index: -1
+daoguang_03
+  rotate: false
+  xy: 1405, 2
+  size: 201, 191
+  orig: 304, 191
+  offset: 101, 0
+  index: -1
+daoguang_04
+  rotate: false
+  xy: 888, 194
+  size: 290, 177
+  orig: 304, 191
+  offset: 7, 10
+  index: -1
+daoguang_05
+  rotate: false
+  xy: 2, 198
+  size: 296, 173
+  orig: 304, 191
+  offset: 6, 14
+  index: -1
+daoguang_06
+  rotate: false
+  xy: 2, 30
+  size: 294, 166
+  orig: 304, 191
+  offset: 4, 17
+  index: -1
+daoguang_07
+  rotate: false
+  xy: 300, 209
+  size: 293, 162
+  orig: 304, 191
+  offset: 4, 18
+  index: -1
+daoguang_08
+  rotate: false
+  xy: 595, 215
+  size: 291, 156
+  orig: 304, 191
+  offset: 5, 18
+  index: -1
+daoguang_09
+  rotate: false
+  xy: 673, 9
+  size: 147, 128
+  orig: 304, 191
+  offset: 6, 44
+  index: -1
+daoguang_10
+  rotate: true
+  xy: 1608, 9
+  size: 146, 110
+  orig: 304, 191
+  offset: 7, 46
+  index: -1
+di
+  rotate: false
+  xy: 673, 139
+  size: 200, 74
+  orig: 200, 74
+  offset: 0, 0
+  index: -1
+jian
+  rotate: false
+  xy: 1680, 157
+  size: 54, 214
+  orig: 56, 216
+  offset: 1, 1
+  index: -1
+liangjian
+  rotate: true
+  xy: 1180, 152
+  size: 56, 223
+  orig: 56, 223
+  offset: 0, 0
+  index: -1

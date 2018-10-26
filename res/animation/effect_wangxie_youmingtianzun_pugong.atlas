@@ -1,0 +1,97 @@
+
+effect_wangxie_youmingtianzun_pugong.png
+size: 524,550
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoguang_01
+  rotate: false
+  xy: 2, 90
+  size: 251, 113
+  orig: 259, 113
+  offset: 0, 0
+  index: -1
+daoguang_02
+  rotate: false
+  xy: 263, 320
+  size: 256, 113
+  orig: 259, 113
+  offset: 0, 0
+  index: -1
+daoguang_03
+  rotate: false
+  xy: 2, 205
+  size: 257, 113
+  orig: 259, 113
+  offset: 0, 0
+  index: -1
+daoguang_04
+  rotate: false
+  xy: 2, 435
+  size: 259, 113
+  orig: 259, 113
+  offset: 0, 0
+  index: -1
+daoguang_05
+  rotate: false
+  xy: 2, 320
+  size: 259, 113
+  orig: 259, 113
+  offset: 0, 0
+  index: -1
+daoguang_06
+  rotate: false
+  xy: 263, 435
+  size: 259, 113
+  orig: 259, 113
+  offset: 0, 0
+  index: -1
+xue_01
+  rotate: false
+  xy: 255, 65
+  size: 161, 76
+  orig: 194, 104
+  offset: 0, 0
+  index: -1
+xue_02
+  rotate: true
+  xy: 431, 158
+  size: 160, 86
+  orig: 194, 104
+  offset: 11, 7
+  index: -1
+xue_03
+  rotate: false
+  xy: 261, 143
+  size: 164, 85
+  orig: 194, 104
+  offset: 14, 11
+  index: -1
+xue_04
+  rotate: false
+  xy: 261, 230
+  size: 168, 88
+  orig: 194, 104
+  offset: 17, 12
+  index: -1
+xue_05
+  rotate: false
+  xy: 2, 2
+  size: 166, 86
+  orig: 194, 104
+  offset: 22, 16
+  index: -1
+xue_06
+  rotate: true
+  xy: 427, 27
+  size: 129, 79
+  orig: 194, 104
+  offset: 63, 25
+  index: -1
+xue_07
+  rotate: false
+  xy: 170, 4
+  size: 113, 59
+  orig: 194, 104
+  offset: 81, 45
+  index: -1

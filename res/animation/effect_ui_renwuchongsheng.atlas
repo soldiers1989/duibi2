@@ -1,0 +1,132 @@
+
+effect_ui_renwuchongsheng.png
+size: 1239,547
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang_01
+  rotate: true
+  xy: 2, 267
+  size: 278, 219
+  orig: 281, 219
+  offset: 3, 0
+  index: -1
+chibang_02
+  rotate: true
+  xy: 1020, 2
+  size: 175, 150
+  orig: 281, 219
+  offset: 53, 33
+  index: -1
+chibang_03
+  rotate: true
+  xy: 646, 293
+  size: 252, 157
+  orig: 281, 219
+  offset: 14, 34
+  index: -1
+chibang_04
+  rotate: true
+  xy: 712, 39
+  size: 252, 157
+  orig: 281, 219
+  offset: 14, 34
+  index: -1
+chibang_05
+  rotate: true
+  xy: 565, 31
+  size: 253, 145
+  orig: 281, 219
+  offset: 14, 44
+  index: -1
+chibang_06
+  rotate: true
+  xy: 419, 15
+  size: 259, 144
+  orig: 281, 219
+  offset: 9, 45
+  index: -1
+chibang_07
+  rotate: true
+  xy: 512, 286
+  size: 259, 132
+  orig: 281, 219
+  offset: 11, 56
+  index: -1
+chibang_08
+  rotate: false
+  xy: 2, 43
+  size: 252, 75
+  orig: 281, 219
+  offset: 14, 112
+  index: -1
+di
+  rotate: true
+  xy: 1172, 31
+  size: 146, 47
+  orig: 146, 47
+  offset: 0, 0
+  index: -1
+guangshu_01
+  rotate: true
+  xy: 2, 120
+  size: 145, 269
+  orig: 183, 306
+  offset: 22, 19
+  index: -1
+guangshu_02
+  rotate: false
+  xy: 223, 276
+  size: 142, 269
+  orig: 183, 306
+  offset: 25, 19
+  index: -1
+guangshu_03
+  rotate: false
+  xy: 273, 5
+  size: 144, 269
+  orig: 183, 306
+  offset: 25, 19
+  index: -1
+guangshu_04
+  rotate: false
+  xy: 367, 276
+  size: 143, 269
+  orig: 183, 306
+  offset: 26, 19
+  index: -1
+hou
+  rotate: false
+  xy: 805, 323
+  size: 147, 222
+  orig: 147, 226
+  offset: 0, 0
+  index: -1
+hou1
+  rotate: false
+  xy: 871, 99
+  size: 147, 222
+  orig: 147, 226
+  offset: 0, 0
+  index: -1
+qian
+  rotate: false
+  xy: 954, 328
+  size: 147, 217
+  orig: 147, 226
+  offset: 0, 0
+  index: -1
+qian1
+  rotate: true
+  xy: 1020, 179
+  size: 147, 217
+  orig: 147, 226
+  offset: 0, 0
+  index: -1
+shan
+  rotate: false
+  xy: 1103, 348
+  size: 131, 197
+  orig: 131, 197
+  offset: 0, 0
+  index: -1

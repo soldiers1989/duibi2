@@ -1,0 +1,307 @@
+
+hero_zhutian.png
+size: 486,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: true
+  xy: 2, 276
+  size: 86, 134
+  orig: 86, 134
+  offset: 0, 0
+  index: -1
+empty
+  rotate: false
+  xy: 292, 39
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 472, 476
+  size: 45, 11
+  orig: 45, 11
+  offset: 0, 0
+  index: -1
+head_02
+  rotate: false
+  xy: 304, 186
+  size: 83, 33
+  orig: 83, 33
+  offset: 0, 0
+  index: -1
+head_03
+  rotate: true
+  xy: 264, 4
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+head_04
+  rotate: false
+  xy: 115, 221
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+head_05
+  rotate: true
+  xy: 391, 39
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+head_06
+  rotate: false
+  xy: 389, 153
+  size: 34, 66
+  orig: 34, 66
+  offset: 0, 0
+  index: -1
+head_07
+  rotate: true
+  xy: 166, 296
+  size: 103, 138
+  orig: 103, 138
+  offset: 0, 0
+  index: -1
+head_08
+  rotate: true
+  xy: 166, 401
+  size: 120, 160
+  orig: 121, 161
+  offset: 0, 0
+  index: -1
+head_09
+  rotate: false
+  xy: 99, 5
+  size: 71, 24
+  orig: 77, 30
+  offset: 0, 0
+  index: -1
+head_10
+  rotate: true
+  xy: 313, 2
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: true
+  xy: 2, 364
+  size: 157, 162
+  orig: 159, 162
+  offset: 2, 0
+  index: -1
+hip_02
+  rotate: false
+  xy: 256, 179
+  size: 46, 115
+  orig: 46, 115
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: true
+  xy: 432, 286
+  size: 105, 52
+  orig: 105, 52
+  offset: 0, 0
+  index: -1
+hip_05
+  rotate: false
+  xy: 328, 393
+  size: 142, 128
+  orig: 142, 128
+  offset: 0, 0
+  index: -1
+hip_10
+  rotate: false
+  xy: 2, 170
+  size: 111, 104
+  orig: 111, 104
+  offset: 0, 0
+  index: -1
+l_elbow01
+  rotate: true
+  xy: 138, 188
+  size: 106, 116
+  orig: 106, 116
+  offset: 0, 0
+  index: -1
+l_elbow02
+  rotate: false
+  xy: 2, 2
+  size: 95, 101
+  orig: 95, 101
+  offset: 0, 0
+  index: -1
+l_hand01
+  rotate: true
+  xy: 172, 6
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+l_hand02
+  rotate: false
+  xy: 425, 123
+  size: 55, 65
+  orig: 55, 65
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: true
+  xy: 99, 31
+  size: 62, 99
+  orig: 62, 99
+  offset: 0, 0
+  index: -1
+r_elbow01
+  rotate: true
+  xy: 115, 95
+  size: 91, 107
+  orig: 91, 107
+  offset: 0, 0
+  index: -1
+r_elbow02
+  rotate: false
+  xy: 431, 190
+  size: 49, 94
+  orig: 49, 96
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 224, 106
+  size: 70, 71
+  orig: 70, 71
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: true
+  xy: 2, 105
+  size: 63, 104
+  orig: 64, 104
+  offset: 1, 0
+  index: -1
+ribbno_01
+  rotate: true
+  xy: 417, 17
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+ribbno_02
+  rotate: false
+  xy: 292, 42
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+ribbno_03
+  rotate: false
+  xy: 358, 12
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+ribbno_04
+  rotate: false
+  xy: 418, 61
+  size: 63, 60
+  orig: 63, 60
+  offset: 0, 0
+  index: -1
+ribbno_05
+  rotate: true
+  xy: 306, 221
+  size: 74, 123
+  orig: 75, 123
+  offset: 1, 0
+  index: -1
+ribbno_06
+  rotate: true
+  xy: 200, 6
+  size: 87, 62
+  orig: 87, 63
+  offset: 0, 1
+  index: -1
+ribbno_07
+  rotate: true
+  xy: 358, 61
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+ribbno_08
+  rotate: false
+  xy: 115, 246
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+ribbno_09
+  rotate: true
+  xy: 388, 8
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+ribbno_10
+  rotate: true
+  xy: 306, 297
+  size: 94, 124
+  orig: 96, 124
+  offset: 0, 0
+  index: -1
+tx3_1
+  rotate: false
+  xy: 391, 87
+  size: 25, 64
+  orig: 25, 64
+  offset: 0, 0
+  index: -1
+tx3_2
+  rotate: true
+  xy: 304, 158
+  size: 26, 65
+  orig: 26, 65
+  offset: 0, 0
+  index: -1
+tx3_3
+  rotate: true
+  xy: 296, 130
+  size: 26, 65
+  orig: 26, 65
+  offset: 0, 0
+  index: -1
+tx3_4
+  rotate: false
+  xy: 138, 296
+  size: 26, 66
+  orig: 26, 66
+  offset: 0, 0
+  index: -1
+tx3_5
+  rotate: false
+  xy: 363, 86
+  size: 26, 65
+  orig: 26, 65
+  offset: 0, 0
+  index: -1
+tx3_6
+  rotate: true
+  xy: 296, 104
+  size: 24, 65
+  orig: 24, 65
+  offset: 0, 0
+  index: -1
+tx3_7
+  rotate: false
+  xy: 264, 39
+  size: 26, 65
+  orig: 26, 65
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+effect_buff_qingchufumianzhuangtai.png
+size: 709,286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_buff_qingchufumianzhuangtai_guangsu
+  rotate: true
+  xy: 2, 170
+  size: 114, 265
+  orig: 127, 269
+  offset: 6, 4
+  index: -1
+effect_buff_qingchufumianzhuangtai_quan
+  rotate: true
+  xy: 673, 157
+  size: 127, 34
+  orig: 134, 50
+  offset: 4, 7
+  index: -1
+effect_buff_qingchufumianzhuangtai_shangsheng_01
+  rotate: true
+  xy: 561, 5
+  size: 132, 133
+  orig: 166, 239
+  offset: 21, 9
+  index: -1
+effect_buff_qingchufumianzhuangtai_shangsheng_02
+  rotate: true
+  xy: 475, 139
+  size: 145, 196
+  orig: 166, 239
+  offset: 10, 9
+  index: -1
+effect_buff_qingchufumianzhuangtai_shangsheng_03
+  rotate: true
+  xy: 269, 140
+  size: 144, 204
+  orig: 166, 239
+  offset: 10, 9
+  index: -1
+effect_buff_qingchufumianzhuangtai_shangsheng_04
+  rotate: true
+  xy: 2, 26
+  size: 142, 196
+  orig: 166, 239
+  offset: 10, 12
+  index: -1
+effect_buff_qingchufumianzhuangtai_shangsheng_05
+  rotate: true
+  xy: 200, 2
+  size: 136, 181
+  orig: 166, 239
+  offset: 11, 44
+  index: -1
+effect_buff_qingchufumianzhuangtai_shangsheng_06
+  rotate: true
+  xy: 383, 17
+  size: 120, 176
+  orig: 166, 239
+  offset: 26, 56
+  index: -1

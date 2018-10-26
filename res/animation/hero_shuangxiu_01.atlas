@@ -1,0 +1,167 @@
+
+hero_shuangxiu_01.png
+size: 1858,261
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: true
+  xy: 913, 7
+  size: 252, 150
+  orig: 259, 150
+  offset: 0, 0
+  index: -1
+chest_01
+  rotate: true
+  xy: 509, 23
+  size: 53, 49
+  orig: 56, 50
+  offset: 3, 1
+  index: -1
+chest_02
+  rotate: true
+  xy: 560, 28
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+chest_shang
+  rotate: false
+  xy: 1433, 7
+  size: 100, 84
+  orig: 101, 89
+  offset: 1, 5
+  index: -1
+hair-01
+  rotate: false
+  xy: 1360, 6
+  size: 64, 54
+  orig: 64, 54
+  offset: 0, 0
+  index: -1
+hair-02
+  rotate: true
+  xy: 1065, 38
+  size: 221, 219
+  orig: 222, 220
+  offset: 0, 1
+  index: -1
+hair-03
+  rotate: true
+  xy: 1675, 22
+  size: 72, 24
+  orig: 72, 24
+  offset: 0, 0
+  index: -1
+hair-04
+  rotate: true
+  xy: 1286, 19
+  size: 41, 72
+  orig: 41, 74
+  offset: 0, 2
+  index: -1
+hair-05
+  rotate: true
+  xy: 277, 80
+  size: 17, 49
+  orig: 17, 49
+  offset: 0, 0
+  index: -1
+hand _r
+  rotate: false
+  xy: 1708, 3
+  size: 136, 103
+  orig: 136, 105
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1553, 4
+  size: 120, 90
+  orig: 120, 92
+  offset: 0, 2
+  index: -1
+hip_01
+  rotate: false
+  xy: 368, 78
+  size: 280, 181
+  orig: 280, 181
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: true
+  xy: 1553, 96
+  size: 163, 153
+  orig: 163, 153
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: true
+  xy: 277, 26
+  size: 50, 158
+  orig: 50, 158
+  offset: 0, 0
+  index: -1
+hip_04
+  rotate: false
+  xy: 1433, 93
+  size: 118, 166
+  orig: 118, 166
+  offset: 0, 0
+  index: -1
+hip_05
+  rotate: false
+  xy: 1286, 62
+  size: 145, 197
+  orig: 145, 197
+  offset: 0, 0
+  index: -1
+hip_06
+  rotate: false
+  xy: 650, 107
+  size: 261, 152
+  orig: 263, 172
+  offset: 0, 0
+  index: -1
+hip_07
+  rotate: false
+  xy: 1708, 108
+  size: 148, 151
+  orig: 193, 151
+  offset: 15, 0
+  index: -1
+jie
+  rotate: true
+  xy: 609, 51
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 2, 99
+  size: 364, 160
+  orig: 628, 354
+  offset: 125, 108
+  index: -1
+tui_01
+  rotate: true
+  xy: 2, 2
+  size: 95, 273
+  orig: 96, 278
+  offset: 0, 5
+  index: -1
+tui_02
+  rotate: true
+  xy: 650, 28
+  size: 77, 259
+  orig: 77, 259
+  offset: 0, 0
+  index: -1
+xian
+  rotate: false
+  xy: 437, 4
+  size: 70, 72
+  orig: 70, 73
+  offset: 0, 1
+  index: -1

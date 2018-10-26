@@ -1,0 +1,328 @@
+
+hero_zhuzai_luoli.png
+size: 1365,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: true
+  xy: 1256, 95
+  size: 132, 107
+  orig: 132, 107
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: false
+  xy: 769, 57
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 885, 151
+  size: 96, 89
+  orig: 96, 89
+  offset: 0, 0
+  index: -1
+chest_01
+  rotate: true
+  xy: 860, 213
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+chest_02
+  rotate: false
+  xy: 1277, 232
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+chest_03
+  rotate: true
+  xy: 1256, 9
+  size: 84, 99
+  orig: 84, 99
+  offset: 0, 0
+  index: -1
+chest_04
+  rotate: true
+  xy: 680, 2
+  size: 34, 66
+  orig: 34, 66
+  offset: 0, 0
+  index: -1
+chest_05
+  rotate: false
+  xy: 885, 53
+  size: 79, 96
+  orig: 79, 96
+  offset: 0, 0
+  index: -1
+chest_06
+  rotate: false
+  xy: 880, 3
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+chest_07
+  rotate: false
+  xy: 919, 14
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+chest_08
+  rotate: true
+  xy: 983, 221
+  size: 19, 59
+  orig: 19, 59
+  offset: 0, 0
+  index: -1
+chest_09
+  rotate: true
+  xy: 652, 38
+  size: 166, 115
+  orig: 166, 115
+  offset: 0, 0
+  index: -1
+chibangyou
+  rotate: false
+  xy: 2, 191
+  size: 133, 329
+  orig: 133, 329
+  offset: 0, 0
+  index: -1
+chibangyoushan
+  rotate: false
+  xy: 643, 206
+  size: 133, 314
+  orig: 133, 329
+  offset: 0, 2
+  index: -1
+chibangzuo
+  rotate: true
+  xy: 2, 56
+  size: 133, 328
+  orig: 133, 328
+  offset: 0, 0
+  index: -1
+chibangzuoshan
+  rotate: false
+  xy: 508, 204
+  size: 133, 316
+  orig: 133, 328
+  offset: 0, 3
+  index: -1
+ci_01
+  rotate: true
+  xy: 254, 194
+  size: 326, 115
+  orig: 331, 115
+  offset: 2, 0
+  index: -1
+ci_02
+  rotate: true
+  xy: 137, 192
+  size: 328, 115
+  orig: 331, 115
+  offset: 2, 0
+  index: -1
+ci_03
+  rotate: false
+  xy: 332, 111
+  size: 318, 81
+  orig: 331, 115
+  offset: 12, 14
+  index: -1
+ci_04
+  rotate: true
+  xy: 371, 202
+  size: 318, 71
+  orig: 331, 115
+  offset: 12, 16
+  index: -1
+ci_05
+  rotate: true
+  xy: 444, 203
+  size: 317, 62
+  orig: 331, 115
+  offset: 14, 17
+  index: -1
+ci_06
+  rotate: false
+  xy: 2, 2
+  size: 317, 52
+  orig: 331, 115
+  offset: 14, 21
+  index: -1
+hair_01
+  rotate: false
+  xy: 807, 7
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: false
+  xy: 599, 39
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: true
+  xy: 769, 3
+  size: 48, 36
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+hair_04
+  rotate: false
+  xy: 1044, 14
+  size: 210, 241
+  orig: 210, 241
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 332, 2
+  size: 132, 107
+  orig: 132, 107
+  offset: 0, 0
+  index: -1
+head_01
+  rotate: false
+  xy: 1312, 366
+  size: 45, 154
+  orig: 45, 154
+  offset: 0, 0
+  index: -1
+head_02
+  rotate: false
+  xy: 1312, 229
+  size: 45, 135
+  orig: 45, 135
+  offset: 0, 0
+  index: -1
+hero_zhuzai_luoli
+  rotate: true
+  xy: 841, 2
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+l_calf
+  rotate: true
+  xy: 599, 10
+  size: 26, 79
+  orig: 26, 79
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: true
+  xy: 994, 90
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+l_foot
+  rotate: false
+  xy: 636, 61
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 636, 47
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: true
+  xy: 966, 122
+  size: 27, 74
+  orig: 27, 74
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: true
+  xy: 599, 82
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1
+qi
+  rotate: true
+  xy: 778, 242
+  size: 278, 264
+  orig: 278, 264
+  offset: 0, 0
+  index: -1
+r_calf
+  rotate: true
+  xy: 983, 179
+  size: 40, 59
+  orig: 40, 59
+  offset: 0, 0
+  index: -1
+r_elbow
+  rotate: false
+  xy: 958, 15
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: false
+  xy: 748, 8
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 1256, 230
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: true
+  xy: 778, 209
+  size: 31, 80
+  orig: 31, 80
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: true
+  xy: 841, 42
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 466, 4
+  size: 105, 131
+  orig: 105, 131
+  offset: 0, 0
+  index: -1
+weapon_01
+  rotate: false
+  xy: 769, 76
+  size: 114, 128
+  orig: 114, 128
+  offset: 0, 0
+  index: -1
+weapon_02
+  rotate: true
+  xy: 1044, 257
+  size: 263, 266
+  orig: 263, 266
+  offset: 0, 0
+  index: -1

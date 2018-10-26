@@ -1,0 +1,195 @@
+
+ui_hero_xiaonianshou.png
+size: 572,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: true
+  xy: 412, 31
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+chest_02
+  rotate: true
+  xy: 328, 86
+  size: 69, 44
+  orig: 69, 44
+  offset: 0, 0
+  index: -1
+erduo
+  rotate: false
+  xy: 535, 4
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 374, 92
+  size: 63, 26
+  orig: 63, 26
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: true
+  xy: 354, 17
+  size: 67, 56
+  orig: 67, 56
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: false
+  xy: 464, 96
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: true
+  xy: 402, 92
+  size: 63, 60
+  orig: 63, 60
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 172, 45
+  size: 110, 100
+  orig: 110, 100
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: true
+  xy: 518, 42
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: true
+  xy: 481, 3
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: false
+  xy: 522, 80
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1
+hudie
+  rotate: false
+  xy: 172, 8
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+huope
+  rotate: true
+  xy: 274, 17
+  size: 55, 78
+  orig: 55, 78
+  offset: 0, 0
+  index: -1
+l_calf
+  rotate: false
+  xy: 481, 66
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+l_calf_01
+  rotate: false
+  xy: 412, 6
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+l_foot
+  rotate: true
+  xy: 470, 34
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+l_foot_01
+  rotate: false
+  xy: 546, 45
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: false
+  xy: 447, 2
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+l_leg_01
+  rotate: false
+  xy: 234, 3
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+lingdang
+  rotate: true
+  xy: 488, 35
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+r_calf
+  rotate: false
+  xy: 507, 4
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+r_calf_01
+  rotate: true
+  xy: 546, 24
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: false
+  xy: 535, 62
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+r_foot_01
+  rotate: false
+  xy: 514, 66
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: true
+  xy: 522, 120
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 274, 74
+  size: 52, 81
+  orig: 52, 83
+  offset: 0, 0
+  index: -1
+xiaoniansou
+  rotate: false
+  xy: 2, 3
+  size: 168, 152
+  orig: 168, 152
+  offset: 0, 0
+  index: -1

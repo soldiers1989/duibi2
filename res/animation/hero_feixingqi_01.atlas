@@ -1,0 +1,69 @@
+
+hero_feixingqi_01.png
+size: 130,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: true
+  xy: 2, 209
+  size: 71, 126
+  orig: 72, 126
+  offset: 1, 0
+  index: -1
+chest_01
+  rotate: true
+  xy: 2, 15
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+hip
+  rotate: true
+  xy: 52, 25
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+l_cibang
+  rotate: false
+  xy: 2, 127
+  size: 88, 80
+  orig: 88, 80
+  offset: 0, 0
+  index: -1
+l_weiba
+  rotate: false
+  xy: 92, 42
+  size: 27, 81
+  orig: 27, 82
+  offset: 0, 0
+  index: -1
+l_weiba_01
+  rotate: true
+  xy: 89, 19
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+r_cibang
+  rotate: false
+  xy: 2, 46
+  size: 88, 79
+  orig: 88, 79
+  offset: 0, 0
+  index: -1
+r_weiba
+  rotate: false
+  xy: 92, 125
+  size: 27, 82
+  orig: 27, 82
+  offset: 0, 0
+  index: -1
+r_weiba_01
+  rotate: true
+  xy: 52, 2
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1

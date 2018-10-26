@@ -1,0 +1,62 @@
+
+effect_jubo_tianzhenhuang.png
+size: 1011,192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: true
+  xy: 2, 2
+  size: 188, 176
+  orig: 192, 181
+  offset: 0, 5
+  index: -1
+bao_02
+  rotate: true
+  xy: 180, 2
+  size: 188, 175
+  orig: 192, 181
+  offset: 0, 6
+  index: -1
+bao_03
+  rotate: true
+  xy: 707, 17
+  size: 173, 162
+  orig: 192, 181
+  offset: 12, 12
+  index: -1
+bao_04
+  rotate: true
+  xy: 531, 10
+  size: 180, 174
+  orig: 192, 181
+  offset: 9, 5
+  index: -1
+bao_05
+  rotate: false
+  xy: 357, 9
+  size: 172, 181
+  orig: 192, 181
+  offset: 20, 0
+  index: -1
+bao_06
+  rotate: false
+  xy: 871, 30
+  size: 75, 90
+  orig: 192, 181
+  offset: 62, 50
+  index: -1
+bao_07
+  rotate: false
+  xy: 948, 84
+  size: 55, 36
+  orig: 192, 181
+  offset: 72, 103
+  index: -1
+tou
+  rotate: true
+  xy: 871, 122
+  size: 68, 138
+  orig: 68, 138
+  offset: 0, 0
+  index: -1

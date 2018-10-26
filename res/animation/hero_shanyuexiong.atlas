@@ -1,0 +1,209 @@
+
+hero_shanyuexiong.png
+size: 499,543
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest01
+  rotate: false
+  xy: 2, 372
+  size: 155, 169
+  orig: 155, 169
+  offset: 0, 0
+  index: -1
+chest02
+  rotate: true
+  xy: 407, 311
+  size: 106, 50
+  orig: 106, 50
+  offset: 0, 0
+  index: -1
+head_01
+  rotate: true
+  xy: 2, 2
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+head_03
+  rotate: false
+  xy: 291, 394
+  size: 102, 147
+  orig: 102, 147
+  offset: 0, 0
+  index: -1
+head_04
+  rotate: false
+  xy: 98, 2
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 159, 392
+  size: 130, 149
+  orig: 130, 149
+  offset: 0, 0
+  index: -1
+l_foot
+  rotate: true
+  xy: 384, 58
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: true
+  xy: 109, 51
+  size: 84, 110
+  orig: 84, 112
+  offset: 0, 2
+  index: -1
+l_hand01
+  rotate: false
+  xy: 408, 227
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+l_knee
+  rotate: false
+  xy: 308, 55
+  size: 74, 72
+  orig: 74, 72
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: false
+  xy: 221, 63
+  size: 85, 78
+  orig: 85, 78
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: false
+  xy: 2, 216
+  size: 101, 154
+  orig: 101, 154
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: true
+  xy: 426, 78
+  size: 67, 56
+  orig: 67, 56
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 395, 419
+  size: 98, 122
+  orig: 98, 122
+  offset: 0, 0
+  index: -1
+r_hand01
+  rotate: false
+  xy: 318, 285
+  size: 87, 107
+  orig: 87, 107
+  offset: 0, 0
+  index: -1
+r_knee
+  rotate: false
+  xy: 426, 10
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: false
+  xy: 222, 178
+  size: 95, 101
+  orig: 95, 101
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: false
+  xy: 2, 75
+  size: 105, 139
+  orig: 105, 139
+  offset: 0, 0
+  index: -1
+r_shoulder04
+  rotate: true
+  xy: 218, 143
+  size: 33, 88
+  orig: 33, 88
+  offset: 0, 0
+  index: -1
+r_shoulder_01
+  rotate: false
+  xy: 109, 137
+  size: 107, 115
+  orig: 107, 115
+  offset: 0, 0
+  index: -1
+r_shoulder_02
+  rotate: false
+  xy: 459, 311
+  size: 38, 106
+  orig: 38, 106
+  offset: 0, 0
+  index: -1
+r_shoulder_03
+  rotate: false
+  xy: 408, 147
+  size: 80, 78
+  orig: 80, 78
+  offset: 0, 0
+  index: -1
+tx2
+  rotate: false
+  xy: 2, 30
+  size: 94, 43
+  orig: 94, 50
+  offset: 0, 6
+  index: -1
+tx3_1
+  rotate: false
+  xy: 221, 7
+  size: 66, 54
+  orig: 66, 54
+  offset: 0, 0
+  index: -1
+tx3_2
+  rotate: false
+  xy: 319, 129
+  size: 78, 63
+  orig: 78, 63
+  offset: 0, 0
+  index: -1
+tx3_3
+  rotate: false
+  xy: 289, 10
+  size: 58, 43
+  orig: 58, 43
+  offset: 0, 0
+  index: -1
+tx4_1
+  rotate: true
+  xy: 319, 194
+  size: 89, 87
+  orig: 89, 87
+  offset: 0, 0
+  index: -1
+tx4_2
+  rotate: true
+  xy: 222, 281
+  size: 109, 94
+  orig: 109, 94
+  offset: 0, 0
+  index: -1
+tx4_3
+  rotate: true
+  xy: 105, 254
+  size: 116, 115
+  orig: 116, 115
+  offset: 0, 0
+  index: -1

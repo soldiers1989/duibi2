@@ -1,0 +1,97 @@
+
+effect_wangxie_youminghuangzi.png
+size: 1192,547
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: false
+  xy: 958, 2
+  size: 95, 64
+  orig: 190, 326
+  offset: 42, 143
+  index: -1
+bao_02
+  rotate: true
+  xy: 820, 49
+  size: 132, 136
+  orig: 190, 326
+  offset: 12, 78
+  index: -1
+bao_03
+  rotate: true
+  xy: 961, 68
+  size: 158, 229
+  orig: 190, 326
+  offset: 14, 24
+  index: -1
+bao_04
+  rotate: true
+  xy: 2, 187
+  size: 169, 291
+  orig: 190, 326
+  offset: 12, 21
+  index: -1
+bao_05
+  rotate: true
+  xy: 2, 13
+  size: 172, 290
+  orig: 190, 326
+  offset: 12, 21
+  index: -1
+bao_06
+  rotate: true
+  xy: 294, 24
+  size: 159, 290
+  orig: 190, 326
+  offset: 20, 16
+  index: -1
+bao_07
+  rotate: true
+  xy: 649, 183
+  size: 177, 310
+  orig: 190, 326
+  offset: 9, 12
+  index: -1
+bao_08
+  rotate: false
+  xy: 982, 228
+  size: 178, 317
+  orig: 190, 326
+  offset: 10, 8
+  index: -1
+bao_09
+  rotate: true
+  xy: 330, 362
+  size: 183, 325
+  orig: 190, 326
+  offset: 6, 0
+  index: -1
+bao_10
+  rotate: true
+  xy: 657, 362
+  size: 183, 323
+  orig: 190, 326
+  offset: 5, 2
+  index: -1
+bao_11
+  rotate: true
+  xy: 2, 358
+  size: 187, 326
+  orig: 190, 326
+  offset: 3, 0
+  index: -1
+bao_12
+  rotate: true
+  xy: 330, 185
+  size: 175, 317
+  orig: 190, 326
+  offset: 1, 1
+  index: -1
+bao_13
+  rotate: true
+  xy: 586, 22
+  size: 159, 232
+  orig: 190, 326
+  offset: 0, 1
+  index: -1

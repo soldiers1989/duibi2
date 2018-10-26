@@ -1,0 +1,202 @@
+
+hero_feixingqi_03.png
+size: 723,213
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang
+  rotate: false
+  xy: 226, 28
+  size: 175, 183
+  orig: 175, 183
+  offset: 0, 0
+  index: -1
+feng
+  rotate: true
+  xy: 403, 133
+  size: 78, 77
+  orig: 92, 92
+  offset: 7, 8
+  index: -1
+huxu_01
+  rotate: false
+  xy: 162, 9
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+huxu_02
+  rotate: false
+  xy: 403, 6
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 62
+  size: 149, 222
+  orig: 154, 226
+  offset: 5, 4
+  index: -1
+xuanzhuan_01
+  rotate: false
+  xy: 339, 3
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+xuanzhuan_02
+  rotate: false
+  xy: 353, 3
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+yuqi_01_1
+  rotate: true
+  xy: 628, 156
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+yuqi_01_2
+  rotate: true
+  xy: 464, 13
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+yuqi_01_3
+  rotate: false
+  xy: 676, 156
+  size: 45, 55
+  orig: 46, 63
+  offset: 1, 0
+  index: -1
+yuqi_02_1
+  rotate: true
+  xy: 604, 40
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+yuqi_02_2
+  rotate: false
+  xy: 547, 152
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+yuqi_02_3
+  rotate: false
+  xy: 637, 99
+  size: 45, 55
+  orig: 46, 63
+  offset: 0, 0
+  index: -1
+yuqi_03
+  rotate: false
+  xy: 403, 59
+  size: 65, 72
+  orig: 65, 72
+  offset: 0, 0
+  index: -1
+yuqi_04
+  rotate: false
+  xy: 470, 59
+  size: 65, 72
+  orig: 65, 72
+  offset: 0, 0
+  index: -1
+yuqi_05
+  rotate: true
+  xy: 2, 3
+  size: 57, 91
+  orig: 62, 95
+  offset: 0, 4
+  index: -1
+yuqi_shang01
+  rotate: true
+  xy: 652, 52
+  size: 45, 54
+  orig: 46, 59
+  offset: 1, 5
+  index: -1
+yuqi_shang02
+  rotate: false
+  xy: 95, 11
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+yuqi_shang03
+  rotate: true
+  xy: 95, 2
+  size: 7, 37
+  orig: 7, 37
+  offset: 0, 0
+  index: -1
+yuqi_shang04
+  rotate: true
+  xy: 223, 2
+  size: 24, 56
+  orig: 24, 56
+  offset: 0, 0
+  index: -1
+yuqi_shang05
+  rotate: true
+  xy: 652, 5
+  size: 45, 54
+  orig: 46, 59
+  offset: 0, 5
+  index: -1
+yuqi_shang06
+  rotate: false
+  xy: 537, 14
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+yuqi_shang07
+  rotate: false
+  xy: 525, 20
+  size: 7, 37
+  orig: 7, 37
+  offset: 0, 0
+  index: -1
+yuqi_shang08
+  rotate: true
+  xy: 281, 2
+  size: 24, 56
+  orig: 24, 56
+  offset: 0, 0
+  index: -1
+yuqiying_01
+  rotate: false
+  xy: 482, 139
+  size: 63, 72
+  orig: 63, 72
+  offset: 0, 0
+  index: -1
+yuqiying_02
+  rotate: false
+  xy: 537, 65
+  size: 63, 72
+  orig: 63, 72
+  offset: 0, 0
+  index: -1
+yuqiying_03
+  rotate: false
+  xy: 593, 155
+  size: 33, 56
+  orig: 33, 56
+  offset: 0, 0
+  index: -1
+yuqiying_04
+  rotate: false
+  xy: 602, 97
+  size: 33, 56
+  orig: 33, 56
+  offset: 0, 0
+  index: -1

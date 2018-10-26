@@ -1,0 +1,118 @@
+
+effect_tongyinujiman.png
+size: 461,298
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di_1
+  rotate: false
+  xy: 128, 2
+  size: 121, 58
+  orig: 161, 76
+  offset: 22, 6
+  index: -1
+di_2
+  rotate: false
+  xy: 2, 3
+  size: 124, 57
+  orig: 161, 76
+  offset: 22, 6
+  index: -1
+di_3
+  rotate: false
+  xy: 293, 237
+  size: 130, 59
+  orig: 161, 76
+  offset: 17, 6
+  index: -1
+di_4
+  rotate: false
+  xy: 150, 236
+  size: 141, 60
+  orig: 161, 76
+  offset: 10, 6
+  index: -1
+di_5
+  rotate: false
+  xy: 2, 187
+  size: 144, 47
+  orig: 161, 76
+  offset: 9, 7
+  index: -1
+di_6
+  rotate: false
+  xy: 2, 236
+  size: 146, 60
+  orig: 161, 76
+  offset: 10, 4
+  index: -1
+di_7
+  rotate: false
+  xy: 2, 124
+  size: 133, 61
+  orig: 161, 76
+  offset: 16, 5
+  index: -1
+di_8
+  rotate: false
+  xy: 2, 62
+  size: 129, 60
+  orig: 161, 76
+  offset: 18, 6
+  index: -1
+huo_01
+  rotate: false
+  xy: 137, 79
+  size: 84, 74
+  orig: 95, 86
+  offset: 7, 5
+  index: -1
+huo_02
+  rotate: true
+  xy: 388, 5
+  size: 77, 71
+  orig: 95, 86
+  offset: 8, 6
+  index: -1
+huo_03
+  rotate: false
+  xy: 148, 155
+  size: 91, 79
+  orig: 95, 86
+  offset: 2, 0
+  index: -1
+huo_04
+  rotate: false
+  xy: 319, 163
+  size: 87, 72
+  orig: 95, 86
+  offset: 8, 2
+  index: -1
+huo_05
+  rotate: true
+  xy: 241, 146
+  size: 88, 76
+  orig: 95, 86
+  offset: 0, 2
+  index: -1
+huo_06
+  rotate: false
+  xy: 308, 12
+  size: 78, 70
+  orig: 95, 86
+  offset: 9, 2
+  index: -1
+huo_07
+  rotate: false
+  xy: 223, 72
+  size: 83, 72
+  orig: 95, 86
+  offset: 8, 3
+  index: -1
+huo_08
+  rotate: false
+  xy: 319, 84
+  size: 81, 77
+  orig: 95, 86
+  offset: 8, 3
+  index: -1

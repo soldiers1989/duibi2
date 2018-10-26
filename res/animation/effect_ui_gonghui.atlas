@@ -1,0 +1,48 @@
+
+effect_ui_gonghui.png
+size: 122,135
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guanli_di
+  rotate: true
+  xy: 2, 57
+  size: 76, 94
+  orig: 76, 94
+  offset: 0, 0
+  index: -1
+guanli_guang
+  rotate: true
+  xy: 79, 2
+  size: 53, 36
+  orig: 53, 36
+  offset: 0, 0
+  index: -1
+jianzao_guang
+  rotate: true
+  xy: 98, 84
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+shangdian_di
+  rotate: false
+  xy: 2, 2
+  size: 75, 53
+  orig: 75, 53
+  offset: 0, 0
+  index: -1
+shangdian_guang
+  rotate: true
+  xy: 98, 100
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 98, 68
+  size: 14, 14
+  orig: 15, 15
+  offset: 1, 0
+  index: -1

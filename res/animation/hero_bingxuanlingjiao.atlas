@@ -1,0 +1,167 @@
+
+hero_bingxuanlingjiao.png
+size: 495,526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest_01
+  rotate: false
+  xy: 410, 16
+  size: 66, 92
+  orig: 66, 92
+  offset: 0, 0
+  index: -1
+chest_02
+  rotate: false
+  xy: 2, 2
+  size: 120, 169
+  orig: 120, 169
+  offset: 0, 0
+  index: -1
+chest_03
+  rotate: false
+  xy: 2, 388
+  size: 243, 136
+  orig: 243, 136
+  offset: 0, 0
+  index: -1
+chest_04
+  rotate: false
+  xy: 333, 208
+  size: 95, 106
+  orig: 95, 106
+  offset: 0, 0
+  index: -1
+chest_05
+  rotate: false
+  xy: 247, 409
+  size: 188, 115
+  orig: 188, 115
+  offset: 0, 0
+  index: -1
+chest_06
+  rotate: true
+  xy: 124, 33
+  size: 138, 65
+  orig: 138, 65
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 168, 177
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+haed01
+  rotate: false
+  xy: 383, 359
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+haed02
+  rotate: true
+  xy: 191, 62
+  size: 137, 112
+  orig: 140, 120
+  offset: 0, 8
+  index: -1
+l_wing_01
+  rotate: false
+  xy: 168, 201
+  size: 73, 185
+  orig: 73, 185
+  offset: 0, 0
+  index: -1
+r_wing_01
+  rotate: false
+  xy: 2, 173
+  size: 164, 213
+  orig: 164, 213
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 247, 316
+  size: 91, 134
+  orig: 91, 134
+  offset: 0, 0
+  index: -1
+tx1_1
+  rotate: false
+  xy: 435, 316
+  size: 41, 43
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+tx1_2
+  rotate: true
+  xy: 383, 316
+  size: 41, 50
+  orig: 43, 51
+  offset: 0, 0
+  index: -1
+tx1_3
+  rotate: false
+  xy: 437, 409
+  size: 41, 47
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+tx1_4
+  rotate: false
+  xy: 435, 361
+  size: 43, 46
+  orig: 43, 48
+  offset: 0, 1
+  index: -1
+tx1_5
+  rotate: false
+  xy: 430, 283
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+tx4_1
+  rotate: false
+  xy: 305, 28
+  size: 103, 65
+  orig: 103, 65
+  offset: 0, 0
+  index: -1
+tx4_2
+  rotate: true
+  xy: 305, 95
+  size: 104, 94
+  orig: 104, 94
+  offset: 0, 0
+  index: -1
+tx4_3
+  rotate: false
+  xy: 243, 201
+  size: 88, 113
+  orig: 88, 113
+  offset: 0, 0
+  index: -1
+tx4_4
+  rotate: true
+  xy: 401, 110
+  size: 96, 92
+  orig: 96, 92
+  offset: 0, 0
+  index: -1
+tx4_5
+  rotate: true
+  xy: 437, 458
+  size: 66, 53
+  orig: 67, 53
+  offset: 1, 0
+  index: -1
+tx4_6
+  rotate: false
+  xy: 124, 6
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1

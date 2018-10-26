@@ -1,0 +1,90 @@
+
+effect_zhuzai_pugong_yuancheng_a.png
+size: 738,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_zhuzai_pugong_yuancheng_a_01
+  rotate: true
+  xy: 490, 13
+  size: 136, 125
+  orig: 143, 135
+  offset: 2, 3
+  index: -1
+effect_zhuzai_pugong_yuancheng_a_02
+  rotate: true
+  xy: 2, 2
+  size: 102, 92
+  orig: 143, 135
+  offset: 20, 18
+  index: -1
+effect_zhuzai_pugong_yuancheng_a_03
+  rotate: true
+  xy: 174, 4
+  size: 110, 100
+  orig: 143, 135
+  offset: 14, 12
+  index: -1
+effect_zhuzai_pugong_yuancheng_a_04
+  rotate: true
+  xy: 338, 13
+  size: 115, 112
+  orig: 143, 135
+  offset: 12, 10
+  index: -1
+effect_zhuzai_pugong_yuancheng_a_05
+  rotate: true
+  xy: 629, 162
+  size: 120, 107
+  orig: 143, 135
+  offset: 9, 8
+  index: -1
+effect_zhuzai_pugong_yuancheng_a_06
+  rotate: true
+  xy: 617, 26
+  size: 123, 110
+  orig: 143, 135
+  offset: 7, 7
+  index: -1
+effect_zhuzai_pugong_yuancheng_a_qiu
+  rotate: true
+  xy: 452, 95
+  size: 33, 36
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+xishou_01
+  rotate: false
+  xy: 2, 106
+  size: 170, 176
+  orig: 170, 176
+  offset: 0, 0
+  index: -1
+xishou_02
+  rotate: false
+  xy: 174, 116
+  size: 162, 166
+  orig: 170, 176
+  offset: 4, 4
+  index: -1
+xishou_03
+  rotate: false
+  xy: 338, 130
+  size: 150, 152
+  orig: 170, 176
+  offset: 10, 9
+  index: -1
+xishou_04
+  rotate: false
+  xy: 490, 151
+  size: 137, 131
+  orig: 170, 176
+  offset: 13, 11
+  index: -1
+xishou_05
+  rotate: false
+  xy: 96, 26
+  size: 71, 78
+  orig: 170, 176
+  offset: 48, 40
+  index: -1

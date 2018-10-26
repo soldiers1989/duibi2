@@ -1,0 +1,160 @@
+
+effcet_ui_renwuzhaomu_a.png
+size: 792,1019
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: true
+  xy: 485, 289
+  size: 212, 204
+  orig: 308, 295
+  offset: 47, 48
+  index: -1
+bao_02
+  rotate: false
+  xy: 260, 277
+  size: 223, 224
+  orig: 308, 295
+  offset: 43, 38
+  index: -1
+bao_03
+  rotate: false
+  xy: 2, 8
+  size: 235, 235
+  orig: 308, 295
+  offset: 37, 32
+  index: -1
+bao_04
+  rotate: false
+  xy: 520, 775
+  size: 243, 242
+  orig: 308, 295
+  offset: 33, 29
+  index: -1
+bao_05
+  rotate: false
+  xy: 2, 761
+  size: 257, 256
+  orig: 308, 295
+  offset: 26, 22
+  index: -1
+bao_06
+  rotate: false
+  xy: 2, 503
+  size: 257, 256
+  orig: 308, 295
+  offset: 26, 22
+  index: -1
+bao_07
+  rotate: false
+  xy: 261, 761
+  size: 257, 256
+  orig: 308, 295
+  offset: 26, 22
+  index: -1
+bao_08
+  rotate: false
+  xy: 2, 245
+  size: 256, 256
+  orig: 308, 295
+  offset: 26, 22
+  index: -1
+bao_09
+  rotate: false
+  xy: 261, 503
+  size: 256, 256
+  orig: 308, 295
+  offset: 26, 22
+  index: -1
+quan
+  rotate: false
+  xy: 663, 6
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+xishou_01
+  rotate: false
+  xy: 739, 41
+  size: 38, 39
+  orig: 215, 157
+  offset: 91, 53
+  index: -1
+xishou_02
+  rotate: false
+  xy: 722, 691
+  size: 38, 39
+  orig: 215, 157
+  offset: 91, 56
+  index: -1
+xishou_03
+  rotate: false
+  xy: 722, 732
+  size: 39, 41
+  orig: 215, 157
+  offset: 91, 57
+  index: -1
+xishou_04
+  rotate: false
+  xy: 260, 142
+  size: 200, 133
+  orig: 215, 157
+  offset: 9, 10
+  index: -1
+xishou_05
+  rotate: false
+  xy: 239, 2
+  size: 200, 138
+  orig: 215, 157
+  offset: 9, 7
+  index: -1
+xishou_06
+  rotate: false
+  xy: 520, 637
+  size: 200, 136
+  orig: 215, 157
+  offset: 8, 10
+  index: -1
+xishou_07
+  rotate: false
+  xy: 485, 150
+  size: 199, 137
+  orig: 215, 157
+  offset: 9, 10
+  index: -1
+xishou_08
+  rotate: false
+  xy: 462, 11
+  size: 199, 137
+  orig: 215, 157
+  offset: 9, 10
+  index: -1
+xishou_09
+  rotate: false
+  xy: 519, 504
+  size: 199, 131
+  orig: 215, 157
+  offset: 9, 16
+  index: -1
+xishou_10
+  rotate: true
+  xy: 691, 310
+  size: 192, 99
+  orig: 215, 157
+  offset: 17, 48
+  index: -1
+xishou_11
+  rotate: true
+  xy: 691, 181
+  size: 127, 99
+  orig: 215, 157
+  offset: 59, 48
+  index: -1
+xishou_12
+  rotate: true
+  xy: 686, 82
+  size: 97, 99
+  orig: 215, 157
+  offset: 62, 48
+  index: -1

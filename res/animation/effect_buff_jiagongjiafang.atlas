@@ -1,0 +1,62 @@
+
+effect_buff_jiagongjiafang.png
+size: 748,572
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_buff_jia_01
+  rotate: true
+  xy: 507, 106
+  size: 238, 239
+  orig: 238, 333
+  offset: 0, 94
+  index: -1
+effect_buff_jia_02
+  rotate: false
+  xy: 299, 2
+  size: 206, 275
+  orig: 238, 333
+  offset: 16, 42
+  index: -1
+effect_buff_jia_03
+  rotate: false
+  xy: 2, 268
+  size: 216, 302
+  orig: 238, 333
+  offset: 11, 15
+  index: -1
+effect_buff_jia_04
+  rotate: true
+  xy: 2, 42
+  size: 224, 295
+  orig: 238, 333
+  offset: 7, 6
+  index: -1
+effect_buff_jia_05
+  rotate: false
+  xy: 220, 279
+  size: 224, 291
+  orig: 238, 333
+  offset: 7, 6
+  index: -1
+effect_buff_jia_06
+  rotate: true
+  xy: 446, 346
+  size: 224, 289
+  orig: 238, 333
+  offset: 7, 7
+  index: -1
+effect_buff_jia_dun
+  rotate: true
+  xy: 507, 7
+  size: 97, 121
+  orig: 97, 121
+  offset: 0, 0
+  index: -1
+effect_buff_jia_jian
+  rotate: true
+  xy: 630, 3
+  size: 101, 94
+  orig: 101, 94
+  offset: 0, 0
+  index: -1

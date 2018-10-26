@@ -1,0 +1,181 @@
+
+effect_wangxie_xitianzhanhuang_nuji.png
+size: 896,1057
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuangshoujian_nuji_xuchu_bao_01
+  rotate: true
+  xy: 778, 193
+  size: 137, 110
+  orig: 171, 161
+  offset: 14, 27
+  index: -1
+shuangshoujian_nuji_xuchu_bao_02
+  rotate: false
+  xy: 635, 214
+  size: 141, 116
+  orig: 171, 161
+  offset: 10, 33
+  index: -1
+shuangshoujian_nuji_xuchu_bao_03
+  rotate: false
+  xy: 600, 98
+  size: 135, 114
+  orig: 171, 161
+  offset: 14, 35
+  index: -1
+shuangshoujian_nuji_xuchu_bao_04
+  rotate: false
+  xy: 737, 84
+  size: 125, 107
+  orig: 171, 161
+  offset: 16, 36
+  index: -1
+shuangshoujian_nuji_xuchu_gongji_a_01
+  rotate: false
+  xy: 454, 2
+  size: 113, 88
+  orig: 222, 194
+  offset: 93, 22
+  index: -1
+shuangshoujian_nuji_xuchu_gongji_a_02
+  rotate: false
+  xy: 685, 459
+  size: 169, 128
+  orig: 222, 194
+  offset: 36, 22
+  index: -1
+shuangshoujian_nuji_xuchu_gongji_a_03
+  rotate: true
+  xy: 744, 874
+  size: 181, 148
+  orig: 222, 194
+  offset: 23, 23
+  index: -1
+shuangshoujian_nuji_xuchu_gongji_a_04
+  rotate: false
+  xy: 689, 589
+  size: 180, 147
+  orig: 222, 194
+  offset: 23, 24
+  index: -1
+shuangshoujian_nuji_xuchu_gongji_b_01
+  rotate: false
+  xy: 323, 92
+  size: 214, 66
+  orig: 338, 127
+  offset: 109, 28
+  index: -1
+shuangshoujian_nuji_xuchu_gongji_b_02
+  rotate: false
+  xy: 327, 160
+  size: 271, 97
+  orig: 338, 127
+  offset: 52, 18
+  index: -1
+shuangshoujian_nuji_xuchu_gongji_b_03
+  rotate: false
+  xy: 327, 355
+  size: 308, 96
+  orig: 338, 127
+  offset: 14, 19
+  index: -1
+shuangshoujian_nuji_xuchu_gongji_b_04
+  rotate: false
+  xy: 327, 259
+  size: 306, 94
+  orig: 338, 127
+  offset: 15, 20
+  index: -1
+shuangshoujian_nuji_xuchu_gongji_c_01
+  rotate: false
+  xy: 323, 2
+  size: 129, 88
+  orig: 199, 158
+  offset: 61, 22
+  index: -1
+shuangshoujian_nuji_xuchu_gongji_c_02
+  rotate: false
+  xy: 685, 332
+  size: 169, 125
+  orig: 199, 158
+  offset: 21, 23
+  index: -1
+shuangshoujian_nuji_xuchu_gongji_c_03
+  rotate: false
+  xy: 713, 738
+  size: 181, 134
+  orig: 199, 158
+  offset: 13, 19
+  index: -1
+shuangshoujian_nuji_xuchu_gongji_d_01
+  rotate: false
+  xy: 374, 636
+  size: 313, 104
+  orig: 428, 260
+  offset: 90, 29
+  index: -1
+shuangshoujian_nuji_xuchu_gongji_d_02
+  rotate: false
+  xy: 393, 931
+  size: 349, 124
+  orig: 428, 260
+  offset: 54, 29
+  index: -1
+shuangshoujian_nuji_xuchu_gongji_d_03
+  rotate: false
+  xy: 2, 622
+  size: 370, 216
+  orig: 428, 260
+  offset: 32, 29
+  index: -1
+shuangshoujian_nuji_xuchu_gongji_d_04
+  rotate: false
+  xy: 2, 840
+  size: 389, 215
+  orig: 428, 260
+  offset: 12, 30
+  index: -1
+shuangshoujian_nuji_xuchu_gongji_e_01
+  rotate: false
+  xy: 374, 453
+  size: 309, 181
+  orig: 355, 224
+  offset: 28, 14
+  index: -1
+shuangshoujian_nuji_xuchu_gongji_e_02
+  rotate: false
+  xy: 2, 17
+  size: 319, 187
+  orig: 355, 224
+  offset: 18, 13
+  index: -1
+shuangshoujian_nuji_xuchu_gongji_e_03
+  rotate: false
+  xy: 393, 742
+  size: 318, 187
+  orig: 355, 224
+  offset: 18, 13
+  index: -1
+shuangshoujian_nuji_xuchu_gongji_f_01
+  rotate: false
+  xy: 2, 483
+  size: 324, 137
+  orig: 358, 153
+  offset: 20, 8
+  index: -1
+shuangshoujian_nuji_xuchu_gongji_f_02
+  rotate: false
+  xy: 2, 344
+  size: 323, 137
+  orig: 358, 153
+  offset: 20, 8
+  index: -1
+shuangshoujian_nuji_xuchu_gongji_f_03
+  rotate: false
+  xy: 2, 206
+  size: 323, 136
+  orig: 358, 153
+  offset: 20, 8
+  index: -1

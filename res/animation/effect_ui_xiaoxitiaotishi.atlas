@@ -1,0 +1,27 @@
+
+effect_ui_xiaoxitiaotishi.png
+size: 183,86
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yindao_01
+  rotate: false
+  xy: 2, 30
+  size: 152, 26
+  orig: 189, 26
+  offset: 30, 0
+  index: -1
+yindao_02
+  rotate: false
+  xy: 2, 58
+  size: 179, 26
+  orig: 189, 26
+  offset: 10, 0
+  index: -1
+yindao_03
+  rotate: false
+  xy: 2, 2
+  size: 150, 26
+  orig: 189, 26
+  offset: 0, 0
+  index: -1

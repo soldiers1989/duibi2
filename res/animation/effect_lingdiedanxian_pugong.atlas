@@ -1,0 +1,181 @@
+
+effect_lingdiedanxian_pugong.png
+size: 621,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baodi0001
+  rotate: true
+  xy: 2, 5
+  size: 44, 79
+  orig: 150, 169
+  offset: 51, 4
+  index: -1
+baodi0003
+  rotate: false
+  xy: 478, 166
+  size: 54, 92
+  orig: 150, 169
+  offset: 46, 5
+  index: -1
+baodi0005
+  rotate: true
+  xy: 487, 332
+  size: 62, 131
+  orig: 150, 169
+  offset: 42, 4
+  index: -1
+baodi0007
+  rotate: false
+  xy: 406, 125
+  size: 70, 131
+  orig: 150, 169
+  offset: 40, 6
+  index: -1
+baodi0009
+  rotate: false
+  xy: 273, 235
+  size: 70, 133
+  orig: 150, 169
+  offset: 40, 6
+  index: -1
+baodi0011
+  rotate: true
+  xy: 272, 3
+  size: 70, 136
+  orig: 150, 169
+  offset: 39, 6
+  index: -1
+baodi0013
+  rotate: false
+  xy: 298, 393
+  size: 68, 133
+  orig: 150, 169
+  offset: 40, 8
+  index: -1
+baodi0015
+  rotate: false
+  xy: 345, 258
+  size: 69, 133
+  orig: 150, 169
+  offset: 39, 9
+  index: -1
+baodi0017
+  rotate: false
+  xy: 416, 260
+  size: 69, 131
+  orig: 150, 169
+  offset: 39, 10
+  index: -1
+baodi0019
+  rotate: true
+  xy: 142, 3
+  size: 60, 128
+  orig: 150, 169
+  offset: 39, 12
+  index: -1
+baodi0021
+  rotate: false
+  xy: 410, 2
+  size: 34, 121
+  orig: 150, 169
+  offset: 60, 15
+  index: -1
+baoliang0001
+  rotate: false
+  xy: 534, 241
+  size: 84, 89
+  orig: 150, 169
+  offset: 36, 3
+  index: -1
+baoliang0003
+  rotate: false
+  xy: 368, 393
+  size: 117, 133
+  orig: 150, 169
+  offset: 18, 3
+  index: -1
+baoliang0005
+  rotate: false
+  xy: 142, 65
+  size: 128, 147
+  orig: 150, 169
+  offset: 11, 3
+  index: -1
+baoliang0007
+  rotate: false
+  xy: 140, 214
+  size: 131, 154
+  orig: 150, 169
+  offset: 10, 3
+  index: -1
+baoliang0009
+  rotate: false
+  xy: 2, 368
+  size: 136, 158
+  orig: 150, 169
+  offset: 8, 3
+  index: -1
+baoliang0011
+  rotate: false
+  xy: 2, 209
+  size: 136, 157
+  orig: 150, 169
+  offset: 8, 4
+  index: -1
+baoliang0013
+  rotate: false
+  xy: 2, 51
+  size: 138, 156
+  orig: 150, 169
+  offset: 7, 5
+  index: -1
+baoliang0015
+  rotate: true
+  xy: 272, 75
+  size: 137, 132
+  orig: 150, 169
+  offset: 8, 6
+  index: -1
+baoliang0017
+  rotate: true
+  xy: 487, 396
+  size: 130, 132
+  orig: 150, 169
+  offset: 9, 6
+  index: -1
+fz
+  rotate: false
+  xy: 140, 370
+  size: 156, 156
+  orig: 167, 170
+  offset: 6, 7
+  index: -1
+guangdian
+  rotate: false
+  xy: 298, 370
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+guangzhu
+  rotate: false
+  xy: 446, 2
+  size: 27, 121
+  orig: 29, 131
+  offset: 2, 3
+  index: -1
+san0001
+  rotate: false
+  xy: 534, 157
+  size: 83, 82
+  orig: 90, 90
+  offset: 4, 3
+  index: -1
+sanyisan
+  rotate: false
+  xy: 475, 3
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+effect_ui_bosschuxian.png
+size: 1114,540
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xian_01
+  rotate: false
+  xy: 1051, 450
+  size: 61, 88
+  orig: 192, 288
+  offset: 69, 189
+  index: -1
+xian_02
+  rotate: true
+  xy: 2, 4
+  size: 87, 244
+  orig: 192, 288
+  offset: 56, 37
+  index: -1
+xian_03
+  rotate: false
+  xy: 707, 9
+  size: 115, 257
+  orig: 192, 288
+  offset: 40, 31
+  index: -1
+xian_04
+  rotate: false
+  xy: 2, 262
+  size: 180, 276
+  orig: 192, 288
+  offset: 6, 12
+  index: -1
+xian_05
+  rotate: false
+  xy: 530, 266
+  size: 173, 272
+  orig: 192, 288
+  offset: 13, 16
+  index: -1
+xian_06
+  rotate: false
+  xy: 876, 269
+  size: 173, 269
+  orig: 192, 288
+  offset: 13, 19
+  index: -1
+xian_07
+  rotate: true
+  xy: 2, 93
+  size: 167, 269
+  orig: 192, 288
+  offset: 13, 17
+  index: -1
+xian_08
+  rotate: true
+  xy: 273, 92
+  size: 169, 268
+  orig: 192, 288
+  offset: 7, 15
+  index: -1
+xian_09
+  rotate: false
+  xy: 184, 263
+  size: 172, 275
+  orig: 192, 288
+  offset: 7, 12
+  index: -1
+xian_10
+  rotate: false
+  xy: 358, 264
+  size: 170, 274
+  orig: 192, 288
+  offset: 8, 14
+  index: -1
+xian_11
+  rotate: false
+  xy: 705, 268
+  size: 169, 270
+  orig: 192, 288
+  offset: 11, 16
+  index: -1
+xian_12
+  rotate: false
+  xy: 543, 2
+  size: 162, 262
+  orig: 192, 288
+  offset: 15, 16
+  index: -1
+xian_13
+  rotate: false
+  xy: 824, 42
+  size: 141, 224
+  orig: 192, 288
+  offset: 14, 15
+  index: -1
+xian_14
+  rotate: false
+  xy: 967, 79
+  size: 141, 188
+  orig: 192, 288
+  offset: 11, 15
+  index: -1
+xian_15
+  rotate: false
+  xy: 248, 17
+  size: 134, 73
+  orig: 192, 288
+  offset: 17, 38
+  index: -1
+xian_16
+  rotate: false
+  xy: 384, 51
+  size: 75, 39
+  orig: 192, 288
+  offset: 62, 35
+  index: -1

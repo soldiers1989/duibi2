@@ -1,0 +1,279 @@
+
+hero_huolingyuanwang.png
+size: 1459,192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: true
+  xy: 2, 4
+  size: 186, 203
+  orig: 186, 203
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 473, 20
+  size: 42, 18
+  orig: 42, 18
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 858, 81
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+head_01
+  rotate: true
+  xy: 1381, 45
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+head_02
+  rotate: true
+  xy: 207, 8
+  size: 10, 53
+  orig: 10, 53
+  offset: 0, 0
+  index: -1
+head_03
+  rotate: true
+  xy: 1265, 6
+  size: 17, 53
+  orig: 17, 53
+  offset: 0, 0
+  index: -1
+head_04
+  rotate: false
+  xy: 275, 2
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
+head_05
+  rotate: true
+  xy: 1329, 3
+  size: 40, 57
+  orig: 40, 57
+  offset: 0, 0
+  index: -1
+head_06
+  rotate: true
+  xy: 1426, 148
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+l_ leg
+  rotate: false
+  xy: 1180, 106
+  size: 66, 84
+  orig: 66, 84
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: true
+  xy: 605, 12
+  size: 53, 70
+  orig: 53, 70
+  offset: 0, 0
+  index: -1
+l_foot
+  rotate: false
+  xy: 1248, 108
+  size: 63, 82
+  orig: 63, 82
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: true
+  xy: 963, 3
+  size: 76, 99
+  orig: 76, 99
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: true
+  xy: 858, 9
+  size: 70, 103
+  orig: 70, 103
+  offset: 0, 0
+  index: -1
+l_shoulder_01
+  rotate: false
+  xy: 1022, 98
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: -1
+l_shoulder_02
+  rotate: true
+  xy: 343, 11
+  size: 43, 128
+  orig: 43, 128
+  offset: 0, 0
+  index: -1
+l_shoulder_03
+  rotate: false
+  xy: 969, 96
+  size: 51, 94
+  orig: 51, 94
+  offset: 0, 0
+  index: -1
+r_ leg
+  rotate: false
+  xy: 1139, 12
+  size: 63, 87
+  orig: 63, 87
+  offset: 0, 0
+  index: -1
+r_elbow
+  rotate: false
+  xy: 677, 74
+  size: 82, 116
+  orig: 82, 116
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: true
+  xy: 789, 12
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 761, 74
+  size: 95, 116
+  orig: 95, 116
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: false
+  xy: 1265, 25
+  size: 62, 81
+  orig: 62, 81
+  offset: 0, 0
+  index: -1
+r_shoulder_01
+  rotate: true
+  xy: 576, 67
+  size: 123, 99
+  orig: 123, 99
+  offset: 0, 0
+  index: -1
+r_shoulder_02
+  rotate: false
+  xy: 408, 64
+  size: 93, 126
+  orig: 93, 126
+  offset: 0, 0
+  index: -1
+r_shoulder_03
+  rotate: false
+  xy: 343, 56
+  size: 63, 134
+  orig: 63, 134
+  offset: 0, 0
+  index: -1
+ribbno_01
+  rotate: false
+  xy: 1329, 45
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+ribbno_02
+  rotate: false
+  xy: 1428, 64
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ribbno_03
+  rotate: true
+  xy: 1381, 90
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1
+ribbno_04
+  rotate: true
+  xy: 1428, 39
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 503, 66
+  size: 71, 124
+  orig: 71, 124
+  offset: 0, 0
+  index: -1
+tx2
+  rotate: true
+  xy: 1313, 111
+  size: 79, 59
+  orig: 79, 61
+  offset: 0, 1
+  index: -1
+tx3_1
+  rotate: true
+  xy: 1204, 20
+  size: 84, 59
+  orig: 84, 59
+  offset: 0, 0
+  index: -1
+tx3_2
+  rotate: false
+  xy: 503, 2
+  size: 100, 62
+  orig: 100, 62
+  offset: 0, 0
+  index: -1
+tx3_3
+  rotate: false
+  xy: 677, 6
+  size: 110, 66
+  orig: 110, 66
+  offset: 0, 0
+  index: -1
+tx3_4
+  rotate: true
+  xy: 1109, 101
+  size: 89, 69
+  orig: 89, 69
+  offset: 0, 0
+  index: -1
+tx3_5
+  rotate: true
+  xy: 1064, 5
+  size: 91, 73
+  orig: 91, 73
+  offset: 0, 0
+  index: -1
+tx4_1
+  rotate: true
+  xy: 1374, 134
+  size: 56, 50
+  orig: 170, 66
+  offset: 63, 8
+  index: -1
+tx4_2
+  rotate: true
+  xy: 207, 20
+  size: 170, 66
+  orig: 170, 66
+  offset: 0, 0
+  index: -1
+tx4_3
+  rotate: true
+  xy: 275, 42
+  size: 148, 66
+  orig: 170, 66
+  offset: 17, 0
+  index: -1

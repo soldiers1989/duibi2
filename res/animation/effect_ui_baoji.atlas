@@ -1,0 +1,104 @@
+
+effect_ui_baoji.png
+size: 460,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoji
+  rotate: true
+  xy: 332, 15
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1
+baoji_01
+  rotate: false
+  xy: 187, 33
+  size: 72, 42
+  orig: 82, 44
+  offset: 5, 1
+  index: -1
+dian_01
+  rotate: false
+  xy: 261, 15
+  size: 69, 60
+  orig: 109, 86
+  offset: 20, 9
+  index: -1
+dian_02
+  rotate: false
+  xy: 98, 11
+  size: 87, 76
+  orig: 109, 86
+  offset: 12, 3
+  index: -1
+dian_03
+  rotate: false
+  xy: 2, 7
+  size: 94, 82
+  orig: 109, 86
+  offset: 9, 0
+  index: -1
+dian_04
+  rotate: false
+  xy: 2, 91
+  size: 99, 79
+  orig: 109, 86
+  offset: 5, 4
+  index: -1
+dian_05
+  rotate: true
+  xy: 376, 179
+  size: 101, 81
+  orig: 109, 86
+  offset: 4, 3
+  index: -1
+dian_06
+  rotate: true
+  xy: 376, 78
+  size: 99, 80
+  orig: 109, 86
+  offset: 6, 3
+  index: -1
+dian_07
+  rotate: false
+  xy: 130, 89
+  size: 100, 82
+  orig: 109, 86
+  offset: 6, 3
+  index: -1
+effect_wangxie_pugong_jinzhan_b_01
+  rotate: true
+  xy: 371, 2
+  size: 74, 87
+  orig: 108, 126
+  offset: 24, 13
+  index: -1
+effect_wangxie_pugong_jinzhan_b_02
+  rotate: false
+  xy: 257, 77
+  size: 112, 98
+  orig: 126, 108
+  offset: 5, 6
+  index: -1
+effect_wangxie_pugong_jinzhan_b_03
+  rotate: false
+  xy: 257, 177
+  size: 117, 103
+  orig: 126, 108
+  offset: 4, 3
+  index: -1
+effect_wangxie_pugong_jinzhan_b_04
+  rotate: false
+  xy: 130, 173
+  size: 125, 107
+  orig: 126, 108
+  offset: 1, 0
+  index: -1
+effect_wangxie_pugong_jinzhan_b_05
+  rotate: false
+  xy: 2, 172
+  size: 126, 108
+  orig: 126, 108
+  offset: 0, 0
+  index: -1

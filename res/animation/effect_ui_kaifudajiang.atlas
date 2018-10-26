@@ -1,0 +1,13 @@
+
+effect_ui_kaifudajiang.png
+size: 121,42
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuang
+  rotate: false
+  xy: 2, 2
+  size: 117, 38
+  orig: 117, 38
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,279 @@
+
+hero_guixiong.png
+size: 1142,255
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: true
+  xy: 879, 4
+  size: 65, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+chest_01
+  rotate: false
+  xy: 915, 87
+  size: 51, 78
+  orig: 51, 78
+  offset: 0, 0
+  index: -1
+chest_02
+  rotate: true
+  xy: 1030, 109
+  size: 21, 52
+  orig: 21, 52
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 952, 192
+  size: 61, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 606, 21
+  size: 108, 101
+  orig: 108, 101
+  offset: 0, 0
+  index: -1
+head_01
+  rotate: true
+  xy: 968, 130
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1
+head_02
+  rotate: true
+  xy: 1084, 123
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+head_03
+  rotate: true
+  xy: 968, 90
+  size: 17, 41
+  orig: 17, 41
+  offset: 0, 0
+  index: -1
+head_04
+  rotate: true
+  xy: 1070, 16
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+head_05
+  rotate: false
+  xy: 968, 109
+  size: 60, 19
+  orig: 60, 19
+  offset: 0, 0
+  index: -1
+head_06
+  rotate: true
+  xy: 476, 122
+  size: 131, 106
+  orig: 131, 106
+  offset: 0, 0
+  index: -1
+head_07
+  rotate: true
+  xy: 343, 3
+  size: 97, 132
+  orig: 97, 132
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: false
+  xy: 343, 102
+  size: 131, 151
+  orig: 131, 151
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: true
+  xy: 477, 4
+  size: 41, 103
+  orig: 41, 103
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: false
+  xy: 584, 131
+  size: 95, 122
+  orig: 95, 122
+  offset: 0, 0
+  index: -1
+l_ foot
+  rotate: false
+  xy: 1110, 93
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+l_ leg
+  rotate: false
+  xy: 709, 41
+  size: 68, 103
+  orig: 68, 103
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: false
+  xy: 1061, 146
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: true
+  xy: 986, 193
+  size: 60, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+l_hand01
+  rotate: true
+  xy: 1081, 200
+  size: 53, 36
+  orig: 53, 36
+  offset: 0, 0
+  index: -1
+l_knee
+  rotate: true
+  xy: 795, 2
+  size: 55, 82
+  orig: 55, 82
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: false
+  xy: 1001, 132
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+longweapon
+  rotate: false
+  xy: 2, 5
+  size: 339, 248
+  orig: 339, 248
+  offset: 0, 0
+  index: -1
+r_ foot
+  rotate: true
+  xy: 1046, 199
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+r_ leg
+  rotate: false
+  xy: 681, 146
+  size: 71, 107
+  orig: 71, 107
+  offset: 0, 0
+  index: -1
+r_elbow
+  rotate: false
+  xy: 1015, 53
+  size: 46, 54
+  orig: 46, 54
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 1063, 58
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+r_knee
+  rotate: false
+  xy: 962, 19
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: true
+  xy: 709, 2
+  size: 37, 84
+  orig: 37, 84
+  offset: 0, 0
+  index: -1
+r_shoulder_01
+  rotate: false
+  xy: 582, 28
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+r_shoulder_02
+  rotate: false
+  xy: 882, 167
+  size: 68, 86
+  orig: 68, 86
+  offset: 0, 0
+  index: -1
+ribbno
+  rotate: false
+  xy: 1015, 11
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+ribbno_01
+  rotate: true
+  xy: 582, 9
+  size: 10, 63
+  orig: 10, 63
+  offset: 0, 0
+  index: -1
+ribbno_02
+  rotate: true
+  xy: 962, 5
+  size: 12, 48
+  orig: 12, 48
+  offset: 0, 0
+  index: -1
+tx2
+  rotate: false
+  xy: 477, 47
+  size: 127, 73
+  orig: 129, 80
+  offset: 0, 0
+  index: -1
+tx3_1
+  rotate: true
+  xy: 847, 71
+  size: 89, 66
+  orig: 99, 75
+  offset: 1, 6
+  index: -1
+tx3_2
+  rotate: true
+  xy: 754, 155
+  size: 98, 66
+  orig: 99, 75
+  offset: 0, 5
+  index: -1
+tx3_3
+  rotate: true
+  xy: 779, 59
+  size: 94, 66
+  orig: 99, 75
+  offset: 4, 6
+  index: -1
+tx3_4
+  rotate: true
+  xy: 822, 162
+  size: 91, 58
+  orig: 99, 75
+  offset: 0, 17
+  index: -1

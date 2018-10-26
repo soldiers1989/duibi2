@@ -1,0 +1,62 @@
+
+effefct_zhuzai_qingyanjing_nuji.png
+size: 907,245
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+an
+  rotate: true
+  xy: 665, 151
+  size: 92, 146
+  orig: 92, 146
+  offset: 0, 0
+  index: -1
+bao_01
+  rotate: false
+  xy: 781, 2
+  size: 98, 93
+  orig: 235, 239
+  offset: 70, 13
+  index: -1
+bao_02
+  rotate: true
+  xy: 665, 43
+  size: 106, 114
+  orig: 235, 239
+  offset: 64, 17
+  index: -1
+bao_03
+  rotate: false
+  xy: 498, 63
+  size: 165, 180
+  orig: 235, 239
+  offset: 35, 14
+  index: -1
+bao_04
+  rotate: true
+  xy: 218, 26
+  size: 217, 199
+  orig: 235, 239
+  offset: 9, 9
+  index: -1
+bao_05
+  rotate: true
+  xy: 2, 23
+  size: 220, 214
+  orig: 235, 239
+  offset: 6, 9
+  index: -1
+bao_06
+  rotate: false
+  xy: 419, 41
+  size: 77, 202
+  orig: 235, 239
+  offset: 79, 26
+  index: -1
+liang
+  rotate: false
+  xy: 813, 97
+  size: 92, 146
+  orig: 92, 146
+  offset: 0, 0
+  index: -1

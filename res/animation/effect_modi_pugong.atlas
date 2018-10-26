@@ -1,0 +1,41 @@
+
+effect_modi_pugong.png
+size: 583,145
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: true
+  xy: 2, 2
+  size: 141, 135
+  orig: 165, 156
+  offset: 14, 15
+  index: -1
+bao_02
+  rotate: true
+  xy: 139, 2
+  size: 141, 133
+  orig: 165, 156
+  offset: 14, 17
+  index: -1
+bao_03
+  rotate: true
+  xy: 461, 24
+  size: 119, 120
+  orig: 165, 156
+  offset: 22, 18
+  index: -1
+bao_04
+  rotate: false
+  xy: 333, 16
+  size: 126, 127
+  orig: 165, 156
+  offset: 19, 18
+  index: -1
+fashe
+  rotate: false
+  xy: 274, 9
+  size: 57, 134
+  orig: 57, 134
+  offset: 0, 0
+  index: -1

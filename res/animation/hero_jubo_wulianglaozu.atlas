@@ -1,0 +1,272 @@
+
+hero_jubo_wulianglaozu.png
+size: 472,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 406, 24
+  size: 31, 37
+  orig: 34, 37
+  offset: 3, 0
+  index: -1
+chest
+  rotate: true
+  xy: 172, 8
+  size: 98, 89
+  orig: 98, 89
+  offset: 0, 0
+  index: -1
+empty
+  rotate: false
+  xy: 439, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gangxiao_01
+  rotate: true
+  xy: 227, 372
+  size: 149, 204
+  orig: 149, 204
+  offset: 0, 0
+  index: -1
+guangxiao_02
+  rotate: true
+  xy: 227, 236
+  size: 134, 194
+  orig: 145, 194
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: false
+  xy: 117, 7
+  size: 53, 99
+  orig: 59, 101
+  offset: 4, 2
+  index: -1
+hair_02
+  rotate: false
+  xy: 363, 42
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: true
+  xy: 291, 108
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+hair_04
+  rotate: false
+  xy: 433, 445
+  size: 33, 76
+  orig: 35, 80
+  offset: 1, 1
+  index: -1
+hair_05
+  rotate: false
+  xy: 423, 209
+  size: 47, 75
+  orig: 54, 78
+  offset: 4, 2
+  index: -1
+hair_06
+  rotate: false
+  xy: 363, 4
+  size: 41, 36
+  orig: 42, 37
+  offset: 1, 0
+  index: -1
+head
+  rotate: false
+  xy: 211, 138
+  size: 78, 96
+  orig: 79, 96
+  offset: 1, 0
+  index: -1
+hero_juqing_wulianglaozu
+  rotate: false
+  xy: 318, 67
+  size: 32, 39
+  orig: 35, 39
+  offset: 3, 0
+  index: -1
+hip
+  rotate: false
+  xy: 2, 358
+  size: 223, 163
+  orig: 223, 163
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: false
+  xy: 2, 97
+  size: 107, 135
+  orig: 107, 135
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: true
+  xy: 211, 108
+  size: 28, 72
+  orig: 28, 72
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: true
+  xy: 417, 157
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+hip_04
+  rotate: true
+  xy: 352, 121
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+hip_05
+  rotate: true
+  xy: 2, 234
+  size: 122, 150
+  orig: 122, 150
+  offset: 0, 0
+  index: -1
+hip_06
+  rotate: false
+  xy: 433, 372
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+hip_07
+  rotate: false
+  xy: 406, 2
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+hip_08
+  rotate: false
+  xy: 407, 108
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+hip_10
+  rotate: false
+  xy: 406, 63
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+hip_11
+  rotate: true
+  xy: 318, 12
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: false
+  xy: 291, 141
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+l_elbow_01
+  rotate: true
+  xy: 2, 16
+  size: 79, 113
+  orig: 79, 113
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 439, 34
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: false
+  xy: 263, 2
+  size: 49, 30
+  orig: 49, 30
+  offset: 0, 0
+  index: -1
+l_shoulder_01
+  rotate: true
+  xy: 352, 84
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+poen
+  rotate: false
+  xy: 154, 234
+  size: 45, 10
+  orig: 45, 10
+  offset: 0, 0
+  index: -1
+r_elbow
+  rotate: false
+  xy: 351, 173
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+r_elbow_01
+  rotate: false
+  xy: 111, 108
+  size: 98, 124
+  orig: 98, 124
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 439, 5
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: true
+  xy: 433, 394
+  size: 49, 30
+  orig: 49, 30
+  offset: 0, 0
+  index: -1
+r_shoulder_01
+  rotate: true
+  xy: 154, 246
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+waist
+  rotate: true
+  xy: 423, 286
+  size: 84, 44
+  orig: 84, 44
+  offset: 0, 0
+  index: -1
+yu_01
+  rotate: false
+  xy: 154, 284
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+yu_02
+  rotate: false
+  xy: 263, 34
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1

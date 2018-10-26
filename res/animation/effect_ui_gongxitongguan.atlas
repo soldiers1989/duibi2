@@ -1,0 +1,83 @@
+
+effect_ui_gongxitongguan.png
+size: 233,537
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_ui_gongxitongguan_lingdang_01
+  rotate: true
+  xy: 2, 2
+  size: 72, 71
+  orig: 124, 172
+  offset: 24, 98
+  index: -1
+effect_ui_gongxitongguan_lingdang_02
+  rotate: true
+  xy: 118, 6
+  size: 75, 84
+  orig: 124, 172
+  offset: 22, 84
+  index: -1
+effect_ui_gongxitongguan_lingdang_03
+  rotate: false
+  xy: 130, 299
+  size: 101, 125
+  orig: 124, 172
+  offset: 10, 43
+  index: -1
+effect_ui_gongxitongguan_lingdang_04
+  rotate: true
+  xy: 2, 426
+  size: 109, 162
+  orig: 124, 172
+  offset: 6, 6
+  index: -1
+effect_ui_gongxitongguan_zhi_01
+  rotate: false
+  xy: 166, 433
+  size: 62, 32
+  orig: 121, 128
+  offset: 28, 96
+  index: -1
+effect_ui_gongxitongguan_zhi_02
+  rotate: true
+  xy: 166, 467
+  size: 68, 60
+  orig: 121, 128
+  offset: 26, 68
+  index: -1
+effect_ui_gongxitongguan_zhi_03
+  rotate: true
+  xy: 118, 83
+  size: 92, 107
+  orig: 121, 128
+  offset: 16, 21
+  index: -1
+effect_ui_gongxitongguan_zhi_04
+  rotate: false
+  xy: 127, 177
+  size: 104, 120
+  orig: 121, 128
+  offset: 8, 8
+  index: -1
+effect_ui_gongxitongguan_zhi_05
+  rotate: true
+  xy: 2, 199
+  size: 107, 123
+  orig: 121, 128
+  offset: 8, 5
+  index: -1
+effect_ui_gongxitongguan_zhi_06
+  rotate: true
+  xy: 2, 308
+  size: 116, 126
+  orig: 121, 128
+  offset: 3, 1
+  index: -1
+effect_ui_gongxitongguan_zhi_07
+  rotate: true
+  xy: 2, 76
+  size: 121, 114
+  orig: 121, 128
+  offset: 0, 0
+  index: -1

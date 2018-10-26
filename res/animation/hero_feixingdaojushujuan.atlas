@@ -1,0 +1,41 @@
+
+hero_feixingdaojushujuan.png
+size: 363,166
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 217, 2
+  size: 127, 162
+  orig: 127, 162
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 2, 147
+  size: 17, 213
+  orig: 17, 213
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 346, 122
+  size: 10, 42
+  orig: 12, 42
+  offset: 2, 0
+  index: -1
+04
+  rotate: false
+  xy: 346, 80
+  size: 15, 40
+  orig: 15, 40
+  offset: 0, 0
+  index: -1
+shujuan
+  rotate: true
+  xy: 2, 18
+  size: 127, 213
+  orig: 127, 213
+  offset: 0, 0
+  index: -1

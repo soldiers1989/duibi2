@@ -1,0 +1,300 @@
+
+hero_chengshi.png
+size: 277,1035
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: false
+  xy: 108, 219
+  size: 63, 88
+  orig: 63, 88
+  offset: 0, 0
+  index: -1
+chest_01
+  rotate: false
+  xy: 108, 136
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 227, 344
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 61, 355
+  size: 88, 104
+  orig: 88, 107
+  offset: 0, 0
+  index: -1
+head_01
+  rotate: false
+  xy: 224, 941
+  size: 42, 92
+  orig: 42, 92
+  offset: 0, 0
+  index: -1
+head_02
+  rotate: false
+  xy: 245, 96
+  size: 28, 57
+  orig: 28, 57
+  offset: 0, 0
+  index: -1
+head_03
+  rotate: true
+  xy: 147, 597
+  size: 30, 89
+  orig: 30, 89
+  offset: 0, 0
+  index: -1
+head_04
+  rotate: true
+  xy: 211, 192
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+head_05
+  rotate: false
+  xy: 224, 885
+  size: 43, 54
+  orig: 43, 54
+  offset: 0, 0
+  index: -1
+head_06
+  rotate: false
+  xy: 197, 480
+  size: 76, 30
+  orig: 76, 30
+  offset: 0, 0
+  index: -1
+head_07
+  rotate: true
+  xy: 211, 217
+  size: 36, 64
+  orig: 36, 64
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: false
+  xy: 223, 366
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: false
+  xy: 237, 312
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: false
+  xy: 107, 56
+  size: 61, 78
+  orig: 61, 78
+  offset: 0, 0
+  index: -1
+hip_04
+  rotate: true
+  xy: 170, 57
+  size: 77, 73
+  orig: 77, 73
+  offset: 0, 0
+  index: -1
+hip_05
+  rotate: false
+  xy: 245, 59
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+hip_06
+  rotate: true
+  xy: 173, 255
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+l_ foot
+  rotate: true
+  xy: 174, 141
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: true
+  xy: 152, 323
+  size: 40, 73
+  orig: 40, 73
+  offset: 0, 0
+  index: -1
+l_hand01
+  rotate: false
+  xy: 237, 255
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+l_hand02
+  rotate: true
+  xy: 237, 280
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+l_knee
+  rotate: true
+  xy: 181, 11
+  size: 44, 74
+  orig: 44, 74
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: true
+  xy: 2, 2
+  size: 54, 97
+  orig: 54, 102
+  offset: 0, 5
+  index: -1
+l_shoulder
+  rotate: true
+  xy: 197, 512
+  size: 83, 65
+  orig: 83, 65
+  offset: 0, 0
+  index: -1
+r_ foot
+  rotate: true
+  xy: 238, 599
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+r_elbow
+  rotate: true
+  xy: 223, 412
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: true
+  xy: 200, 141
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+r_knee
+  rotate: true
+  xy: 101, 9
+  size: 45, 78
+  orig: 45, 78
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: false
+  xy: 151, 365
+  size: 70, 99
+  orig: 70, 99
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: true
+  xy: 61, 309
+  size: 44, 89
+  orig: 44, 89
+  offset: 0, 0
+  index: -1
+r_shoulder_01
+  rotate: false
+  xy: 245, 155
+  size: 30, 60
+  orig: 30, 60
+  offset: 0, 0
+  index: -1
+ribbno
+  rotate: true
+  xy: 174, 187
+  size: 66, 35
+  orig: 66, 35
+  offset: 0, 0
+  index: -1
+ribbno_01
+  rotate: true
+  xy: 2, 461
+  size: 258, 92
+  orig: 258, 92
+  offset: 0, 0
+  index: -1
+tx2
+  rotate: false
+  xy: 96, 588
+  size: 49, 131
+  orig: 49, 131
+  offset: 0, 0
+  index: -1
+tx3_1
+  rotate: true
+  xy: 2, 180
+  size: 127, 104
+  orig: 127, 104
+  offset: 0, 0
+  index: -1
+tx3_2
+  rotate: true
+  xy: 147, 741
+  size: 140, 121
+  orig: 140, 121
+  offset: 0, 0
+  index: -1
+tx3_3
+  rotate: true
+  xy: 147, 629
+  size: 110, 128
+  orig: 110, 128
+  offset: 0, 0
+  index: -1
+tx3_4
+  rotate: false
+  xy: 2, 58
+  size: 103, 120
+  orig: 103, 120
+  offset: 0, 0
+  index: -1
+tx5_1
+  rotate: true
+  xy: 96, 466
+  size: 120, 99
+  orig: 155, 99
+  offset: 35, 0
+  index: -1
+tx5_2
+  rotate: true
+  xy: 147, 883
+  size: 150, 75
+  orig: 155, 99
+  offset: 5, 24
+  index: -1
+tx5_3
+  rotate: true
+  xy: 2, 309
+  size: 150, 57
+  orig: 155, 99
+  offset: 0, 38
+  index: -1
+weapon
+  rotate: true
+  xy: 2, 721
+  size: 312, 143
+  orig: 312, 146
+  offset: 0, 3
+  index: -1

@@ -1,0 +1,167 @@
+
+effect_daluotianyu_pugong.png
+size: 157,1007
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+magic weapon_02
+  rotate: false
+  xy: 95, 507
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+pgbd_0001
+  rotate: false
+  xy: 95, 532
+  size: 58, 58
+  orig: 124, 141
+  offset: 30, 46
+  index: -1
+pgbd_0002
+  rotate: false
+  xy: 87, 428
+  size: 64, 65
+  orig: 124, 141
+  offset: 28, 41
+  index: -1
+pgbd_0003
+  rotate: false
+  xy: 2, 495
+  size: 91, 91
+  orig: 124, 141
+  offset: 14, 29
+  index: -1
+pgbd_0004
+  rotate: true
+  xy: 2, 156
+  size: 78, 62
+  orig: 124, 141
+  offset: 20, 39
+  index: -1
+pgbd_0005
+  rotate: true
+  xy: 96, 801
+  size: 85, 59
+  orig: 124, 141
+  offset: 17, 42
+  index: -1
+pgbd_0006
+  rotate: true
+  xy: 2, 683
+  size: 93, 67
+  orig: 124, 141
+  offset: 13, 38
+  index: -1
+pgbd_0007
+  rotate: true
+  xy: 2, 2
+  size: 72, 74
+  orig: 124, 141
+  offset: 22, 35
+  index: -1
+pgbd_0008
+  rotate: true
+  xy: 2, 320
+  size: 82, 81
+  orig: 124, 141
+  offset: 15, 32
+  index: -1
+pgbd_0009
+  rotate: true
+  xy: 71, 685
+  size: 91, 80
+  orig: 124, 141
+  offset: 10, 34
+  index: -1
+pgbd_0010
+  rotate: true
+  xy: 81, 592
+  size: 91, 70
+  orig: 124, 141
+  offset: 9, 36
+  index: -1
+pgbd_0011
+  rotate: true
+  xy: 2, 588
+  size: 93, 77
+  orig: 124, 141
+  offset: 7, 32
+  index: -1
+pgbd_0012
+  rotate: true
+  xy: 2, 404
+  size: 89, 83
+  orig: 124, 141
+  offset: 13, 29
+  index: -1
+pgbd_0013
+  rotate: false
+  xy: 2, 76
+  size: 75, 78
+  orig: 124, 141
+  offset: 19, 35
+  index: -1
+pgbd_0014
+  rotate: true
+  xy: 2, 236
+  size: 82, 81
+  orig: 124, 141
+  offset: 16, 33
+  index: -1
+pgbd_0015
+  rotate: false
+  xy: 2, 778
+  size: 92, 108
+  orig: 124, 141
+  offset: 10, 19
+  index: -1
+pgbd_0016
+  rotate: false
+  xy: 2, 888
+  size: 94, 117
+  orig: 124, 141
+  offset: 12, 15
+  index: -1
+pgbd_0017
+  rotate: false
+  xy: 78, 4
+  size: 68, 70
+  orig: 124, 141
+  offset: 26, 36
+  index: -1
+pgbd_0018
+  rotate: true
+  xy: 66, 161
+  size: 73, 76
+  orig: 124, 141
+  offset: 23, 33
+  index: -1
+pgbd_0019
+  rotate: true
+  xy: 85, 270
+  size: 63, 61
+  orig: 124, 141
+  offset: 26, 38
+  index: -1
+pgbd_0020
+  rotate: true
+  xy: 79, 92
+  size: 67, 63
+  orig: 124, 141
+  offset: 21, 35
+  index: -1
+pgbd_0021
+  rotate: true
+  xy: 85, 335
+  size: 67, 66
+  orig: 124, 141
+  offset: 22, 33
+  index: -1
+tx2_0001
+  rotate: false
+  xy: 120, 516
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1

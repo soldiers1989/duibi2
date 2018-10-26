@@ -1,0 +1,160 @@
+
+effect_qinglvnv_pugong.png
+size: 769,309
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: true
+  xy: 214, 2
+  size: 90, 80
+  orig: 136, 123
+  offset: 25, 21
+  index: -1
+bao_02
+  rotate: true
+  xy: 296, 4
+  size: 86, 89
+  orig: 136, 123
+  offset: 27, 16
+  index: -1
+bao_03
+  rotate: true
+  xy: 553, 35
+  size: 78, 73
+  orig: 136, 123
+  offset: 30, 21
+  index: -1
+bao_04
+  rotate: false
+  xy: 574, 203
+  size: 107, 104
+  orig: 136, 123
+  offset: 15, 6
+  index: -1
+bao_05
+  rotate: false
+  xy: 231, 200
+  size: 124, 107
+  orig: 136, 123
+  offset: 8, 8
+  index: -1
+effect_quanyecha_bao_01
+  rotate: false
+  xy: 677, 59
+  size: 60, 60
+  orig: 88, 88
+  offset: 14, 14
+  index: -1
+effect_quanyecha_bao_02
+  rotate: false
+  xy: 599, 121
+  size: 80, 80
+  orig: 88, 88
+  offset: 4, 4
+  index: -1
+effect_quanyecha_bao_03
+  rotate: false
+  xy: 437, 99
+  size: 84, 84
+  orig: 88, 88
+  offset: 2, 2
+  index: -1
+effect_quanyecha_bao_04
+  rotate: false
+  xy: 681, 121
+  size: 80, 80
+  orig: 88, 88
+  offset: 4, 4
+  index: -1
+effect_quanyecha_bao_05
+  rotate: false
+  xy: 387, 5
+  size: 85, 85
+  orig: 88, 88
+  offset: 2, 2
+  index: -1
+guang
+  rotate: false
+  xy: 231, 94
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+hua
+  rotate: true
+  xy: 523, 115
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1
+huaban_01
+  rotate: false
+  xy: 628, 41
+  size: 47, 78
+  orig: 140, 173
+  offset: 46, 87
+  index: -1
+huaban_02
+  rotate: false
+  xy: 474, 14
+  size: 77, 83
+  orig: 140, 173
+  offset: 43, 81
+  index: -1
+huaban_03
+  rotate: false
+  xy: 683, 203
+  size: 84, 104
+  orig: 140, 173
+  offset: 42, 60
+  index: -1
+huaban_04
+  rotate: false
+  xy: 482, 198
+  size: 90, 109
+  orig: 140, 173
+  offset: 41, 41
+  index: -1
+huaban_05
+  rotate: false
+  xy: 126, 56
+  size: 86, 123
+  orig: 140, 173
+  offset: 40, 38
+  index: -1
+huaban_06
+  rotate: false
+  xy: 126, 181
+  size: 103, 126
+  orig: 140, 173
+  offset: 28, 31
+  index: -1
+huaban_07
+  rotate: false
+  xy: 2, 170
+  size: 122, 137
+  orig: 140, 173
+  offset: 7, 18
+  index: -1
+huaban_08
+  rotate: false
+  xy: 2, 38
+  size: 122, 130
+  orig: 140, 173
+  offset: 6, 10
+  index: -1
+huaban_09
+  rotate: true
+  xy: 357, 185
+  size: 122, 123
+  orig: 140, 173
+  offset: 6, 20
+  index: -1
+hualiang
+  rotate: false
+  xy: 337, 92
+  size: 98, 91
+  orig: 101, 96
+  offset: 2, 5
+  index: -1

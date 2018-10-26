@@ -1,0 +1,216 @@
+
+hero_yijiganshi.png
+size: 295,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: false
+  xy: 81, 269
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+chest_01
+  rotate: false
+  xy: 235, 443
+  size: 48, 78
+  orig: 48, 78
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 217, 37
+  size: 40, 34
+  orig: 41, 35
+  offset: 1, 1
+  index: -1
+head10
+  rotate: false
+  xy: 89, 182
+  size: 86, 85
+  orig: 86, 85
+  offset: 0, 0
+  index: -1
+head11
+  rotate: true
+  xy: 217, 123
+  size: 37, 57
+  orig: 37, 57
+  offset: 0, 0
+  index: -1
+head_01
+  rotate: false
+  xy: 183, 398
+  size: 50, 123
+  orig: 50, 123
+  offset: 0, 0
+  index: -1
+head_02
+  rotate: false
+  xy: 2, 234
+  size: 35, 157
+  orig: 35, 157
+  offset: 0, 0
+  index: -1
+head_05
+  rotate: false
+  xy: 39, 249
+  size: 40, 142
+  orig: 40, 142
+  offset: 0, 0
+  index: -1
+hip
+  rotate: true
+  xy: 2, 112
+  size: 120, 85
+  orig: 120, 85
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: false
+  xy: 177, 2
+  size: 38, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: true
+  xy: 177, 195
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: false
+  xy: 217, 5
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+l_ leg
+  rotate: false
+  xy: 198, 78
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: false
+  xy: 258, 345
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+l_foot
+  rotate: false
+  xy: 235, 403
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 158, 63
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+l_knee
+  rotate: true
+  xy: 89, 125
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: true
+  xy: 205, 295
+  size: 27, 69
+  orig: 27, 69
+  offset: 0, 0
+  index: -1
+r_ leg
+  rotate: false
+  xy: 205, 324
+  size: 51, 72
+  orig: 51, 72
+  offset: 0, 0
+  index: -1
+r_elbow
+  rotate: false
+  xy: 214, 225
+  size: 47, 68
+  orig: 47, 68
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: true
+  xy: 165, 138
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 103, 49
+  size: 53, 74
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+r_knee
+  rotate: true
+  xy: 103, 3
+  size: 44, 72
+  orig: 44, 72
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: false
+  xy: 2, 2
+  size: 99, 108
+  orig: 99, 108
+  offset: 0, 0
+  index: -1
+ribbno_01
+  rotate: false
+  xy: 2, 393
+  size: 179, 128
+  orig: 179, 128
+  offset: 0, 0
+  index: -1
+tx1_1
+  rotate: false
+  xy: 258, 330
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1
+tx1_2
+  rotate: false
+  xy: 39, 235
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+tx2_1
+  rotate: true
+  xy: 263, 250
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+tx2_2
+  rotate: true
+  xy: 248, 73
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+tx3
+  rotate: false
+  xy: 214, 162
+  size: 63, 61
+  orig: 63, 61
+  offset: 0, 0
+  index: -1

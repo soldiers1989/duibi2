@@ -1,0 +1,195 @@
+
+hero_tiancantudou.png
+size: 666,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+111
+  rotate: false
+  xy: 2, 11
+  size: 306, 327
+  orig: 315, 342
+  offset: 4, 0
+  index: -1
+chest
+  rotate: false
+  xy: 310, 95
+  size: 96, 133
+  orig: 96, 133
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 502, 188
+  size: 87, 94
+  orig: 87, 94
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 483, 284
+  size: 114, 54
+  orig: 115, 58
+  offset: 1, 2
+  index: -1
+hair_01
+  rotate: false
+  xy: 629, 127
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: false
+  xy: 623, 170
+  size: 30, 55
+  orig: 30, 55
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: false
+  xy: 483, 232
+  size: 15, 50
+  orig: 15, 50
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 502, 92
+  size: 87, 94
+  orig: 87, 94
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: false
+  xy: 408, 120
+  size: 92, 108
+  orig: 92, 108
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: false
+  xy: 310, 230
+  size: 171, 108
+  orig: 171, 108
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: false
+  xy: 407, 18
+  size: 83, 45
+  orig: 83, 45
+  offset: 0, 0
+  index: -1
+hip_04
+  rotate: false
+  xy: 562, 2
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+hip_07
+  rotate: false
+  xy: 591, 227
+  size: 66, 41
+  orig: 66, 41
+  offset: 0, 0
+  index: -1
+l_calf
+  rotate: true
+  xy: 408, 65
+  size: 53, 91
+  orig: 53, 91
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: false
+  xy: 591, 118
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+l_foot
+  rotate: true
+  xy: 633, 59
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: true
+  xy: 633, 35
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: true
+  xy: 310, 38
+  size: 55, 95
+  orig: 55, 95
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: true
+  xy: 492, 15
+  size: 43, 68
+  orig: 43, 68
+  offset: 0, 0
+  index: -1
+r_calf
+  rotate: true
+  xy: 501, 60
+  size: 30, 81
+  orig: 30, 81
+  offset: 0, 0
+  index: -1
+r_elbow
+  rotate: false
+  xy: 591, 70
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: true
+  xy: 629, 84
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: true
+  xy: 608, 5
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: true
+  xy: 310, 3
+  size: 33, 89
+  orig: 33, 89
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: false
+  xy: 591, 167
+  size: 30, 58
+  orig: 30, 58
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 599, 270
+  size: 68, 58
+  orig: 68, 58
+  offset: 0, 0
+  index: -1
+weiguang
+  rotate: true
+  xy: 608, 28
+  size: 40, 23
+  orig: 50, 27
+  offset: 5, 2
+  index: -1

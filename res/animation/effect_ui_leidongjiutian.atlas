@@ -1,0 +1,174 @@
+
+effect_ui_leidongjiutian.png
+size: 1984,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+474_1
+  rotate: false
+  xy: 1946, 77
+  size: 28, 19
+  orig: 30, 21
+  offset: 1, 1
+  index: -1
+474_2
+  rotate: false
+  xy: 1946, 56
+  size: 27, 19
+  orig: 30, 21
+  offset: 1, 1
+  index: -1
+dil_
+  rotate: true
+  xy: 1183, 64
+  size: 203, 93
+  orig: 210, 97
+  offset: 3, 2
+  index: -1
+pu_0001
+  rotate: false
+  xy: 1143, 54
+  size: 38, 213
+  orig: 225, 315
+  offset: 94, 87
+  index: -1
+pu_0003
+  rotate: true
+  xy: 2, 179
+  size: 88, 304
+  orig: 225, 315
+  offset: 69, 9
+  index: -1
+pu_0005
+  rotate: true
+  xy: 2, 2
+  size: 175, 254
+  orig: 225, 315
+  offset: 26, 7
+  index: -1
+pu_0007
+  rotate: false
+  xy: 833, 26
+  size: 161, 241
+  orig: 225, 315
+  offset: 33, 6
+  index: -1
+pu_0009
+  rotate: false
+  xy: 996, 26
+  size: 145, 241
+  orig: 225, 315
+  offset: 44, 6
+  index: -1
+pu_0011
+  rotate: true
+  xy: 258, 25
+  size: 152, 252
+  orig: 225, 315
+  offset: 37, 5
+  index: -1
+pu_0013
+  rotate: false
+  xy: 675, 18
+  size: 156, 249
+  orig: 225, 315
+  offset: 36, 6
+  index: -1
+pu_0015
+  rotate: false
+  xy: 512, 15
+  size: 161, 252
+  orig: 225, 315
+  offset: 33, 6
+  index: -1
+pu_0017
+  rotate: false
+  xy: 1643, 91
+  size: 161, 176
+  orig: 225, 315
+  offset: 33, 6
+  index: -1
+pu_0019
+  rotate: true
+  xy: 1806, 98
+  size: 169, 176
+  orig: 225, 315
+  offset: 27, 5
+  index: -1
+pu_0021
+  rotate: true
+  xy: 1473, 90
+  size: 177, 168
+  orig: 225, 315
+  offset: 21, 3
+  index: -1
+pu_0023
+  rotate: true
+  xy: 1374, 82
+  size: 185, 97
+  orig: 225, 315
+  offset: 15, 3
+  index: -1
+pu_0025
+  rotate: true
+  xy: 1278, 75
+  size: 192, 94
+  orig: 225, 315
+  offset: 11, 4
+  index: -1
+pu_0027
+  rotate: false
+  xy: 308, 205
+  size: 198, 62
+  orig: 225, 315
+  offset: 6, 4
+  index: -1
+pu_0029
+  rotate: false
+  xy: 1643, 29
+  size: 137, 60
+  orig: 225, 315
+  offset: 68, 4
+  index: -1
+pu_0031
+  rotate: false
+  xy: 1806, 41
+  size: 138, 55
+  orig: 225, 315
+  offset: 68, 4
+  index: -1
+pu_0033
+  rotate: false
+  xy: 1473, 47
+  size: 93, 41
+  orig: 225, 315
+  offset: 68, 4
+  index: -1
+pu_0035
+  rotate: true
+  xy: 1782, 53
+  size: 36, 17
+  orig: 225, 315
+  offset: 76, 29
+  index: -1
+pu_0037
+  rotate: false
+  xy: 1946, 42
+  size: 26, 12
+  orig: 225, 315
+  offset: 75, 35
+  index: -1
+pu_0039
+  rotate: true
+  xy: 1782, 16
+  size: 35, 18
+  orig: 225, 315
+  offset: 76, 28
+  index: -1
+pu_0041
+  rotate: false
+  xy: 1946, 30
+  size: 16, 10
+  orig: 225, 315
+  offset: 87, 34
+  index: -1

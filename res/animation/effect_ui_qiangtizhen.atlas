@@ -1,0 +1,188 @@
+
+effect_ui_qiangtizhen.png
+size: 1232,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+474
+  rotate: false
+  xy: 1080, 18
+  size: 40, 42
+  orig: 45, 45
+  offset: 3, 1
+  index: -1
+bao_0002
+  rotate: true
+  xy: 1122, 18
+  size: 42, 37
+  orig: 72, 73
+  offset: 15, 15
+  index: -1
+bao_0003
+  rotate: true
+  xy: 700, 4
+  size: 56, 50
+  orig: 72, 73
+  offset: 8, 8
+  index: -1
+bao_0006
+  rotate: true
+  xy: 451, 2
+  size: 58, 51
+  orig: 72, 73
+  offset: 7, 7
+  index: -1
+bao_0009
+  rotate: false
+  xy: 390, 8
+  size: 59, 52
+  orig: 72, 73
+  offset: 6, 7
+  index: -1
+bao_0012
+  rotate: false
+  xy: 328, 7
+  size: 60, 53
+  orig: 72, 73
+  offset: 6, 6
+  index: -1
+bao_0015
+  rotate: false
+  xy: 202, 6
+  size: 61, 54
+  orig: 72, 73
+  offset: 5, 6
+  index: -1
+bao_0016
+  rotate: false
+  xy: 265, 6
+  size: 61, 54
+  orig: 72, 73
+  offset: 5, 6
+  index: -1
+bao_0019
+  rotate: true
+  xy: 504, 2
+  size: 58, 48
+  orig: 72, 73
+  offset: 6, 10
+  index: -1
+fazhen_
+  rotate: true
+  xy: 752, 6
+  size: 54, 51
+  orig: 60, 60
+  offset: 3, 4
+  index: -1
+jx_0001
+  rotate: true
+  xy: 1161, 22
+  size: 38, 36
+  orig: 74, 89
+  offset: 19, 15
+  index: -1
+jx_0003
+  rotate: false
+  xy: 858, 7
+  size: 45, 53
+  orig: 74, 89
+  offset: 17, 9
+  index: -1
+jx_0005
+  rotate: true
+  xy: 136, 12
+  size: 48, 64
+  orig: 74, 89
+  offset: 16, 8
+  index: -1
+jx_0007
+  rotate: true
+  xy: 2, 9
+  size: 51, 65
+  orig: 74, 89
+  offset: 13, 7
+  index: -1
+jx_0009
+  rotate: true
+  xy: 69, 10
+  size: 50, 65
+  orig: 74, 89
+  offset: 12, 8
+  index: -1
+jx_0011
+  rotate: false
+  xy: 600, 3
+  size: 51, 57
+  orig: 74, 89
+  offset: 12, 17
+  index: -1
+jx_0013
+  rotate: false
+  xy: 653, 3
+  size: 45, 57
+  orig: 74, 89
+  offset: 12, 18
+  index: -1
+jx_0015
+  rotate: false
+  xy: 554, 2
+  size: 44, 58
+  orig: 74, 89
+  offset: 13, 18
+  index: -1
+jx_0017
+  rotate: false
+  xy: 1037, 12
+  size: 41, 48
+  orig: 74, 89
+  offset: 14, 15
+  index: -1
+jx_0019
+  rotate: false
+  xy: 993, 10
+  size: 42, 50
+  orig: 74, 89
+  offset: 13, 13
+  index: -1
+jx_0021
+  rotate: false
+  xy: 905, 8
+  size: 43, 52
+  orig: 74, 89
+  offset: 12, 11
+  index: -1
+jx_0023
+  rotate: false
+  xy: 950, 9
+  size: 41, 51
+  orig: 74, 89
+  offset: 12, 10
+  index: -1
+jx_0025
+  rotate: false
+  xy: 1199, 37
+  size: 23, 23
+  orig: 74, 89
+  offset: 30, 32
+  index: -1
+jx_0027
+  rotate: true
+  xy: 1199, 12
+  size: 23, 22
+  orig: 74, 89
+  offset: 30, 32
+  index: -1
+jx_0029
+  rotate: false
+  xy: 1223, 28
+  size: 7, 7
+  orig: 74, 89
+  offset: 30, 32
+  index: -1
+mohu
+  rotate: true
+  xy: 805, 6
+  size: 54, 51
+  orig: 60, 60
+  offset: 3, 4
+  index: -1

@@ -1,0 +1,62 @@
+
+effect_buff_zengjianuqi.png
+size: 581,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_buff_zengjianuqi_01
+  rotate: false
+  xy: 213, 248
+  size: 116, 48
+  orig: 226, 308
+  offset: 50, 9
+  index: -1
+effect_buff_zengjianuqi_02
+  rotate: false
+  xy: 435, 2
+  size: 144, 199
+  orig: 226, 308
+  offset: 38, 10
+  index: -1
+effect_buff_zengjianuqi_03
+  rotate: true
+  xy: 333, 203
+  size: 156, 221
+  orig: 226, 308
+  offset: 35, 11
+  index: -1
+effect_buff_zengjianuqi_04
+  rotate: true
+  xy: 333, 361
+  size: 169, 222
+  orig: 226, 308
+  offset: 28, 11
+  index: -1
+effect_buff_zengjianuqi_05
+  rotate: true
+  xy: 213, 8
+  size: 193, 220
+  orig: 226, 308
+  offset: 18, 17
+  index: -1
+effect_buff_zengjianuqi_06
+  rotate: false
+  xy: 2, 30
+  size: 209, 243
+  orig: 226, 308
+  offset: 6, 31
+  index: -1
+effect_buff_zengjianuqi_07
+  rotate: false
+  xy: 2, 275
+  size: 187, 255
+  orig: 226, 308
+  offset: 31, 40
+  index: -1
+effect_buff_zengjianuqi_08
+  rotate: false
+  xy: 191, 298
+  size: 140, 232
+  orig: 226, 308
+  offset: 31, 76
+  index: -1

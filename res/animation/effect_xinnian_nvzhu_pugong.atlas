@@ -1,0 +1,118 @@
+
+effect_xinnian_nvzhu_pugong.png
+size: 1996,151
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: false
+  xy: 1935, 20
+  size: 59, 59
+  orig: 146, 147
+  offset: 44, 47
+  index: -1
+bao_02
+  rotate: false
+  xy: 1844, 58
+  size: 89, 91
+  orig: 146, 147
+  offset: 29, 31
+  index: -1
+bao_03
+  rotate: false
+  xy: 1728, 30
+  size: 114, 119
+  orig: 146, 147
+  offset: 18, 17
+  index: -1
+bao_04
+  rotate: false
+  xy: 1163, 6
+  size: 137, 143
+  orig: 146, 147
+  offset: 7, 4
+  index: -1
+bao_05
+  rotate: false
+  xy: 1302, 6
+  size: 143, 143
+  orig: 146, 147
+  offset: 0, 4
+  index: -1
+bao_06
+  rotate: false
+  xy: 873, 5
+  size: 142, 144
+  orig: 146, 147
+  offset: 0, 3
+  index: -1
+bao_07
+  rotate: false
+  xy: 441, 4
+  size: 140, 145
+  orig: 146, 147
+  offset: 0, 2
+  index: -1
+bao_08
+  rotate: false
+  xy: 583, 4
+  size: 141, 145
+  orig: 146, 147
+  offset: 1, 0
+  index: -1
+bao_09
+  rotate: false
+  xy: 2, 2
+  size: 142, 147
+  orig: 146, 147
+  offset: 2, 0
+  index: -1
+bao_10
+  rotate: false
+  xy: 146, 3
+  size: 146, 146
+  orig: 146, 147
+  offset: 0, 1
+  index: -1
+bao_11
+  rotate: false
+  xy: 726, 4
+  size: 145, 145
+  orig: 146, 147
+  offset: 1, 2
+  index: -1
+bao_12
+  rotate: false
+  xy: 294, 3
+  size: 145, 146
+  orig: 146, 147
+  offset: 1, 1
+  index: -1
+bao_13
+  rotate: false
+  xy: 1017, 5
+  size: 144, 144
+  orig: 146, 147
+  offset: 2, 1
+  index: -1
+bao_14
+  rotate: false
+  xy: 1447, 6
+  size: 143, 143
+  orig: 146, 147
+  offset: 3, 2
+  index: -1
+bao_15
+  rotate: false
+  xy: 1592, 8
+  size: 134, 141
+  orig: 146, 147
+  offset: 10, 2
+  index: -1
+paozhu
+  rotate: false
+  xy: 1935, 81
+  size: 35, 68
+  orig: 35, 68
+  offset: 0, 0
+  index: -1

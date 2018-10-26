@@ -1,0 +1,321 @@
+
+hero_jubo_caixiao.png
+size: 856,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: true
+  xy: 2, 10
+  size: 57, 81
+  orig: 57, 81
+  offset: 0, 0
+  index: -1
+empty
+  rotate: false
+  xy: 397, 117
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 196, 27
+  size: 74, 92
+  orig: 74, 92
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: false
+  xy: 735, 65
+  size: 32, 58
+  orig: 32, 58
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: true
+  xy: 354, 2
+  size: 37, 53
+  orig: 37, 53
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: true
+  xy: 607, 8
+  size: 39, 57
+  orig: 39, 57
+  offset: 0, 0
+  index: -1
+hair_04
+  rotate: false
+  xy: 113, 75
+  size: 81, 192
+  orig: 81, 192
+  offset: 0, 0
+  index: -1
+hair_05
+  rotate: false
+  xy: 2, 69
+  size: 109, 198
+  orig: 109, 198
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 290, 41
+  size: 74, 92
+  orig: 74, 92
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: false
+  xy: 607, 49
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: false
+  xy: 409, 2
+  size: 51, 38
+  orig: 51, 40
+  offset: 0, 2
+  index: -1
+hip_03
+  rotate: false
+  xy: 726, 20
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+hip_04
+  rotate: false
+  xy: 673, 71
+  size: 60, 52
+  orig: 60, 52
+  offset: 0, 0
+  index: -1
+hip_05
+  rotate: true
+  xy: 554, 23
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+l_calf
+  rotate: false
+  xy: 384, 42
+  size: 45, 73
+  orig: 45, 73
+  offset: 0, 0
+  index: -1
+l_eldow
+  rotate: false
+  xy: 196, 5
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+l_eldow_01
+  rotate: true
+  xy: 790, 122
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+l_eldow_02
+  rotate: true
+  xy: 669, 36
+  size: 33, 55
+  orig: 33, 55
+  offset: 0, 0
+  index: -1
+l_eldow_03
+  rotate: true
+  xy: 554, 2
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+l_foot
+  rotate: true
+  xy: 85, 51
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: true
+  xy: 462, 14
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: true
+  xy: 85, 7
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: false
+  xy: 812, 74
+  size: 36, 46
+  orig: 36, 75
+  offset: 0, 29
+  index: -1
+l_shoulder_01
+  rotate: false
+  xy: 165, 6
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+l_shoulder_02
+  rotate: false
+  xy: 776, 29
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+l_shoulder_03
+  rotate: false
+  xy: 397, 120
+  size: 84, 147
+  orig: 84, 147
+  offset: 0, 0
+  index: -1
+l_shoulder_04
+  rotate: true
+  xy: 480, 58
+  size: 26, 72
+  orig: 36, 75
+  offset: 2, 0
+  index: -1
+neck
+  rotate: false
+  xy: 790, 181
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+r_calf
+  rotate: true
+  xy: 483, 86
+  size: 54, 80
+  orig: 54, 80
+  offset: 0, 0
+  index: -1
+r_eldow
+  rotate: true
+  xy: 666, 2
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: false
+  xy: 776, 2
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 812, 46
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: false
+  xy: 431, 45
+  size: 47, 73
+  orig: 47, 73
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: true
+  xy: 113, 47
+  size: 26, 81
+  orig: 26, 81
+  offset: 0, 0
+  index: -1
+r_shoulder_01
+  rotate: false
+  xy: 769, 68
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+r_shoulder_02
+  rotate: false
+  xy: 196, 103
+  size: 80, 164
+  orig: 80, 164
+  offset: 0, 0
+  index: -1
+ren_01
+  rotate: true
+  xy: 290, 2
+  size: 37, 62
+  orig: 57, 74
+  offset: 7, 0
+  index: -1
+texiao_01
+  rotate: false
+  xy: 575, 101
+  size: 96, 73
+  orig: 96, 73
+  offset: 0, 0
+  index: -1
+texiao_02
+  rotate: false
+  xy: 483, 142
+  size: 90, 125
+  orig: 90, 125
+  offset: 0, 0
+  index: -1
+texiao_03
+  rotate: false
+  xy: 809, 174
+  size: 45, 93
+  orig: 45, 93
+  offset: 0, 0
+  index: -1
+texiao_04
+  rotate: true
+  xy: 480, 2
+  size: 54, 72
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+texiao_05
+  rotate: false
+  xy: 278, 117
+  size: 117, 150
+  orig: 125, 158
+  offset: 5, 2
+  index: -1
+texiao_06
+  rotate: false
+  xy: 575, 176
+  size: 115, 91
+  orig: 128, 105
+  offset: 5, 6
+  index: -1
+texiao_07
+  rotate: true
+  xy: 692, 200
+  size: 67, 115
+  orig: 69, 127
+  offset: 2, 4
+  index: -1
+texiao_08
+  rotate: true
+  xy: 692, 125
+  size: 73, 96
+  orig: 73, 101
+  offset: 0, 4
+  index: -1

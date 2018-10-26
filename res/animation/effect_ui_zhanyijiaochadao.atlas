@@ -1,0 +1,13 @@
+
+effect_ui_zhanyijiaochadao.png
+size: 137,87
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_ui_dao
+  rotate: false
+  xy: 2, 2
+  size: 133, 83
+  orig: 133, 83
+  offset: 0, 0
+  index: -1

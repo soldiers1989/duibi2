@@ -1,0 +1,265 @@
+
+effect_beiwawa.png
+size: 458,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_yelanggan_baodian_01
+  rotate: false
+  xy: 2, 7
+  size: 47, 51
+  orig: 74, 81
+  offset: 15, 14
+  index: -1
+effect_yelanggan_baodian_02
+  rotate: false
+  xy: 216, 62
+  size: 68, 78
+  orig: 74, 81
+  offset: 6, 3
+  index: -1
+effect_yelanggan_baodian_03
+  rotate: false
+  xy: 74, 61
+  size: 69, 79
+  orig: 74, 81
+  offset: 5, 2
+  index: -1
+effect_yelanggan_baodian_04
+  rotate: false
+  xy: 2, 60
+  size: 70, 80
+  orig: 74, 81
+  offset: 4, 1
+  index: -1
+effect_yelanggan_baodian_05
+  rotate: false
+  xy: 145, 61
+  size: 69, 79
+  orig: 74, 81
+  offset: 5, 2
+  index: -1
+luoli_ r_hand
+  rotate: false
+  xy: 394, 44
+  size: 12, 29
+  orig: 12, 29
+  offset: 0, 0
+  index: -1
+luoli_chest
+  rotate: false
+  xy: 253, 36
+  size: 29, 24
+  orig: 30, 24
+  offset: 1, 0
+  index: -1
+luoli_hair
+  rotate: false
+  xy: 74, 2
+  size: 67, 57
+  orig: 67, 57
+  offset: 0, 0
+  index: -1
+luoli_head
+  rotate: false
+  xy: 286, 14
+  size: 63, 59
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+luoli_head_01
+  rotate: false
+  xy: 351, 42
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+luoli_head_02
+  rotate: true
+  xy: 436, 110
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+luoli_hip
+  rotate: false
+  xy: 408, 46
+  size: 26, 23
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+luoli_hip_01
+  rotate: false
+  xy: 143, 19
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+luoli_l_elbow
+  rotate: false
+  xy: 408, 2
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+luoli_l_hand
+  rotate: false
+  xy: 221, 34
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+luoli_l_leg
+  rotate: true
+  xy: 193, 22
+  size: 37, 26
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+luoli_l_shoulder
+  rotate: true
+  xy: 393, 2
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+luoli_r_elbow
+  rotate: false
+  xy: 436, 43
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+luoli_r_leg
+  rotate: true
+  xy: 51, 24
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+luoli_r_shoulder
+  rotate: true
+  xy: 408, 23
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+muchen_hip
+  rotate: true
+  xy: 418, 98
+  size: 42, 16
+  orig: 42, 16
+  offset: 0, 0
+  index: -1
+muchen_hip_01
+  rotate: true
+  xy: 272, 9
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+mucheng_head
+  rotate: false
+  xy: 286, 75
+  size: 64, 65
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+mucheng_head_ku
+  rotate: false
+  xy: 352, 75
+  size: 64, 65
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+mucheng_hip_02
+  rotate: true
+  xy: 393, 18
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+mucheng_hip_03
+  rotate: true
+  xy: 247, 6
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+mucheng_l_elbow
+  rotate: false
+  xy: 418, 71
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+mucheng_l_foot
+  rotate: false
+  xy: 436, 101
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+mucheng_l_hand
+  rotate: true
+  xy: 447, 102
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+mucheng_l_leg
+  rotate: true
+  xy: 195, 3
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+mucheng_l_shoulder
+  rotate: false
+  xy: 143, 5
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+mucheng_r_calf
+  rotate: false
+  xy: 51, 4
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+mucheng_r_foot
+  rotate: true
+  xy: 67, 47
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+mucheng_r_leg
+  rotate: false
+  xy: 434, 20
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+mucheng_r_shoulder
+  rotate: false
+  xy: 169, 5
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+mucheng_shoulder_01
+  rotate: true
+  xy: 221, 2
+  size: 30, 24
+  orig: 31, 24
+  offset: 1, 0
+  index: -1
+muchneg_chest
+  rotate: false
+  xy: 351, 4
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1

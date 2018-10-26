@@ -1,0 +1,76 @@
+
+effect_buff_tongyichufa.png
+size: 1427,657
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_buff_tongyichufa_guang
+  rotate: false
+  xy: 2, 250
+  size: 142, 405
+  orig: 171, 460
+  offset: 25, 14
+  index: -1
+effect_buff_tongyichufa_guangsu_01
+  rotate: false
+  xy: 146, 299
+  size: 323, 356
+  orig: 352, 406
+  offset: 0, 50
+  index: -1
+effect_buff_tongyichufa_guangsu_02
+  rotate: true
+  xy: 794, 336
+  size: 319, 354
+  orig: 352, 406
+  offset: 0, 52
+  index: -1
+effect_buff_tongyichufa_guangsu_03
+  rotate: false
+  xy: 471, 300
+  size: 321, 355
+  orig: 352, 406
+  offset: 0, 50
+  index: -1
+effect_buff_tongyichufa_guangsu_04
+  rotate: true
+  xy: 1095, 15
+  size: 319, 330
+  orig: 352, 406
+  offset: 1, 64
+  index: -1
+effect_buff_tongyichufa_guangsu_05
+  rotate: false
+  xy: 794, 2
+  size: 299, 332
+  orig: 352, 406
+  offset: 9, 60
+  index: -1
+effect_buff_tongyichufa_guangsu_06
+  rotate: true
+  xy: 146, 2
+  size: 295, 329
+  orig: 352, 406
+  offset: 11, 62
+  index: -1
+effect_buff_tongyichufa_guangsu_07
+  rotate: true
+  xy: 477, 13
+  size: 285, 303
+  orig: 352, 406
+  offset: 16, 74
+  index: -1
+effect_buff_tongyichufa_guangsu_08
+  rotate: false
+  xy: 1150, 498
+  size: 253, 157
+  orig: 352, 406
+  offset: 33, 134
+  index: -1
+effect_buff_tongyichufa_quan
+  rotate: false
+  xy: 2, 132
+  size: 116, 116
+  orig: 138, 129
+  offset: 11, 6
+  index: -1

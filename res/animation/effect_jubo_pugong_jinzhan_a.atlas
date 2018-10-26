@@ -1,0 +1,48 @@
+
+effect_jubo_pugong_jinzhan_a.png
+size: 502,121
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_juqing_pugong_jinzhan_a_01
+  rotate: false
+  xy: 432, 9
+  size: 32, 33
+  orig: 133, 143
+  offset: 50, 54
+  index: -1
+effect_juqing_pugong_jinzhan_a_02
+  rotate: true
+  xy: 432, 44
+  size: 75, 68
+  orig: 133, 143
+  offset: 28, 37
+  index: -1
+effect_juqing_pugong_jinzhan_a_03
+  rotate: true
+  xy: 332, 14
+  size: 105, 98
+  orig: 133, 143
+  offset: 13, 22
+  index: -1
+effect_juqing_pugong_jinzhan_a_04
+  rotate: true
+  xy: 220, 6
+  size: 113, 110
+  orig: 133, 143
+  offset: 9, 16
+  index: -1
+effect_juqing_pugong_jinzhan_a_05
+  rotate: true
+  xy: 2, 2
+  size: 117, 114
+  orig: 133, 143
+  offset: 7, 14
+  index: -1
+effect_juqing_pugong_jinzhan_a_06
+  rotate: false
+  xy: 118, 5
+  size: 100, 114
+  orig: 133, 143
+  offset: 16, 14
+  index: -1

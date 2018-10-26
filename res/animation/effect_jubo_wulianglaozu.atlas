@@ -1,0 +1,125 @@
+
+effect_jubo_wulianglaozu.png
+size: 860,168
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_1
+  rotate: false
+  xy: 757, 2
+  size: 52, 71
+  orig: 121, 94
+  offset: 52, 18
+  index: -1
+bao_2
+  rotate: true
+  xy: 622, 32
+  size: 86, 83
+  orig: 121, 94
+  offset: 21, 6
+  index: -1
+bao_3
+  rotate: false
+  xy: 527, 5
+  size: 93, 81
+  orig: 121, 94
+  offset: 16, 7
+  index: -1
+bao_4
+  rotate: false
+  xy: 425, 3
+  size: 100, 83
+  orig: 121, 94
+  offset: 14, 7
+  index: -1
+bao_5
+  rotate: false
+  xy: 109, 4
+  size: 103, 71
+  orig: 121, 94
+  offset: 9, 17
+  index: -1
+bao_6
+  rotate: false
+  xy: 2, 5
+  size: 105, 70
+  orig: 121, 94
+  offset: 6, 18
+  index: -1
+bao_7
+  rotate: false
+  xy: 214, 11
+  size: 101, 64
+  orig: 121, 94
+  offset: 7, 22
+  index: -1
+bao_8
+  rotate: true
+  xy: 707, 40
+  size: 78, 48
+  orig: 121, 94
+  offset: 8, 24
+  index: -1
+bao_9
+  rotate: true
+  xy: 811, 18
+  size: 55, 47
+  orig: 121, 94
+  offset: 11, 23
+  index: -1
+di_01
+  rotate: false
+  xy: 683, 120
+  size: 86, 46
+  orig: 103, 58
+  offset: 7, 6
+  index: -1
+di_02
+  rotate: false
+  xy: 592, 120
+  size: 89, 46
+  orig: 103, 58
+  offset: 8, 7
+  index: -1
+di_03
+  rotate: false
+  xy: 771, 119
+  size: 84, 47
+  orig: 103, 58
+  offset: 11, 7
+  index: -1
+di_04
+  rotate: false
+  xy: 757, 75
+  size: 76, 42
+  orig: 103, 58
+  offset: 19, 10
+  index: -1
+shui_01
+  rotate: true
+  xy: 317, 12
+  size: 65, 92
+  orig: 100, 212
+  offset: 31, 4
+  index: -1
+shui_02
+  rotate: true
+  xy: 425, 88
+  size: 78, 165
+  orig: 100, 212
+  offset: 13, 1
+  index: -1
+shui_03
+  rotate: true
+  xy: 2, 77
+  size: 89, 212
+  orig: 100, 212
+  offset: 7, 0
+  index: -1
+shui_04
+  rotate: true
+  xy: 216, 79
+  size: 87, 207
+  orig: 100, 212
+  offset: 6, 0
+  index: -1

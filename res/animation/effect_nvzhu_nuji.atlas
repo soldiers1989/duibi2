@@ -1,0 +1,139 @@
+
+effect_nvzhu_nuji.png
+size: 2034,963
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: false
+  xy: 1840, 314
+  size: 192, 242
+  orig: 302, 313
+  offset: 54, 23
+  index: -1
+bao_02
+  rotate: true
+  xy: 1590, 352
+  size: 204, 248
+  orig: 302, 313
+  offset: 55, 15
+  index: -1
+bao_03
+  rotate: true
+  xy: 1497, 119
+  size: 231, 240
+  orig: 302, 313
+  offset: 44, 13
+  index: -1
+bao_04
+  rotate: true
+  xy: 1236, 149
+  size: 234, 259
+  orig: 302, 313
+  offset: 28, 8
+  index: -1
+bao_05
+  rotate: true
+  xy: 1739, 76
+  size: 236, 240
+  orig: 302, 313
+  offset: 29, 13
+  index: -1
+effect_bao_01
+  rotate: false
+  xy: 414, 25
+  size: 350, 201
+  orig: 352, 262
+  offset: 2, 27
+  index: -1
+effect_bao_02
+  rotate: false
+  xy: 766, 6
+  size: 350, 201
+  orig: 352, 262
+  offset: 2, 27
+  index: -1
+effect_bao_03
+  rotate: false
+  xy: 1238, 385
+  size: 350, 201
+  orig: 352, 262
+  offset: 2, 27
+  index: -1
+effect_bao_04
+  rotate: false
+  xy: 2, 2
+  size: 352, 204
+  orig: 352, 262
+  offset: 0, 27
+  index: -1
+quan
+  rotate: true
+  xy: 356, 34
+  size: 172, 42
+  orig: 172, 42
+  offset: 0, 0
+  index: -1
+quanquan
+  rotate: false
+  xy: 1118, 15
+  size: 180, 132
+  orig: 180, 132
+  offset: 0, 0
+  index: -1
+xuan_01
+  rotate: true
+  xy: 1649, 558
+  size: 403, 348
+  orig: 442, 413
+  offset: 9, 41
+  index: -1
+xuan_02
+  rotate: false
+  xy: 414, 228
+  size: 409, 355
+  orig: 442, 413
+  offset: 9, 34
+  index: -1
+xuan_03
+  rotate: false
+  xy: 1238, 588
+  size: 409, 373
+  orig: 442, 413
+  offset: 9, 16
+  index: -1
+xuan_04
+  rotate: false
+  xy: 825, 209
+  size: 409, 373
+  orig: 442, 413
+  offset: 9, 16
+  index: -1
+xuan_05
+  rotate: false
+  xy: 2, 586
+  size: 410, 375
+  orig: 442, 413
+  offset: 9, 16
+  index: -1
+xuan_06
+  rotate: false
+  xy: 2, 208
+  size: 410, 376
+  orig: 442, 413
+  offset: 9, 16
+  index: -1
+xuan_07
+  rotate: false
+  xy: 414, 585
+  size: 410, 376
+  orig: 442, 413
+  offset: 9, 16
+  index: -1
+xuan_08
+  rotate: false
+  xy: 826, 584
+  size: 410, 377
+  orig: 442, 413
+  offset: 9, 16
+  index: -1

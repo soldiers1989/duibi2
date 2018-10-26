@@ -1,0 +1,195 @@
+
+effect_yaolao_nuji.png
+size: 1832,468
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: false
+  xy: 1324, 212
+  size: 117, 85
+  orig: 200, 189
+  offset: 40, 56
+  index: -1
+bao_02
+  rotate: true
+  xy: 1609, 330
+  size: 136, 103
+  orig: 200, 189
+  offset: 30, 46
+  index: -1
+bao_03
+  rotate: false
+  xy: 1447, 2
+  size: 151, 138
+  orig: 200, 189
+  offset: 23, 27
+  index: -1
+bao_04
+  rotate: true
+  xy: 503, 4
+  size: 159, 148
+  orig: 200, 189
+  offset: 19, 25
+  index: -1
+bao_05
+  rotate: false
+  xy: 2, 5
+  size: 169, 156
+  orig: 200, 189
+  offset: 19, 17
+  index: -1
+bao_06
+  rotate: false
+  xy: 890, 6
+  size: 194, 165
+  orig: 200, 189
+  offset: 5, 13
+  index: -1
+bao_07
+  rotate: true
+  xy: 1279, 20
+  size: 186, 166
+  orig: 200, 189
+  offset: 9, 12
+  index: -1
+bao_08
+  rotate: false
+  xy: 1086, 6
+  size: 191, 167
+  orig: 200, 189
+  offset: 4, 12
+  index: -1
+bao_09
+  rotate: false
+  xy: 1324, 299
+  size: 162, 167
+  orig: 200, 189
+  offset: 18, 12
+  index: -1
+bao_10
+  rotate: false
+  xy: 173, 3
+  size: 163, 158
+  orig: 200, 189
+  offset: 17, 16
+  index: -1
+bao_11
+  rotate: false
+  xy: 338, 6
+  size: 163, 156
+  orig: 200, 189
+  offset: 17, 17
+  index: -1
+bao_12
+  rotate: true
+  xy: 1447, 142
+  size: 155, 126
+  orig: 200, 189
+  offset: 21, 32
+  index: -1
+bao_13
+  rotate: true
+  xy: 1488, 314
+  size: 152, 119
+  orig: 200, 189
+  offset: 23, 35
+  index: -1
+bao_14
+  rotate: true
+  xy: 1575, 163
+  size: 149, 114
+  orig: 200, 189
+  offset: 24, 40
+  index: -1
+bao_15
+  rotate: true
+  xy: 1714, 332
+  size: 134, 116
+  orig: 200, 189
+  offset: 32, 36
+  index: -1
+bao_16
+  rotate: false
+  xy: 1691, 227
+  size: 134, 101
+  orig: 200, 189
+  offset: 32, 46
+  index: -1
+bao_17
+  rotate: false
+  xy: 1691, 227
+  size: 134, 101
+  orig: 200, 189
+  offset: 32, 46
+  index: -1
+bao_18
+  rotate: false
+  xy: 1691, 115
+  size: 134, 110
+  orig: 200, 189
+  offset: 32, 39
+  index: -1
+shan
+  rotate: false
+  xy: 1600, 47
+  size: 88, 114
+  orig: 88, 114
+  offset: 0, 0
+  index: -1
+shandian_01
+  rotate: true
+  xy: 659, 173
+  size: 293, 240
+  orig: 320, 240
+  offset: 4, 0
+  index: -1
+shandian_02
+  rotate: true
+  xy: 901, 175
+  size: 291, 239
+  orig: 320, 240
+  offset: 4, 0
+  index: -1
+shandian_03
+  rotate: true
+  xy: 209, 164
+  size: 302, 227
+  orig: 320, 240
+  offset: 4, 0
+  index: -1
+shandian_04
+  rotate: true
+  xy: 438, 165
+  size: 301, 219
+  orig: 320, 240
+  offset: 8, 5
+  index: -1
+shandian_05
+  rotate: true
+  xy: 2, 163
+  size: 303, 205
+  orig: 320, 240
+  offset: 6, 18
+  index: -1
+shandian_06
+  rotate: true
+  xy: 1142, 208
+  size: 258, 180
+  orig: 320, 240
+  offset: 57, 33
+  index: -1
+shandian_07
+  rotate: false
+  xy: 659, 3
+  size: 229, 168
+  orig: 320, 240
+  offset: 60, 43
+  index: -1
+shandian_08
+  rotate: false
+  xy: 1690, 25
+  size: 81, 88
+  orig: 320, 240
+  offset: 208, 77
+  index: -1

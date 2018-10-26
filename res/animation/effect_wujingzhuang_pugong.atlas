@@ -1,0 +1,111 @@
+
+effect_wujingzhuang_pugong.png
+size: 377,1049
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: false
+  xy: 224, 447
+  size: 142, 160
+  orig: 244, 212
+  offset: 52, 16
+  index: -1
+bao_02
+  rotate: true
+  xy: 213, 277
+  size: 168, 138
+  orig: 244, 212
+  offset: 39, 18
+  index: -1
+bao_03
+  rotate: false
+  xy: 2, 254
+  size: 209, 191
+  orig: 244, 212
+  offset: 20, 12
+  index: -1
+bao_04
+  rotate: false
+  xy: 2, 776
+  size: 237, 195
+  orig: 244, 212
+  offset: 4, 0
+  index: -1
+bao_05
+  rotate: false
+  xy: 2, 447
+  size: 220, 160
+  orig: 244, 212
+  offset: 15, 8
+  index: -1
+bao_06
+  rotate: false
+  xy: 2, 609
+  size: 232, 165
+  orig: 244, 212
+  offset: 9, 3
+  index: -1
+bao_07
+  rotate: false
+  xy: 2, 113
+  size: 195, 139
+  orig: 244, 212
+  offset: 31, 12
+  index: -1
+bao_08
+  rotate: true
+  xy: 241, 783
+  size: 188, 134
+  orig: 244, 212
+  offset: 33, 12
+  index: -1
+bao_09
+  rotate: false
+  xy: 213, 141
+  size: 136, 134
+  orig: 244, 212
+  offset: 55, 12
+  index: -1
+bao_10
+  rotate: false
+  xy: 199, 5
+  size: 136, 134
+  orig: 244, 212
+  offset: 55, 12
+  index: -1
+magic weapon
+  rotate: false
+  xy: 2, 973
+  size: 287, 74
+  orig: 287, 74
+  offset: 0, 0
+  index: -1
+magic weapon_016
+  rotate: false
+  xy: 48, 14
+  size: 93, 97
+  orig: 94, 97
+  offset: 0, 0
+  index: -1
+magic weapon_017
+  rotate: false
+  xy: 2, 2
+  size: 44, 109
+  orig: 44, 109
+  offset: 0, 0
+  index: -1
+magic weapon_018
+  rotate: false
+  xy: 291, 975
+  size: 77, 72
+  orig: 77, 72
+  offset: 0, 0
+  index: -1
+magic weapon_019
+  rotate: false
+  xy: 143, 16
+  size: 31, 95
+  orig: 31, 95
+  offset: 0, 0
+  index: -1

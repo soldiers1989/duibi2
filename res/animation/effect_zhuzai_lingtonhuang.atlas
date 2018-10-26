@@ -1,0 +1,125 @@
+
+effect_zhuzai_lingtonhuang.png
+size: 1317,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: false
+  xy: 632, 7
+  size: 133, 125
+  orig: 173, 156
+  offset: 16, 11
+  index: -1
+bao_02
+  rotate: false
+  xy: 876, 6
+  size: 151, 142
+  orig: 173, 156
+  offset: 6, 3
+  index: -1
+bao_03
+  rotate: false
+  xy: 1050, 143
+  size: 159, 147
+  orig: 173, 156
+  offset: 2, 2
+  index: -1
+bao_04
+  rotate: false
+  xy: 702, 134
+  size: 172, 156
+  orig: 173, 156
+  offset: 1, 0
+  index: -1
+bao_05
+  rotate: false
+  xy: 2, 134
+  size: 173, 156
+  orig: 173, 156
+  offset: 0, 0
+  index: -1
+bao_06
+  rotate: false
+  xy: 177, 136
+  size: 173, 154
+  orig: 173, 156
+  offset: 0, 2
+  index: -1
+difa
+  rotate: true
+  xy: 767, 16
+  size: 116, 59
+  orig: 116, 59
+  offset: 0, 0
+  index: -1
+fashe_01
+  rotate: true
+  xy: 1029, 4
+  size: 137, 140
+  orig: 152, 190
+  offset: 10, 6
+  index: -1
+fashe_02
+  rotate: true
+  xy: 876, 150
+  size: 140, 172
+  orig: 152, 190
+  offset: 6, 0
+  index: -1
+fashe_03
+  rotate: true
+  xy: 352, 142
+  size: 148, 173
+  orig: 152, 190
+  offset: 3, 10
+  index: -1
+fashe_04
+  rotate: true
+  xy: 527, 145
+  size: 145, 173
+  orig: 152, 190
+  offset: 4, 15
+  index: -1
+fashe_05
+  rotate: false
+  xy: 352, 2
+  size: 152, 138
+  orig: 152, 190
+  offset: 0, 52
+  index: -1
+fashe_06
+  rotate: true
+  xy: 1171, 5
+  size: 135, 139
+  orig: 152, 190
+  offset: 5, 50
+  index: -1
+heitong
+  rotate: true
+  xy: 1211, 142
+  size: 148, 104
+  orig: 148, 104
+  offset: 0, 0
+  index: -1
+liang
+  rotate: false
+  xy: 506, 4
+  size: 124, 136
+  orig: 124, 136
+  offset: 0, 0
+  index: -1
+tong
+  rotate: false
+  xy: 2, 17
+  size: 160, 115
+  orig: 161, 115
+  offset: 0, 0
+  index: -1
+yanzhu
+  rotate: false
+  xy: 828, 92
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1

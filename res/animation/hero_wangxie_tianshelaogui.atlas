@@ -1,0 +1,286 @@
+
+hero_wangxie_tianshelaogui.png
+size: 1556,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: true
+  xy: 348, 11
+  size: 110, 123
+  orig: 110, 126
+  offset: 0, 1
+  index: -1
+eye
+  rotate: false
+  xy: 1338, 386
+  size: 95, 135
+  orig: 95, 135
+  offset: 0, 0
+  index: -1
+faguang
+  rotate: false
+  xy: 661, 173
+  size: 100, 348
+  orig: 133, 393
+  offset: 18, 13
+  index: -1
+head
+  rotate: false
+  xy: 1435, 386
+  size: 95, 135
+  orig: 95, 135
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: false
+  xy: 1022, 380
+  size: 40, 72
+  orig: 40, 72
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: false
+  xy: 1022, 315
+  size: 26, 63
+  orig: 26, 63
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: false
+  xy: 987, 72
+  size: 33, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+hip_04
+  rotate: true
+  xy: 872, 39
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+hulu
+  rotate: false
+  xy: 866, 100
+  size: 62, 78
+  orig: 62, 78
+  offset: 0, 0
+  index: -1
+huzi_01
+  rotate: true
+  xy: 1050, 346
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+huzi_02
+  rotate: false
+  xy: 1510, 271
+  size: 44, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1
+l_calf
+  rotate: false
+  xy: 761, 7
+  size: 60, 63
+  orig: 60, 63
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: false
+  xy: 473, 23
+  size: 122, 98
+  orig: 122, 98
+  offset: 0, 0
+  index: -1
+l_foot
+  rotate: true
+  xy: 1532, 397
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: true
+  xy: 872, 2
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: false
+  xy: 794, 94
+  size: 70, 84
+  orig: 70, 84
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: false
+  xy: 661, 135
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+l_shoulder_01
+  rotate: true
+  xy: 927, 3
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+r_calf
+  rotate: true
+  xy: 695, 9
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+r_elbow
+  rotate: false
+  xy: 695, 72
+  size: 97, 99
+  orig: 97, 99
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: false
+  xy: 327, 68
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 930, 49
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: false
+  xy: 1469, 289
+  size: 85, 95
+  orig: 85, 98
+  offset: 0, 3
+  index: -1
+r_shoulder
+  rotate: true
+  xy: 1022, 253
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+r_shoulder_01
+  rotate: true
+  xy: 823, 29
+  size: 63, 47
+  orig: 63, 47
+  offset: 0, 0
+  index: -1
+ren
+  rotate: false
+  xy: 930, 106
+  size: 75, 72
+  orig: 86, 72
+  offset: 11, 0
+  index: -1
+ren_02
+  rotate: true
+  xy: 1338, 265
+  size: 43, 101
+  orig: 94, 112
+  offset: 51, 0
+  index: -1
+texiao_01
+  rotate: false
+  xy: 1338, 310
+  size: 129, 74
+  orig: 129, 74
+  offset: 0, 0
+  index: -1
+texiao_02
+  rotate: false
+  xy: 987, 38
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+texiao_03
+  rotate: false
+  xy: 348, 123
+  size: 311, 398
+  orig: 315, 398
+  offset: 4, 0
+  index: -1
+texiaoguang
+  rotate: false
+  xy: 2, 95
+  size: 344, 426
+  orig: 413, 501
+  offset: 35, 33
+  index: -1
+weapon
+  rotate: false
+  xy: 763, 454
+  size: 301, 67
+  orig: 301, 67
+  offset: 0, 0
+  index: -1
+weapon_01
+  rotate: false
+  xy: 2, 3
+  size: 323, 90
+  orig: 396, 161
+  offset: 45, 33
+  index: -1
+wing_01
+  rotate: false
+  xy: 1441, 251
+  size: 67, 36
+  orig: 67, 36
+  offset: 0, 0
+  index: -1
+wing_02
+  rotate: true
+  xy: 1532, 431
+  size: 90, 22
+  orig: 90, 22
+  offset: 0, 0
+  index: -1
+xuanfeng_01
+  rotate: true
+  xy: 1022, 5
+  size: 244, 267
+  orig: 310, 342
+  offset: 22, 44
+  index: -1
+xuanfeng_02
+  rotate: false
+  xy: 1066, 251
+  size: 270, 270
+  orig: 310, 342
+  offset: 18, 37
+  index: -1
+xuanfeng_03
+  rotate: false
+  xy: 763, 180
+  size: 257, 272
+  orig: 310, 342
+  offset: 30, 40
+  index: -1
+xuanfeng_04
+  rotate: false
+  xy: 1291, 10
+  size: 249, 239
+  orig: 310, 342
+  offset: 19, 86
+  index: -1
+xuanzhuan_12
+  rotate: true
+  xy: 597, 19
+  size: 102, 96
+  orig: 149, 155
+  offset: 26, 29
+  index: -1

@@ -1,0 +1,237 @@
+
+hero_mukui.png
+size: 1070,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 305, 12
+  size: 46, 11
+  orig: 46, 11
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 519, 92
+  size: 102, 111
+  orig: 115, 113
+  offset: 0, 2
+  index: -1
+head
+  rotate: false
+  xy: 623, 98
+  size: 92, 105
+  orig: 92, 105
+  offset: 0, 0
+  index: -1
+head_01
+  rotate: true
+  xy: 733, 52
+  size: 74, 40
+  orig: 74, 40
+  offset: 0, 0
+  index: -1
+head_02
+  rotate: false
+  xy: 488, 91
+  size: 29, 112
+  orig: 29, 112
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: true
+  xy: 775, 52
+  size: 74, 72
+  orig: 74, 72
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: true
+  xy: 305, 77
+  size: 126, 70
+  orig: 126, 70
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: false
+  xy: 835, 137
+  size: 46, 66
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: false
+  xy: 779, 136
+  size: 54, 67
+  orig: 54, 67
+  offset: 0, 0
+  index: -1
+l_foot
+  rotate: true
+  xy: 1020, 70
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: true
+  xy: 1009, 104
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+l_knee
+  rotate: false
+  xy: 897, 78
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: true
+  xy: 519, 18
+  size: 72, 110
+  orig: 72, 110
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: false
+  xy: 717, 128
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+magic_weapon
+  rotate: false
+  xy: 2, 7
+  size: 301, 196
+  orig: 301, 196
+  offset: 0, 0
+  index: -1
+magic_weapon2
+  rotate: false
+  xy: 377, 2
+  size: 115, 79
+  orig: 115, 79
+  offset: 0, 0
+  index: -1
+r_elbow
+  rotate: false
+  xy: 695, 19
+  size: 36, 77
+  orig: 36, 77
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: true
+  xy: 1020, 40
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: true
+  xy: 969, 29
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+r_knee
+  rotate: true
+  xy: 957, 81
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: false
+  xy: 631, 16
+  size: 62, 80
+  orig: 62, 80
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: true
+  xy: 377, 83
+  size: 120, 109
+  orig: 138, 109
+  offset: 18, 0
+  index: -1
+tx1
+  rotate: false
+  xy: 967, 145
+  size: 28, 58
+  orig: 37, 59
+  offset: 0, 0
+  index: -1
+tx2_1
+  rotate: true
+  xy: 1040, 146
+  size: 57, 28
+  orig: 57, 28
+  offset: 0, 0
+  index: -1
+tx2_2
+  rotate: true
+  xy: 926, 142
+  size: 61, 39
+  orig: 63, 40
+  offset: 1, 0
+  index: -1
+tx2_3
+  rotate: true
+  xy: 883, 141
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+tx2_4
+  rotate: true
+  xy: 997, 145
+  size: 58, 41
+  orig: 58, 42
+  offset: 0, 1
+  index: -1
+tx3_1
+  rotate: false
+  xy: 849, 69
+  size: 46, 66
+  orig: 52, 70
+  offset: 3, 0
+  index: -1
+tx3_2
+  rotate: true
+  xy: 305, 25
+  size: 50, 70
+  orig: 52, 70
+  offset: 1, 0
+  index: -1
+tx3_3
+  rotate: false
+  xy: 877, 5
+  size: 46, 62
+  orig: 52, 70
+  offset: 5, 0
+  index: -1
+tx3_4
+  rotate: true
+  xy: 733, 7
+  size: 43, 70
+  orig: 52, 70
+  offset: 7, 0
+  index: -1
+tx3_5
+  rotate: true
+  xy: 805, 9
+  size: 41, 70
+  orig: 52, 70
+  offset: 6, 0
+  index: -1
+tx3_6
+  rotate: false
+  xy: 925, 15
+  size: 42, 61
+  orig: 52, 70
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+effect_tongyinuji_yuandisuiji_a.png
+size: 952,146
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_yuandi_shuiji_a_01
+  rotate: false
+  xy: 904, 101
+  size: 46, 43
+  orig: 171, 225
+  offset: 65, 27
+  index: -1
+effect_yuandi_shuiji_a_02
+  rotate: true
+  xy: 192, 29
+  size: 115, 178
+  orig: 171, 225
+  offset: 33, 24
+  index: -1
+effect_yuandi_shuiji_a_03
+  rotate: true
+  xy: 2, 5
+  size: 139, 188
+  orig: 171, 225
+  offset: 18, 19
+  index: -1
+effect_yuandi_shuiji_a_04
+  rotate: true
+  xy: 372, 11
+  size: 133, 177
+  orig: 171, 225
+  offset: 20, 17
+  index: -1
+effect_yuandi_shuiji_a_05
+  rotate: true
+  xy: 551, 10
+  size: 134, 177
+  orig: 171, 225
+  offset: 17, 17
+  index: -1
+effect_yuandi_shuiji_a_06
+  rotate: true
+  xy: 730, 2
+  size: 142, 172
+  orig: 171, 225
+  offset: 17, 16
+  index: -1

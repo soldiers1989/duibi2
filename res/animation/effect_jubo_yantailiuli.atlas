@@ -1,0 +1,216 @@
+
+effect_jubo_yantailiuli.png
+size: 2018,801
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: true
+  xy: 1855, 2
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+fushandian_01
+  rotate: true
+  xy: 1855, 89
+  size: 74, 134
+  orig: 190, 336
+  offset: 44, 194
+  index: -1
+fushandian_02
+  rotate: false
+  xy: 1105, 502
+  size: 140, 297
+  orig: 190, 336
+  offset: 34, 35
+  index: -1
+fushandian_03
+  rotate: false
+  xy: 432, 478
+  size: 190, 321
+  orig: 190, 336
+  offset: 0, 9
+  index: -1
+fushandian_04
+  rotate: false
+  xy: 430, 143
+  size: 190, 326
+  orig: 190, 336
+  offset: 0, 5
+  index: -1
+fushandian_05
+  rotate: false
+  xy: 238, 102
+  size: 190, 331
+  orig: 190, 336
+  offset: 0, 0
+  index: -1
+fushandian_06
+  rotate: false
+  xy: 240, 471
+  size: 190, 328
+  orig: 190, 336
+  offset: 0, 0
+  index: -1
+qi
+  rotate: false
+  xy: 1697, 20
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+xishou_01
+  rotate: false
+  xy: 1490, 293
+  size: 201, 251
+  orig: 374, 341
+  offset: 7, 60
+  index: -1
+xishou_02
+  rotate: true
+  xy: 1140, 8
+  size: 201, 284
+  orig: 374, 341
+  offset: 11, 57
+  index: -1
+xishou_03
+  rotate: true
+  xy: 1426, 22
+  size: 212, 269
+  orig: 374, 341
+  offset: 0, 43
+  index: -1
+xishou_04
+  rotate: false
+  xy: 1693, 326
+  size: 196, 226
+  orig: 374, 341
+  offset: 20, 53
+  index: -1
+xishou_05
+  rotate: true
+  xy: 1409, 546
+  size: 253, 245
+  orig: 374, 341
+  offset: 26, 48
+  index: -1
+xishou_06
+  rotate: true
+  xy: 2, 435
+  size: 364, 236
+  orig: 374, 341
+  offset: 10, 29
+  index: -1
+xishou_07
+  rotate: true
+  xy: 624, 482
+  size: 317, 214
+  orig: 374, 341
+  offset: 30, 46
+  index: -1
+xishou_08
+  rotate: true
+  xy: 840, 501
+  size: 298, 263
+  orig: 374, 341
+  offset: 0, 49
+  index: -1
+xishou_09
+  rotate: true
+  xy: 2, 78
+  size: 355, 234
+  orig: 374, 341
+  offset: 11, 43
+  index: -1
+xishou_10
+  rotate: true
+  xy: 622, 156
+  size: 320, 212
+  orig: 374, 341
+  offset: 21, 54
+  index: -1
+xishou_11
+  rotate: true
+  xy: 836, 166
+  size: 314, 269
+  orig: 374, 341
+  offset: 30, 39
+  index: -1
+xishou_12
+  rotate: true
+  xy: 1107, 211
+  size: 289, 243
+  orig: 374, 341
+  offset: 13, 25
+  index: -1
+xishou_13
+  rotate: true
+  xy: 1656, 554
+  size: 245, 191
+  orig: 374, 341
+  offset: 24, 45
+  index: -1
+xishou_14
+  rotate: false
+  xy: 1697, 178
+  size: 169, 146
+  orig: 374, 341
+  offset: 45, 59
+  index: -1
+xuan
+  rotate: false
+  xy: 1868, 165
+  size: 148, 159
+  orig: 148, 159
+  offset: 0, 0
+  index: -1
+zhushan_01
+  rotate: true
+  xy: 2, 5
+  size: 71, 167
+  orig: 168, 306
+  offset: 44, 134
+  index: -1
+zhushan_02
+  rotate: true
+  xy: 238, 22
+  size: 78, 302
+  orig: 168, 306
+  offset: 41, 1
+  index: -1
+zhushan_03
+  rotate: true
+  xy: 542, 7
+  size: 134, 283
+  orig: 168, 306
+  offset: 6, 17
+  index: -1
+zhushan_04
+  rotate: true
+  xy: 836, 15
+  size: 149, 302
+  orig: 168, 306
+  offset: 6, 0
+  index: -1
+zhushan_05
+  rotate: false
+  xy: 1247, 516
+  size: 160, 283
+  orig: 168, 306
+  offset: 8, 20
+  index: -1
+zhushan_06
+  rotate: false
+  xy: 1352, 236
+  size: 136, 278
+  orig: 168, 306
+  offset: 5, 27
+  index: -1
+zhushan_07
+  rotate: false
+  xy: 1849, 599
+  size: 139, 200
+  orig: 168, 306
+  offset: 4, 73
+  index: -1

@@ -1,0 +1,83 @@
+
+effect_wangxie_mobeizhizun.png
+size: 1356,186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: true
+  xy: 1211, 12
+  size: 82, 77
+  orig: 204, 202
+  offset: 62, 16
+  index: -1
+bao_02
+  rotate: true
+  xy: 1211, 96
+  size: 88, 95
+  orig: 204, 202
+  offset: 58, 19
+  index: -1
+bao_03
+  rotate: false
+  xy: 1071, 34
+  size: 138, 150
+  orig: 204, 202
+  offset: 33, 16
+  index: -1
+bao_04
+  rotate: true
+  xy: 595, 3
+  size: 181, 165
+  orig: 204, 202
+  offset: 11, 13
+  index: -1
+bao_05
+  rotate: true
+  xy: 414, 2
+  size: 182, 179
+  orig: 204, 202
+  offset: 10, 12
+  index: -1
+bao_06
+  rotate: false
+  xy: 873, 16
+  size: 64, 168
+  orig: 204, 202
+  offset: 70, 26
+  index: -1
+ding
+  rotate: true
+  xy: 762, 15
+  size: 169, 109
+  orig: 169, 109
+  offset: 0, 0
+  index: -1
+guang_01
+  rotate: false
+  xy: 939, 24
+  size: 130, 160
+  orig: 192, 227
+  offset: 32, 53
+  index: -1
+guang_02
+  rotate: true
+  xy: 210, 31
+  size: 153, 202
+  orig: 192, 227
+  offset: 20, 9
+  index: -1
+guang_03
+  rotate: true
+  xy: 2, 6
+  size: 178, 206
+  orig: 192, 227
+  offset: 7, 11
+  index: -1
+qiu
+  rotate: false
+  xy: 1290, 30
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

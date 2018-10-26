@@ -1,0 +1,258 @@
+
+hero_zhuzai_lingxi.png
+size: 984,211
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi
+  rotate: true
+  xy: 193, 3
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+chest
+  rotate: true
+  xy: 627, 12
+  size: 70, 91
+  orig: 70, 91
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 599, 84
+  size: 125, 104
+  orig: 125, 104
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 123, 18
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: true
+  xy: 939, 90
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: true
+  xy: 503, 3
+  size: 13, 44
+  orig: 13, 44
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: true
+  xy: 941, 149
+  size: 16, 41
+  orig: 17, 41
+  offset: 1, 0
+  index: -1
+hair_04
+  rotate: false
+  xy: 246, 3
+  size: 180, 206
+  orig: 180, 206
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 705, 85
+  size: 124, 103
+  orig: 124, 103
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: false
+  xy: 870, 8
+  size: 27, 64
+  orig: 27, 64
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: false
+  xy: 506, 77
+  size: 91, 132
+  orig: 91, 132
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: true
+  xy: 899, 11
+  size: 61, 27
+  orig: 61, 27
+  offset: 0, 0
+  index: -1
+hip_04
+  rotate: false
+  xy: 2, 56
+  size: 242, 153
+  orig: 242, 153
+  offset: 0, 0
+  index: -1
+hudie
+  rotate: false
+  xy: 844, 131
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+hudie_01
+  rotate: true
+  xy: 85, 16
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+hudie_02
+  rotate: false
+  xy: 156, 18
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+hudie_03
+  rotate: false
+  xy: 2, 6
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+hudie_04
+  rotate: true
+  xy: 810, 177
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+hudie_05
+  rotate: false
+  xy: 941, 167
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+l_calf
+  rotate: false
+  xy: 763, 12
+  size: 38, 71
+  orig: 38, 71
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: true
+  xy: 428, 46
+  size: 163, 76
+  orig: 163, 76
+  offset: 0, 0
+  index: -1
+l_foot
+  rotate: true
+  xy: 193, 27
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 845, 184
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: true
+  xy: 428, 4
+  size: 40, 73
+  orig: 40, 73
+  offset: 0, 0
+  index: -1
+l_mimi
+  rotate: false
+  xy: 810, 148
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: true
+  xy: 928, 9
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+nuji
+  rotate: true
+  xy: 870, 142
+  size: 67, 69
+  orig: 67, 70
+  offset: 0, 0
+  index: -1
+nuji2
+  rotate: false
+  xy: 803, 13
+  size: 65, 70
+  orig: 118, 103
+  offset: 26, 19
+  index: -1
+pugong
+  rotate: true
+  xy: 870, 74
+  size: 66, 67
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+r_calf
+  rotate: true
+  xy: 51, 9
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+r_elbow
+  rotate: false
+  xy: 506, 18
+  size: 119, 57
+  orig: 119, 57
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: false
+  xy: 845, 157
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: true
+  xy: 222, 2
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: false
+  xy: 720, 11
+  size: 41, 72
+  orig: 41, 72
+  offset: 0, 0
+  index: -1
+r_mimi
+  rotate: true
+  xy: 810, 123
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: true
+  xy: 928, 42
+  size: 30, 54
+  orig: 30, 54
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+effect_ui_renwujinjie.png
+size: 1195,318
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fa_01
+  rotate: true
+  xy: 1082, 56
+  size: 64, 70
+  orig: 168, 140
+  offset: 48, 29
+  index: -1
+fa_02
+  rotate: true
+  xy: 962, 193
+  size: 123, 120
+  orig: 168, 140
+  offset: 18, 0
+  index: -1
+fa_03
+  rotate: true
+  xy: 691, 171
+  size: 145, 140
+  orig: 168, 140
+  offset: 11, 0
+  index: -1
+fa_04
+  rotate: false
+  xy: 350, 3
+  size: 167, 138
+  orig: 168, 140
+  offset: 0, 0
+  index: -1
+fa_05
+  rotate: false
+  xy: 2, 2
+  size: 168, 133
+  orig: 168, 140
+  offset: 0, 7
+  index: -1
+fa_06
+  rotate: false
+  xy: 172, 13
+  size: 168, 122
+  orig: 168, 140
+  offset: 0, 14
+  index: -1
+guang
+  rotate: false
+  xy: 525, 152
+  size: 164, 164
+  orig: 164, 165
+  offset: 0, 0
+  index: -1
+guanga
+  rotate: true
+  xy: 2, 137
+  size: 179, 172
+  orig: 180, 179
+  offset: 0, 1
+  index: -1
+guangan
+  rotate: true
+  xy: 176, 137
+  size: 179, 172
+  orig: 180, 179
+  offset: 0, 1
+  index: -1
+guangquan
+  rotate: false
+  xy: 350, 143
+  size: 173, 173
+  orig: 353, 353
+  offset: 91, 88
+  index: -1
+xishou_01
+  rotate: false
+  xy: 1084, 122
+  size: 81, 79
+  orig: 148, 147
+  offset: 33, 34
+  index: -1
+xishou_02
+  rotate: false
+  xy: 815, 34
+  size: 135, 135
+  orig: 148, 147
+  offset: 6, 6
+  index: -1
+xishou_03
+  rotate: true
+  xy: 525, 2
+  size: 148, 141
+  orig: 148, 147
+  offset: 0, 4
+  index: -1
+xishou_04
+  rotate: false
+  xy: 668, 3
+  size: 145, 147
+  orig: 148, 147
+  offset: 1, 0
+  index: -1
+xishou_05
+  rotate: true
+  xy: 833, 183
+  size: 133, 127
+  orig: 148, 147
+  offset: 7, 10
+  index: -1
+xishou_06
+  rotate: false
+  xy: 952, 53
+  size: 128, 128
+  orig: 148, 147
+  offset: 10, 9
+  index: -1
+xishou_07
+  rotate: true
+  xy: 1084, 203
+  size: 113, 109
+  orig: 148, 147
+  offset: 18, 17
+  index: -1

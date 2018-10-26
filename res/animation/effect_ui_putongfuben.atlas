@@ -1,0 +1,27 @@
+
+effect_ui_putongfuben.png
+size: 240,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuxian_01
+  rotate: true
+  xy: 2, 2
+  size: 96, 74
+  orig: 96, 90
+  offset: 0, 13
+  index: -1
+chuxian_02
+  rotate: true
+  xy: 78, 2
+  size: 96, 86
+  orig: 96, 90
+  offset: 0, 4
+  index: -1
+chuxian_03
+  rotate: true
+  xy: 166, 2
+  size: 96, 72
+  orig: 96, 90
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+effect_zhuzai_pugong_mantuluo.png
+size: 814,122
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: false
+  xy: 283, 4
+  size: 116, 116
+  orig: 127, 118
+  offset: 5, 0
+  index: -1
+bao_02
+  rotate: false
+  xy: 154, 2
+  size: 127, 118
+  orig: 127, 118
+  offset: 0, 0
+  index: -1
+bao_03
+  rotate: false
+  xy: 507, 17
+  size: 103, 103
+  orig: 127, 118
+  offset: 15, 0
+  index: -1
+bao_04
+  rotate: false
+  xy: 612, 17
+  size: 103, 103
+  orig: 127, 118
+  offset: 15, 0
+  index: -1
+bao_05
+  rotate: true
+  xy: 717, 17
+  size: 103, 95
+  orig: 127, 118
+  offset: 15, 7
+  index: -1
+bao_06
+  rotate: false
+  xy: 401, 23
+  size: 104, 97
+  orig: 127, 118
+  offset: 14, 6
+  index: -1
+jian
+  rotate: true
+  xy: 2, 87
+  size: 33, 150
+  orig: 33, 152
+  offset: 0, 2
+  index: -1

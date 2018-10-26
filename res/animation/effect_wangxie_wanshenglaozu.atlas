@@ -1,0 +1,167 @@
+
+effect_wangxie_wanshenglaozu.png
+size: 574,1030
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: false
+  xy: 75, 168
+  size: 128, 127
+  orig: 212, 162
+  offset: 40, 13
+  index: -1
+bao_02
+  rotate: true
+  xy: 455, 270
+  size: 138, 116
+  orig: 212, 162
+  offset: 33, 15
+  index: -1
+bao_03
+  rotate: true
+  xy: 433, 410
+  size: 148, 109
+  orig: 212, 162
+  offset: 32, 17
+  index: -1
+bao_04
+  rotate: true
+  xy: 334, 398
+  size: 156, 97
+  orig: 212, 162
+  offset: 28, 16
+  index: -1
+bao_05
+  rotate: false
+  xy: 163, 301
+  size: 158, 98
+  orig: 212, 162
+  offset: 37, 16
+  index: -1
+bao_06
+  rotate: true
+  xy: 75, 297
+  size: 159, 86
+  orig: 212, 162
+  offset: 37, 15
+  index: -1
+bao_07
+  rotate: true
+  xy: 524, 942
+  size: 86, 35
+  orig: 212, 162
+  offset: 113, 27
+  index: -1
+liangzhang
+  rotate: false
+  xy: 2, 222
+  size: 71, 234
+  orig: 71, 234
+  offset: 0, 0
+  index: -1
+shan_01
+  rotate: false
+  xy: 455, 143
+  size: 117, 125
+  orig: 117, 125
+  offset: 0, 0
+  index: -1
+shan_02
+  rotate: false
+  xy: 195, 41
+  size: 117, 125
+  orig: 117, 125
+  offset: 0, 0
+  index: -1
+shitou
+  rotate: false
+  xy: 314, 16
+  size: 116, 114
+  orig: 116, 114
+  offset: 0, 0
+  index: -1
+xiaobao_01
+  rotate: false
+  xy: 314, 132
+  size: 98, 122
+  orig: 194, 312
+  offset: 45, 31
+  index: -1
+xiaobao_02
+  rotate: false
+  xy: 2, 722
+  size: 160, 306
+  orig: 194, 312
+  offset: 2, 6
+  index: -1
+xiaobao_03
+  rotate: false
+  xy: 2, 458
+  size: 169, 262
+  orig: 194, 312
+  offset: 1, 17
+  index: -1
+xiaobao_04
+  rotate: false
+  xy: 164, 746
+  size: 180, 282
+  orig: 194, 312
+  offset: 0, 10
+  index: -1
+xiaobao_05
+  rotate: false
+  xy: 346, 748
+  size: 176, 280
+  orig: 194, 312
+  offset: 12, 12
+  index: -1
+xiaobao_06
+  rotate: false
+  xy: 363, 560
+  size: 182, 186
+  orig: 194, 312
+  offset: 10, 10
+  index: -1
+xiaobao_07
+  rotate: false
+  xy: 173, 556
+  size: 188, 188
+  orig: 194, 312
+  offset: 6, 11
+  index: -1
+xiaobao_08
+  rotate: true
+  xy: 173, 401
+  size: 153, 159
+  orig: 194, 312
+  offset: 6, 42
+  index: -1
+xiaobao_09
+  rotate: false
+  xy: 323, 256
+  size: 130, 140
+  orig: 194, 312
+  offset: 6, 65
+  index: -1
+xiaobao_10
+  rotate: false
+  xy: 66, 48
+  size: 127, 118
+  orig: 194, 312
+  offset: 5, 88
+  index: -1
+xiaobao_11
+  rotate: true
+  xy: 205, 176
+  size: 123, 104
+  orig: 194, 312
+  offset: 4, 103
+  index: -1
+zhang
+  rotate: false
+  xy: 2, 2
+  size: 62, 218
+  orig: 62, 218
+  offset: 0, 0
+  index: -1

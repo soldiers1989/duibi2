@@ -1,0 +1,97 @@
+
+effect_jubo_pugong_yuancheng_b.png
+size: 1506,117
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_juqing_pugong_yuancheng_b_01
+  rotate: false
+  xy: 946, 19
+  size: 117, 96
+  orig: 183, 122
+  offset: 23, 13
+  index: -1
+effect_juqing_pugong_yuancheng_b_02
+  rotate: false
+  xy: 806, 15
+  size: 138, 100
+  orig: 183, 122
+  offset: 10, 8
+  index: -1
+effect_juqing_pugong_yuancheng_b_03
+  rotate: false
+  xy: 496, 10
+  size: 155, 105
+  orig: 183, 122
+  offset: 6, 4
+  index: -1
+effect_juqing_pugong_yuancheng_b_04
+  rotate: false
+  xy: 336, 13
+  size: 158, 102
+  orig: 183, 122
+  offset: 6, 8
+  index: -1
+effect_juqing_pugong_yuancheng_b_05
+  rotate: false
+  xy: 653, 9
+  size: 151, 106
+  orig: 183, 122
+  offset: 15, 4
+  index: -1
+effect_juqing_pugong_yuancheng_b_06
+  rotate: false
+  xy: 174, 2
+  size: 160, 113
+  orig: 183, 122
+  offset: 15, 2
+  index: -1
+effect_juqing_pugong_yuancheng_b_07
+  rotate: false
+  xy: 2, 3
+  size: 170, 112
+  orig: 183, 122
+  offset: 9, 2
+  index: -1
+effect_juqing_pugong_yuancheng_b_qiu_01
+  rotate: true
+  xy: 1429, 14
+  size: 33, 73
+  orig: 44, 86
+  offset: 8, 3
+  index: -1
+huiji_01
+  rotate: true
+  xy: 1065, 17
+  size: 98, 89
+  orig: 100, 97
+  offset: 0, 3
+  index: -1
+huiji_02
+  rotate: true
+  xy: 1156, 21
+  size: 94, 88
+  orig: 100, 97
+  offset: 1, 0
+  index: -1
+huiji_03
+  rotate: true
+  xy: 1246, 21
+  size: 94, 90
+  orig: 100, 97
+  offset: 4, 5
+  index: -1
+huiji_04
+  rotate: false
+  xy: 1338, 26
+  size: 89, 89
+  orig: 100, 97
+  offset: 11, 8
+  index: -1
+huiji_05
+  rotate: true
+  xy: 1429, 49
+  size: 66, 75
+  orig: 100, 97
+  offset: 15, 9
+  index: -1

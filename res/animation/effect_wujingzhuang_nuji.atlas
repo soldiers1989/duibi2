@@ -1,0 +1,111 @@
+
+effect_wujingzhuang_nuji.png
+size: 1359,213
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx7
+  rotate: false
+  xy: 588, 23
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+tx8_0001
+  rotate: true
+  xy: 2, 4
+  size: 105, 236
+  orig: 144, 277
+  offset: 13, 36
+  index: -1
+tx8_0002
+  rotate: true
+  xy: 240, 18
+  size: 91, 235
+  orig: 144, 277
+  offset: 21, 38
+  index: -1
+tx8_0003
+  rotate: true
+  xy: 2, 111
+  size: 100, 237
+  orig: 144, 277
+  offset: 17, 33
+  index: -1
+tx8_0004
+  rotate: true
+  xy: 241, 119
+  size: 92, 209
+  orig: 144, 277
+  offset: 23, 39
+  index: -1
+tx8_0005
+  rotate: false
+  xy: 1027, 16
+  size: 102, 195
+  orig: 144, 277
+  offset: 20, 35
+  index: -1
+tx8_0006
+  rotate: false
+  xy: 1131, 17
+  size: 109, 194
+  orig: 144, 277
+  offset: 18, 40
+  index: -1
+tx8_0007
+  rotate: false
+  xy: 915, 9
+  size: 110, 202
+  orig: 144, 277
+  offset: 17, 40
+  index: -1
+tx8_0008
+  rotate: false
+  xy: 809, 6
+  size: 104, 205
+  orig: 144, 277
+  offset: 20, 50
+  index: -1
+tx8_0009
+  rotate: false
+  xy: 693, 2
+  size: 114, 209
+  orig: 144, 277
+  offset: 15, 49
+  index: -1
+tx8_0010
+  rotate: true
+  xy: 477, 93
+  size: 118, 214
+  orig: 144, 277
+  offset: 13, 44
+  index: -1
+tx8_0011
+  rotate: false
+  xy: 1242, 60
+  size: 115, 151
+  orig: 144, 277
+  offset: 15, 42
+  index: -1
+tx8_0012
+  rotate: false
+  xy: 1242, 14
+  size: 109, 44
+  orig: 144, 277
+  offset: 18, 42
+  index: -1
+tx8_0013
+  rotate: false
+  xy: 477, 47
+  size: 109, 44
+  orig: 144, 277
+  offset: 18, 42
+  index: -1
+tx8_0014
+  rotate: false
+  xy: 588, 49
+  size: 95, 42
+  orig: 144, 277
+  offset: 24, 43
+  index: -1

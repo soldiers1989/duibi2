@@ -1,0 +1,510 @@
+
+effect_duanwudnan_pugong.png
+size: 2033,956
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chufa_add_0003
+  rotate: true
+  xy: 962, 63
+  size: 83, 23
+  orig: 168, 248
+  offset: 42, 18
+  index: -1
+chufa_add_0004
+  rotate: false
+  xy: 2, 263
+  size: 97, 220
+  orig: 168, 248
+  offset: 35, 11
+  index: -1
+chufa_add_0005
+  rotate: false
+  xy: 2, 714
+  size: 151, 240
+  orig: 168, 248
+  offset: 9, 6
+  index: -1
+chufa_add_0006
+  rotate: false
+  xy: 155, 714
+  size: 155, 240
+  orig: 168, 248
+  offset: 7, 4
+  index: -1
+chufa_add_0007
+  rotate: false
+  xy: 1612, 742
+  size: 155, 212
+  orig: 168, 248
+  offset: 7, 4
+  index: -1
+chufa_add_0008
+  rotate: false
+  xy: 1290, 736
+  size: 159, 218
+  orig: 168, 248
+  offset: 5, 2
+  index: -1
+chufa_add_0009
+  rotate: false
+  xy: 964, 732
+  size: 161, 222
+  orig: 168, 248
+  offset: 3, 2
+  index: -1
+chufa_add_0010
+  rotate: false
+  xy: 638, 729
+  size: 161, 225
+  orig: 168, 248
+  offset: 3, 1
+  index: -1
+chufa_add_0011
+  rotate: false
+  xy: 312, 728
+  size: 161, 226
+  orig: 168, 248
+  offset: 3, 1
+  index: -1
+chufa_add_0012
+  rotate: false
+  xy: 2, 485
+  size: 160, 227
+  orig: 168, 248
+  offset: 4, 1
+  index: -1
+chufa_add_0013
+  rotate: false
+  xy: 692, 520
+  size: 133, 207
+  orig: 168, 248
+  offset: 23, 19
+  index: -1
+chufa_add_0014
+  rotate: false
+  xy: 1926, 772
+  size: 93, 182
+  orig: 168, 248
+  offset: 22, 42
+  index: -1
+chufa_add_0015
+  rotate: true
+  xy: 687, 284
+  size: 40, 127
+  orig: 168, 248
+  offset: 72, 43
+  index: -1
+chufa_add_0016
+  rotate: true
+  xy: 2, 16
+  size: 41, 123
+  orig: 168, 248
+  offset: 72, 40
+  index: -1
+chufa_add_0017
+  rotate: false
+  xy: 1991, 286
+  size: 40, 101
+  orig: 168, 248
+  offset: 73, 39
+  index: -1
+chufa_nol_0005
+  rotate: true
+  xy: 1984, 570
+  size: 97, 44
+  orig: 168, 248
+  offset: 35, 14
+  index: -1
+chufa_nol_0006
+  rotate: false
+  xy: 2, 59
+  size: 151, 202
+  orig: 168, 248
+  offset: 9, 6
+  index: -1
+chufa_nol_0008
+  rotate: false
+  xy: 1769, 742
+  size: 155, 212
+  orig: 168, 248
+  offset: 7, 4
+  index: -1
+chufa_nol_0009
+  rotate: false
+  xy: 1451, 736
+  size: 159, 218
+  orig: 168, 248
+  offset: 5, 2
+  index: -1
+chufa_nol_0010
+  rotate: false
+  xy: 1127, 732
+  size: 161, 222
+  orig: 168, 248
+  offset: 3, 2
+  index: -1
+chufa_nol_0011
+  rotate: false
+  xy: 801, 729
+  size: 161, 225
+  orig: 168, 248
+  offset: 3, 1
+  index: -1
+chufa_nol_0012
+  rotate: false
+  xy: 475, 728
+  size: 161, 226
+  orig: 168, 248
+  offset: 3, 1
+  index: -1
+chufa_nol_0013
+  rotate: false
+  xy: 358, 515
+  size: 131, 211
+  orig: 168, 248
+  offset: 24, 17
+  index: -1
+chufa_nol_0014
+  rotate: false
+  xy: 827, 521
+  size: 133, 206
+  orig: 168, 248
+  offset: 23, 19
+  index: -1
+chufa_nol_0015
+  rotate: true
+  xy: 341, 10
+  size: 93, 182
+  orig: 168, 248
+  offset: 22, 42
+  index: -1
+chufa_nol_0016
+  rotate: true
+  xy: 687, 242
+  size: 40, 127
+  orig: 168, 248
+  offset: 72, 43
+  index: -1
+chufa_nol_0017
+  rotate: false
+  xy: 1233, 607
+  size: 41, 123
+  orig: 168, 248
+  offset: 72, 40
+  index: -1
+chufa_nol_0018
+  rotate: false
+  xy: 1984, 669
+  size: 41, 101
+  orig: 168, 248
+  offset: 72, 39
+  index: -1
+shui_add_0001
+  rotate: false
+  xy: 1354, 3
+  size: 126, 63
+  orig: 240, 240
+  offset: 37, 14
+  index: -1
+shui_add_0002
+  rotate: false
+  xy: 155, 2
+  size: 165, 86
+  orig: 240, 240
+  offset: 40, 13
+  index: -1
+shui_add_0003
+  rotate: true
+  xy: 677, 326
+  size: 188, 137
+  orig: 240, 240
+  offset: 39, 20
+  index: -1
+shui_add_0004
+  rotate: true
+  xy: 1727, 376
+  size: 178, 149
+  orig: 240, 240
+  offset: 50, 21
+  index: -1
+shui_add_0005
+  rotate: true
+  xy: 1878, 389
+  size: 166, 151
+  orig: 240, 240
+  offset: 64, 22
+  index: -1
+shui_add_0006
+  rotate: false
+  xy: 530, 170
+  size: 155, 146
+  orig: 240, 240
+  offset: 73, 27
+  index: -1
+shui_add_0007
+  rotate: true
+  xy: 684, 7
+  size: 139, 141
+  orig: 240, 240
+  offset: 89, 32
+  index: -1
+shui_add_0008
+  rotate: false
+  xy: 1002, 188
+  size: 177, 175
+  orig: 240, 240
+  offset: 46, 33
+  index: -1
+shui_add_0009
+  rotate: true
+  xy: 164, 500
+  size: 212, 192
+  orig: 240, 240
+  offset: 28, 36
+  index: -1
+shui_add_0010
+  rotate: true
+  xy: 491, 516
+  size: 210, 199
+  orig: 240, 240
+  offset: 10, 35
+  index: -1
+shui_add_0011
+  rotate: false
+  xy: 1681, 214
+  size: 164, 160
+  orig: 240, 240
+  offset: 54, 29
+  index: -1
+shui_add_0012
+  rotate: false
+  xy: 1360, 68
+  size: 171, 167
+  orig: 240, 240
+  offset: 44, 28
+  index: -1
+shui_add_0013
+  rotate: false
+  xy: 1181, 201
+  size: 177, 172
+  orig: 240, 240
+  offset: 35, 26
+  index: -1
+shui_add_0014
+  rotate: false
+  xy: 1290, 558
+  size: 182, 176
+  orig: 240, 240
+  offset: 30, 25
+  index: -1
+shui_add_0015
+  rotate: true
+  xy: 1364, 375
+  size: 181, 178
+  orig: 240, 240
+  offset: 20, 24
+  index: -1
+shui_add_0016
+  rotate: false
+  xy: 964, 549
+  size: 182, 181
+  orig: 240, 240
+  offset: 19, 23
+  index: -1
+shui_add_0017
+  rotate: false
+  xy: 1800, 557
+  size: 182, 183
+  orig: 240, 240
+  offset: 19, 21
+  index: -1
+shui_add_0018
+  rotate: true
+  xy: 816, 332
+  size: 186, 184
+  orig: 240, 240
+  offset: 19, 18
+  index: -1
+shui_add_0019
+  rotate: true
+  xy: 155, 90
+  size: 192, 184
+  orig: 240, 240
+  offset: 14, 17
+  index: -1
+shui_add_0020
+  rotate: true
+  xy: 383, 317
+  size: 196, 145
+  orig: 240, 240
+  offset: 12, 15
+  index: -1
+shui_add_0021
+  rotate: true
+  xy: 101, 284
+  size: 199, 139
+  orig: 240, 240
+  offset: 10, 15
+  index: -1
+shui_add_0022
+  rotate: true
+  xy: 525, 3
+  size: 24, 78
+  orig: 240, 240
+  offset: 110, 58
+  index: -1
+shui_alpha_0001
+  rotate: false
+  xy: 687, 177
+  size: 127, 63
+  orig: 240, 240
+  offset: 37, 14
+  index: -1
+shui_alpha_0002
+  rotate: true
+  xy: 1148, 565
+  size: 165, 83
+  orig: 240, 240
+  offset: 40, 16
+  index: -1
+shui_alpha_0003
+  rotate: false
+  xy: 1360, 237
+  size: 177, 136
+  orig: 240, 240
+  offset: 50, 21
+  index: -1
+shui_alpha_0004
+  rotate: true
+  xy: 1533, 69
+  size: 166, 146
+  orig: 240, 240
+  offset: 62, 24
+  index: -1
+shui_alpha_0005
+  rotate: true
+  xy: 1847, 53
+  size: 157, 142
+  orig: 240, 240
+  offset: 69, 28
+  index: -1
+shui_alpha_0006
+  rotate: false
+  xy: 1539, 237
+  size: 140, 136
+  orig: 240, 240
+  offset: 86, 34
+  index: -1
+shui_alpha_0007
+  rotate: false
+  xy: 827, 8
+  size: 133, 138
+  orig: 240, 240
+  offset: 92, 34
+  index: -1
+shui_alpha_0008
+  rotate: false
+  xy: 527, 29
+  size: 155, 139
+  orig: 240, 240
+  offset: 66, 35
+  index: -1
+shui_alpha_0009
+  rotate: true
+  xy: 1474, 572
+  size: 162, 134
+  orig: 240, 240
+  offset: 58, 36
+  index: -1
+shui_alpha_0010
+  rotate: true
+  xy: 1847, 212
+  size: 162, 135
+  orig: 240, 240
+  offset: 56, 35
+  index: -1
+shui_alpha_0011
+  rotate: false
+  xy: 1681, 52
+  size: 164, 160
+  orig: 240, 240
+  offset: 54, 29
+  index: -1
+shui_alpha_0012
+  rotate: false
+  xy: 1181, 32
+  size: 171, 167
+  orig: 240, 240
+  offset: 44, 28
+  index: -1
+shui_alpha_0013
+  rotate: false
+  xy: 1001, 14
+  size: 177, 172
+  orig: 240, 240
+  offset: 35, 26
+  index: -1
+shui_alpha_0014
+  rotate: true
+  xy: 1002, 365
+  size: 182, 176
+  orig: 240, 240
+  offset: 30, 25
+  index: -1
+shui_alpha_0015
+  rotate: false
+  xy: 1544, 376
+  size: 181, 178
+  orig: 240, 240
+  offset: 20, 24
+  index: -1
+shui_alpha_0016
+  rotate: false
+  xy: 1180, 375
+  size: 182, 181
+  orig: 240, 240
+  offset: 19, 23
+  index: -1
+shui_alpha_0017
+  rotate: true
+  xy: 816, 148
+  size: 182, 183
+  orig: 240, 240
+  offset: 19, 21
+  index: -1
+shui_alpha_0018
+  rotate: false
+  xy: 1612, 556
+  size: 186, 184
+  orig: 240, 240
+  offset: 19, 18
+  index: -1
+shui_alpha_0019
+  rotate: true
+  xy: 341, 105
+  size: 192, 184
+  orig: 240, 240
+  offset: 14, 17
+  index: -1
+shui_alpha_0020
+  rotate: true
+  xy: 530, 318
+  size: 196, 145
+  orig: 240, 240
+  offset: 12, 15
+  index: -1
+shui_alpha_0021
+  rotate: true
+  xy: 242, 299
+  size: 199, 139
+  orig: 240, 240
+  offset: 10, 15
+  index: -1
+shui_alpha_0022
+  rotate: true
+  xy: 1180, 6
+  size: 24, 78
+  orig: 240, 240
+  offset: 110, 58
+  index: -1

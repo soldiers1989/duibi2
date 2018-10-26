@@ -1,0 +1,314 @@
+
+hero_jiangya.png
+size: 1224,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: false
+  xy: 773, 55
+  size: 86, 103
+  orig: 86, 103
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 1192, 127
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 838, 164
+  size: 87, 103
+  orig: 87, 104
+  offset: 0, 0
+  index: -1
+head_01
+  rotate: false
+  xy: 1053, 197
+  size: 41, 70
+  orig: 41, 70
+  offset: 0, 0
+  index: -1
+head_02
+  rotate: true
+  xy: 376, 39
+  size: 228, 205
+  orig: 228, 205
+  offset: 0, 0
+  index: -1
+head_04
+  rotate: false
+  xy: 583, 140
+  size: 119, 127
+  orig: 119, 127
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 1050, 6
+  size: 69, 76
+  orig: 69, 76
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: false
+  xy: 1028, 84
+  size: 64, 88
+  orig: 64, 88
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: false
+  xy: 1011, 174
+  size: 40, 93
+  orig: 40, 93
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: false
+  xy: 583, 12
+  size: 110, 126
+  orig: 110, 126
+  offset: 0, 0
+  index: -1
+hip_04
+  rotate: true
+  xy: 140, 2
+  size: 46, 110
+  orig: 46, 110
+  offset: 0, 0
+  index: -1
+hip_05
+  rotate: false
+  xy: 1096, 203
+  size: 44, 64
+  orig: 44, 64
+  offset: 0, 0
+  index: -1
+l_ leg
+  rotate: true
+  xy: 956, 3
+  size: 65, 92
+  orig: 65, 92
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: true
+  xy: 1094, 126
+  size: 54, 42
+  orig: 54, 42
+  offset: 0, 0
+  index: -1
+l_foot
+  rotate: false
+  xy: 505, 2
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: true
+  xy: 1121, 42
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+l_hand02
+  rotate: false
+  xy: 1190, 84
+  size: 31, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+l_knee
+  rotate: false
+  xy: 950, 169
+  size: 59, 98
+  orig: 59, 98
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: true
+  xy: 76, 5
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+l_shoulder_01
+  rotate: false
+  xy: 1138, 132
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1
+l_shoulder_02
+  rotate: false
+  xy: 1142, 227
+  size: 62, 40
+  orig: 62, 40
+  offset: 0, 0
+  index: -1
+l_shoulder_03
+  rotate: false
+  xy: 1094, 88
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: -1
+longweapon
+  rotate: true
+  xy: 2, 134
+  size: 133, 372
+  orig: 133, 372
+  offset: 0, 0
+  index: -1
+r_ leg
+  rotate: false
+  xy: 956, 70
+  size: 70, 97
+  orig: 70, 97
+  offset: 0, 0
+  index: -1
+r_elbow
+  rotate: true
+  xy: 1142, 177
+  size: 48, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: false
+  xy: 1121, 2
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 1147, 86
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+r_knee
+  rotate: false
+  xy: 769, 160
+  size: 67, 107
+  orig: 67, 107
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: true
+  xy: 861, 5
+  size: 53, 71
+  orig: 53, 71
+  offset: 0, 0
+  index: -1
+r_shoulder_01
+  rotate: true
+  xy: 861, 60
+  size: 102, 93
+  orig: 102, 93
+  offset: 0, 0
+  index: -1
+r_shoulder_02
+  rotate: true
+  xy: 1162, 4
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+r_shoulder_03
+  rotate: false
+  xy: 448, 6
+  size: 55, 31
+  orig: 55, 31
+  offset: 0, 0
+  index: -1
+ribbno_01
+  rotate: false
+  xy: 927, 165
+  size: 21, 102
+  orig: 21, 102
+  offset: 0, 0
+  index: -1
+ribbno_02
+  rotate: true
+  xy: 773, 2
+  size: 51, 74
+  orig: 51, 74
+  offset: 0, 0
+  index: -1
+ribbno_03
+  rotate: false
+  xy: 2, 7
+  size: 72, 29
+  orig: 72, 29
+  offset: 0, 0
+  index: -1
+tx1
+  rotate: true
+  xy: 704, 156
+  size: 111, 63
+  orig: 111, 79
+  offset: 0, 16
+  index: -1
+tx3_1
+  rotate: false
+  xy: 376, 15
+  size: 70, 22
+  orig: 132, 96
+  offset: 14, 38
+  index: -1
+tx3_2
+  rotate: false
+  xy: 1053, 182
+  size: 69, 13
+  orig: 132, 96
+  offset: 27, 43
+  index: -1
+tx3_3
+  rotate: false
+  xy: 376, 3
+  size: 59, 7
+  orig: 132, 96
+  offset: 36, 46
+  index: -1
+tx3_4
+  rotate: true
+  xy: 849, 3
+  size: 50, 6
+  orig: 132, 96
+  offset: 44, 47
+  index: -1
+tx4_1
+  rotate: false
+  xy: 277, 3
+  size: 97, 129
+  orig: 108, 138
+  offset: 11, 9
+  index: -1
+tx4_2
+  rotate: true
+  xy: 2, 38
+  size: 94, 136
+  orig: 108, 138
+  offset: 14, 2
+  index: -1
+tx4_3
+  rotate: true
+  xy: 140, 50
+  size: 82, 135
+  orig: 108, 138
+  offset: 26, 0
+  index: -1
+tx4_4
+  rotate: false
+  xy: 695, 12
+  size: 76, 126
+  orig: 108, 138
+  offset: 30, 3
+  index: -1

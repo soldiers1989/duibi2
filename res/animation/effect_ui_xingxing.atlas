@@ -1,0 +1,20 @@
+
+effect_ui_xingxing.png
+size: 58,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xingxing
+  rotate: false
+  xy: 2, 59
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+xingxingliang
+  rotate: false
+  xy: 2, 2
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1

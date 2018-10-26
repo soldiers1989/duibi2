@@ -1,0 +1,181 @@
+
+hero_shenhe.png
+size: 872,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_wing
+  rotate: true
+  xy: 479, 92
+  size: 111, 225
+  orig: 111, 225
+  offset: 0, 0
+  index: -1
+chest01
+  rotate: false
+  xy: 249, 114
+  size: 228, 89
+  orig: 228, 89
+  offset: 0, 0
+  index: -1
+chest02
+  rotate: true
+  xy: 706, 37
+  size: 54, 103
+  orig: 54, 103
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 811, 41
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+foot
+  rotate: true
+  xy: 780, 3
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 813, 125
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+head_01
+  rotate: true
+  xy: 813, 98
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 249, 4
+  size: 63, 104
+  orig: 63, 104
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: true
+  xy: 814, 185
+  size: 18, 48
+  orig: 18, 48
+  offset: 0, 0
+  index: -1
+mouth_01
+  rotate: false
+  xy: 811, 55
+  size: 59, 36
+  orig: 59, 36
+  offset: 0, 0
+  index: -1
+mouth_02
+  rotate: false
+  xy: 814, 164
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 249, 69
+  size: 43, 141
+  orig: 43, 141
+  offset: 0, 0
+  index: -1
+r__wing
+  rotate: true
+  xy: 2, 16
+  size: 187, 245
+  orig: 187, 245
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: false
+  xy: 822, 16
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+r_knee
+  rotate: true
+  xy: 355, 9
+  size: 58, 20
+  orig: 59, 20
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: true
+  xy: 392, 2
+  size: 88, 103
+  orig: 88, 103
+  offset: 0, 0
+  index: -1
+tail02
+  rotate: false
+  xy: 392, 99
+  size: 77, 13
+  orig: 77, 13
+  offset: 0, 0
+  index: -1
+tail03
+  rotate: false
+  xy: 706, 93
+  size: 105, 81
+  orig: 105, 81
+  offset: 0, 0
+  index: -1
+tx1_1
+  rotate: true
+  xy: 680, 16
+  size: 74, 24
+  orig: 74, 24
+  offset: 0, 0
+  index: -1
+tx1_2
+  rotate: false
+  xy: 706, 176
+  size: 106, 27
+  orig: 106, 27
+  offset: 0, 0
+  index: -1
+tx1_3
+  rotate: false
+  xy: 497, 65
+  size: 103, 25
+  orig: 103, 25
+  offset: 0, 0
+  index: -1
+tx1_4
+  rotate: false
+  xy: 706, 7
+  size: 72, 28
+  orig: 72, 28
+  offset: 0, 0
+  index: -1
+tx1_5
+  rotate: false
+  xy: 497, 38
+  size: 100, 25
+  orig: 100, 25
+  offset: 0, 0
+  index: -1
+tx1_6
+  rotate: false
+  xy: 497, 6
+  size: 96, 30
+  orig: 101, 33
+  offset: 2, 1
+  index: -1
+tx2
+  rotate: false
+  xy: 602, 15
+  size: 76, 75
+  orig: 76, 75
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+effect_ui_jinduqiu.png
+size: 89,46
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hong
+  rotate: false
+  xy: 2, 2
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+qipao
+  rotate: false
+  xy: 51, 8
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1

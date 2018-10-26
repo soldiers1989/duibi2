@@ -1,0 +1,48 @@
+
+effect_shanping.png
+size: 113,98
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai_kong
+  rotate: false
+  xy: 2, 50
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+baiping
+  rotate: false
+  xy: 2, 2
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+hei_kong
+  rotate: false
+  xy: 39, 50
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+heiping
+  rotate: false
+  xy: 76, 50
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+hong_kong
+  rotate: false
+  xy: 39, 2
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+hongping
+  rotate: false
+  xy: 76, 2
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1

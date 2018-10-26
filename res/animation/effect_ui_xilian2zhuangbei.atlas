@@ -1,0 +1,286 @@
+
+effect_ui_xilian2zhuangbei.png
+size: 675,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian0001
+  rotate: false
+  xy: 294, 88
+  size: 47, 70
+  orig: 50, 74
+  offset: 1, 0
+  index: -1
+dian0003
+  rotate: false
+  xy: 343, 88
+  size: 48, 70
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+dian0005
+  rotate: false
+  xy: 393, 88
+  size: 47, 70
+  orig: 50, 74
+  offset: 1, 0
+  index: -1
+dian0007
+  rotate: false
+  xy: 2, 87
+  size: 48, 71
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+dian0009
+  rotate: false
+  xy: 2, 14
+  size: 48, 71
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+dian0011
+  rotate: false
+  xy: 52, 87
+  size: 46, 71
+  orig: 50, 74
+  offset: 1, 0
+  index: -1
+dian0013
+  rotate: false
+  xy: 52, 14
+  size: 44, 71
+  orig: 50, 74
+  offset: 2, 0
+  index: -1
+dian0015
+  rotate: false
+  xy: 100, 87
+  size: 46, 71
+  orig: 50, 74
+  offset: 1, 0
+  index: -1
+dian0017
+  rotate: false
+  xy: 442, 88
+  size: 48, 70
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+dian0019
+  rotate: false
+  xy: 492, 88
+  size: 48, 70
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+dian0021
+  rotate: false
+  xy: 98, 14
+  size: 48, 71
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+dian0023
+  rotate: false
+  xy: 148, 87
+  size: 48, 71
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+dian0025
+  rotate: false
+  xy: 148, 14
+  size: 45, 71
+  orig: 50, 74
+  offset: 2, 0
+  index: -1
+dian0027
+  rotate: false
+  xy: 198, 87
+  size: 46, 71
+  orig: 50, 74
+  offset: 1, 0
+  index: -1
+dian0029
+  rotate: false
+  xy: 542, 88
+  size: 48, 70
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+dian0031
+  rotate: false
+  xy: 592, 88
+  size: 47, 70
+  orig: 50, 74
+  offset: 1, 0
+  index: -1
+dian0033
+  rotate: false
+  xy: 291, 15
+  size: 48, 70
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+dian0035
+  rotate: false
+  xy: 195, 14
+  size: 48, 71
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+dian0037
+  rotate: false
+  xy: 246, 87
+  size: 46, 71
+  orig: 50, 74
+  offset: 1, 0
+  index: -1
+dian0039
+  rotate: false
+  xy: 245, 14
+  size: 44, 71
+  orig: 50, 74
+  offset: 2, 0
+  index: -1
+huo0001
+  rotate: false
+  xy: 341, 2
+  size: 31, 40
+  orig: 49, 58
+  offset: 9, 8
+  index: -1
+huo0003
+  rotate: false
+  xy: 470, 45
+  size: 29, 41
+  orig: 49, 58
+  offset: 8, 8
+  index: -1
+huo0005
+  rotate: false
+  xy: 567, 8
+  size: 28, 35
+  orig: 49, 58
+  offset: 9, 8
+  index: -1
+huo0007
+  rotate: false
+  xy: 641, 116
+  size: 28, 42
+  orig: 49, 58
+  offset: 10, 8
+  index: -1
+huo0009
+  rotate: false
+  xy: 374, 2
+  size: 29, 40
+  orig: 49, 58
+  offset: 9, 9
+  index: -1
+huo0011
+  rotate: false
+  xy: 501, 45
+  size: 29, 41
+  orig: 49, 58
+  offset: 9, 8
+  index: -1
+huo0013
+  rotate: false
+  xy: 341, 44
+  size: 31, 42
+  orig: 49, 58
+  offset: 8, 8
+  index: -1
+huo0015
+  rotate: false
+  xy: 532, 45
+  size: 29, 41
+  orig: 49, 58
+  offset: 8, 8
+  index: -1
+huo0017
+  rotate: false
+  xy: 374, 44
+  size: 29, 42
+  orig: 49, 58
+  offset: 9, 8
+  index: -1
+huo0019
+  rotate: false
+  xy: 470, 4
+  size: 31, 39
+  orig: 49, 58
+  offset: 8, 9
+  index: -1
+huo0021
+  rotate: false
+  xy: 405, 2
+  size: 31, 40
+  orig: 49, 58
+  offset: 8, 9
+  index: -1
+huo0023
+  rotate: false
+  xy: 597, 9
+  size: 31, 34
+  orig: 49, 58
+  offset: 8, 9
+  index: -1
+huo0025
+  rotate: false
+  xy: 535, 6
+  size: 30, 37
+  orig: 49, 58
+  offset: 9, 7
+  index: -1
+huo0027
+  rotate: false
+  xy: 503, 4
+  size: 30, 39
+  orig: 49, 58
+  offset: 9, 8
+  index: -1
+huo0029
+  rotate: false
+  xy: 641, 72
+  size: 32, 42
+  orig: 49, 58
+  offset: 8, 8
+  index: -1
+huo0031
+  rotate: false
+  xy: 405, 44
+  size: 31, 42
+  orig: 49, 58
+  offset: 8, 8
+  index: -1
+huo0033
+  rotate: false
+  xy: 563, 45
+  size: 30, 41
+  orig: 49, 58
+  offset: 9, 8
+  index: -1
+huo0035
+  rotate: false
+  xy: 438, 44
+  size: 30, 42
+  orig: 49, 58
+  offset: 9, 8
+  index: -1
+huo0037
+  rotate: false
+  xy: 438, 2
+  size: 30, 40
+  orig: 49, 58
+  offset: 9, 8
+  index: -1
+huo0039
+  rotate: false
+  xy: 595, 45
+  size: 31, 41
+  orig: 49, 58
+  offset: 9, 8
+  index: -1

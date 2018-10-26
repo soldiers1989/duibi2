@@ -1,0 +1,300 @@
+
+effect_ui_kuaquzongjuesai.png
+size: 316,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anzuo0003
+  rotate: false
+  xy: 193, 99
+  size: 3, 3
+  orig: 71, 83
+  offset: 10, 69
+  index: -1
+anzuo0005
+  rotate: true
+  xy: 281, 154
+  size: 3, 9
+  orig: 71, 83
+  offset: 10, 63
+  index: -1
+anzuo0007
+  rotate: true
+  xy: 264, 154
+  size: 3, 15
+  orig: 71, 83
+  offset: 10, 57
+  index: -1
+anzuo0009
+  rotate: false
+  xy: 193, 104
+  size: 3, 20
+  orig: 71, 83
+  offset: 10, 52
+  index: -1
+anzuo0011
+  rotate: false
+  xy: 311, 241
+  size: 3, 26
+  orig: 71, 83
+  offset: 10, 46
+  index: -1
+anzuo0013
+  rotate: false
+  xy: 306, 236
+  size: 3, 31
+  orig: 71, 83
+  offset: 10, 40
+  index: -1
+anzuo0015
+  rotate: false
+  xy: 264, 165
+  size: 50, 37
+  orig: 71, 83
+  offset: 10, 34
+  index: -1
+anzuo0017
+  rotate: false
+  xy: 250, 54
+  size: 50, 43
+  orig: 71, 83
+  offset: 10, 28
+  index: -1
+anzuo0019
+  rotate: true
+  xy: 250, 2
+  size: 50, 49
+  orig: 71, 83
+  offset: 10, 22
+  index: -1
+anzuo0021
+  rotate: true
+  xy: 198, 101
+  size: 51, 55
+  orig: 71, 83
+  offset: 9, 16
+  index: -1
+anzuo0023
+  rotate: true
+  xy: 138, 181
+  size: 53, 61
+  orig: 71, 83
+  offset: 7, 10
+  index: -1
+anzuo0025
+  rotate: true
+  xy: 137, 126
+  size: 53, 59
+  orig: 71, 83
+  offset: 7, 10
+  index: -1
+anzuo0027
+  rotate: false
+  xy: 132, 44
+  size: 53, 53
+  orig: 71, 83
+  offset: 7, 10
+  index: -1
+anzuo0029
+  rotate: true
+  xy: 255, 99
+  size: 53, 47
+  orig: 71, 83
+  offset: 7, 10
+  index: -1
+anzuo0031
+  rotate: true
+  xy: 187, 44
+  size: 53, 41
+  orig: 71, 83
+  offset: 7, 10
+  index: -1
+anzuo0033
+  rotate: false
+  xy: 201, 204
+  size: 3, 30
+  orig: 71, 83
+  offset: 57, 15
+  index: -1
+anzuo0035
+  rotate: true
+  xy: 264, 159
+  size: 4, 27
+  orig: 71, 83
+  offset: 57, 12
+  index: -1
+anzuo0037
+  rotate: true
+  xy: 2, 4
+  size: 4, 22
+  orig: 71, 83
+  offset: 57, 12
+  index: -1
+anzuo0039
+  rotate: true
+  xy: 127, 21
+  size: 4, 16
+  orig: 71, 83
+  offset: 57, 12
+  index: -1
+anzuo0041
+  rotate: true
+  xy: 304, 159
+  size: 4, 10
+  orig: 71, 83
+  offset: 57, 12
+  index: -1
+anzuo0043
+  rotate: false
+  xy: 311, 234
+  size: 3, 5
+  orig: 71, 83
+  offset: 58, 12
+  index: -1
+ios0003
+  rotate: false
+  xy: 2, 261
+  size: 66, 6
+  orig: 71, 83
+  offset: 2, 66
+  index: -1
+ios0005
+  rotate: false
+  xy: 2, 248
+  size: 66, 11
+  orig: 71, 83
+  offset: 2, 61
+  index: -1
+ios0007
+  rotate: false
+  xy: 70, 253
+  size: 66, 14
+  orig: 71, 83
+  offset: 2, 58
+  index: -1
+ios0009
+  rotate: false
+  xy: 2, 228
+  size: 66, 18
+  orig: 71, 83
+  offset: 2, 54
+  index: -1
+ios0011
+  rotate: false
+  xy: 70, 228
+  size: 66, 23
+  orig: 71, 83
+  offset: 2, 49
+  index: -1
+ios0013
+  rotate: false
+  xy: 138, 236
+  size: 66, 31
+  orig: 71, 83
+  offset: 2, 41
+  index: -1
+ios0015
+  rotate: false
+  xy: 2, 191
+  size: 66, 35
+  orig: 71, 83
+  offset: 2, 37
+  index: -1
+ios0017
+  rotate: false
+  xy: 2, 140
+  size: 66, 49
+  orig: 71, 83
+  offset: 2, 23
+  index: -1
+ios0019
+  rotate: false
+  xy: 70, 170
+  size: 65, 56
+  orig: 71, 83
+  offset: 2, 16
+  index: -1
+ios0021
+  rotate: false
+  xy: 2, 76
+  size: 64, 62
+  orig: 71, 83
+  offset: 3, 9
+  index: -1
+ios0023
+  rotate: false
+  xy: 2, 10
+  size: 63, 64
+  orig: 71, 83
+  offset: 3, 7
+  index: -1
+ios0025
+  rotate: true
+  xy: 206, 204
+  size: 63, 64
+  orig: 71, 83
+  offset: 3, 7
+  index: -1
+ios0027
+  rotate: true
+  xy: 70, 105
+  size: 63, 64
+  orig: 71, 83
+  offset: 3, 7
+  index: -1
+ios0029
+  rotate: false
+  xy: 68, 45
+  size: 62, 58
+  orig: 71, 83
+  offset: 4, 7
+  index: -1
+ios0031
+  rotate: false
+  xy: 201, 154
+  size: 61, 48
+  orig: 71, 83
+  offset: 4, 7
+  index: -1
+ios0033
+  rotate: true
+  xy: 272, 207
+  size: 60, 32
+  orig: 71, 83
+  offset: 5, 16
+  index: -1
+ios0035
+  rotate: false
+  xy: 67, 13
+  size: 58, 30
+  orig: 71, 83
+  offset: 6, 13
+  index: -1
+ios0037
+  rotate: false
+  xy: 136, 99
+  size: 55, 25
+  orig: 71, 83
+  offset: 7, 13
+  index: -1
+ios0039
+  rotate: true
+  xy: 230, 47
+  size: 52, 18
+  orig: 71, 83
+  offset: 9, 13
+  index: -1
+ios0041
+  rotate: false
+  xy: 127, 27
+  size: 48, 15
+  orig: 71, 83
+  offset: 10, 13
+  index: -1
+ios0043
+  rotate: false
+  xy: 177, 37
+  size: 2, 5
+  orig: 71, 83
+  offset: 10, 13
+  index: -1

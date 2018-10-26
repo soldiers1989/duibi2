@@ -1,0 +1,104 @@
+
+effect_jubo_moling.png
+size: 348,1026
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: false
+  xy: 2, 755
+  size: 192, 269
+  orig: 232, 274
+  offset: 40, 5
+  index: -1
+bao_02
+  rotate: false
+  xy: 2, 501
+  size: 232, 252
+  orig: 232, 274
+  offset: 0, 6
+  index: -1
+bao_03
+  rotate: false
+  xy: 2, 154
+  size: 155, 190
+  orig: 232, 274
+  offset: 43, 52
+  index: -1
+bao_04
+  rotate: false
+  xy: 159, 170
+  size: 154, 174
+  orig: 232, 274
+  offset: 43, 68
+  index: -1
+bao_05
+  rotate: false
+  xy: 190, 2
+  size: 153, 166
+  orig: 232, 274
+  offset: 44, 69
+  index: -1
+bao_06
+  rotate: false
+  xy: 236, 530
+  size: 97, 144
+  orig: 232, 274
+  offset: 74, 93
+  index: -1
+bao_07
+  rotate: false
+  xy: 236, 676
+  size: 97, 147
+  orig: 232, 274
+  offset: 74, 97
+  index: -1
+qiu
+  rotate: false
+  xy: 205, 349
+  size: 140, 150
+  orig: 140, 150
+  offset: 0, 0
+  index: -1
+yan_01
+  rotate: false
+  xy: 2, 6
+  size: 177, 70
+  orig: 214, 92
+  offset: 18, 4
+  index: -1
+yan_02
+  rotate: false
+  xy: 2, 78
+  size: 186, 74
+  orig: 214, 92
+  offset: 13, 4
+  index: -1
+yan_03
+  rotate: true
+  xy: 270, 833
+  size: 191, 76
+  orig: 214, 92
+  offset: 11, 4
+  index: -1
+yan_04
+  rotate: false
+  xy: 2, 346
+  size: 197, 78
+  orig: 214, 92
+  offset: 8, 5
+  index: -1
+yan_05
+  rotate: true
+  xy: 196, 825
+  size: 199, 72
+  orig: 214, 92
+  offset: 7, 12
+  index: -1
+yan_06
+  rotate: false
+  xy: 2, 426
+  size: 201, 73
+  orig: 214, 92
+  offset: 6, 11
+  index: -1

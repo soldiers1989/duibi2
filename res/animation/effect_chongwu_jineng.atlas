@@ -1,0 +1,76 @@
+
+effect_chongwu_jineng.png
+size: 869,325
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1111
+  rotate: true
+  xy: 680, 132
+  size: 191, 187
+  orig: 202, 194
+  offset: 5, 7
+  index: -1
+123
+  rotate: true
+  xy: 499, 13
+  size: 196, 179
+  orig: 202, 194
+  offset: 0, 15
+  index: -1
+bai
+  rotate: false
+  xy: 265, 2
+  size: 232, 207
+  orig: 233, 215
+  offset: 1, 0
+  index: -1
+chendi
+  rotate: true
+  xy: 2, 221
+  size: 102, 538
+  orig: 112, 538
+  offset: 4, 0
+  index: -1
+guangbo
+  rotate: true
+  xy: 680, 32
+  size: 98, 97
+  orig: 102, 102
+  offset: 1, 3
+  index: -1
+guangdian
+  rotate: true
+  xy: 779, 37
+  size: 93, 80
+  orig: 96, 85
+  offset: 1, 4
+  index: -1
+guangxian
+  rotate: true
+  xy: 2, 211
+  size: 8, 519
+  orig: 112, 538
+  offset: 52, 10
+  index: -1
+suduxian
+  rotate: true
+  xy: 2, 25
+  size: 24, 240
+  orig: 31, 240
+  offset: 3, 0
+  index: -1
+xiliu
+  rotate: false
+  xy: 2, 51
+  size: 261, 158
+  orig: 320, 240
+  offset: 20, 30
+  index: -1
+yuan
+  rotate: false
+  xy: 542, 222
+  size: 101, 101
+  orig: 160, 160
+  offset: 29, 28
+  index: -1

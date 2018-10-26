@@ -1,0 +1,111 @@
+
+effect_tongyinuji_yuandizhixian_b.png
+size: 310,1067
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: true
+  xy: 2, 523
+  size: 126, 160
+  orig: 146, 160
+  offset: 20, 0
+  index: -1
+bao_02
+  rotate: true
+  xy: 184, 792
+  size: 109, 123
+  orig: 146, 160
+  offset: 21, 9
+  index: -1
+bao_03
+  rotate: true
+  xy: 2, 2
+  size: 117, 115
+  orig: 146, 160
+  offset: 16, 19
+  index: -1
+bao_04
+  rotate: true
+  xy: 146, 33
+  size: 129, 136
+  orig: 146, 160
+  offset: 7, 2
+  index: -1
+shuangshoujian_dao_a_01
+  rotate: false
+  xy: 2, 651
+  size: 179, 136
+  orig: 180, 137
+  offset: 0, 1
+  index: -1
+shuangshoujian_dao_a_02
+  rotate: false
+  xy: 2, 928
+  size: 180, 137
+  orig: 180, 137
+  offset: 0, 0
+  index: -1
+shuangshoujian_dao_a_03
+  rotate: false
+  xy: 2, 789
+  size: 180, 137
+  orig: 180, 137
+  offset: 0, 0
+  index: -1
+shuangshoujian_dao_a_04
+  rotate: true
+  xy: 158, 164
+  size: 97, 146
+  orig: 146, 154
+  offset: 45, 8
+  index: -1
+shuangshoujian_dao_a_05
+  rotate: true
+  xy: 158, 263
+  size: 102, 150
+  orig: 146, 154
+  offset: 44, 4
+  index: -1
+shuangshoujian_dao_a_06
+  rotate: true
+  xy: 2, 375
+  size: 146, 154
+  orig: 146, 154
+  offset: 0, 0
+  index: -1
+shuangshoujian_dao_a_07
+  rotate: false
+  xy: 158, 367
+  size: 146, 154
+  orig: 146, 154
+  offset: 0, 0
+  index: -1
+shuangshoujian_dao_a_08
+  rotate: true
+  xy: 2, 227
+  size: 146, 154
+  orig: 146, 154
+  offset: 0, 0
+  index: -1
+shuangshoujian_dao_a_09
+  rotate: false
+  xy: 2, 121
+  size: 142, 104
+  orig: 172, 104
+  offset: 0, 0
+  index: -1
+shuangshoujian_dao_a_10
+  rotate: true
+  xy: 184, 903
+  size: 162, 104
+  orig: 172, 104
+  offset: 0, 0
+  index: -1
+shuangshoujian_dao_a_11
+  rotate: true
+  xy: 183, 615
+  size: 172, 104
+  orig: 172, 104
+  offset: 0, 0
+  index: -1

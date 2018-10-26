@@ -1,0 +1,62 @@
+
+effect_jubo_pugong_yandi.png
+size: 246,577
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fashi_pugong_01
+  rotate: true
+  xy: 152, 2
+  size: 128, 92
+  orig: 151, 116
+  offset: 19, 10
+  index: -1
+fashi_pugong_02
+  rotate: true
+  xy: 120, 280
+  size: 146, 109
+  orig: 151, 116
+  offset: 3, 0
+  index: -1
+fashi_pugong_03
+  rotate: true
+  xy: 2, 272
+  size: 150, 116
+  orig: 151, 116
+  offset: 1, 0
+  index: -1
+fashi_pugong_04
+  rotate: true
+  xy: 2, 424
+  size: 151, 116
+  orig: 151, 116
+  offset: 0, 0
+  index: -1
+fashi_pugong_05
+  rotate: true
+  xy: 2, 120
+  size: 150, 116
+  orig: 151, 116
+  offset: 0, 0
+  index: -1
+fashi_pugong_06
+  rotate: false
+  xy: 2, 3
+  size: 148, 115
+  orig: 151, 116
+  offset: 1, 0
+  index: -1
+fashi_pugong_07
+  rotate: true
+  xy: 120, 428
+  size: 147, 113
+  orig: 151, 116
+  offset: 1, 1
+  index: -1
+fashi_pugong_08
+  rotate: true
+  xy: 120, 132
+  size: 146, 110
+  orig: 151, 116
+  offset: 2, 3
+  index: -1

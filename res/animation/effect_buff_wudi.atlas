@@ -1,0 +1,27 @@
+
+effect_buff_wudi.png
+size: 621,235
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 2, 2
+  size: 254, 231
+  orig: 254, 231
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 258, 47
+  size: 186, 186
+  orig: 186, 186
+  offset: 0, 0
+  index: -1
+xian
+  rotate: false
+  xy: 446, 64
+  size: 173, 169
+  orig: 173, 169
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+effect_jubo_nuji_yandi.png
+size: 946,368
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_juqing_yandi_nuji_01
+  rotate: false
+  xy: 804, 30
+  size: 140, 148
+  orig: 152, 223
+  offset: 12, 0
+  index: -1
+effect_juqing_yandi_nuji_02
+  rotate: false
+  xy: 678, 18
+  size: 124, 159
+  orig: 152, 223
+  offset: 23, 10
+  index: -1
+effect_juqing_yandi_nuji_03
+  rotate: false
+  xy: 546, 2
+  size: 130, 173
+  orig: 152, 223
+  offset: 15, 8
+  index: -1
+effect_juqing_yandi_nuji_04
+  rotate: false
+  xy: 816, 190
+  size: 118, 176
+  orig: 152, 223
+  offset: 13, 4
+  index: -1
+effect_juqing_yandi_nuji_05
+  rotate: false
+  xy: 450, 175
+  size: 94, 191
+  orig: 152, 223
+  offset: 22, 16
+  index: -1
+effect_juqing_yandi_nuji_06
+  rotate: false
+  xy: 725, 180
+  size: 89, 186
+  orig: 152, 223
+  offset: 29, 22
+  index: -1
+effect_juqing_yandi_nuji_07
+  rotate: false
+  xy: 546, 177
+  size: 96, 189
+  orig: 152, 223
+  offset: 28, 21
+  index: -1
+effect_juqing_yandi_nuji_08
+  rotate: false
+  xy: 644, 179
+  size: 79, 187
+  orig: 152, 223
+  offset: 33, 24
+  index: -1
+effect_juqing_yandi_nuji_di
+  rotate: true
+  xy: 450, 9
+  size: 164, 56
+  orig: 164, 56
+  offset: 0, 0
+  index: -1
+effect_juqing_yandi_nuji_guangchi
+  rotate: false
+  xy: 2, 2
+  size: 446, 364
+  orig: 470, 387
+  offset: 12, 13
+  index: -1

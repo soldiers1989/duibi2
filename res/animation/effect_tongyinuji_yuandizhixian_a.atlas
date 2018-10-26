@@ -1,0 +1,76 @@
+
+effect_tongyinuji_yuandizhixian_a.png
+size: 1177,211
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_yuandi_zhixian_a_01
+  rotate: false
+  xy: 1116, 44
+  size: 59, 165
+  orig: 88, 182
+  offset: 22, 12
+  index: -1
+effect_yuandi_zhixian_a_02
+  rotate: true
+  xy: 428, 2
+  size: 59, 171
+  orig: 88, 182
+  offset: 22, 6
+  index: -1
+effect_yuandi_zhixian_a_03
+  rotate: true
+  xy: 774, 2
+  size: 59, 169
+  orig: 88, 182
+  offset: 22, 8
+  index: -1
+effect_yuandi_zhixian_a_04
+  rotate: true
+  xy: 601, 2
+  size: 59, 171
+  orig: 88, 182
+  offset: 22, 6
+  index: -1
+effect_yuandi_zhixian_a__bao_01
+  rotate: false
+  xy: 788, 121
+  size: 78, 88
+  orig: 206, 218
+  offset: 67, 56
+  index: -1
+effect_yuandi_zhixian_a__bao_02
+  rotate: true
+  xy: 219, 3
+  size: 206, 207
+  orig: 206, 218
+  offset: 0, 0
+  index: -1
+effect_yuandi_zhixian_a__bao_03
+  rotate: true
+  xy: 2, 3
+  size: 206, 215
+  orig: 206, 218
+  offset: 0, 0
+  index: -1
+effect_yuandi_zhixian_a__bao_04
+  rotate: false
+  xy: 945, 41
+  size: 169, 168
+  orig: 206, 218
+  offset: 19, 19
+  index: -1
+effect_yuandi_zhixian_a__bao_05
+  rotate: false
+  xy: 610, 63
+  size: 176, 146
+  orig: 206, 218
+  offset: 17, 30
+  index: -1
+effect_yuandi_zhixian_a__bao_06
+  rotate: false
+  xy: 428, 63
+  size: 180, 146
+  orig: 206, 218
+  offset: 16, 30
+  index: -1

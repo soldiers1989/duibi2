@@ -1,0 +1,223 @@
+
+hero_guihun.png
+size: 1257,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: false
+  xy: 1089, 80
+  size: 57, 89
+  orig: 57, 89
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 1199, 48
+  size: 44, 19
+  orig: 44, 19
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 923, 53
+  size: 92, 102
+  orig: 92, 102
+  offset: 0, 0
+  index: -1
+head_01
+  rotate: false
+  xy: 928, 2
+  size: 101, 49
+  orig: 101, 49
+  offset: 0, 0
+  index: -1
+head_02
+  rotate: true
+  xy: 864, 157
+  size: 111, 82
+  orig: 111, 82
+  offset: 0, 0
+  index: -1
+head_03
+  rotate: false
+  xy: 786, 148
+  size: 76, 120
+  orig: 76, 120
+  offset: 0, 0
+  index: -1
+head_04
+  rotate: false
+  xy: 514, 7
+  size: 139, 73
+  orig: 139, 73
+  offset: 0, 0
+  index: -1
+head_05
+  rotate: true
+  xy: 687, 9
+  size: 114, 134
+  orig: 114, 139
+  offset: 0, 5
+  index: -1
+head_06
+  rotate: false
+  xy: 365, 5
+  size: 105, 49
+  orig: 105, 49
+  offset: 0, 0
+  index: -1
+head_07
+  rotate: true
+  xy: 1155, 150
+  size: 59, 81
+  orig: 59, 81
+  offset: 0, 0
+  index: -1
+head_08
+  rotate: true
+  xy: 823, 6
+  size: 23, 103
+  orig: 23, 103
+  offset: 0, 0
+  index: -1
+head_09
+  rotate: true
+  xy: 1031, 4
+  size: 66, 96
+  orig: 66, 96
+  offset: 0, 0
+  index: -1
+hip
+  rotate: true
+  xy: 1201, 69
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: false
+  xy: 823, 31
+  size: 98, 115
+  orig: 98, 115
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: false
+  xy: 687, 125
+  size: 97, 143
+  orig: 97, 143
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: false
+  xy: 365, 56
+  size: 147, 212
+  orig: 149, 212
+  offset: 2, 0
+  index: -1
+hip_04
+  rotate: true
+  xy: 514, 82
+  size: 186, 171
+  orig: 186, 171
+  offset: 0, 0
+  index: -1
+hip_05
+  rotate: true
+  xy: 2, 4
+  size: 264, 208
+  orig: 264, 208
+  offset: 0, 0
+  index: -1
+hip_06
+  rotate: true
+  xy: 212, 8
+  size: 260, 151
+  orig: 260, 151
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: true
+  xy: 1155, 211
+  size: 57, 82
+  orig: 57, 82
+  offset: 0, 0
+  index: -1
+l_elbow01
+  rotate: false
+  xy: 948, 169
+  size: 54, 99
+  orig: 54, 99
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: true
+  xy: 1167, 39
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: true
+  xy: 1094, 184
+  size: 84, 59
+  orig: 84, 59
+  offset: 0, 0
+  index: -1
+r_elbow01
+  rotate: true
+  xy: 1004, 171
+  size: 97, 88
+  orig: 98, 88
+  offset: 1, 0
+  index: -1
+r_elbow02
+  rotate: true
+  xy: 1017, 72
+  size: 97, 70
+  orig: 98, 74
+  offset: 1, 4
+  index: -1
+r_hand
+  rotate: true
+  xy: 1201, 120
+  size: 28, 54
+  orig: 28, 54
+  offset: 0, 0
+  index: -1
+r_hand02
+  rotate: false
+  xy: 1148, 86
+  size: 51, 62
+  orig: 51, 62
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: false
+  xy: 472, 7
+  size: 33, 47
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+r_shoulder_01
+  rotate: false
+  xy: 1129, 3
+  size: 36, 75
+  orig: 36, 75
+  offset: 0, 0
+  index: -1
+ribbno_01
+  rotate: true
+  xy: 655, 24
+  size: 56, 24
+  orig: 56, 24
+  offset: 0, 0
+  index: -1
+ribbno_02
+  rotate: true
+  xy: 1167, 2
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+effect_jubo_jiujiezhandi_yuanchen.png
+size: 1875,90
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: true
+  xy: 1319, 6
+  size: 82, 101
+  orig: 90, 101
+  offset: 8, 0
+  index: -1
+bao_02
+  rotate: true
+  xy: 1524, 5
+  size: 83, 89
+  orig: 90, 101
+  offset: 3, 6
+  index: -1
+bao_03
+  rotate: true
+  xy: 1615, 2
+  size: 86, 89
+  orig: 90, 101
+  offset: 0, 6
+  index: -1
+bao_04
+  rotate: false
+  xy: 1706, 3
+  size: 84, 85
+  orig: 90, 101
+  offset: 0, 8
+  index: -1
+bao_05
+  rotate: false
+  xy: 1792, 8
+  size: 81, 80
+  orig: 90, 101
+  offset: 0, 10
+  index: -1
+long_01
+  rotate: false
+  xy: 1422, 26
+  size: 100, 62
+  orig: 171, 103
+  offset: 28, 10
+  index: -1
+long_02
+  rotate: false
+  xy: 1195, 26
+  size: 122, 62
+  orig: 171, 103
+  offset: 21, 10
+  index: -1
+long_03
+  rotate: false
+  xy: 152, 8
+  size: 147, 80
+  orig: 171, 103
+  offset: 11, 8
+  index: -1
+long_04
+  rotate: false
+  xy: 301, 8
+  size: 147, 80
+  orig: 171, 103
+  offset: 11, 8
+  index: -1
+long_05
+  rotate: false
+  xy: 450, 7
+  size: 147, 81
+  orig: 171, 103
+  offset: 11, 8
+  index: -1
+long_06
+  rotate: false
+  xy: 599, 8
+  size: 147, 80
+  orig: 171, 103
+  offset: 11, 8
+  index: -1
+long_07
+  rotate: false
+  xy: 748, 8
+  size: 147, 80
+  orig: 171, 103
+  offset: 11, 8
+  index: -1
+long_08
+  rotate: false
+  xy: 897, 8
+  size: 147, 80
+  orig: 171, 103
+  offset: 11, 8
+  index: -1
+long_09
+  rotate: false
+  xy: 1046, 8
+  size: 147, 80
+  orig: 171, 103
+  offset: 11, 8
+  index: -1
+long_10
+  rotate: false
+  xy: 2, 8
+  size: 148, 80
+  orig: 171, 103
+  offset: 10, 8
+  index: -1

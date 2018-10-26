@@ -1,0 +1,153 @@
+
+hero_dixinyanlongxi.png
+size: 653,208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: false
+  xy: 210, 88
+  size: 116, 118
+  orig: 116, 118
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 300, 5
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+haed
+  rotate: false
+  xy: 497, 38
+  size: 99, 94
+  orig: 99, 94
+  offset: 0, 0
+  index: -1
+haed_05
+  rotate: false
+  xy: 310, 25
+  size: 83, 61
+  orig: 83, 61
+  offset: 0, 0
+  index: -1
+haed_06
+  rotate: false
+  xy: 497, 134
+  size: 101, 72
+  orig: 101, 72
+  offset: 0, 0
+  index: -1
+head_ya
+  rotate: false
+  xy: 557, 8
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 2, 64
+  size: 206, 142
+  orig: 206, 142
+  offset: 0, 0
+  index: -1
+l_ foot
+  rotate: false
+  xy: 200, 4
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+l_ leg
+  rotate: false
+  xy: 600, 130
+  size: 50, 76
+  orig: 50, 76
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: false
+  xy: 454, 104
+  size: 41, 102
+  orig: 41, 102
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: true
+  xy: 154, 7
+  size: 55, 44
+  orig: 55, 44
+  offset: 0, 0
+  index: -1
+l_knee
+  rotate: false
+  xy: 395, 101
+  size: 57, 105
+  orig: 57, 105
+  offset: 0, 0
+  index: -1
+l_leg1
+  rotate: true
+  xy: 598, 12
+  size: 49, 53
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+r_ foot
+  rotate: false
+  xy: 518, 2
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+r_ leg
+  rotate: true
+  xy: 251, 17
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+r_elbow
+  rotate: true
+  xy: 395, 2
+  size: 97, 81
+  orig: 97, 81
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 598, 63
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+r_knee
+  rotate: true
+  xy: 210, 50
+  size: 36, 98
+  orig: 36, 98
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: false
+  xy: 328, 90
+  size: 65, 116
+  orig: 65, 116
+  offset: 0, 0
+  index: -1
+tail_01
+  rotate: false
+  xy: 2, 3
+  size: 150, 59
+  orig: 150, 59
+  offset: 0, 0
+  index: -1
+tail_02
+  rotate: true
+  xy: 478, 3
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1

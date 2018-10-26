@@ -1,0 +1,83 @@
+
+effect_ui_yizhounianzhujiemian.png
+size: 151,63
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huomiao0001
+  rotate: false
+  xy: 84, 28
+  size: 20, 33
+  orig: 20, 35
+  offset: 0, 1
+  index: -1
+huomiao0003
+  rotate: false
+  xy: 42, 26
+  size: 19, 35
+  orig: 20, 35
+  offset: 1, 0
+  index: -1
+huomiao0005
+  rotate: false
+  xy: 63, 27
+  size: 19, 34
+  orig: 20, 35
+  offset: 1, 1
+  index: -1
+huomiao0007
+  rotate: true
+  xy: 43, 5
+  size: 19, 35
+  orig: 20, 35
+  offset: 1, 0
+  index: -1
+huomiao0009
+  rotate: false
+  xy: 106, 28
+  size: 19, 33
+  orig: 20, 35
+  offset: 1, 1
+  index: -1
+huomiao0011
+  rotate: true
+  xy: 116, 7
+  size: 19, 33
+  orig: 20, 35
+  offset: 1, 1
+  index: -1
+huomiao0013
+  rotate: true
+  xy: 80, 5
+  size: 20, 34
+  orig: 20, 35
+  offset: 0, 1
+  index: -1
+huomiao0015
+  rotate: false
+  xy: 127, 28
+  size: 20, 33
+  orig: 20, 35
+  offset: 0, 1
+  index: -1
+qiqiu1
+  rotate: false
+  xy: 2, 22
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+qiqiu2
+  rotate: true
+  xy: 2, 2
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+qiqiu3
+  rotate: false
+  xy: 22, 22
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1

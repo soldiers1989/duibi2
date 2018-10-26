@@ -1,0 +1,258 @@
+
+hero_wenling.png
+size: 936,271
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest_01
+  rotate: false
+  xy: 464, 2
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+chest_05
+  rotate: false
+  xy: 795, 3
+  size: 25, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+chest_06
+  rotate: true
+  xy: 464, 162
+  size: 107, 50
+  orig: 107, 50
+  offset: 0, 0
+  index: -1
+chest_08
+  rotate: true
+  xy: 2, 5
+  size: 83, 108
+  orig: 83, 108
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 150, 75
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 601, 169
+  size: 100, 97
+  orig: 100, 97
+  offset: 0, 0
+  index: -1
+head_01
+  rotate: true
+  xy: 613, 7
+  size: 55, 24
+  orig: 55, 24
+  offset: 0, 0
+  index: -1
+head_03
+  rotate: false
+  xy: 502, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+head_05
+  rotate: false
+  xy: 112, 8
+  size: 36, 84
+  orig: 36, 84
+  offset: 0, 0
+  index: -1
+head_06
+  rotate: true
+  xy: 695, 3
+  size: 12, 46
+  orig: 12, 46
+  offset: 0, 0
+  index: -1
+head_07
+  rotate: false
+  xy: 327, 127
+  size: 135, 142
+  orig: 135, 142
+  offset: 0, 0
+  index: -1
+head_08
+  rotate: false
+  xy: 2, 90
+  size: 78, 179
+  orig: 78, 179
+  offset: 0, 0
+  index: -1
+head_09
+  rotate: false
+  xy: 700, 173
+  size: 83, 96
+  orig: 83, 96
+  offset: 0, 0
+  index: -1
+hip
+  rotate: true
+  xy: 464, 54
+  size: 106, 101
+  orig: 106, 101
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: true
+  xy: 328, 10
+  size: 115, 134
+  orig: 115, 134
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: true
+  xy: 174, 114
+  size: 155, 151
+  orig: 155, 151
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: true
+  xy: 82, 94
+  size: 175, 90
+  orig: 175, 90
+  offset: 0, 0
+  index: -1
+hip_04
+  rotate: true
+  xy: 695, 17
+  size: 49, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1
+l_ leg
+  rotate: true
+  xy: 785, 119
+  size: 72, 88
+  orig: 73, 88
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: false
+  xy: 749, 3
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+l_elbow01
+  rotate: false
+  xy: 516, 167
+  size: 83, 102
+  orig: 83, 102
+  offset: 0, 0
+  index: -1
+l_elbow02
+  rotate: false
+  xy: 567, 64
+  size: 80, 101
+  orig: 80, 101
+  offset: 0, 0
+  index: -1
+l_foot
+  rotate: true
+  xy: 883, 193
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: true
+  xy: 896, 64
+  size: 55, 38
+  orig: 55, 38
+  offset: 0, 0
+  index: -1
+l_knee
+  rotate: false
+  xy: 875, 121
+  size: 55, 70
+  orig: 55, 70
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: true
+  xy: 883, 219
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+magic weapon
+  rotate: false
+  xy: 174, 19
+  size: 152, 93
+  orig: 152, 93
+  offset: 0, 0
+  index: -1
+r_ leg
+  rotate: false
+  xy: 750, 35
+  size: 77, 82
+  orig: 77, 82
+  offset: 0, 0
+  index: -1
+r_elbow01
+  rotate: true
+  xy: 785, 193
+  size: 76, 96
+  orig: 76, 96
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: false
+  xy: 750, 144
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 829, 8
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+r_knee
+  rotate: false
+  xy: 567, 5
+  size: 44, 57
+  orig: 44, 57
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: false
+  xy: 639, 8
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+tx2_0001
+  rotate: false
+  xy: 829, 52
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+tx2_0002
+  rotate: false
+  xy: 649, 68
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+tx2_0003
+  rotate: false
+  xy: 872, 10
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1

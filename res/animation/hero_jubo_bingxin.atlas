@@ -1,0 +1,412 @@
+
+hero_jubo_bingxin.png
+size: 713,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing_05
+  rotate: false
+  xy: 2, 260
+  size: 250, 261
+  orig: 266, 266
+  offset: 2, 5
+  index: -1
+beijing_06
+  rotate: false
+  xy: 549, 384
+  size: 139, 137
+  orig: 144, 137
+  offset: 0, 0
+  index: -1
+beijing_07
+  rotate: true
+  xy: 528, 161
+  size: 117, 122
+  orig: 130, 130
+  offset: 7, 0
+  index: -1
+beijing_08
+  rotate: false
+  xy: 568, 97
+  size: 61, 62
+  orig: 63, 64
+  offset: 2, 0
+  index: -1
+beijing_09
+  rotate: true
+  xy: 652, 219
+  size: 55, 59
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: true
+  xy: 98, 2
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 366, 162
+  size: 72, 97
+  orig: 72, 97
+  offset: 0, 0
+  index: -1
+dian_01
+  rotate: false
+  xy: 503, 6
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+dian_02
+  rotate: false
+  xy: 514, 6
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+dian_03
+  rotate: false
+  xy: 698, 150
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dian_04
+  rotate: false
+  xy: 525, 7
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+dian_05
+  rotate: false
+  xy: 698, 137
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dian_06
+  rotate: true
+  xy: 590, 8
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+dian_07
+  rotate: true
+  xy: 601, 8
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+dian_08
+  rotate: true
+  xy: 491, 5
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dian_09
+  rotate: true
+  xy: 140, 10
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+dian_10
+  rotate: false
+  xy: 151, 10
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+dian_11
+  rotate: false
+  xy: 486, 90
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+dian_12
+  rotate: true
+  xy: 486, 101
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 254, 260
+  size: 99, 104
+  orig: 99, 104
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: false
+  xy: 2, 9
+  size: 94, 249
+  orig: 94, 249
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: false
+  xy: 98, 22
+  size: 106, 236
+  orig: 106, 236
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 366, 55
+  size: 99, 104
+  orig: 99, 104
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: false
+  xy: 391, 398
+  size: 156, 123
+  orig: 156, 123
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: true
+  xy: 528, 280
+  size: 102, 134
+  orig: 102, 134
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: true
+  xy: 206, 5
+  size: 82, 158
+  orig: 82, 158
+  offset: 0, 0
+  index: -1
+l_calf
+  rotate: true
+  xy: 458, 18
+  size: 35, 78
+  orig: 35, 78
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: false
+  xy: 677, 89
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+l_foot
+  rotate: false
+  xy: 690, 434
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: true
+  xy: 690, 400
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+l_hip
+  rotate: false
+  xy: 254, 361
+  size: 135, 160
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: true
+  xy: 366, 9
+  size: 44, 90
+  orig: 44, 90
+  offset: 0, 0
+  index: -1
+l_mimi
+  rotate: false
+  xy: 605, 60
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: false
+  xy: 664, 276
+  size: 41, 106
+  orig: 41, 108
+  offset: 0, 2
+  index: -1
+nuji
+  rotate: false
+  xy: 500, 90
+  size: 66, 69
+  orig: 66, 70
+  offset: 0, 0
+  index: -1
+piao_01
+  rotate: true
+  xy: 528, 384
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+piao_02
+  rotate: true
+  xy: 458, 2
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+piao_03
+  rotate: false
+  xy: 556, 3
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+piao_04
+  rotate: false
+  xy: 573, 3
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+piao_05
+  rotate: false
+  xy: 467, 90
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+piao_06
+  rotate: false
+  xy: 475, 2
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+piao_07
+  rotate: true
+  xy: 123, 2
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+piao_08
+  rotate: false
+  xy: 538, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+piao_09
+  rotate: false
+  xy: 690, 384
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+piao_10
+  rotate: false
+  xy: 500, 170
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+pugong_texiao
+  rotate: false
+  xy: 538, 20
+  size: 65, 68
+  orig: 65, 70
+  offset: 0, 0
+  index: -1
+r_calf
+  rotate: false
+  xy: 360, 289
+  size: 29, 70
+  orig: 29, 70
+  offset: 0, 0
+  index: -1
+r_elbow
+  rotate: false
+  xy: 467, 60
+  size: 63, 28
+  orig: 63, 28
+  offset: 0, 0
+  index: -1
+r_foot
+  rotate: false
+  xy: 690, 473
+  size: 21, 48
+  orig: 21, 54
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: true
+  xy: 440, 161
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: false
+  xy: 467, 114
+  size: 31, 76
+  orig: 31, 76
+  offset: 0, 0
+  index: -1
+r_mimi
+  rotate: true
+  xy: 360, 262
+  size: 25, 28
+  orig: 26, 28
+  offset: 1, 0
+  index: -1
+r_shoulder
+  rotate: true
+  xy: 652, 133
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+texiao_01
+  rotate: true
+  xy: 631, 91
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+texiao_03
+  rotate: true
+  xy: 440, 192
+  size: 67, 79
+  orig: 67, 79
+  offset: 0, 0
+  index: -1
+texiao_guang
+  rotate: false
+  xy: 391, 261
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+texiao_guangdian
+  rotate: true
+  xy: 652, 162
+  size: 55, 56
+  orig: 56, 63
+  offset: 1, 2
+  index: -1
+wing
+  rotate: true
+  xy: 206, 89
+  size: 169, 158
+  orig: 170, 158
+  offset: 0, 0
+  index: -1

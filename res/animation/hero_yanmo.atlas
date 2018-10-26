@@ -1,0 +1,223 @@
+
+hero_yanmo.png
+size: 491,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: false
+  xy: 104, 95
+  size: 100, 172
+  orig: 100, 172
+  offset: 0, 0
+  index: -1
+empty
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 425, 160
+  size: 58, 41
+  orig: 58, 41
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 206, 117
+  size: 116, 150
+  orig: 116, 150
+  offset: 0, 0
+  index: -1
+head_01
+  rotate: true
+  xy: 266, 14
+  size: 101, 85
+  orig: 101, 85
+  offset: 0, 0
+  index: -1
+hip
+  rotate: true
+  xy: 2, 6
+  size: 81, 107
+  orig: 81, 107
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: true
+  xy: 418, 81
+  size: 38, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+hip_02
+  rotate: true
+  xy: 425, 242
+  size: 25, 64
+  orig: 25, 64
+  offset: 0, 0
+  index: -1
+hip_03
+  rotate: true
+  xy: 367, 134
+  size: 25, 55
+  orig: 25, 55
+  offset: 0, 0
+  index: -1
+l_elbow
+  rotate: true
+  xy: 324, 130
+  size: 66, 41
+  orig: 66, 42
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 187, 28
+  size: 16, 21
+  orig: 16, 22
+  offset: 0, 1
+  index: -1
+l_hand01
+  rotate: true
+  xy: 187, 51
+  size: 42, 16
+  orig: 42, 16
+  offset: 0, 0
+  index: -1
+l_hand02
+  rotate: false
+  xy: 455, 12
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+l_hand03
+  rotate: true
+  xy: 353, 14
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+l_hand04
+  rotate: true
+  xy: 398, 54
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+l_hand05
+  rotate: false
+  xy: 420, 16
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+l_hand06
+  rotate: true
+  xy: 2, 89
+  size: 178, 100
+  orig: 180, 100
+  offset: 0, 0
+  index: -1
+l_hand07
+  rotate: false
+  xy: 111, 11
+  size: 30, 82
+  orig: 30, 82
+  offset: 0, 0
+  index: -1
+l_shoulder
+  rotate: true
+  xy: 353, 54
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+l_shoulder_01
+  rotate: true
+  xy: 425, 203
+  size: 37, 64
+  orig: 37, 64
+  offset: 0, 0
+  index: -1
+l_shoulder_02
+  rotate: true
+  xy: 384, 14
+  size: 38, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 424, 121
+  size: 49, 37
+  orig: 49, 37
+  offset: 0, 0
+  index: -1
+r_hand01
+  rotate: true
+  xy: 455, 42
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+r_hand02
+  rotate: false
+  xy: 468, 77
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+r_hand03
+  rotate: false
+  xy: 436, 55
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+r_hand04
+  rotate: false
+  xy: 367, 161
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+r_hand05
+  rotate: true
+  xy: 367, 97
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+r_hand06
+  rotate: false
+  xy: 324, 226
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+r_hand07
+  rotate: false
+  xy: 206, 5
+  size: 58, 110
+  orig: 58, 110
+  offset: 0, 0
+  index: -1
+r_shoulder
+  rotate: true
+  xy: 353, 198
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+r_shoulder_01
+  rotate: false
+  xy: 143, 11
+  size: 42, 82
+  orig: 42, 82
+  offset: 0, 0
+  index: -1

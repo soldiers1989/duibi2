@@ -1,0 +1,237 @@
+
+effect_yinghuanhuan_nuji.png
+size: 1733,458
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 1088, 14
+  size: 132, 118
+  orig: 160, 200
+  offset: 14, 7
+  index: -1
+01
+  rotate: true
+  xy: 314, 2
+  size: 150, 153
+  orig: 160, 200
+  offset: 5, 6
+  index: -1
+02
+  rotate: true
+  xy: 469, 2
+  size: 150, 153
+  orig: 160, 200
+  offset: 5, 6
+  index: -1
+03
+  rotate: true
+  xy: 1309, 154
+  size: 150, 154
+  orig: 160, 200
+  offset: 5, 5
+  index: -1
+04
+  rotate: true
+  xy: 624, 2
+  size: 150, 153
+  orig: 160, 200
+  offset: 5, 5
+  index: -1
+05
+  rotate: true
+  xy: 779, 2
+  size: 150, 153
+  orig: 160, 200
+  offset: 5, 5
+  index: -1
+06
+  rotate: true
+  xy: 964, 154
+  size: 150, 171
+  orig: 160, 200
+  offset: 5, 5
+  index: -1
+07
+  rotate: true
+  xy: 790, 154
+  size: 150, 172
+  orig: 160, 200
+  offset: 5, 4
+  index: -1
+08
+  rotate: true
+  xy: 1190, 306
+  size: 150, 195
+  orig: 160, 200
+  offset: 5, 4
+  index: -1
+09
+  rotate: true
+  xy: 1387, 306
+  size: 150, 195
+  orig: 160, 200
+  offset: 5, 4
+  index: -1
+10
+  rotate: true
+  xy: 2, 306
+  size: 150, 196
+  orig: 160, 200
+  offset: 5, 4
+  index: -1
+11
+  rotate: true
+  xy: 200, 306
+  size: 150, 196
+  orig: 160, 200
+  offset: 5, 4
+  index: -1
+12
+  rotate: true
+  xy: 398, 306
+  size: 150, 196
+  orig: 160, 200
+  offset: 5, 4
+  index: -1
+13
+  rotate: true
+  xy: 596, 306
+  size: 150, 196
+  orig: 160, 200
+  offset: 5, 4
+  index: -1
+14
+  rotate: true
+  xy: 794, 306
+  size: 150, 196
+  orig: 160, 200
+  offset: 5, 4
+  index: -1
+15
+  rotate: true
+  xy: 992, 306
+  size: 150, 196
+  orig: 160, 200
+  offset: 5, 4
+  index: -1
+16
+  rotate: true
+  xy: 2, 154
+  size: 150, 195
+  orig: 160, 200
+  offset: 5, 4
+  index: -1
+17
+  rotate: true
+  xy: 199, 154
+  size: 150, 195
+  orig: 160, 200
+  offset: 5, 4
+  index: -1
+18
+  rotate: true
+  xy: 396, 154
+  size: 150, 195
+  orig: 160, 200
+  offset: 5, 4
+  index: -1
+19
+  rotate: true
+  xy: 593, 154
+  size: 150, 195
+  orig: 160, 200
+  offset: 5, 4
+  index: -1
+2
+  rotate: false
+  xy: 1137, 134
+  size: 170, 170
+  orig: 182, 182
+  offset: 4, 8
+  index: -1
+20
+  rotate: true
+  xy: 1465, 154
+  size: 150, 154
+  orig: 160, 200
+  offset: 5, 4
+  index: -1
+21
+  rotate: true
+  xy: 2, 2
+  size: 150, 154
+  orig: 160, 200
+  offset: 5, 4
+  index: -1
+22
+  rotate: true
+  xy: 158, 2
+  size: 150, 154
+  orig: 160, 200
+  offset: 5, 4
+  index: -1
+23
+  rotate: true
+  xy: 934, 2
+  size: 150, 152
+  orig: 160, 200
+  offset: 5, 5
+  index: -1
+24
+  rotate: true
+  xy: 1584, 306
+  size: 150, 139
+  orig: 160, 200
+  offset: 5, 5
+  index: -1
+25
+  rotate: false
+  xy: 1309, 17
+  size: 142, 135
+  orig: 160, 200
+  offset: 9, 5
+  index: -1
+26
+  rotate: false
+  xy: 1453, 18
+  size: 142, 134
+  orig: 160, 200
+  offset: 9, 6
+  index: -1
+27
+  rotate: false
+  xy: 1597, 19
+  size: 134, 133
+  orig: 160, 200
+  offset: 13, 7
+  index: -1
+28
+  rotate: false
+  xy: 1621, 234
+  size: 87, 70
+  orig: 160, 200
+  offset: 39, 68
+  index: -1
+29
+  rotate: false
+  xy: 1222, 64
+  size: 68, 68
+  orig: 160, 200
+  offset: 40, 68
+  index: -1
+30
+  rotate: true
+  xy: 1222, 21
+  size: 41, 59
+  orig: 100, 124
+  offset: 34, 36
+  index: -1
+Lianghua_09
+  rotate: false
+  xy: 1621, 170
+  size: 71, 62
+  orig: 80, 80
+  offset: 3, 11
+  index: -1

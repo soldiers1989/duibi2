@@ -1,0 +1,104 @@
+
+effect_zhuzai_lingxi.png
+size: 456,566
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: true
+  xy: 356, 72
+  size: 73, 98
+  orig: 120, 202
+  offset: 19, 0
+  index: -1
+bao_02
+  rotate: false
+  xy: 354, 231
+  size: 97, 158
+  orig: 120, 202
+  offset: 12, 12
+  index: -1
+bao_03
+  rotate: false
+  xy: 118, 49
+  size: 111, 161
+  orig: 120, 202
+  offset: 4, 10
+  index: -1
+bao_04
+  rotate: false
+  xy: 2, 47
+  size: 114, 163
+  orig: 120, 202
+  offset: 2, 12
+  index: -1
+bao_05
+  rotate: true
+  xy: 2, 212
+  size: 116, 167
+  orig: 120, 202
+  offset: 0, 11
+  index: -1
+bao_06
+  rotate: true
+  xy: 184, 326
+  size: 118, 168
+  orig: 120, 202
+  offset: 0, 14
+  index: -1
+bao_07
+  rotate: true
+  xy: 190, 446
+  size: 118, 182
+  orig: 120, 202
+  offset: 2, 14
+  index: -1
+bao_08
+  rotate: true
+  xy: 2, 448
+  size: 116, 186
+  orig: 120, 202
+  offset: 4, 16
+  index: -1
+bao_09
+  rotate: true
+  xy: 2, 330
+  size: 116, 180
+  orig: 120, 202
+  offset: 4, 19
+  index: -1
+canying
+  rotate: false
+  xy: 374, 391
+  size: 80, 173
+  orig: 80, 174
+  offset: 0, 0
+  index: -1
+liang
+  rotate: false
+  xy: 231, 118
+  size: 82, 130
+  orig: 82, 130
+  offset: 0, 0
+  index: -1
+qi
+  rotate: false
+  xy: 231, 2
+  size: 123, 114
+  orig: 123, 114
+  offset: 0, 0
+  index: -1
+ta
+  rotate: true
+  xy: 315, 147
+  size: 82, 130
+  orig: 82, 130
+  offset: 0, 0
+  index: -1
+zhen
+  rotate: false
+  xy: 171, 250
+  size: 150, 74
+  orig: 150, 74
+  offset: 0, 0
+  index: -1

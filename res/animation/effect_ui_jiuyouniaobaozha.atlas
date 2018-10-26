@@ -1,0 +1,104 @@
+
+effect_ui_jiuyouniaobaozha.png
+size: 323,1049
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_01
+  rotate: true
+  xy: 158, 116
+  size: 126, 127
+  orig: 156, 152
+  offset: 13, 13
+  index: -1
+bao_02
+  rotate: false
+  xy: 2, 61
+  size: 151, 152
+  orig: 156, 152
+  offset: 0, 0
+  index: -1
+bao_03
+  rotate: false
+  xy: 179, 905
+  size: 142, 142
+  orig: 156, 152
+  offset: 5, 5
+  index: -1
+bao_04
+  rotate: true
+  xy: 162, 244
+  size: 133, 138
+  orig: 156, 152
+  offset: 12, 6
+  index: -1
+bao_05
+  rotate: false
+  xy: 162, 379
+  size: 144, 144
+  orig: 156, 152
+  offset: 7, 3
+  index: -1
+bao_06
+  rotate: false
+  xy: 2, 215
+  size: 154, 148
+  orig: 156, 152
+  offset: 2, 1
+  index: -1
+bao_07
+  rotate: false
+  xy: 179, 764
+  size: 139, 139
+  orig: 156, 152
+  offset: 9, 3
+  index: -1
+niao
+  rotate: false
+  xy: 176, 623
+  size: 133, 139
+  orig: 133, 139
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 2, 699
+  size: 172, 171
+  orig: 175, 175
+  offset: 1, 1
+  index: -1
+quan_03
+  rotate: false
+  xy: 2, 699
+  size: 172, 171
+  orig: 175, 175
+  offset: 1, 1
+  index: -1
+quan_01
+  rotate: false
+  xy: 155, 2
+  size: 112, 112
+  orig: 175, 175
+  offset: 31, 34
+  index: -1
+quan_02
+  rotate: false
+  xy: 2, 365
+  size: 158, 158
+  orig: 175, 175
+  offset: 8, 11
+  index: -1
+quan_04
+  rotate: false
+  xy: 2, 872
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+quan_05
+  rotate: false
+  xy: 2, 525
+  size: 172, 172
+  orig: 175, 175
+  offset: 1, 1
+  index: -1

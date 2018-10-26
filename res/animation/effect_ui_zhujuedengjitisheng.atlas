@@ -1,0 +1,132 @@
+
+effect_ui_zhujuedengjitisheng.png
+size: 615,1034
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai
+  rotate: true
+  xy: 2, 901
+  size: 131, 341
+  orig: 131, 341
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 345, 691
+  size: 91, 341
+  orig: 91, 341
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: true
+  xy: 2, 808
+  size: 91, 341
+  orig: 91, 341
+  offset: 0, 0
+  index: -1
+guangshu_01
+  rotate: true
+  xy: 345, 478
+  size: 211, 233
+  orig: 230, 265
+  offset: 3, 22
+  index: -1
+guangshu_02
+  rotate: true
+  xy: 2, 433
+  size: 210, 233
+  orig: 230, 265
+  offset: 0, 23
+  index: -1
+guangshu_03
+  rotate: true
+  xy: 237, 265
+  size: 211, 233
+  orig: 230, 265
+  offset: 2, 20
+  index: -1
+guangshu_04
+  rotate: true
+  xy: 2, 225
+  size: 206, 224
+  orig: 230, 265
+  offset: 4, 21
+  index: -1
+guangshu_05
+  rotate: false
+  xy: 2, 2
+  size: 198, 221
+  orig: 230, 265
+  offset: 9, 22
+  index: -1
+guangshu_06
+  rotate: false
+  xy: 202, 3
+  size: 194, 220
+  orig: 230, 265
+  offset: 11, 23
+  index: -1
+guangshu_07
+  rotate: true
+  xy: 398, 74
+  size: 189, 212
+  orig: 230, 265
+  offset: 12, 31
+  index: -1
+guangshu_08
+  rotate: true
+  xy: 472, 296
+  size: 180, 103
+  orig: 230, 265
+  offset: 16, 76
+  index: -1
+liang
+  rotate: false
+  xy: 398, 33
+  size: 121, 39
+  orig: 121, 39
+  offset: 0, 0
+  index: -1
+quan
+  rotate: true
+  xy: 237, 542
+  size: 101, 103
+  orig: 101, 103
+  offset: 0, 0
+  index: -1
+xunhuan_01
+  rotate: true
+  xy: 2, 726
+  size: 80, 341
+  orig: 111, 359
+  offset: 16, 9
+  index: -1
+xunhuan_02
+  rotate: true
+  xy: 2, 645
+  size: 79, 341
+  orig: 111, 359
+  offset: 17, 9
+  index: -1
+xunhuan_03
+  rotate: false
+  xy: 438, 691
+  size: 81, 341
+  orig: 111, 359
+  offset: 17, 9
+  index: -1
+xunhuan_04
+  rotate: false
+  xy: 521, 691
+  size: 80, 341
+  orig: 111, 359
+  offset: 18, 9
+  index: -1
+zi
+  rotate: true
+  xy: 580, 574
+  size: 115, 33
+  orig: 115, 33
+  offset: 0, 0
+  index: -1

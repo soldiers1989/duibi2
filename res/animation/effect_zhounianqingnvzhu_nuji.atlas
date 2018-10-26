@@ -1,0 +1,76 @@
+
+effect_zhounianqingnvzhu_nuji.png
+size: 1164,361
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dabaoza0003
+  rotate: false
+  xy: 274, 20
+  size: 226, 120
+  orig: 270, 233
+  offset: 24, 18
+  index: -1
+dabaoza0011
+  rotate: false
+  xy: 912, 163
+  size: 250, 196
+  orig: 270, 233
+  offset: 9, 22
+  index: -1
+dabaoza0013
+  rotate: false
+  xy: 642, 138
+  size: 268, 221
+  orig: 270, 233
+  offset: 0, 12
+  index: -1
+dabaoza0015
+  rotate: false
+  xy: 371, 142
+  size: 269, 217
+  orig: 270, 233
+  offset: 0, 7
+  index: -1
+dabaoza0016
+  rotate: false
+  xy: 2, 31
+  size: 270, 163
+  orig: 270, 233
+  offset: 0, 3
+  index: -1
+dabaoza0017
+  rotate: false
+  xy: 912, 2
+  size: 248, 159
+  orig: 270, 233
+  offset: 8, 0
+  index: -1
+dabaoza0018
+  rotate: false
+  xy: 502, 8
+  size: 148, 128
+  orig: 270, 233
+  offset: 72, 33
+  index: -1
+dabaoza0019
+  rotate: false
+  xy: 652, 17
+  size: 142, 119
+  orig: 270, 233
+  offset: 72, 38
+  index: -1
+fenghuangluodi
+  rotate: true
+  xy: 2, 196
+  size: 163, 367
+  orig: 168, 373
+  offset: 4, 0
+  index: -1
+pugong
+  rotate: false
+  xy: 796, 16
+  size: 63, 120
+  orig: 82, 150
+  offset: 10, 0
+  index: -1

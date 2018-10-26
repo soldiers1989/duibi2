@@ -1,0 +1,237 @@
+
+effect_dazhuzai_xiaonvwu_nuji.png
+size: 1403,225
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nvji_zhuti__00000
+  rotate: false
+  xy: 1264, 6
+  size: 61, 63
+  orig: 126, 151
+  offset: 31, 2
+  index: -1
+nvji_zhuti__00001
+  rotate: true
+  xy: 228, 2
+  size: 80, 113
+  orig: 126, 151
+  offset: 21, 2
+  index: -1
+nvji_zhuti__00002
+  rotate: true
+  xy: 544, 20
+  size: 87, 113
+  orig: 126, 151
+  offset: 18, 2
+  index: -1
+nvji_zhuti__00003
+  rotate: false
+  xy: 448, 90
+  size: 94, 133
+  orig: 126, 151
+  offset: 16, 2
+  index: -1
+nvji_zhuti__00004
+  rotate: false
+  xy: 228, 84
+  size: 101, 139
+  orig: 126, 151
+  offset: 13, 2
+  index: -1
+nvji_zhuti__00005
+  rotate: false
+  xy: 2, 83
+  size: 108, 140
+  orig: 126, 151
+  offset: 10, 6
+  index: -1
+nvji_zhuti__00006
+  rotate: false
+  xy: 112, 83
+  size: 114, 140
+  orig: 126, 151
+  offset: 8, 6
+  index: -1
+nvji_zhuti__00007
+  rotate: false
+  xy: 331, 84
+  size: 115, 139
+  orig: 126, 151
+  offset: 8, 8
+  index: -1
+nvji_zhuti__00008
+  rotate: false
+  xy: 659, 3
+  size: 112, 105
+  orig: 126, 151
+  offset: 9, 26
+  index: -1
+nvji_zhuti__00009
+  rotate: true
+  xy: 767, 111
+  size: 112, 106
+  orig: 126, 151
+  offset: 9, 24
+  index: -1
+nvji_zhuti__00010
+  rotate: true
+  xy: 875, 111
+  size: 112, 108
+  orig: 126, 151
+  offset: 9, 22
+  index: -1
+nvji_zhuti__00011
+  rotate: true
+  xy: 655, 110
+  size: 113, 110
+  orig: 126, 151
+  offset: 8, 21
+  index: -1
+nvji_zhuti__00012
+  rotate: true
+  xy: 544, 109
+  size: 114, 109
+  orig: 126, 151
+  offset: 8, 22
+  index: -1
+nvji_zhuti__00013
+  rotate: false
+  xy: 773, 3
+  size: 111, 106
+  orig: 126, 151
+  offset: 8, 22
+  index: -1
+nvji_zhuti__00014
+  rotate: false
+  xy: 886, 3
+  size: 111, 106
+  orig: 126, 151
+  offset: 8, 22
+  index: -1
+nvji_zhuti__00015
+  rotate: false
+  xy: 985, 114
+  size: 101, 109
+  orig: 126, 151
+  offset: 17, 19
+  index: -1
+nvji_zhuti__00016
+  rotate: false
+  xy: 999, 5
+  size: 101, 107
+  orig: 126, 151
+  offset: 18, 17
+  index: -1
+nvji_zhuti__00017
+  rotate: false
+  xy: 1088, 116
+  size: 102, 107
+  orig: 126, 151
+  offset: 17, 17
+  index: -1
+nvji_zhuti__00019
+  rotate: false
+  xy: 1102, 19
+  size: 90, 95
+  orig: 126, 151
+  offset: 25, 15
+  index: -1
+nvji_zhuti__00020
+  rotate: true
+  xy: 1192, 128
+  size: 95, 92
+  orig: 126, 151
+  offset: 25, 18
+  index: -1
+nvji_zhuti__00021
+  rotate: false
+  xy: 1194, 82
+  size: 60, 44
+  orig: 126, 151
+  offset: 60, 62
+  index: -1
+pugongshifa_01
+  rotate: false
+  xy: 1366, 178
+  size: 35, 45
+  orig: 110, 137
+  offset: 46, 63
+  index: -1
+pugongshifa_02
+  rotate: false
+  xy: 1366, 135
+  size: 32, 41
+  orig: 110, 137
+  offset: 48, 69
+  index: -1
+pugongshifa_03
+  rotate: true
+  xy: 1363, 93
+  size: 40, 36
+  orig: 110, 137
+  offset: 44, 79
+  index: -1
+pugongshifa_04
+  rotate: false
+  xy: 168, 25
+  size: 56, 56
+  orig: 110, 137
+  offset: 38, 67
+  index: -1
+pugongshifa_05
+  rotate: true
+  xy: 1194, 4
+  size: 65, 68
+  orig: 110, 137
+  offset: 32, 59
+  index: -1
+pugongshifa_06
+  rotate: false
+  xy: 1327, 7
+  size: 62, 62
+  orig: 110, 137
+  offset: 32, 65
+  index: -1
+pugongshifa_07
+  rotate: false
+  xy: 94, 3
+  size: 72, 78
+  orig: 110, 137
+  offset: 28, 49
+  index: -1
+pugongshifa_08
+  rotate: false
+  xy: 343, 2
+  size: 71, 80
+  orig: 110, 137
+  offset: 24, 47
+  index: -1
+pugongshifa_09
+  rotate: true
+  xy: 1286, 71
+  size: 73, 75
+  orig: 110, 137
+  offset: 25, 46
+  index: -1
+pugongshifa_10
+  rotate: true
+  xy: 1286, 146
+  size: 77, 78
+  orig: 110, 137
+  offset: 24, 45
+  index: -1
+pugongshifa_11
+  rotate: true
+  xy: 2, 2
+  size: 79, 90
+  orig: 110, 137
+  offset: 22, 33
+  index: -1
+wuqitx
+  rotate: true
+  xy: 448, 14
+  size: 74, 93
+  orig: 74, 93
+  offset: 0, 0
+  index: -1

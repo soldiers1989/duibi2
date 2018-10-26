@@ -1,0 +1,69 @@
+
+effefct_zhuzai_shuihuang.png
+size: 1577,209
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fenwei
+  rotate: false
+  xy: 1438, 70
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+gongji_01
+  rotate: true
+  xy: 1438, 4
+  size: 64, 125
+  orig: 270, 221
+  offset: 20, 26
+  index: -1
+gongji_02
+  rotate: true
+  xy: 1068, 3
+  size: 204, 196
+  orig: 270, 221
+  offset: 0, 25
+  index: -1
+gongji_03
+  rotate: false
+  xy: 2, 21
+  size: 241, 186
+  orig: 270, 221
+  offset: 12, 9
+  index: -1
+gongji_04
+  rotate: false
+  xy: 245, 24
+  size: 236, 183
+  orig: 270, 221
+  offset: 34, 5
+  index: -1
+gongji_05
+  rotate: false
+  xy: 483, 9
+  size: 221, 198
+  orig: 270, 221
+  offset: 49, 0
+  index: -1
+gongji_06
+  rotate: false
+  xy: 706, 19
+  size: 217, 188
+  orig: 270, 221
+  offset: 51, 1
+  index: -1
+gongji_07
+  rotate: true
+  xy: 1266, 4
+  size: 203, 170
+  orig: 270, 221
+  offset: 53, 0
+  index: -1
+gongji_08
+  rotate: true
+  xy: 925, 2
+  size: 205, 141
+  orig: 270, 221
+  offset: 50, 1
+  index: -1
